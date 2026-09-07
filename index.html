@@ -1,0 +1,882 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>NextCampusEU — Study in Europe, taught in English</title>
+<meta name="description" content="NextCampusEU helps international students get into English-taught degrees in Portugal and Ireland — and handles the landing: airport pickup, temporary accommodation and a room before term starts. Fixed, published prices." />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23112a20'/%3E%3Cpath d='M9 22V10l14 12V10' stroke='%23f7f3ea' stroke-width='2.4' fill='none' stroke-linecap='square'/%3E%3C/svg%3E" />
+<link rel="canonical" href="https://nextcampuseu.com/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="NextCampusEU" />
+<meta property="og:url" content="https://nextcampuseu.com/" />
+<meta property="og:title" content="NextCampusEU — Study in Europe, taught in English" />
+<meta property="og:description" content="English-taught degrees in Portugal and Ireland — plus airport pickup, first accommodation and a room before term starts. Fixed, published prices." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="theme-color" content="#112A20" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..700;1,400..600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+:root{
+  --bone:#FBF8F2;
+  --bone-2:#F3EEE3;
+  --sand:#E9E0CE;
+  --ink:#14170F;
+  --ink-2:#3E453A;
+  --ink-3:#6B7367;
+  --ink-4:#9AA096;
+  --forest:#112A20;
+  --forest-2:#0B1D16;
+  --forest-ink:#DCE7DF;
+  --accent:#D0562A;
+  --accent-2:#B4441E;
+  --accent-soft:#F6E3D8;
+  --line:rgba(20,23,15,.13);
+  --line-soft:rgba(20,23,15,.07);
+  --line-dark:rgba(220,231,223,.16);
+  --serif:'Playfair Display',Georgia,'Times New Roman',serif;
+  --sans:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+  --grain:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='3'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23n)' opacity='.5'/%3E%3C/svg%3E");
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bone);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.55;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+img{max-width:100%;display:block}
+a{color:inherit;text-decoration:none}
+button{font:inherit;cursor:pointer}
+:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:2px}
+.wrap{max-width:1240px;margin:0 auto;padding:0 40px}
+.eyebrow{font-size:11.5px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-3)}
+.eyebrow.on-dark{color:rgba(220,231,223,.6)}
+h1,h2,h3{font-family:var(--serif);font-weight:500;letter-spacing:-.012em;margin:0;text-wrap:balance}
+.hl{font-style:italic;font-weight:500;color:var(--accent)}
+.rule{height:1px;background:var(--line);border:0;margin:0}
+
+/* ---------- buttons ---------- */
+.btn{display:inline-flex;align-items:center;gap:9px;padding:14px 24px;border-radius:2px;font-weight:600;font-size:15px;border:1px solid transparent;transition:.18s ease;white-space:nowrap}
+.btn-primary{background:var(--accent);color:#fff}
+.btn-primary:hover{background:var(--accent-2);transform:translateY(-1px)}
+.btn-ghost-dark{border-color:var(--line-dark);color:var(--forest-ink);background:transparent}
+.btn-ghost-dark:hover{background:rgba(255,255,255,.07);border-color:rgba(220,231,223,.4)}
+.btn-ghost{border-color:var(--line);color:var(--ink);background:transparent}
+.btn-ghost:hover{border-color:var(--ink);background:rgba(20,23,15,.04)}
+.btn-dark{background:var(--forest);color:var(--bone)}
+.btn-dark:hover{background:var(--forest-2)}
+.arw{transition:transform .18s ease}
+.btn:hover .arw{transform:translateX(3px)}
+
+/* ---------- nav ---------- */
+.nav{position:sticky;top:0;z-index:60;background:rgba(251,248,242,.86);backdrop-filter:blur(14px);border-bottom:1px solid var(--line-soft)}
+.nav .wrap{display:flex;align-items:center;gap:34px;height:70px}
+.brand{display:flex;align-items:center;gap:11px;font-weight:700;font-size:17.5px;letter-spacing:-.02em}
+.brand .mark{width:30px;height:30px;border-radius:6px;background:var(--forest);display:grid;place-items:center;flex:none}
+.brand .mark svg{width:17px;height:17px}
+.brand .dot{color:var(--accent)}
+.nav-links{display:flex;gap:28px;font-size:14.5px;font-weight:500;color:var(--ink-2)}
+.nav-links a{position:relative;padding:4px 0}
+.nav-links a::after{content:'';position:absolute;left:0;right:100%;bottom:0;height:1.5px;background:var(--accent);transition:right .22s ease}
+.nav-links a:hover::after{right:0}
+.nav-right{margin-left:auto;display:flex;align-items:center;gap:16px}
+.nav-phone{font-size:14px;color:var(--ink-3);font-weight:500}
+.nav .btn{padding:11px 20px;font-size:14.5px}
+
+/* ---------- hero (background video) ---------- */
+.hero{position:relative;background:var(--forest);color:var(--forest-ink);overflow:hidden;min-height:min(880px,92vh);display:flex;flex-direction:column;justify-content:flex-end}
+.hero-video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0;filter:saturate(.82) contrast(1.04)}
+.hero-scrim{position:absolute;inset:0;z-index:1;pointer-events:none;
+  background:
+    linear-gradient(95deg,rgba(9,24,18,.80) 0%,rgba(9,24,18,.62) 46%,rgba(9,24,18,.72) 100%),
+    linear-gradient(to top,rgba(9,24,18,.92) 0%,rgba(9,24,18,.16) 52%),
+    linear-gradient(rgba(9,24,18,.34),rgba(9,24,18,.34));}
+.hero-scrim::after{content:'';position:absolute;inset:0;background-image:var(--grain);opacity:.06;mix-blend-mode:overlay}
+.hero .wrap{position:relative;z-index:2;padding-top:128px;padding-bottom:96px;flex:1;display:flex;align-items:center}
+.hero-copy{width:100%}
+.hero-lower{display:grid;grid-template-columns:1fr auto;gap:56px;align-items:start;margin-top:44px;padding-top:34px;border-top:1px solid rgba(220,231,223,.2)}
+.hero-actions{display:flex;flex-direction:column;align-items:flex-start;gap:0}
+.hero-pill{display:inline-flex;align-items:center;gap:10px;border:1px solid rgba(220,231,223,.24);backdrop-filter:blur(6px);background:rgba(9,24,18,.34);border-radius:999px;padding:6px 14px 6px 8px;font-size:12.5px;font-weight:500;letter-spacing:.02em;color:rgba(220,231,223,.82);margin-bottom:28px}
+.hero-pill .live{display:inline-flex;align-items:center;gap:6px;background:rgba(208,86,42,.18);color:#F0A882;border-radius:999px;padding:3px 9px;font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase}
+.hero-pill .blip{width:6px;height:6px;border-radius:50%;background:#E8763F;animation:blip 2s infinite}
+@keyframes blip{0%,100%{opacity:1}50%{opacity:.25}}
+.hero h1{font-size:clamp(40px,6.7vw,98px);line-height:1.02;color:#F7F3EA;margin:0;font-weight:500;letter-spacing:-.02em;text-shadow:0 2px 34px rgba(9,24,18,.55);max-width:none}
+.hero h1 .hl{color:#F0A47B}
+.hero-sub{font-size:19px;line-height:1.6;color:rgba(228,237,230,.88);max-width:620px;margin:0;text-shadow:0 1px 18px rgba(9,24,18,.6)}
+.hero-sub strong{color:#F7F3EA;font-weight:600}
+.hero-ctas{display:flex;gap:14px;flex-wrap:wrap;align-items:center}
+.hn-caps{text-transform:uppercase;letter-spacing:.09em;font-weight:600;font-size:12.5px;color:rgba(240,164,123,.95)}
+.hero-note{font-size:13.5px;color:rgba(220,231,223,.64);margin:16px 0 0;max-width:520px;text-shadow:0 1px 14px rgba(9,24,18,.7)}
+
+/* ---------- finder section ---------- */
+.finder-sec{padding:96px 0}
+.finder{background:var(--bone);border:1px solid var(--line);border-radius:4px;box-shadow:0 24px 60px -34px rgba(20,23,15,.3);overflow:hidden}
+.finder-head{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;padding:34px 40px 26px;border-bottom:1px solid var(--line-soft);flex-wrap:wrap}
+.finder-head h2{font-size:33px;line-height:1.1;margin-top:10px}
+.finder-head .lede{font-size:14.5px;color:var(--ink-3);margin-top:10px;max-width:440px}
+/* fixed height so the card never resizes as you move between questions */
+.finder-body{padding:38px 40px 42px;min-height:398px;display:flex;flex-direction:column;justify-content:center}
+.finder-body.result{justify-content:flex-start;min-height:398px}
+
+/* ticker */
+.ticker{position:relative;z-index:2;border-top:1px solid var(--line-dark);background:rgba(9,24,18,.55);backdrop-filter:blur(10px)}
+.ticker .wrap{display:grid;grid-template-columns:repeat(4,1fr);gap:0}
+.tk{padding:24px 15px 24px 0;border-right:1px solid var(--line-dark)}
+.tk:not(:first-child){padding-left:15px}
+.tk:last-child{border-right:0}
+.tk .n{font-family:var(--serif);font-size:34px;line-height:1;color:#F7F3EA;font-variation-settings:'SOFT' 20;font-weight:400}
+.tk .n em{font-style:normal;color:#F0A47B}
+.tk .l{font-size:12.5px;color:rgba(220,231,223,.6);margin-top:7px;letter-spacing:.01em}
+
+/* ---------- finder (lives inside the hero card) ---------- */
+.rail{display:flex;gap:7px;align-items:center}
+.rail i{width:32px;height:3px;border-radius:2px;background:var(--sand);transition:.3s ease;display:block}
+.rail i.on{background:var(--accent)}
+.rail span{font-size:12px;color:var(--ink-3);margin-left:8px;font-weight:500;white-space:nowrap}
+.q-label{font-family:var(--serif);font-size:27px;letter-spacing:-.02em;margin-bottom:6px;font-variation-settings:'SOFT' 20,'WONK' 1}
+.q-hint{font-size:14px;color:var(--ink-3);margin-bottom:26px}
+.opts{display:grid;gap:12px}
+.opts.c3{grid-template-columns:repeat(3,1fr)}
+.opts.c2{grid-template-columns:repeat(2,1fr)}
+.opts.c5{grid-template-columns:repeat(5,1fr)}
+.opt{text-align:left;background:#fff;border:1px solid var(--line);border-radius:3px;padding:20px;transition:.16s ease;position:relative}
+.opt:hover{border-color:var(--accent);transform:translateY(-2px);box-shadow:0 10px 24px -14px rgba(20,23,15,.4)}
+.opt .k{font-family:var(--serif);font-size:19px;letter-spacing:-.02em;display:block;font-variation-settings:'SOFT' 20,'WONK' 1}
+.opt .v{font-size:13px;color:var(--ink-3);margin-top:5px;display:block;line-height:1.45}
+.opt .badge{position:absolute;top:12px;right:12px;font-size:9.5px;font-weight:700;letter-spacing:.11em;text-transform:uppercase;color:var(--accent);background:var(--accent-soft);padding:3px 7px;border-radius:2px}
+.opt.soon{opacity:.5;cursor:not-allowed}
+.opt.soon:hover{transform:none;border-color:var(--line);box-shadow:none}
+.back{background:none;border:0;color:var(--ink-3);font-size:13.5px;font-weight:500;padding:0;margin-top:26px;display:inline-flex;gap:7px;align-items:center}
+.back:hover{color:var(--accent)}
+
+/* result */
+.res-top{display:flex;align-items:flex-start;gap:28px;flex-wrap:wrap;justify-content:space-between;margin-bottom:26px}
+.res-n{font-family:var(--serif);font-size:56px;line-height:.95;color:var(--accent);font-variation-settings:'SOFT' 30,'WONK' 1}
+.res-n small{display:block;font-family:var(--sans);font-size:14px;color:var(--ink-2);margin-top:9px;font-weight:500;letter-spacing:0;max-width:320px;line-height:1.5}
+.chips{display:flex;gap:7px;flex-wrap:wrap;justify-content:flex-end;max-width:420px}
+.chip{font-size:12.5px;background:var(--bone-2);border:1px solid var(--line-soft);padding:5px 11px;border-radius:2px;color:var(--ink-2);font-weight:500}
+.cards{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.pcard{background:#fff;border:1px solid var(--line);border-radius:3px;padding:20px;display:flex;flex-direction:column;gap:9px}
+.pcard .u{font-size:11.5px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
+.pcard .n{font-family:var(--serif);font-size:20px;line-height:1.2;letter-spacing:-.02em;font-variation-settings:'SOFT' 20,'WONK' 1}
+.pcard .f{font-size:13px;color:var(--ink-3);line-height:1.45}
+.pcard .meta{display:flex;gap:18px;border-top:1px solid var(--line-soft);padding-top:11px;margin-top:auto;flex-wrap:wrap}
+.pcard .meta div{font-size:12.5px;color:var(--ink-3)}
+.pcard .meta b{display:block;font-family:var(--serif);font-size:17px;color:var(--ink);font-weight:600;letter-spacing:-.01em}
+.locked{position:relative;margin-top:12px;border:1px solid var(--line);border-radius:3px;overflow:hidden;background:#fff}
+.locked .blur{filter:blur(4px);opacity:.62;pointer-events:none;user-select:none;padding:20px 24px 74px}
+.locked .lrow{display:flex;justify-content:space-between;gap:20px;padding:9px 0;border-bottom:1px solid var(--line-soft)}
+.locked .lrow:last-child{border-bottom:0}
+.locked .lrow span:first-child{font-family:var(--serif);font-size:17px}
+.locked .lrow span:last-child{font-family:var(--serif);font-size:17px;color:var(--accent)}
+.gate{position:absolute;inset:0;background:linear-gradient(to bottom,rgba(251,248,242,0) 0,rgba(251,248,242,.72) 26%,rgba(251,248,242,.99) 46%);display:flex;flex-direction:column;align-items:center;justify-content:flex-end;padding:22px;text-align:center}
+.gate .gt{font-family:var(--serif);font-size:20px;letter-spacing:-.02em;font-variation-settings:'SOFT' 20,'WONK' 1}
+.gate .gs{font-size:13.5px;color:var(--ink-3);margin:6px 0 14px;max-width:430px}
+.gform{display:grid;grid-template-columns:1fr 1fr auto;gap:8px;width:100%;max-width:560px}
+.gform input,.gform select{padding:12px 13px;border:1px solid var(--line);background:#fff;border-radius:2px;font:inherit;font-size:14px;color:var(--ink);width:100%}
+.gform input::placeholder{color:var(--ink-4)}
+.gform .btn{justify-content:center}
+.gfoot{font-size:11.5px;color:var(--ink-4);margin-top:11px}
+.res-actions{display:flex;gap:12px;margin-top:22px;flex-wrap:wrap;align-items:center}
+
+/* ---------- generic section ---------- */
+.sec{padding:104px 0}
+.sec-dark{background:var(--forest);color:var(--forest-ink);position:relative;overflow:hidden}
+.sec-dark::before{content:'';position:absolute;inset:0;background-image:var(--grain);opacity:.05;mix-blend-mode:overlay}
+.sec-dark .wrap{position:relative;z-index:2}
+.sec-band{background:var(--bone-2)}
+.sec-head{max-width:640px;margin-bottom:56px}
+.sec-head h2{font-size:clamp(32px,3.9vw,47px);line-height:1.06;margin-top:16px}
+.sec-dark .sec-head h2{color:#F7F3EA}
+.sec-head p{font-size:17.5px;color:var(--ink-2);margin:18px 0 0;line-height:1.6}
+.sec-dark .sec-head p{color:rgba(220,231,223,.72)}
+
+/* services list */
+.svc{border-top:1px solid var(--line)}
+.svc-row{display:grid;grid-template-columns:78px 1.15fr 1.5fr auto;gap:32px;align-items:start;padding:34px 0;border-bottom:1px solid var(--line);transition:.2s ease;position:relative}
+.svc-row::before{content:'';position:absolute;left:-24px;right:-24px;top:0;bottom:0;background:#fff;opacity:0;transition:.2s ease;z-index:0;border-radius:3px}
+.svc-row:hover::before{opacity:1;box-shadow:0 14px 40px -26px rgba(20,23,15,.5)}
+.svc-row>*{position:relative;z-index:1}
+.svc-num{font-family:var(--serif);font-size:44px;line-height:.9;color:var(--sand);font-variation-settings:'SOFT' 30,'WONK' 1;transition:color .2s ease}
+.svc-row:hover .svc-num{color:var(--accent)}
+.svc-t{font-family:var(--serif);font-size:25px;line-height:1.15;letter-spacing:-.02em;font-variation-settings:'SOFT' 20,'WONK' 1}
+.svc-d{font-size:15px;color:var(--ink-2);line-height:1.62}
+.svc-fine{display:block;font-size:13px;color:var(--ink-3);margin-top:9px;padding-left:12px;border-left:2px solid var(--sand);line-height:1.55}
+.svc-price{font-family:var(--serif);font-size:29px;font-weight:600;color:var(--accent);white-space:nowrap;letter-spacing:-.02em;min-width:86px;text-align:right}
+
+/* pricing summary */
+.bundle{display:grid;grid-template-columns:1.25fr .75fr;gap:56px;align-items:center;margin-top:56px;background:var(--forest);color:var(--forest-ink);padding:44px 48px;border-radius:4px;position:relative;overflow:hidden}
+.bundle::before{content:'';position:absolute;inset:0;background-image:var(--grain);opacity:.05;mix-blend-mode:overlay}
+.bundle>*{position:relative;z-index:1}
+.bundle .eyebrow{color:rgba(220,231,223,.55)}
+.bundle-t{font-family:var(--serif);font-size:46px;color:#F7F3EA;margin:12px 0 14px;letter-spacing:-.02em;font-weight:500}
+.bundle p{margin:0;color:rgba(220,231,223,.74);font-size:15.5px;line-height:1.65;max-width:460px}
+.bundle-side{background:#F7F3EA;color:var(--ink);border-radius:3px;padding:24px}
+.brow{display:flex;align-items:center;gap:12px;width:100%;text-align:left;padding:12px 0;border:0;border-bottom:1px solid var(--line-soft);background:none;font-size:14px;color:var(--ink-2);transition:.15s ease}
+.brow .nm{flex:1;min-width:0}
+.brow b{font-family:var(--serif);font-size:19px;color:var(--ink);font-weight:600;white-space:nowrap}
+.bx{width:18px;height:18px;border:1.5px solid rgba(20,23,15,.32);border-radius:2px;display:grid;place-items:center;flex:none;transition:.15s ease}
+.bx svg{width:11px;height:11px;opacity:0;transition:opacity .15s ease}
+.brow.on .bx{background:var(--accent);border-color:var(--accent)}
+.brow.on .bx svg{opacity:1}
+.brow:hover .bx{border-color:var(--accent)}
+.brow.off{color:var(--ink-4)}
+.brow.off b{color:var(--ink-4);text-decoration:line-through;text-decoration-thickness:1px}
+.brow.total{border-bottom:0;border-top:1.5px solid var(--ink);margin-top:6px;padding-top:15px;font-weight:600;color:var(--ink);cursor:default}
+.brow.total b{color:var(--accent);font-size:26px}
+.bundle-note{font-size:12px;color:var(--ink-3);margin-top:9px;line-height:1.5;min-height:18px}
+/* service chips in the enquiry form */
+.pickrow{display:flex;flex-wrap:wrap;gap:7px;text-transform:none;letter-spacing:0}
+.pick{font-size:12.5px;font-weight:500;border:1px solid var(--line);background:#fff;color:var(--ink-3);padding:8px 12px;border-radius:2px;transition:.15s ease;font-family:inherit}
+.pick:hover{border-color:var(--accent)}
+.pick.on{background:var(--accent-soft);border-color:var(--accent);color:var(--accent-2)}
+.pick .tick2{opacity:0;margin-right:0;width:0;display:inline-block;transition:.15s ease}
+.pick.on .tick2{opacity:1;width:11px;margin-right:5px}
+
+/* journey */
+.journey{display:grid;grid-template-columns:repeat(4,1fr);gap:0;border-top:1px solid var(--line-dark)}
+.jst{padding:34px 15px 0 0;border-right:1px solid var(--line-dark);position:relative}
+.jst:not(:first-child){padding-left:15px}
+.jst:last-child{border-right:0}
+.jst::before{content:'';position:absolute;top:-4.5px;left:0;width:8px;height:8px;border-radius:50%;background:#F0A47B}
+.jst .jn{font-size:11px;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:rgba(220,231,223,.45)}
+.jst .jt{font-family:var(--serif);font-size:23px;color:#F7F3EA;margin:12px 0 10px;letter-spacing:-.02em;line-height:1.15;font-variation-settings:'SOFT' 20,'WONK' 1}
+.jst .jd{font-size:14.5px;color:rgba(220,231,223,.68);line-height:1.6}
+
+/* countries */
+.ctry{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}
+.ctile{border:1px solid var(--line);background:#fff;border-radius:3px;padding:30px 30px 26px;position:relative;overflow:hidden;transition:.2s ease}
+.ctile:hover{border-color:var(--ink);transform:translateY(-3px)}
+.ctile .flagbar{position:absolute;left:0;top:0;bottom:0;width:5px}
+.ctile.pt .flagbar{background:linear-gradient(to bottom,#1C6B47 50%,#D0562A 50%)}
+.ctile.ie .flagbar{background:linear-gradient(to bottom,#1C6B47 33%,#F7F3EA 33% 66%,#D0562A 66%)}
+.ctile.se .flagbar{background:linear-gradient(to bottom,#2B5DA8 45%,#E6C15A 45% 62%,#2B5DA8 62%)}
+.ctile.fi .flagbar{background:linear-gradient(to bottom,#F7F3EA 38%,#2B5DA8 38% 60%,#F7F3EA 60%)}
+.ctile .ch{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin-bottom:6px}
+.ctile h3{font-size:29px;letter-spacing:-.025em}
+.ctile .status{font-size:10.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;padding:4px 9px;border-radius:2px;background:var(--accent-soft);color:var(--accent-2);white-space:nowrap}
+.ctile .status.soon{background:var(--bone-2);color:var(--ink-3)}
+.ctile .cnum{font-family:var(--serif);font-size:15px;color:var(--ink-2);margin-bottom:18px}
+.ctile .cnum b{color:var(--accent);font-weight:600}
+.unis{display:flex;flex-wrap:wrap;gap:6px}
+.unis span{font-size:12.5px;border:1px solid var(--line);padding:5px 10px;border-radius:2px;color:var(--ink-2);background:var(--bone)}
+.ctile .soonnote{font-size:14.5px;color:var(--ink-3);line-height:1.6}
+
+
+/* cta */
+.cta{background:var(--forest);color:var(--forest-ink);position:relative;overflow:hidden}
+.cta::after{content:'';position:absolute;width:700px;height:700px;left:-240px;bottom:-380px;border-radius:50%;background:radial-gradient(circle,rgba(208,86,42,.26),transparent 66%)}
+.cta .wrap{position:relative;z-index:2;padding:96px 40px;display:grid;grid-template-columns:1fr 1fr;gap:72px;align-items:start}
+.cta h2{font-size:clamp(34px,4.2vw,52px);line-height:1.04;color:#F7F3EA;margin-bottom:20px}
+.cta p{color:rgba(220,231,223,.75);font-size:17px;max-width:440px;line-height:1.62}
+.cta .ways{margin-top:32px;border-top:1px solid var(--line-dark)}
+.cta .way{display:flex;gap:14px;padding:15px 0;border-bottom:1px solid var(--line-dark);font-size:14.5px;color:rgba(220,231,223,.8);align-items:baseline}
+.cta .way b{color:#F0A47B;font-weight:600;min-width:96px;font-size:12px;letter-spacing:.1em;text-transform:uppercase}
+.form-card{background:#F7F3EA;color:var(--ink);border-radius:4px;padding:32px}
+.form-card h3{font-size:22px;margin-bottom:5px;letter-spacing:-.02em}
+.form-card .fs{font-size:13.5px;color:var(--ink-3);margin-bottom:22px}
+.fgrid{display:grid;grid-template-columns:1fr 1fr;gap:11px}
+.fgrid label{display:flex;flex-direction:column;gap:6px;font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)}
+.fgrid label.full{grid-column:1/-1}
+.fgrid input,.fgrid select,.fgrid textarea{padding:11px 12px;border:1px solid var(--line);border-radius:2px;font:inherit;font-size:14.5px;background:#fff;color:var(--ink);width:100%}
+.fgrid textarea{resize:vertical;min-height:78px}
+.form-card .btn{width:100%;justify-content:center;margin-top:14px}
+.form-card .fine{font-size:11.5px;color:var(--ink-4);margin-top:12px;line-height:1.5}
+.thanks{display:none;text-align:center;padding:34px 8px}
+.thanks .tk2{font-family:var(--serif);font-size:26px;letter-spacing:-.02em;margin-bottom:9px}
+.thanks p{font-size:14.5px;color:var(--ink-3);margin:0}
+
+/* footer */
+.foot{background:var(--forest-2);color:rgba(220,231,223,.6);padding:60px 0 34px;font-size:14px}
+.foot .cols{display:grid;grid-template-columns:1.6fr 1fr 1fr 1fr;gap:40px;padding-bottom:40px;border-bottom:1px solid var(--line-dark)}
+.foot h4{font-size:11px;letter-spacing:.15em;text-transform:uppercase;color:rgba(220,231,223,.42);margin:0 0 16px;font-family:var(--sans);font-weight:700}
+.foot ul{list-style:none;padding:0;margin:0;display:grid;gap:10px}
+.foot a:hover{color:#F0A47B}
+.foot .fbrand{display:flex;align-items:center;gap:11px;font-weight:700;font-size:17.5px;color:#F7F3EA;margin-bottom:14px;letter-spacing:-.02em}
+.foot .fbrand .mark{width:30px;height:30px;border-radius:6px;background:var(--accent);display:grid;place-items:center}
+.foot .fbrand .mark svg{width:17px;height:17px}
+.foot .fp{max-width:330px;line-height:1.62;margin:0}
+.foot .bot{padding-top:24px;display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;font-size:12.5px;color:rgba(220,231,223,.4)}
+
+@media (prefers-reduced-motion: reduce){
+  .hero-video{display:none}
+  .rv{opacity:1;transform:none;transition:none}
+  .blip{animation:none}
+}
+
+/* reveal */
+.rv{opacity:0;transform:translateY(18px);transition:opacity .7s ease,transform .7s ease}
+.rv.in{opacity:1;transform:none}
+
+@media(max-width:1080px){
+  .hero{min-height:auto}
+  .hero .wrap{padding-top:92px;padding-bottom:76px}
+  .hero-lower{grid-template-columns:1fr;gap:30px;margin-top:34px;padding-top:28px}
+  .cta .wrap{grid-template-columns:1fr;gap:44px}
+  .prom{grid-template-columns:1fr}
+  .journey{grid-template-columns:1fr 1fr}
+  .jst{border-right:0;padding-bottom:26px}
+  .bundle{grid-template-columns:1fr;gap:32px}
+  .foot .cols{grid-template-columns:1fr 1fr}
+}
+@media(max-width:820px){
+  .wrap{padding:0 22px}
+  .nav-links,.nav-phone{display:none}
+  .ticker .wrap{grid-template-columns:1fr 1fr}
+  .tk{padding:18px 0;border-right:0;border-bottom:1px solid var(--line-dark)}
+  .tk:not(:first-child){padding-left:0}
+  .tk:nth-child(odd){border-right:1px solid var(--line-dark);padding-right:10px}
+  .tk:nth-child(even){padding-left:10px}
+  .finder-head,.finder-body{padding-left:20px;padding-right:20px}
+  .finder-body{min-height:0}
+  .opts.c3,.opts.c5,.opts.c2{grid-template-columns:1fr}
+  .rail span{display:none}
+  .rail i{width:22px}
+  .opts.c5 .opt,.opts.c3 .opt{padding:15px}
+  .cards{grid-template-columns:1fr}
+  .gform{grid-template-columns:1fr}
+  .svc-row{grid-template-columns:52px 1fr;gap:16px;padding:24px 0}
+  .svc-d{grid-column:2}
+  .svc-price{grid-column:2;text-align:left;min-width:0;font-size:26px}
+  .svc-num{font-size:32px}
+  .bundle{grid-template-columns:1fr;gap:28px;padding:30px 24px}
+  .bundle-t{font-size:34px}
+  .ctry{grid-template-columns:1fr}
+  .journey{grid-template-columns:1fr}
+  .fgrid{grid-template-columns:1fr}
+  .sec{padding:72px 0}
+  .res-n{font-size:44px}
+  .foot .cols{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="wrap">
+    <a class="brand" href="#top">
+      <span class="mark"><svg viewBox="0 0 32 32"><path d="M8 23V9l16 14V9" stroke="#F7F3EA" stroke-width="3" fill="none" stroke-linecap="square"/></svg></span>
+      NextCampus<span class="dot">EU</span>
+    </a>
+    <div class="nav-links">
+      <a href="#finder">Find your programme</a>
+      <a href="#services">Services &amp; pricing</a>
+      <a href="#countries">Countries</a>
+    </div>
+    <div class="nav-right">
+      <span class="nav-phone">Free first consultation</span>
+      <a class="btn btn-primary" href="#talk">Talk to us <span class="arw">→</span></a>
+    </div>
+  </div>
+</nav>
+
+<!-- ══════════ HERO ══════════ -->
+<header class="hero" id="top">
+  <video class="hero-video" autoplay muted loop playsinline preload="auto" poster="images/Evora.jpg">
+    <source src="images/hero-bg-video.mp4" type="video/mp4" />
+  </video>
+  <div class="hero-scrim"></div>
+  <div class="wrap">
+    <div class="hero-copy">
+      <div class="hero-pill">
+        <span class="live"><span class="blip"></span>Now open</span>
+        Portugal &amp; Ireland · English-taught degrees
+      </div>
+      <h1>Getting in is half of it.<br><span class="hl">We do the other half.</span></h1>
+      <div class="hero-lower">
+        <p class="hero-sub">At Nextcampus, we find the courses that actually fit you — then we handle the part nobody warns you about: <strong>the airport pickup, the first accommodation in a new country, and the other things that could make reaching your goal harder than it needs to be.</strong></p>
+        <div class="hero-actions">
+          <div class="hero-ctas">
+            <a class="btn btn-primary" href="#finder">Find my programme <span class="arw">→</span></a>
+            <a class="btn btn-ghost-dark" href="#services">See services &amp; prices</a>
+          </div>
+          <p class="hero-note"><span class="hn-caps">First consultation free.</span> Every service after that has a fixed, published price: €400 for admission and visa documents, €50–€100 for each arrival service.</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="ticker">
+    <div class="wrap">
+      <div class="tk"><div class="n" id="tkAll">—</div><div class="l">English-taught programmes in our database</div></div>
+      <div class="tk"><div class="n" id="tkUni">—</div><div class="l">Universities, verified on their own websites</div></div>
+      <div class="tk"><div class="n"><em>€600</em></div><div class="l">Everything, end to end — admission, pickup, hostel, room</div></div>
+      <div class="tk"><div class="n"><em>€0</em></div><div class="l">First consultation, and your shortlist</div></div>
+    </div>
+  </div>
+</header>
+
+<!-- ══════════ FINDER ══════════ -->
+<section class="finder-sec" id="finder">
+  <div class="wrap">
+    <div class="finder rv">
+      <div class="finder-head">
+        <div>
+          <div class="eyebrow">Programme finder</div>
+          <h2>Five questions. A real shortlist.</h2>
+          <p class="lede">We don't dump a catalogue on you. Tell us what you're after and we'll show you what actually matches — with the fees each university publishes itself.</p>
+        </div>
+        <div class="rail" id="rail">
+          <i class="on"></i><i></i><i></i><i></i><i></i>
+          <span id="railTxt">Step 1 of 5</span>
+        </div>
+      </div>
+      <div class="finder-body" id="finderBody"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════ SERVICES ══════════ -->
+<section class="sec" id="services">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <div class="eyebrow">Services &amp; pricing</div>
+      <h2>An admission letter doesn't <span class="hl">unpack your suitcase.</span></h2>
+      <p>Most agencies stop the day you get accepted. That's the day the hard part starts — in a country you've never been to, in a rental market that doesn't answer emails from abroad. Here is everything we do, and exactly what each part costs.</p>
+    </div>
+
+    <div class="svc rv">
+      <div class="svc-row">
+        <div class="svc-num">01</div>
+        <div><div class="svc-t">Admission &amp; visa documents</div></div>
+        <div class="svc-d">We shortlist programmes against your grades, budget and field, then prepare and check the whole file — transcripts, motivation letter, proof of English, and the document set your consulate will ask for — and track the application to a decision.
+          <span class="svc-fine">University application fees, translations, apostilles and the consulate's own visa fee are paid by you, directly to them.</span></div>
+        <div class="svc-price">€400</div>
+      </div>
+      <div class="svc-row">
+        <div class="svc-num">02</div>
+        <div><div class="svc-t">Airport pickup</div></div>
+        <div class="svc-d">Met at arrivals and taken to your accommodation.
+          <span class="svc-fine">In Lisbon this is a direct car pickup and drop-off. For other cities we arrange the public or private transport for you in advance and send step-by-step instructions you can follow half-asleep after a long flight; the ticket or fare itself is charged at cost.</span></div>
+        <div class="svc-price">€50</div>
+      </div>
+      <div class="svc-row">
+        <div class="svc-num">03</div>
+        <div><div class="svc-t">Temporary accommodation</div></div>
+        <div class="svc-d">One or two weeks in a hostel we've found, checked and booked, so you arrive with a confirmed bed and a base to search from instead of paying tourist rates in a panic.
+          <span class="svc-fine">This is our arranging fee. The hostel bill itself is paid separately, by you, to the hostel.</span></div>
+        <div class="svc-price">€50</div>
+      </div>
+      <div class="svc-row">
+        <div class="svc-num">04</div>
+        <div><div class="svc-t">Finding your room</div></div>
+        <div class="svc-d">We contact landlords and agencies on your behalf in the local language, screen out the deposit scams that target new international students, line up viewings, and secure a room that fits your budget and preferences.
+          <span class="svc-fine">Our fee for finding and securing the room. Rent, deposit and any agency charge are paid separately, to the landlord.</span></div>
+        <div class="svc-price">€100</div>
+      </div>
+      <div class="svc-row">
+        <div class="svc-num">05</div>
+        <div><div class="svc-t">Additional services</div></div>
+        <div class="svc-d">Registering your residence, opening a bank account, a local SIM, enrolling at the university, and whatever else your move throws at you. Tell us what you need and we'll tell you if we can do it.
+          <span class="svc-fine">Priced per request, quoted before we start. Never charged for something we haven't done.</span></div>
+        <div class="svc-price">Quoted</div>
+      </div>
+    </div>
+
+    <div class="bundle rv">
+      <div>
+        <div class="eyebrow">Build your package</div>
+        <div class="bundle-t">Pick only what you need.</div>
+        <p>Nothing here is a bundle you have to buy whole — tick the services you actually want and the total updates as you go. All four together come to €600, from first message to keys in your hand. Your selection travels with you into the enquiry form, so you don't have to explain it twice.</p>
+      </div>
+      <div class="bundle-side">
+        <div id="bundleRows"></div>
+        <div class="brow total"><span class="nm">Your total</span><b id="bundleTotal">€600</b></div>
+        <div class="bundle-note" id="bundleNote"></div>
+        <button class="btn btn-primary" id="askBtn" type="button" style="width:100%;justify-content:center;margin-top:14px">Ask about your case <span class="arw">→</span></button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════ JOURNEY ══════════ -->
+<section class="sec sec-dark">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <div class="eyebrow on-dark">How it works</div>
+      <h2>From first message to <span class="hl">first lecture.</span></h2>
+    </div>
+    <div class="journey rv">
+      <div class="jst">
+        <div class="jn">Step one</div>
+        <div class="jt">A conversation</div>
+        <div class="jd">You tell us your subject, your grades and your budget. We tell you honestly where you're competitive and where you aren't.</div>
+      </div>
+      <div class="jst">
+        <div class="jn">Step two</div>
+        <div class="jt">The shortlist</div>
+        <div class="jd">A handful of programmes with real published fees, real durations and real deadlines — not a hundred links to sort through yourself.</div>
+      </div>
+      <div class="jst">
+        <div class="jn">Step three</div>
+        <div class="jt">Apply &amp; get in</div>
+        <div class="jd">We check every document before it goes, submit, and chase. Then we help with the visa and residency paperwork your embassy will ask for.</div>
+      </div>
+      <div class="jst">
+        <div class="jn">Step four</div>
+        <div class="jt">Land softly</div>
+        <div class="jd">Pickup, a booked bed, viewings arranged. By the end of your first fortnight you have keys, a bank account and a routine.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════ COUNTRIES ══════════ -->
+<section class="sec sec-band" id="countries">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <div class="eyebrow">Where we work</div>
+      <h2>Two countries. One process.</h2>
+      <p>Every programme in our database was read off the university's own website — never an aggregator. Fees are what the institution publishes, in the currency it publishes them.</p>
+    </div>
+    <div class="ctry rv" id="ctry"></div>
+  </div>
+</section>
+
+<!-- ══════════ CTA ══════════ -->
+<section class="cta" id="talk">
+  <div class="wrap">
+    <div class="rv">
+      <div class="eyebrow on-dark">Start here</div>
+      <h2 style="margin-top:16px">Tell us where you want to be next September.</h2>
+      <p>One message is enough to start. We'll come back with a straight answer about what's realistic for your grades and your budget. The first consultation is free and there's no obligation to buy anything afterwards.</p>
+      <div class="ways">
+        <div class="way"><b>Email</b> <span>hello@nextcampuseu.com</span></div>
+        <div class="way"><b>WhatsApp</b> <span>Add your number below and we'll message you first</span></div>
+        <div class="way"><b>Reply time</b> <span>Within one working day</span></div>
+      </div>
+    </div>
+
+    <div class="form-card rv">
+      <div id="formInner">
+        <h3>Free first consultation</h3>
+        <div class="fs">No cost, no obligation, no card details.</div>
+        <form class="fgrid" id="mainForm" novalidate>
+          <label class="full">Full name<input type="text" name="name" required placeholder="Your name" /></label>
+          <label>Email<input type="email" name="email" required placeholder="you@email.com" /></label>
+          <label>WhatsApp<input type="tel" name="phone" placeholder="+880 …" /></label>
+          <label>Country of citizenship<input type="text" name="nat" placeholder="e.g. Bangladesh" /></label>
+          <label>Interested in
+            <select name="dest">
+              <option>Portugal</option><option>Ireland</option>
+              <option>Not sure yet</option>
+            </select>
+          </label>
+          <label class="full">Services you're interested in
+            <div class="pickrow" id="svcPick"></div>
+          </label>
+          <input type="hidden" name="services" id="svcHidden" />
+          <label class="full">What do you want to study, and when?<textarea name="msg" placeholder="e.g. Master's in Data Science, September 2027 intake. I have a BSc in Statistics."></textarea></label>
+          <div class="full"><button class="btn btn-primary" type="submit">Send my details <span class="arw">→</span></button></div>
+        </form>
+        <div class="fine">By sending this you agree we may contact you about your studies. We don't sell your data or pass it to universities without your say-so.</div>
+      </div>
+      <div class="thanks" id="thanksMain">
+        <div class="tk2">Got it — thank you.</div>
+        <p>We'll reply within one working day with an honest first read on your options.</p>
+        <p id="thanksSvc" style="margin-top:12px;color:var(--ink-2)"></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="foot">
+  <div class="wrap">
+    <div class="cols">
+      <div>
+        <div class="fbrand"><span class="mark"><svg viewBox="0 0 32 32"><path d="M8 23V9l16 14V9" stroke="#F7F3EA" stroke-width="3" fill="none" stroke-linecap="square"/></svg></span>NextCampusEU.com</div>
+        <p class="fp">Admissions and arrival support for international students heading to Portugal and Ireland.</p>
+      </div>
+      <div><h4>Study</h4><ul>
+        <li><a href="#finder">Programme finder</a></li>
+        <li><a href="courses.html">Portugal directory</a></li>
+        <li><a href="courses-ireland.html">Ireland directory</a></li>
+      </ul></div>
+      <div><h4>Services</h4><ul>
+        <li><a href="#services">Admissions</a></li>
+        <li><a href="#services">Airport pickup</a></li>
+        <li><a href="#services">Accommodation</a></li>
+      </ul></div>
+      <div><h4>Company</h4><ul>
+        <li><a href="#talk">Contact</a></li>
+        <li><a href="#countries">Countries</a></li>
+      </ul></div>
+    </div>
+    <div class="bot">
+      <span>© <span id="yr"></span> NextCampusEU.com — prototype</span>
+      <span>Programme data verified against each university's official website.</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+"use strict";
+const NC = {"bands":[3000,6000,12000,25000,null],"totals":{"all":2018,"pt":659,"ie":1359,"unis":14},"unis":{"ulisboa":{"name":"University of Lisbon","country":"pt","city":"Lisbon","n":90},"nova":{"name":"NOVA University Lisbon","country":"pt","city":"Lisbon","n":181},"catolica":{"name":"Universidade Católica Portuguesa","country":"pt","city":"Lisbon","n":64},"iscte":{"name":"ISCTE-IUL","country":"pt","city":"Lisbon","n":93},"evora":{"name":"University of Évora","country":"pt","city":"Évora","n":103},"algarve":{"name":"University of Algarve","country":"pt","city":"Faro","n":114},"porto":{"name":"University of Porto","country":"pt","city":"Porto","n":6},"minho":{"name":"University of Minho","country":"pt","city":"Braga","n":8},"trinity":{"name":"Trinity College Dublin","country":"ie","city":"Dublin","n":239},"ucd":{"name":"University College Dublin","country":"ie","city":"Dublin","n":380},"ucc":{"name":"University College Cork","country":"ie","city":"Cork","n":213},"ul":{"name":"University of Limerick","country":"ie","city":"Limerick","n":190},"dcu":{"name":"Dublin City University","country":"ie","city":"Dublin","n":141},"tud":{"name":"Technological University Dublin","country":"ie","city":"Dublin","n":196}},"b":{"pt|bsc|business":{"n":54,"eu":[44,46,53,53,53],"ne":[5,22,52,52,52],"s":[{"n":"Economics","u":"University of Lisbon","uk":"ulisboa","c":"Lisbon","f":"ISEG - Lisbon School of Economics & Management","d":"6 semesters (3 years), 180 ECTS","eu":697,"ne":7500,"url":"https://www.ulisboa.pt/en/curso/licenciatura/economics-0"},{"n":"Economics","u":"NOVA University Lisbon","uk":"nova","c":"Lisbon","f":"Nova School of Business & Economics (Nova SBE)","d":"6 semesters (3 years), 180-195 ECTS","eu":697,"ne":7500,"url":"https://www.novasbe.unl.pt/en/programs/bachelors/economics/fees"},{"n":"Data Science","u":"ISCTE-IUL","uk":"iscte","c":"Lisbon","f":"School of Technology and Architecture (ISTA) / ISCTE Business School (IBS) (joint program)","d":"6 semesters (3 years), 180 ECTS","eu":697,"ne":7000,"url":"https://www.iscte-iul.pt/cursos/curso/0322"},{"n":"Management","u":"University of Évora","uk":"evora","c":"Évora","f":"School of Social Sciences","d":"6 semesters (3 years), 180 ECTS","eu":697,"ne":2500,"url":"https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9147"},{"n":"Economics","u":"University of Algarve","uk":"algarve","c":"Faro","f":"Faculty of Economics","d":"6 semesters (3 years), 180 ECTS","eu":697,"ne":3500,"url":"https://www.ualg.pt/en/curso/1440"},{"n":"First Degree in Economics","u":"University of Porto","uk":"porto","c":"Porto","f":"Faculty of Economics (FEP)","d":"6 semesters (3 years), 180 ECTS","eu":697,"ne":3500,"url":"https://www.up.pt/portal/en/study/bachelors-and-integrated-masters-degrees/courses/fep/37902/"}]},"pt|bsc|engineering":{"n":66,"eu":[60,62,65,65,65],"ne":[17,31,66,66,66],"s":[{"n":"Agro-Industrial Technology","u":"NOVA University Lisbon","uk":"nova","c":"Lisbon","f":"NOVA School of Science and Technology (NOVA FCT)","d":"6 semesters (3 years), 180 ECTS","eu":697,"ne":7000,"url":"https://www.fct.unl.pt/en/education/course/bachelor-s-degree-agro-industrial-technology"},{"n":"Telecommunications and Computer Engineering","u":"ISCTE-IUL","uk":"iscte","c":"Lisbon","f":"School of Technology and Architecture (ISTA)","d":"6 semesters (3 years), 180 ECTS","eu":697,"ne":7000,"url":"https://www.iscte-iul.pt/cursos/curso/9098"},{"n":"Computer Sciences Engineering","u":"University of Évora","uk":"evora","c":"Évora","f":"School of Science and Technology","d":"6 semesters (3 years), 180 ECTS","eu":697,"ne":2500,"url":"https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9119"},{"n":"Informatics","u":"University of Algarve","uk":"algarve","c":"Faro","f":"Faculty of Sciences and Technology","d":"6 semesters (3 years), 180 ECTS","eu":697,"ne":4500,"url":"https://www.ualg.pt/en/curso/1478"},{"n":"Applied Data Science","u":"Universidade Católica Portuguesa","uk":"catolica","c":"Lisbon","f":"Faculty of Philosophy and Social Sciences (Braga)","d":"6 semesters (3 years), 180 ECTS (Bologna default)","eu":5025,"ne":5025,"url":"https://ffcs.braga.ucp.pt/pt-pt/undergraduate-courses/programs/degree-applied-data-science/propinas"},{"n":"General Engineering (GENI)","u":"University of Lisbon","uk":"ulisboa","c":"Lisbon","f":"Técnico ULisboa","d":"6 semesters (3 years), 180 ECTS","eu":null,"ne":7000,"url":"https://www.ulisboa.pt/en/node/20089"}]},"pt|bsc|health":{"n":20,"eu":[17,19,19,19,19],"ne":[6,16,17,17,17],"s":[{"n":"Psychology","u":"ISCTE-IUL","uk":"iscte","c":"Lisbon","f":"School of Social Sciences and Humanities (ECSH)","d":"6 semesters (3 years), 180 ECTS","eu":697,"ne":7000,"url":"https://www.iscte-iul.pt/cursos/curso/9219"},{"n":"Psychology","u":"University of Évora","uk":"evora","c":"Évora","f":"School of Social Sciences","d":"6 semesters (3 years), 180 ECTS","eu":697,"ne":2500,"url":"https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9219"},{"n":"Nursing","u":"University of Algarve","uk":"algarve","c":"Faro","f":"School of Health","d":"8 semesters (4 years), 240 ECTS","eu":697,"ne":4500,"url":"https://www.ualg.pt/en/curso/1517"},{"n":"Systems and Cognitive Neuroscience","u":"Universidade Católica Portuguesa","uk":"catolica","c":"Lisbon","f":"Institute of Health Sciences (Lisbon)","d":"6 semesters (3 years), 180 ECTS","eu":1925,"ne":2081,"url":"https://fcse.lisboa.ucp.pt/programa-de-licenciatura/bsc-systems-and-cognitive-neuroscience"},{"n":"Nutrition Sciences","u":"NOVA University Lisbon","uk":"nova","c":"Lisbon","f":"NOVA Medical School","d":"8 semesters (4 years), 240 ECTS","eu":null,"ne":null,"url":"https://www.nms.unl.pt/en-us/education/programs/bachelors-degree-in-nutrition-sciences"},{"n":"Nursing","u":"University of Évora","uk":"evora","c":"Évora","f":"S. João de Deus School of Nursing","d":"8 semesters (4 years), 240 ECTS","eu":697,"ne":2500,"url":"https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9500"}]},"pt|bsc|arts":{"n":49,"eu":[48,49,49,49,49],"ne":[7,49,49,49,49],"s":[{"n":"Communication Design","u":"University of Lisbon","uk":"ulisboa","c":"Lisbon","f":"Faculty of Fine Arts","d":"6 semesters (3 years), 180 ECTS","eu":697,"ne":3500,"url":"https://www.ulisboa.pt/en/curso/licenciatura/communication-design"},{"n":"Anthropology","u":"NOVA University Lisbon","uk":"nova","c":"Lisbon","f":"NOVA School of Social Sciences and Humanities (NOVA FCSH)","d":"6 semesters (3 years), 180 ECTS","eu":697,"ne":3500,"url":"https://www.fcsh.unl.pt/cursos/licenciatura_em_antropologia/"},{"n":"Modern and Contemporary History","u":"ISCTE-IUL","uk":"iscte","c":"Lisbon","f":"School of Sociology and Public Policy (ESPP)","d":"6 semesters (3 years), 180 ECTS","eu":697,"ne":5500,"url":"https://www.iscte-iul.pt/cursos/curso/9927"},{"n":"Design","u":"University of Évora","uk":"evora","c":"Évora","f":"School of Fine Arts","d":"6 semesters (3 years), 180 ECTS","eu":697,"ne":2500,"url":"https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9069"},{"n":"Communication Design","u":"University of Algarve","uk":"algarve","c":"Faro","f":"School of Education and Communication","d":"6 semesters (3 years), 180 ECTS","eu":697,"ne":3500,"url":"https://www.ualg.pt/en/curso/1454"},{"n":"Applied Foreign Languages","u":"Universidade Católica Portuguesa","uk":"catolica","c":"Lisbon","f":"Faculty of Human Sciences (Lisbon)","d":"6 semesters (3 years), 180 ECTS","eu":5430,"ne":5430,"url":"https://fch.lisboa.ucp.pt/undergraduate/programs/undergraduate-program-applied-foreign-languages"}]},"pt|bsc|social":{"n":20,"eu":[16,18,18,18,18],"ne":[5,17,18,18,18],"s":[{"n":"Law","u":"NOVA University Lisbon","uk":"nova","c":"Lisbon","f":"NOVA School of Law","d":"8 semesters (4 years), 240 ECTS","eu":697,"ne":7000,"url":"https://novalaw.unl.pt/en/bachelors-in-law/"},{"n":"Political Science","u":"ISCTE-IUL","uk":"iscte","c":"Lisbon","f":"School of Sociology and Public Policy (ESPP)","d":"6 semesters (3 years), 180 ECTS","eu":697,"ne":5500,"url":"https://www.iscte-iul.pt/cursos/curso/9019"},{"n":"Education Sciences","u":"University of Évora","uk":"evora","c":"Évora","f":"School of Social Sciences","d":"6 semesters (3 years), 180 ECTS","eu":697,"ne":2500,"url":"https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9026"},{"n":"Basic Education","u":"University of Algarve","uk":"algarve","c":"Faro","f":"School of Education and Communication","d":"6 semesters (3 years), 180 ECTS","eu":697,"ne":3500,"url":"https://www.ualg.pt/en/curso/1483"},{"n":"Social Work","u":"Universidade Católica Portuguesa","uk":"catolica","c":"Lisbon","f":"Faculty of Human Sciences (Lisbon)","d":"6 semesters (3 years), 180 ECTS","eu":5430,"ne":5430,"url":"https://fch.lisboa.ucp.pt/undergraduate/programs/undergraduate-program-social-work"},{"n":"Sociology","u":"ISCTE-IUL","uk":"iscte","c":"Lisbon","f":"School of Sociology and Public Policy (ESPP)","d":"6 semesters (3 years), 180 ECTS","eu":697,"ne":5500,"url":"https://www.iscte-iul.pt/cursos/curso/9240"}]},"pt|msc|business":{"n":124,"eu":[49,93,108,121,121],"ne":[30,58,98,121,121],"s":[{"n":"Digital Transformation Management in the Health Sector","u":"ISCTE-IUL","uk":"iscte","c":"Lisbon","f":"School of Applied Digital Technologies (ETDA, Sintra)","d":"4 semesters (2 years), 90 ECTS (fully online; international joint program with Laurea UAS Finland and Aristotle University of Thessaloniki)","eu":0,"ne":null,"url":"https://www.iscte-iul.pt/cursos/curso/0452"},{"n":"Industrial Engineering & Management","u":"University of Lisbon","uk":"ulisboa","c":"Lisbon","f":"Técnico ULisboa","d":"4 semesters (2 years), 120 ECTS","eu":825,"ne":7000,"url":"https://www.ulisboa.pt/en/curso/mestrado/industrial-engineering-and-management"},{"n":"Management and Enhancement of Historic and Cultural Heritage (TPTI, Erasmus Mundus)","u":"University of Évora","uk":"evora","c":"Évora","f":"Institute of Research and Advanced Training (IIFA)","d":"4 semesters (2 years), 120 ECTS","eu":1000,"ne":1000,"url":"https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6154_1"},{"n":"Sme Management - Portimão","u":"University of Algarve","uk":"algarve","c":"Faro","f":"School of Management, Hospitality and Tourism","d":"4 semesters (2 years), 120 ECTS","eu":1000,"ne":2500,"url":"https://www.ualg.pt/en/curso/1924"},{"n":"Industrial Engineering and Management","u":"NOVA University Lisbon","uk":"nova","c":"Lisbon","f":"NOVA School of Science and Technology (NOVA FCT)","d":"4 semesters (2 years), 120 ECTS","eu":1250,"ne":7000,"url":"https://www.fct.unl.pt/en/education/course/masters-industrial-engineering-and-management"},{"n":"Master in Finance","u":"University of Porto","uk":"porto","c":"Porto","f":"Faculty of Economics (FEP)","d":"4 semesters (2 years), 120 ECTS","eu":1500,"ne":5000,"url":"https://www.up.pt/portal/en/study/masters-degrees/courses/fep/1084/"}]},"pt|msc|engineering":{"n":155,"eu":[134,147,150,150,150],"ne":[41,65,148,148,149],"s":[{"n":"Digital Skills for Health","u":"NOVA University Lisbon","uk":"nova","c":"Lisbon","f":"NOVA School of Science and Technology (NOVA FCT)","d":"4 semesters (2 years), 120 ECTS","eu":0,"ne":7000,"url":"https://www.fct.unl.pt/en/education/course/master-s-digital-skills-health"},{"n":"Architecture","u":"ISCTE-IUL","uk":"iscte","c":"Lisbon","f":"School of Technology and Architecture (ISTA)","d":"10 semesters (5 years), 300 ECTS","eu":697,"ne":7000,"url":"https://www.iscte-iul.pt/cursos/curso/9257"},{"n":"Integrated Master's Degree in Architecture","u":"University of Évora","uk":"evora","c":"Évora","f":"School of Fine Arts","d":"10 semesters (5 years), 300 ECTS","eu":697,"ne":2500,"url":"https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9257"},{"n":"Integrated Master in Pharmaceutical Sciences","u":"University of Algarve","uk":"algarve","c":"Faro","f":"Faculty of Sciences and Technology","d":"10 semesters (5 years), 300 ECTS","eu":697,"ne":4500,"url":"https://www.ualg.pt/en/curso/1488"},{"n":"Mechanical Engineering","u":"University of Minho","uk":"minho","c":"Braga","f":"School of Engineering","d":"4 semesters (2 years), 120 ECTS","eu":697,"ne":6500,"url":"https://www.eng.uminho.pt/en/study/_layouts/15/UMinho.PortaisUOEI.UI/Pages/CatalogoCursoDetail.aspx?itemId=6156&catId=17"},{"n":"Aerospace Engineering","u":"University of Lisbon","uk":"ulisboa","c":"Lisbon","f":"Técnico ULisboa","d":"4 semesters (2 years), 120 ECTS","eu":825,"ne":7000,"url":"https://www.ulisboa.pt/en/curso/mestrado/aerospace-engineering"}]},"pt|msc|health":{"n":45,"eu":[38,42,42,42,42],"ne":[15,26,40,42,42],"s":[{"n":"Medicine","u":"NOVA University Lisbon","uk":"nova","c":"Lisbon","f":"NOVA Medical School","d":"12 semesters (6 years), 360 ECTS","eu":697,"ne":18000,"url":"https://www.nms.unl.pt/en-us/education/programs/integrated-masters-degree-in-medicine"},{"n":"Social and Organizational Psychology","u":"ISCTE-IUL","uk":"iscte","c":"Lisbon","f":"School of Social Sciences and Humanities (ECSH)","d":"4 semesters (2 years), 120 ECTS","eu":697,"ne":3000,"url":"https://www.iscte-iul.pt/cursos/curso/B4"},{"n":"Teaching Biology and Geology in the 3rd Cycle of Basic Education and in Secondary Education","u":"University of Évora","uk":"evora","c":"Évora","f":"School of Social Sciences","d":"4 semesters (2 years), 120 ECTS","eu":697,"ne":2500,"url":"https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6449"},{"n":"Medicine","u":"University of Algarve","uk":"algarve","c":"Faro","f":"Faculty of Medicine and Biomedical Sciences","d":"12 semesters (6 years), 360 ECTS","eu":697,"ne":18000,"url":"https://www.ualg.pt/en/curso/1916"},{"n":"Medicinal & Biopharmaceutical Chemistry","u":"University of Lisbon","uk":"ulisboa","c":"Lisbon","f":"Faculty of Pharmacy","d":"4 semesters (2 years), 120 ECTS","eu":1200,"ne":3250,"url":"https://www.ulisboa.pt/en/curso/mestrado/medicinal-and-biopharmaceutical-chemistry"},{"n":"Educational Psychology","u":"Universidade Católica Portuguesa","uk":"catolica","c":"Lisbon","f":"Faculty of Philosophy and Social Sciences (Braga)","d":"4 semesters (2 years), 120 ECTS (Bologna default)","eu":4935,"ne":4935,"url":"https://ffcs.braga.ucp.pt/en/masters/programas/masters-degree-educational-psychology"}]},"pt|msc|arts":{"n":75,"eu":[69,71,71,71,71],"ne":[22,68,68,68,68],"s":[{"n":"Music Education Teaching (2nd Cycle of Basic Education)","u":"NOVA University Lisbon","uk":"nova","c":"Lisbon","f":"NOVA School of Social Sciences and Humanities (NOVA FCSH)","d":"4 semesters (2 years), 120 ECTS","eu":697,"ne":3600,"url":"https://www.fcsh.unl.pt/cursos/mestrado-ensino-da-educacao-musical-no-ensino-basico-2-ciclo-do-ensino-basico/"},{"n":"Teaching of Music","u":"University of Évora","uk":"evora","c":"Évora","f":"School of Fine Arts","d":"4 semesters (2 years), 120 ECTS","eu":697,"ne":2500,"url":"https://www.uevora.pt/en/estudar/cursos/mestrados?cod=M527"},{"n":"Teaching In the First Cycle of Basic Education and of Portuguese, and History and Geography of Portugal In the Second Cycle of Basic Education","u":"University of Algarve","uk":"algarve","c":"Faro","f":"School of Education and Communication","d":"4 semesters (2 years), 120 ECTS","eu":697,"ne":null,"url":"https://www.ualg.pt/en/curso/1790"},{"n":"Anthropology","u":"ISCTE-IUL","uk":"iscte","c":"Lisbon","f":"School of Social Sciences and Humanities (ECSH)","d":"4 semesters (2 years), 120 ECTS","eu":1100,"ne":3000,"url":"https://www.iscte-iul.pt/cursos/curso/B121"},{"n":"History & Philosophy of Science","u":"University of Lisbon","uk":"ulisboa","c":"Lisbon","f":"Faculty of Sciences","d":"4 semesters (2 years), 120 ECTS","eu":1200,"ne":3500,"url":"https://www.ulisboa.pt/en/curso/mestrado/history-and-philosophy-science"},{"n":"Educational Sciences","u":"Universidade Católica Portuguesa","uk":"catolica","c":"Lisbon","f":"Faculty of Philosophy and Social Sciences (Braga)","d":"4 semesters (2 years), 120 ECTS (Bologna default)","eu":4485,"ne":4485,"url":"https://ffcs.braga.ucp.pt/en/masters/programas/masters-educational-sciences"}]},"pt|msc|social":{"n":51,"eu":[29,40,45,46,46],"ne":[21,29,45,46,46],"s":[{"n":"Preschool Education","u":"University of Évora","uk":"evora","c":"Évora","f":"School of Social Sciences","d":"3 semesters (1.5 years), 90 ECTS","eu":697,"ne":2500,"url":"https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6914"},{"n":"Pré-school Education","u":"University of Algarve","uk":"algarve","c":"Faro","f":"School of Education and Communication","d":"4 semesters (2 years), 120 ECTS","eu":697,"ne":null,"url":"https://www.ualg.pt/en/curso/1785"},{"n":"Disability Studies and Human Rights","u":"ISCTE-IUL","uk":"iscte","c":"Lisbon","f":"School of Sociology and Public Policy (ESPP)","d":"4 semesters (2 years), 120 ECTS","eu":1100,"ne":3000,"url":"https://www.iscte-iul.pt/cursos/curso/0451"},{"n":"Geology","u":"University of Lisbon","uk":"ulisboa","c":"Lisbon","f":"Faculty of Sciences","d":"4 semesters (2 years), 120 ECTS","eu":1200,"ne":3500,"url":"https://www.ulisboa.pt/en/curso/mestrado/geology"},{"n":"Law and Security","u":"NOVA University Lisbon","uk":"nova","c":"Lisbon","f":"NOVA School of Law","d":"4 semesters (2 years), 120 ECTS (60 taught + 60 research)","eu":3900,"ne":7000,"url":"https://novalaw.unl.pt/en/master-in-law-and-security/"},{"n":"Asian Studies","u":"Universidade Católica Portuguesa","uk":"catolica","c":"Lisbon","f":"Faculty of Human Sciences (Lisbon)","d":"4 semesters (2 years), 120 ECTS (Bologna default)","eu":5450,"ne":6870,"url":"https://fch.lisboa.ucp.pt/master-asian-studies"}]},"ie|bsc|business":{"n":90,"eu":[47,84,90,90,90],"ne":[0,1,3,84,89],"s":[{"n":"Accounting and Finance","u":"Dublin City University","uk":"dcu","c":"Dublin","f":"DCU Business School","d":"3 years, full-time (DC115)","eu":2543,"ne":17000,"url":"https://www.dcu.ie/courses/undergraduate/business-school/accounting-and-finance"},{"n":"Accounting","u":"Technological University Dublin","uk":"tud","c":"Dublin","f":"School of Accounting, Economics & Finance","d":"4 years, 240 ECTS","eu":3000,"ne":13500,"url":"https://www.tudublin.ie/study/undergraduate/courses/accounting-tu910/"},{"n":"Business Studies (BBS)","u":"University of Limerick","uk":"ul","c":"Limerick","f":"Kemmy Business School","d":"4 years. Common-entry honours degree (course code LM050); after Year 1 students choose a major (Accounting and Finance, Economics and Finance, Human Resource Management, Marketing, or Risk Management and Insurance). Language stream options combining a major with integrated language study throughout all 4 years share the same core award and fee: French (LM052), German (LM053), Spanish (LM054, Beginners or Advanced), Japanese (LM055, Beginners) - not separate degrees.","eu":3058,"ne":17396,"url":"https://www.ul.ie/study/undergraduate/business-studies-bbs"},{"n":"Bachelor of Business Studies (Part-Time)","u":"University College Dublin","uk":"ucd","c":"Dublin","f":"UCD Lochlann Quinn School of Business","d":"4 years part-time overall (Level 7 Diploma in years 1-2, Level 8 Bachelor's in years 3-4); fees shown are for the Bachelor's (BBS) stage","eu":3690,"ne":7790,"url":"https://www.ucd.ie/quinn/courses/part-timediplomadegreedbsbbs/"},{"n":"Law and Business","u":"University College Cork","uk":"ucc","c":"Cork","f":"School of Law","d":"4 years (CK307, BCL Hons)","eu":3800,"ne":21700,"url":"https://www.ucc.ie/en/ck307/"},{"n":"Business Studies and French","u":"Trinity College Dublin","uk":"trinity","c":"Dublin","f":"Trinity Business School","d":"4 years","eu":5681,"ne":22580,"url":"https://www.tcd.ie/courses/undergraduate/courses/business-studies-and-french/"}]},"ie|bsc|engineering":{"n":138,"eu":[66,108,135,135,135],"ne":[0,0,0,102,134],"s":[{"n":"Bachelor of Education in Technology, Engineering and Graphics","u":"Dublin City University","uk":"dcu","c":"Dublin","f":"DCU Institute of Education","d":"4 years, full-time. Delivered in partnership with Technological University of the Shannon (TUS): years 1-2 at TUS Athlone, years 3-4 at DCU Institute of Education, St Patrick's Campus","eu":2543,"ne":16900,"url":"https://www.dcu.ie/courses/undergraduate/institute-education/bachelor-education-technology-engineering-and-graphics"},{"n":"Data Science and Artificial Intelligence","u":"Technological University Dublin","uk":"tud","c":"Dublin","f":"School of Computer Science","d":"4 years, 240 ECTS (course code TU850). Grangegorman campus. Computer Science degree with an additional emphasis on data science and AI topics (machine learning, deep learning, data visualisation, statistics, ethical AI); optional work placement.","eu":3000,"ne":13500,"url":"https://www.tudublin.ie/study/undergraduate/courses/data-science-and-ai/"},{"n":"Common and Civil Law","u":"University of Limerick","uk":"ul","c":"Limerick","f":"School of Law","d":"4 years","eu":3058,"ne":17396,"url":"https://www.ul.ie/study/undergraduate/common-and-civil-law-llb"},{"n":"Dental Technology","u":"Trinity College Dublin","uk":"trinity","c":"Dublin","f":"School of Dental Science","d":"3 years","eu":4773,"ne":19100,"url":"https://www.tcd.ie/courses/undergraduate/courses/dental-technology/"},{"n":"Biological and Chemical Sciences","u":"University College Cork","uk":"ucc","c":"Cork","f":"College of Science, Engineering and Food Science","d":"4 years (CK402, BSc Hons); common-entry route, no single owning School - students choose one of 9 streams after Year 1: Applied Plant Biology, Biochemistry, Biotechnology, Chemistry, Chemistry of Pharmaceutical Compounds, Chemistry with Forensic Sciences, Microbiology (all delivered by SEFS Schools), plus Neuroscience and Physiology (delivered by the College of Medicine and Health's Department of Neuroscience/Department of Physiology - out of SEFS scope)","eu":4820,"ne":27000,"url":"https://www.ucc.ie/en/ck402/"},{"n":"Classics (Greek & Roman Civilisation, Latin, Greek)","u":"University College Dublin","uk":"ucd","c":"Dublin","f":"UCD School of Classics","d":"3/4/8 Years","eu":5880,"ne":22600,"url":"https://www.ucd.ie/classics/study/undergraduateprogrammes/"}]},"ie|bsc|health":{"n":144,"eu":[35,73,132,136,137],"ne":[0,0,3,57,121],"s":[{"n":"Chemical Sciences General Entry","u":"Dublin City University","uk":"dcu","c":"Dublin","f":"School of Chemical Sciences","d":"4 years (1+3: common first year, then choose Analytical Science, Chemical and Pharmaceutical Sciences, or Chemistry with Artificial Intelligence for years 2-4)","eu":2543,"ne":16900,"url":"https://www.dcu.ie/courses/undergraduate/school-chemical-sciences/chemical-sciences-general-entry"},{"n":"Biosciences","u":"Technological University Dublin","uk":"tud","c":"Dublin","f":"School of Biological, Health & Sports Sciences","d":"3 years (Level 7 Ordinary Degree), full-time, Grangegorman (TU751). Graduates who achieve 60%+ in Year 3 may progress to the 1-year Level 8 Honours add-on TU886 Biomolecular Science (Advanced Entry only, recorded separately in this dataset).","eu":3000,"ne":12500,"url":"https://www.tudublin.ie/study/undergraduate/courses/biosciences-tu751/"},{"n":"Paramedic Studies (Practitioner Entry)","u":"University College Cork","uk":"ucc","c":"Cork","f":"School of Medicine","d":"2 years, part-time (BSc (Hons), NFQ Level 8; application code BSCPST; practitioner-entry route restricted to registered practising paramedics holding a Level 7 Diploma in Emergency Medical Science/Technology or equivalent; does not lead to PHECC registration)","eu":3138,"ne":6500,"url":"https://www.ucc.ie/en/study/undergrad/courses/paramedicstudies/"},{"n":"Dental Nursing","u":"Trinity College Dublin","uk":"trinity","c":"Dublin","f":"School of Dental Science","d":"2 years","eu":3988,"ne":15060,"url":"https://www.tcd.ie/courses/undergraduate/courses/dental-nursing/"},{"n":"Nursing (General)","u":"University of Limerick","uk":"ul","c":"Limerick","f":"School of Nursing and Midwifery","d":"4 years, full-time (LM150; delivered with the HSE West; official fee page lists non-EU tuition as €0, indicating this HSE-linked CAO route has no genuine non-EU intake channel)","eu":4606,"ne":null,"url":"https://www.ul.ie/study/undergraduate/nursing-general-bsc"},{"n":"Psychology","u":"University College Dublin","uk":"ucd","c":"Dublin","f":"UCD School of Psychology","d":"3/4 Years, DN720","eu":5880,"ne":22600,"url":"https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=PCS2&AUDIENCE=EU"}]},"ie|bsc|arts":{"n":118,"eu":[29,112,117,117,117],"ne":[0,0,0,116,116],"s":[{"n":"Bachelor of Religious Education and English","u":"Dublin City University","uk":"dcu","c":"Dublin","f":"DCU Institute of Education","d":"4 years, full-time","eu":2543,"ne":16900,"url":"https://www.dcu.ie/courses/undergraduate/institute-education/religious-education-and-english"},{"n":"Visual Merchandising & Display","u":"Technological University Dublin","uk":"tud","c":"Dublin","f":"School of Art and Design","d":"3 years, 180 ECTS. NFQ Level 7 Ordinary Degree (course code TU795). Restricted entry - portfolio-adjacent admission via CAO. Grangegorman.","eu":3000,"ne":12500,"url":"https://www.tudublin.ie/study/undergraduate/courses/visual-merchandising-and-display-tu795/"},{"n":"Arts","u":"University of Limerick","uk":"ul","c":"Limerick","f":"Faculty of Arts, Humanities and Social Sciences","d":"4 years; common-entry degree (LM002) — students choose 4 subjects in Year 1, narrowing to 2 from Year 2 onward, among: Digital Culture and Communications, Economics, English, French, Gaeilge, Geography, German, History, Japanese, Linguistics with TESOL, Mathematics, Music and Dance, Politics and International Relations, Psychology, Public Administration and Leadership, Sociology, Spanish. Includes a work placement and a mandatory study-abroad semester.","eu":3058,"ne":17396,"url":"https://www.ul.ie/study/undergraduate/arts-ba"},{"n":"Arts","u":"University College Cork","uk":"ucc","c":"Cork","f":"College of Arts, Celtic Studies and Social Sciences","d":"3 years (CK101, BA Hons); common-entry, no single owning School - students choose 4 subjects in Year 1 from 6 groups: Group 1 (Asian Studies, Computer Science, History, Portuguese), Group 2a (History of Art), Group 2b (European Studies, Folklore, Gaeilge/Irish, Greek & Roman Civilisation, Studies in Psychology), Group 3 (Archaeology, Chinese Studies, German, Latin, Mathematical Studies, Politics), Group 4 (French, Sociology, Studies in Music), Group 5 (Bealoideas, Economics, English, Greek, Religions & Global Diversity), Group 6a (Geography, Italian), Group 6b (Celtic Civilisation, Philosophy, Spanish)","eu":3185,"ne":18500,"url":"https://www.ucc.ie/en/ck101/"},{"n":"History","u":"Trinity College Dublin","uk":"trinity","c":"Dublin","f":"School of Histories and Humanities","d":"4 years","eu":5681,"ne":22580,"url":"https://www.tcd.ie/courses/undergraduate/courses/history/"},{"n":"Art History","u":"University College Dublin","uk":"ucd","c":"Dublin","f":"UCD School of Art History and Cultural Policy","d":"3/4/8 Years","eu":5880,"ne":22600,"url":"https://www.ucd.ie/arthistory/study/undergraduateprogrammes/"}]},"ie|bsc|social":{"n":51,"eu":[15,41,49,49,49],"ne":[0,0,0,48,50],"s":[{"n":"Bachelor of Education in Early Childhood","u":"Dublin City University","uk":"dcu","c":"Dublin","f":"DCU Institute of Education","d":"4 years, full-time","eu":2543,"ne":16900,"url":"https://www.dcu.ie/courses/undergraduate/institute-education/early-childhood-education"},{"n":"Law","u":"Technological University Dublin","uk":"tud","c":"Dublin","f":"School of Social Sciences, Law and Education","d":"3 years, full-time (TU918), Grangegorman. Recognised by King's Inns as a qualifying law degree.","eu":3000,"ne":13500,"url":"https://www.tudublin.ie/study/undergraduate/courses/law-tu918/"},{"n":"Law Plus","u":"University of Limerick","uk":"ul","c":"Limerick","f":"School of Law","d":"4 years; flexible electives, practical legal skills, built-in work placement, optional Erasmus/Exchange","eu":3058,"ne":17396,"url":"https://www.ul.ie/study/undergraduate/law-plus-llb"},{"n":"Law (Pathways)","u":"University College Cork","uk":"ucc","c":"Cork","f":"School of Law","d":"3 years standard (CK301, BCL Hons); students may apply after Year 1 to transfer into the BCL (Clinical) or BCL (International) pathway, each of which extends the degree to 4 years","eu":3800,"ne":21700,"url":"https://www.ucc.ie/en/ck301/"},{"n":"Law","u":"Trinity College Dublin","uk":"trinity","c":"Dublin","f":"School of Law","d":"4 years","eu":5681,"ne":22580,"url":"https://www.tcd.ie/courses/undergraduate/courses/law/"},{"n":"Archaeology","u":"University College Dublin","uk":"ucd","c":"Dublin","f":"UCD School of Archaeology","d":"3/4/8 Years (DN520 BA / DN700 BSc common-entry routes into UCD's Social Sciences & Law omnibus degree; internal code AEJ1 has no separate fee line and is priced at the standard DN520/DN700 common-entry rate)","eu":5880,"ne":22600,"url":"https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=AEJ1"}]},"ie|msc|business":{"n":156,"eu":[0,9,85,145,147],"ne":[0,2,9,118,136],"s":[{"n":"Social Care Leadership and Management","u":"Technological University Dublin","uk":"tud","c":"Dublin","f":"School of Social Sciences, Law and Education","d":"2 years, part-time only (one half-day per week), 90 ECTS (TU394), Grangegorman, starting September. Not open to non-EU applicants not already resident in Ireland, since TU Dublin does not admit international (non-resident) students onto part-time on-campus programmes. Exit award: Postgraduate Diploma at 60 ECTS.","eu":3400,"ne":null,"url":"https://www.tudublin.ie/study/postgraduate/courses/social-care-leadership-and-management/"},{"n":"MSc in Education and Training Management (eLearning)","u":"Dublin City University","uk":"dcu","c":"Dublin","f":"DCU Institute of Education","d":"2 years, part-time","eu":4500,"ne":8700,"url":"https://www.dcu.ie/courses/postgraduate/institute-education/msc-education-and-training-management-elearning"},{"n":"Supply Chain Operations (Online)","u":"University of Limerick","uk":"ul","c":"Limerick","f":"Kemmy Business School","d":"2 years, part-time, fully online; also available via an Executive Apprenticeship route with potential funding coverage through SOLAS & HEA","eu":5250,"ne":5250,"url":"https://www.ul.ie/study/postgraduate/supply-chain-operations-msc-online"},{"n":"Graduate Diploma Economics","u":"University College Dublin","uk":"ucd","c":"Dublin","f":"UCD School of Economics","d":"Part-Time (2 Years)","eu":5325,"ne":7540,"url":"https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W318"},{"n":"Applied Coastal and Marine Management","u":"University College Cork","uk":"ucc","c":"Cork","f":"School of the Human Environment: Geography, Archaeology and Classics","d":"1 year full-time (MSc, CKE39); delivered by the Department of Geography with collaboration from Civil Engineering and Biology departments","eu":8100,"ne":18500,"url":"https://www.ucc.ie/en/cke39/"},{"n":"Health Policy and Management","u":"Trinity College Dublin","uk":"trinity","c":"Dublin","f":"School of Medicine","d":"1 year full-time (2 years part-time)","eu":11480,"ne":22960,"url":"https://www.tcd.ie/courses/postgraduate/courses/health-policy-and-management-msc/"}]},"ie|msc|engineering":{"n":173,"eu":[2,12,160,164,164],"ne":[0,2,10,87,154],"s":[{"n":"Equipment Systems Engineer (Apprenticeship)","u":"University of Limerick","uk":"ul","c":"Limerick","f":"School of Engineering","d":"2 years, part-time, work-based apprenticeship (MEng)","eu":900,"ne":null,"url":"https://www.ul.ie/study/postgraduate/equipment-systems-engineer-meng-apprenticeship"},{"n":"Pharmaceutical Validation Technology","u":"Technological University Dublin","uk":"tud","c":"Dublin","f":"School of Chemical & BioPharmaceutical Sciences","d":"3 years, part-time, delivered fully online, Grangegorman (TU289), January intake. No full-time version identified; non-EU fee not clearly stated on the programme's own page.","eu":2940,"ne":null,"url":"https://www.tudublin.ie/study/postgraduate/courses/pharmaceutical-validation-technology/"},{"n":"Redesigning the Post-Industrial City (RePIC)","u":"University College Cork","uk":"ucc","c":"Cork","f":"School of Engineering and Architecture","d":"2 years full-time, 120 credits (MSc); jointly delivered with UCC's Department of Geography and the UNIC European university alliance (8 partner universities), with mobility across partner campuses; total programme cost is EU €9,000 / Non-EU €18,000 over the 2 years","eu":4500,"ne":9000,"url":"https://www.ucc.ie/en/repic/"},{"n":"MSc in Financial Mathematics","u":"Dublin City University","uk":"dcu","c":"Dublin","f":"School of Mathematical Sciences","d":"1 year full-time (2 years part-time option also available)","eu":6700,"ne":17700,"url":"https://www.dcu.ie/courses/postgraduate/school-mathematical-sciences/msc-financial-mathematics"},{"n":"Cybersecurity","u":"University College Dublin","uk":"ucd","c":"Dublin","f":"UCD School of Computer Science","d":"Blended, Part Time, 2 Years","eu":7355,"ne":10760,"url":"https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T380"},{"n":"History of Art and Architecture","u":"Trinity College Dublin","uk":"trinity","c":"Dublin","f":"School of Histories and Humanities","d":"1 year full-time (2 years part-time)","eu":8000,"ne":16500,"url":"https://www.tcd.ie/courses/postgraduate/courses/history-of-art-and-architecture-mphil--pgraddip/"}]},"ie|msc|health":{"n":204,"eu":[2,24,134,148,148],"ne":[0,10,35,117,144],"s":[{"n":"Midwifery (Direct Entry to Year 2)","u":"University College Cork","uk":"ucc","c":"Cork","f":"School of Nursing & Midwifery","d":"1 year, part-time (direct entry to year 2 for holders of a relevant Postgraduate/Higher Diploma)","eu":2700,"ne":5700,"url":"https://www.ucc.ie/en/nursingmidwifery/study/postgrad/midwifery/"},{"n":"Clinical Laboratory Science","u":"Technological University Dublin","uk":"tud","c":"Dublin","f":"School of Biological, Health & Sports Sciences","d":"2 years, part-time, mixed online & on-campus delivery, Grangegorman (TU287), September intake. The programme's own page states non-EU students not resident in Ireland are not eligible to apply for this on-campus part-time delivery.","eu":4000,"ne":null,"url":"https://www.tudublin.ie/study/postgraduate/courses/clinical-laboratory-science/"},{"n":"Psychology of Global Mobility, Inclusion and Diversity in Society (Global-MINDS)","u":"University of Limerick","uk":"ul","c":"Limerick","f":"Department of Psychology","d":"2 years, full-time; Erasmus Mundus joint programme delivered with ISCTE-University Institute of Lisbon, University of Oslo and SWPS University","eu":4500,"ne":9000,"url":"https://www.ul.ie/study/postgraduate/psychology-of-global-mobility-inclusion-and-diversity-in-society-erasmus-mundus-msc"},{"n":"MSc in Health and Social Inclusion","u":"Dublin City University","uk":"dcu","c":"Dublin","f":"School of Nursing, Psychotherapy and Community Health","d":"2 years, part-time only (no full-time option)","eu":4800,"ne":9400,"url":"https://www.dcu.ie/courses/postgraduate/school-nursing-psychotherapy-and-community-health/msc-health-and-social"},{"n":"Hospital Pharmacy","u":"Trinity College Dublin","uk":"trinity","c":"Dublin","f":"School of Pharmacy and Pharmaceutical Sciences","d":"2 years part-time","eu":5410,"ne":null,"url":"https://www.tcd.ie/courses/postgraduate/courses/hospital-pharmacy-msc/"},{"n":"Critical Care Nursing","u":"University College Dublin","uk":"ucd","c":"Dublin","f":"UCD School of Nursing, Midwifery and Health Systems","d":"1 year, part-time","eu":5520,"ne":5520,"url":"https://www.ucd.ie/students/fees/eucoursefees/eugraduatetaughtfees202627/"}]},"ie|msc|arts":{"n":157,"eu":[1,10,146,150,150],"ne":[0,0,7,148,148],"s":[{"n":"Local History (MA)","u":"University College Cork","uk":"ucc","c":"Cork","f":"School of History","d":"2 years, part-time only, no full-time option (CKE43)","eu":2700,"ne":null,"url":"https://www.ucc.ie/en/history/graduatestudies/mainlocalhistory/"},{"n":"Local History","u":"University of Limerick","uk":"ul","c":"Limerick","f":"School of History and Geography","d":"2 years, part-time only (no full-time option offered)","eu":4500,"ne":9900,"url":"https://www.ul.ie/study/postgraduate/local-history-ma"},{"n":"Ethics","u":"Dublin City University","uk":"dcu","c":"Dublin","f":"School of Theology, Philosophy and Music","d":"2 years, part-time only; no full-time option (six taught modules plus a minor thesis)","eu":4500,"ne":8500,"url":"https://www.dcu.ie/courses/postgraduate/school-theology-philosophy-and-music/ma-ethics"},{"n":"Irish-Medium and Gaeltacht Education","u":"Trinity College Dublin","uk":"trinity","c":"Dublin","f":"School of Education","d":"2 years, part-time","eu":4730,"ne":null,"url":"https://www.tcd.ie/courses/postgraduate/courses/irish-medium-and-gaeltacht-education-med/"},{"n":"International War Studies","u":"University College Dublin","uk":"ucd","c":"Dublin","f":"UCD School of History","d":"2 years full-time","eu":4755,"ne":11300,"url":"https://www.ucd.ie/history/study/postgraduateprogrammes/"},{"n":"Art and the Environment","u":"Technological University Dublin","uk":"tud","c":"Dublin","f":"School of Art and Design","d":"1 year full-time, September to September, 3 modules (25+25 ECTS taught plus a 40 ECTS research project). Course code TU290. Described as the only archipelagic Master's degree on the island of Ireland - delivered across Grangegorman, Cork and Sherkin Island in partnership with Uillinn: West Cork Arts Centre and Sherkin Island Development Society.","eu":5500,"ne":14500,"url":"https://www.tudublin.ie/explore/faculties-and-schools/arts-humanities/schools/art-and-design/news/ma-art-and-environment-open-day.php"}]},"ie|msc|social":{"n":128,"eu":[0,20,90,97,97],"ne":[0,5,22,98,98],"s":[{"n":"Master in Theology","u":"Trinity College Dublin","uk":"trinity","c":"Dublin","f":"School of Religion, Theology and Peace Studies","d":"3 years part-time (Mode A) / 4 years part-time (Mode B)","eu":3790,"ne":3790,"url":"https://www.tcd.ie/courses/postgraduate/courses/master-in-theology/"},{"n":"Professional Diploma Education Studies","u":"University College Dublin","uk":"ucd","c":"Dublin","f":"UCD School of Education","d":"1 Year (Part-Time)","eu":4010,"ne":7540,"url":"https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W314"},{"n":"Education (School Leadership)","u":"University of Limerick","uk":"ul","c":"Limerick","f":"School of Education","d":"1 year, part-time, blended delivery, starting in January","eu":4060,"ne":4000,"url":"https://www.ul.ie/study/postgraduate/education-school-leadership-med"},{"n":"Master of Education","u":"Dublin City University","uk":"dcu","c":"Dublin","f":"DCU Institute of Education","d":"2 years, part-time. Students choose a specialisation pathway: Educational Leadership or STEM Education","eu":4500,"ne":8700,"url":"https://www.dcu.ie/courses/postgraduate/institute-education/master-education"},{"n":"Law (Professional)","u":"Technological University Dublin","uk":"tud","c":"Dublin","f":"School of Social Sciences, Law and Education","d":"2 years, full-time, 120 ECTS (TU323), Grangegorman, starting September. Primarily for graduates whose undergraduate degree is not in law; prepares for FE-1/King's Inns entry. A separate 1-year Postgraduate Diploma in Law (TU319, non-EU total approx. €11,000) is a standalone conversion award and also the entry route into Year 2 of this Master's.","eu":5600,"ne":13500,"url":"https://www.tudublin.ie/study/postgraduate/courses/law-professional/"},{"n":"Social Policy and Social Justice (Online) (MSocSc)","u":"University College Cork","uk":"ucc","c":"Cork","f":"School of Applied Social Studies","d":"1 year full-time; 2-3 years part-time (part-time EU fee is 3,400/yr, MSOCSJ, fully online)","eu":6400,"ne":15700,"url":"https://www.ucc.ie/en/msocsj/"}]}}};
+
+const nf = n => n.toLocaleString('en-US');
+document.getElementById('yr').textContent = new Date().getFullYear();
+
+/* ---- animated ticker numbers ---- */
+function countUp(el, target, suffix){
+  const dur = 1100, t0 = performance.now();
+  (function tick(t){
+    const p = Math.min(1,(t-t0)/dur), e = 1-Math.pow(1-p,3);
+    el.innerHTML = '<em>'+nf(Math.round(target*e))+(suffix||'')+'</em>';
+    if(p<1) requestAnimationFrame(tick);
+  })(t0);
+}
+countUp(document.getElementById('tkAll'), NC.totals.all, '+');
+countUp(document.getElementById('tkUni'), NC.totals.unis);
+
+/* ---- reveal on scroll ---- */
+const io = new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}}),{threshold:.12});
+document.querySelectorAll('.rv').forEach(el=>io.observe(el));
+
+/* ---- country tiles ---- */
+const CTRY = [
+  {k:'pt',name:'Portugal',status:'Open now',
+   sub:()=>'<b>'+nf(NC.totals.pt)+'</b> English-taught programmes · 8 universities'},
+  {k:'ie',name:'Ireland',status:'Open now',
+   sub:()=>'<b>'+nf(NC.totals.ie)+'</b> English-taught programmes · 6 universities'},
+];
+document.getElementById('ctry').innerHTML = CTRY.map(c=>{
+  const live = !c.note;
+  const unis = live ? Object.values(NC.unis).filter(u=>u.country===c.k)
+    .sort((a,b)=>b.n-a.n).map(u=>'<span>'+u.name+'</span>').join('') : '';
+  return '<div class="ctile '+c.k+'"><div class="flagbar"></div>'+
+    '<div class="ch"><h3>'+c.name+'</h3><span class="status'+(live?'':' soon')+'">'+c.status+'</span></div>'+
+    (live ? '<div class="cnum">'+c.sub()+'</div><div class="unis">'+unis+'</div>'
+          : '<div class="soonnote" style="margin-top:10px">'+c.note+'</div>')+
+    '</div>';
+}).join('');
+
+/* ══════════ PROGRAMME FINDER ══════════ */
+const DISC = {
+  business:['Business & Economics','Management, finance, marketing, accounting, tourism'],
+  engineering:['Engineering, Computing & Maths','Software, civil, mechanical, data, architecture, physics'],
+  health:['Health & Life Sciences','Medicine, nursing, pharmacy, biology, food, psychology'],
+  arts:['Arts, Humanities & Design','Design, media, music, languages, history, film'],
+  social:['Law, Social Sciences & Education','Law, politics, sociology, teaching, communication'],
+};
+const BAND_LABEL = ['Under €3,000','Under €6,000','Under €12,000','Under €25,000','No limit'];
+
+const S = {country:null, level:null, disc:null, passport:null, band:null};
+let step = 0, unlocked = false;
+const body = document.getElementById('finderBody');
+const rail = document.getElementById('rail');
+
+function setRail(){
+  rail.querySelectorAll('i').forEach((i,ix)=>i.classList.toggle('on', ix<=Math.min(step,4)));
+  document.getElementById('railTxt').textContent = step>=5 ? 'Your shortlist' : 'Step '+(step+1)+' of 5';
+  body.classList.toggle('result', step>=5);
+}
+function opt(val, k, v, extra){
+  return '<button class="opt'+(extra&&extra.soon?' soon':'')+'" data-v="'+val+'"'+(extra&&extra.soon?' disabled':'')+'>'+
+    (extra&&extra.badge?'<span class="badge">'+extra.badge+'</span>':'')+
+    '<span class="k">'+k+'</span><span class="v">'+v+'</span></button>';
+}
+function backBtn(){ return '<button class="back" data-back>← Back</button>'; }
+
+function render(){
+  setRail();
+  if(step===0){
+    body.innerHTML = '<div class="q-label">Where do you want to study?</div>'+
+      '<div class="q-hint">Five questions, about thirty seconds, and a real shortlist at the end.</div>'+
+      '<div class="opts c3">'+
+      opt('pt','Portugal','Lower tuition and cost of living. Lisbon, Porto, Évora, Faro, Braga.')+
+      opt('ie','Ireland','English-speaking, strong tech and pharma job market. Dublin, Cork, Limerick.')+
+      opt('any','Show me both','Compare side by side and decide once you see the fees.')+
+      '</div>';
+  } else if(step===1){
+    body.innerHTML = '<div class="q-label">Which level?</div>'+
+      '<div class="q-hint">Pick the degree you\'d be starting.</div>'+
+      '<div class="opts c2">'+
+      opt('bsc',"Bachelor's","Your first degree. Typically 3–4 years.")+
+      opt('msc',"Master's","Postgraduate. Typically 1–2 years — includes integrated master’s.")+
+      '</div>'+backBtn();
+  } else if(step===2){
+    body.innerHTML = '<div class="q-label">What field?</div>'+
+      '<div class="q-hint">Roughly is fine — we\'ll refine it when we talk.</div>'+
+      '<div class="opts c5">'+
+      Object.entries(DISC).map(([k,v])=>opt(k,v[0],v[1])).join('')+
+      '</div>'+backBtn();
+  } else if(step===3){
+    body.innerHTML = '<div class="q-label">What passport do you hold?</div>'+
+      '<div class="q-hint">This changes tuition more than anything else — often by a factor of five.</div>'+
+      '<div class="opts c2">'+
+      opt('ne','Non-EU passport','International rate. We’ll show you the cheapest routes first.')+
+      opt('eu','EU passport','You pay the domestic rate at both Portuguese and Irish universities.')+
+      '</div>'+backBtn();
+  } else if(step===4){
+    body.innerHTML = '<div class="q-label">Your tuition budget, per year?</div>'+
+      '<div class="q-hint">Tuition only — we\'ll talk about living costs separately.</div>'+
+      '<div class="opts c5">'+
+      BAND_LABEL.map((l,i)=>opt(String(i), l, i===4?'Show everything we have':'per year')).join('')+
+      '</div>'+backBtn();
+  } else {
+    renderResult();
+  }
+  body.querySelectorAll('.opt:not(.soon)').forEach(b=>b.onclick=()=>{
+    const v=b.dataset.v;
+    if(step===0)S.country=v; else if(step===1)S.level=v; else if(step===2)S.disc=v;
+    else if(step===3)S.passport=v; else if(step===4)S.band=+v;
+    step++; render();
+  });
+  const bk = body.querySelector('[data-back]'); if(bk) bk.onclick=()=>{step--;render();};
+}
+
+function matches(){
+  const cs = S.country==='any' ? ['pt','ie'] : [S.country];
+  let n=0, samples=[];
+  cs.forEach(c=>{
+    const b = NC.b[c+'|'+S.level+'|'+S.disc];
+    if(!b) return;
+    n += b[S.passport][S.band];
+    const cap = NC.bands[S.band];
+    samples = samples.concat(b.s.filter(x=>{
+      const f = x[S.passport];
+      return f!==null && (cap===null || f<=cap);
+    }));
+  });
+  samples.sort((a,b)=>a[S.passport]-b[S.passport]);
+  return {n, samples};
+}
+function fee(v){ return v===null||v===undefined ? 'Not published' : '€'+nf(v); }
+
+function card(x){
+  const other = S.passport==='eu' ? x.ne : x.eu;
+  return '<div class="pcard"><div class="u">'+x.u+' · '+x.c+'</div>'+
+    '<div class="n">'+x.n+'</div>'+
+    '<div class="f">'+x.f+'</div>'+
+    '<div class="meta">'+
+      '<div><b>'+fee(x[S.passport])+'</b>'+(S.passport==='eu'?'EU tuition / year':'International tuition / year')+'</div>'+
+      '<div><b>'+(x.d? x.d.split(',')[0] : '—')+'</b>Duration</div>'+
+    '</div></div>';
+}
+
+function renderResult(){
+  const {n, samples} = matches();
+  const [dName] = DISC[S.disc];
+  const cLabel = S.country==='pt'?'Portugal':S.country==='ie'?'Ireland':'Portugal & Ireland';
+  const lLabel = S.level==='bsc'?"Bachelor's":"Master's";
+  const pLabel = S.passport==='eu'?'EU passport':'Non-EU passport';
+
+  if(n===0){
+    body.innerHTML = '<div class="q-label">Nothing matched — and that\'s useful to know.</div>'+
+      '<div class="q-hint" style="max-width:560px">No '+lLabel+' in '+dName+' in '+cLabel+' comes in under that budget in our database. Widen the budget, or send us your details and we’ll look at scholarships and the other country.</div>'+
+      '<div class="res-actions"><a class="btn btn-primary" href="#talk">Talk to an advisor <span class="arw">→</span></a>'+
+      '<button class="btn btn-ghost" data-restart>Start over</button></div>'+backBtn();
+    body.querySelector('[data-back]').onclick=()=>{step--;render();};
+    body.querySelector('[data-restart]').onclick=restart;
+    return;
+  }
+
+  const shown = unlocked ? samples.slice(0,6) : samples.slice(0,2);
+  const hidden = Math.max(0, n - shown.length);
+
+  body.innerHTML =
+    '<div class="res-top">'+
+      '<div class="res-n">'+n+' <small>'+lLabel+' programme'+(n===1?'':'s')+' in '+dName.toLowerCase()+' match what you told us.</small></div>'+
+      '<div class="chips"><span class="chip">'+cLabel+'</span><span class="chip">'+lLabel+'</span>'+
+      '<span class="chip">'+dName+'</span><span class="chip">'+pLabel+'</span>'+
+      '<span class="chip">'+BAND_LABEL[S.band]+(S.band<4?'/yr':'')+'</span></div>'+
+    '</div>'+
+    '<div class="cards">'+shown.map(card).join('')+'</div>'+
+    (hidden>0 && !unlocked ?
+      '<div class="locked">'+
+        '<div class="blur">'+
+          samples.slice(2,7).concat([{n:'—',eu:0,ne:0}]).slice(0,5).map(x=>
+            '<div class="lrow"><span>'+(x.n||'Programme')+'</span><span>'+fee(x[S.passport])+'</span></div>').join('')+
+        '</div>'+
+        '<div class="gate">'+
+          '<div class="gt">'+hidden+' more match — where should we send them?</div>'+
+          '<div class="gs">We’ll email the full shortlist with fees, durations and deadlines, plus an honest note on where you’d be competitive. No cost, and no obligation.</div>'+
+          '<form class="gform" id="gateForm">'+
+            '<input type="text" name="name" placeholder="First name" required />'+
+            '<input type="email" name="email" placeholder="Email address" required />'+
+            '<button class="btn btn-primary" type="submit">Send it <span class="arw">→</span></button>'+
+          '</form>'+
+          '<div class="gfoot">Prototype: nothing is sent yet — wire this to your inbox or CRM before launch.</div>'+
+        '</div>'+
+      '</div>' : '')+
+    (unlocked ? '<div class="gfoot" style="margin-top:12px">Full shortlist of '+n+' programmes is on its way to your inbox.</div>' : '')+
+    '<div class="res-actions">'+
+      '<a class="btn btn-dark" href="#talk">Talk to an advisor <span class="arw">→</span></a>'+
+      '<button class="btn btn-ghost" data-restart>Change my answers</button>'+
+    '</div>';
+
+  body.querySelector('[data-restart]').onclick=restart;
+  const gf = document.getElementById('gateForm');
+  if(gf) gf.onsubmit = e=>{ e.preventDefault(); unlocked = true; renderResult(); };
+}
+function restart(){ step=0; unlocked=false; S.country=S.level=S.disc=S.passport=null; S.band=null; render();
+  document.getElementById('finder').scrollIntoView({behavior:'smooth',block:'start'}); }
+
+render();
+
+/* ══════════ PACKAGE BUILDER ══════════
+   One source of truth for the service selection, mirrored in two places:
+   the pricing card and the chips inside the enquiry form.            */
+const SERVICES = [
+  {id:'admission', name:'Admission &amp; visa documents', short:'Admission & visa documents', price:400},
+  {id:'pickup',    name:'Airport pickup',                short:'Airport pickup',              price:50},
+  {id:'temp',      name:'Temporary accommodation',       short:'Temporary accommodation',     price:50},
+  {id:'room',      name:'Finding your room',             short:'Finding your room',           price:100},
+  {id:'extra',     name:'Additional services',           short:'Additional services',         price:null},
+];
+const picked = {admission:true, pickup:true, temp:true, room:true, extra:false};
+const CHECK = '<svg viewBox="0 0 12 12" fill="none"><path d="M2 6.2 4.6 8.8 10 3.4" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+const TICK2 = '<svg class="tick2" viewBox="0 0 12 12" fill="none" style="vertical-align:-1px"><path d="M2 6.2 4.6 8.8 10 3.4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+
+const rowsEl = document.getElementById('bundleRows');
+const pickEl = document.getElementById('svcPick');
+
+function chosen(){ return SERVICES.filter(s=>picked[s.id]); }
+
+function paintServices(){
+  rowsEl.innerHTML = SERVICES.map(s=>
+    '<button type="button" class="brow '+(picked[s.id]?'on':'off')+'" data-svc="'+s.id+'">'+
+      '<span class="bx">'+CHECK+'</span>'+
+      '<span class="nm">'+s.name+'</span>'+
+      '<b>'+(s.price===null?'Quoted':'€'+s.price)+'</b>'+
+    '</button>').join('');
+
+  pickEl.innerHTML = SERVICES.map(s=>
+    '<button type="button" class="pick '+(picked[s.id]?'on':'')+'" data-svc="'+s.id+'">'+
+      TICK2+s.short+(s.price===null?'':' · €'+s.price)+
+    '</button>').join('');
+
+  const sel = chosen();
+  const total = sel.reduce((n,s)=>n+(s.price||0),0);
+  document.getElementById('bundleTotal').textContent = sel.length ? '€'+nf(total) : '—';
+  const note = document.getElementById('bundleNote');
+  if(!sel.length) note.textContent = 'Select at least one service to see a total.';
+  else if(picked.extra) note.textContent = 'Plus any additional services, quoted before we start.';
+  else note.textContent = 'Fees you pay to others — application fees, rent, hostel bill — are not included.';
+
+  document.getElementById('svcHidden').value = sel.map(s=>s.short).join(', ');
+  document.querySelectorAll('[data-svc]').forEach(b=>{
+    b.onclick = ()=>{ picked[b.dataset.svc] = !picked[b.dataset.svc]; paintServices(); };
+  });
+}
+paintServices();
+
+document.getElementById('askBtn').onclick = ()=>{
+  document.getElementById('talk').scrollIntoView({behavior:'smooth',block:'start'});
+  setTimeout(()=>{ const n=document.querySelector('#mainForm [name=name]'); if(n) n.focus({preventScroll:true}); }, 650);
+};
+
+/* ---- main inquiry form (cosmetic prototype: nothing is sent anywhere) ---- */
+document.getElementById('mainForm').addEventListener('submit', e=>{
+  e.preventDefault();
+  const f = e.target;
+  if(!f.name.value.trim() || !f.email.value.trim()){ f.reportValidity(); return; }
+  const sel = chosen();
+  document.getElementById('thanksSvc').textContent = sel.length
+    ? 'Noted: ' + sel.map(s=>s.short).join(', ') + '.'
+    : '';
+  document.getElementById('formInner').style.display='none';
+  document.getElementById('thanksMain').style.display='block';
+});
+</script>
+</body>
+</html>

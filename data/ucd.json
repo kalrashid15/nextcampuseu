@@ -1,0 +1,6315 @@
+[
+  {
+    "course_name": "Commerce",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD Lochlann Quinn School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23170,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (4 years with internship)",
+    "source_url": "https://www.ucd.ie/quinn/courses/bachelorofcommercebcomm/"
+  },
+  {
+    "course_name": "Commerce International",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD Lochlann Quinn School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23170,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ucd.ie/quinn/courses/commerceinternational/"
+  },
+  {
+    "course_name": "Business and Law",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD Lochlann Quinn School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ucd.ie/quinn/courses/businessandlaw/"
+  },
+  {
+    "course_name": "Economics and Finance",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD Lochlann Quinn School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23170,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (4 years with internship)",
+    "source_url": "https://www.ucd.ie/quinn/courses/economicsandfinance/"
+  },
+  {
+    "course_name": "BSc Business (non-EU applicants only)",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD Lochlann Quinn School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23170,
+        "period": "year"
+      }
+    },
+    "duration": "3 years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B722&AUDIENCE=NONEU"
+  },
+  {
+    "course_name": "Bachelor of Business Studies (Part-Time)",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD Lochlann Quinn School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3690,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7790,
+        "period": "year"
+      }
+    },
+    "duration": "4 years part-time overall (Level 7 Diploma in years 1-2, Level 8 Bachelor's in years 3-4); fees shown are for the Bachelor's (BBS) stage",
+    "source_url": "https://www.ucd.ie/quinn/courses/part-timediplomadegreedbsbbs/"
+  },
+  {
+    "course_name": "Master of Accounting",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16150,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23870,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/masterofaccounting/eligibilityfees/"
+  },
+  {
+    "course_name": "Accounting and Financial Management",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16150,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23870,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/mscinaccountingandfinancialmanagement/eligibilityfees/"
+  },
+  {
+    "course_name": "Aviation Finance",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 19990,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28980,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (24 months part-time option available)",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/mscinaviationfinance/eligibilityfees/"
+  },
+  {
+    "course_name": "Finance",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 19990,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28980,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (24 months part-time option available)",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/mscinfinance/eligibilityfees/"
+  },
+  {
+    "course_name": "Financial Data Science",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 19990,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28980,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (24 months part-time option available)",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/mscinfinancialdatascience/eligibilityfees/"
+  },
+  {
+    "course_name": "Quantitative Finance",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 19990,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28980,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (24 months part-time option available)",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/mscinquantitativefinance/eligibilityfees/"
+  },
+  {
+    "course_name": "Sustainable Finance",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 19990,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23870,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (24 months part-time option available)",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/mscinsustainablefinance/eligibilityfees/"
+  },
+  {
+    "course_name": "Human Resource Management",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16150,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23870,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (24 months part-time option available)",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/mscinhumanresourcemanagement/eligibilityfees/"
+  },
+  {
+    "course_name": "Food Business Strategy",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16150,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23410,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/mscinfoodbusinessstrategy/eligibilityfees/"
+  },
+  {
+    "course_name": "International Business",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16150,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23870,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (24 months part-time option available)",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/mscininternationalbusiness/eligibilityfees/"
+  },
+  {
+    "course_name": "International Management / CEMS MIM",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 17750,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 26180,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/cemsmastersininternationalmanagement/eligibilityfees/"
+  },
+  {
+    "course_name": "Management",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16150,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23870,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/mscinmanagement/eligibilityfees/"
+  },
+  {
+    "course_name": "Management Online",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8830,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 8830,
+        "period": "year"
+      }
+    },
+    "duration": "21 months, part-time, online",
+    "source_url": "https://www.smurfitschool.ie/programmes/parttimemasters/mscinmanagementonline/eligibilityfees/"
+  },
+  {
+    "course_name": "Management Consultancy",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16150,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23870,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (24 months part-time option available)",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/mscinmanagementconsultancy/eligibilityfees/"
+  },
+  {
+    "course_name": "Project Management",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16150,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23870,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (24 months part-time online option available)",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/mscinprojectmanagement/eligibilityfees/"
+  },
+  {
+    "course_name": "Project Management Online (Part-Time)",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8830,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 11950,
+        "period": "year"
+      }
+    },
+    "duration": "24 months, part-time, online",
+    "source_url": "https://www.smurfitschool.ie/programmes/parttimemasters/mscinprojectmanagementonline/eligibilityfees/"
+  },
+  {
+    "course_name": "Strategic Management",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16150,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23870,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (24 months part-time option available)",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/mscstrategicmanagement/eligibilityfees/"
+  },
+  {
+    "course_name": "Sustainable Supply Chain Management",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16150,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23870,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (24 months part-time option available)",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/mscinsustainablesupplychainmanagement/eligibilityfees/"
+  },
+  {
+    "course_name": "MBA (Full-Time)",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 38860,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 38860,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time",
+    "source_url": "https://www.smurfitschool.ie/programmes/thesmurfitmba/fulltimemba/admissionsfees/"
+  },
+  {
+    "course_name": "MBA (Executive)",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 19410,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19410,
+        "period": "year"
+      }
+    },
+    "duration": "24 months, part-time (weekend, monthly)",
+    "source_url": "https://www.smurfitschool.ie/programmes/thesmurfitmba/modularexecutivemba/admissionsfees/"
+  },
+  {
+    "course_name": "Business Analytics",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 17750,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 26180,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (24 months part-time option available)",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/mscinbusinessanalytics/eligibilityfees/"
+  },
+  {
+    "course_name": "Digital Innovation",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16150,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23870,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (24 months part-time option available)",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/mscindigitalinnovation/eligibilityfees/"
+  },
+  {
+    "course_name": "Digital Marketing",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16150,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 25620,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/mscindigitalmarketing/eligibilityfees/"
+  },
+  {
+    "course_name": "Marketing",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16150,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23870,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/mscinmarketing/eligibilityfees/"
+  },
+  {
+    "course_name": "Marketing and Retail Innovation",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16150,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23870,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/mscinmarketingandretailinnovation/eligibilityfees/"
+  },
+  {
+    "course_name": "Marketing Practice",
+    "degree_level": "Master's",
+    "faculty": "UCD Michael Smurfit Graduate Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16150,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23870,
+        "period": "year"
+      }
+    },
+    "duration": "11 months full-time",
+    "source_url": "https://www.smurfitschool.ie/programmes/masters/mscinmarketingpractice/eligibilityfees/"
+  },
+  {
+    "course_name": "Art History",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Art History and Cultural Policy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4/8 Years",
+    "source_url": "https://www.ucd.ie/arthistory/study/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "Creative & Cultural Industries",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Art History and Cultural Policy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years",
+    "source_url": "https://www.ucd.ie/arthistory/study/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "Classics, Art History & Archaeology",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Art History and Cultural Policy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years",
+    "source_url": "https://www.ucd.ie/arthistory/study/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "Classics (Greek & Roman Civilisation, Latin, Greek)",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Classics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4/8 Years",
+    "source_url": "https://www.ucd.ie/classics/study/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "Greek",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Classics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4 Years",
+    "source_url": "https://www.ucd.ie/classics/study/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "Drama Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of English, Drama and Film",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4 Years",
+    "source_url": "https://www.ucd.ie/englishdramafilm/studywithus/undergraduate/"
+  },
+  {
+    "course_name": "English",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of English, Drama and Film",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4/8 Years",
+    "source_url": "https://www.ucd.ie/englishdramafilm/studywithus/undergraduate/"
+  },
+  {
+    "course_name": "English Literature",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of English, Drama and Film",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years",
+    "source_url": "https://www.ucd.ie/englishdramafilm/studywithus/undergraduate/"
+  },
+  {
+    "course_name": "English with Creative Writing",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of English, Drama and Film",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years",
+    "source_url": "https://www.ucd.ie/englishdramafilm/studywithus/undergraduate/"
+  },
+  {
+    "course_name": "English, Drama & Film",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of English, Drama and Film",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years",
+    "source_url": "https://www.ucd.ie/englishdramafilm/studywithus/undergraduate/"
+  },
+  {
+    "course_name": "Film Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of English, Drama and Film",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4 Years",
+    "source_url": "https://www.ucd.ie/englishdramafilm/studywithus/undergraduate/"
+  },
+  {
+    "course_name": "History",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4/8 Years (available via BA Joint Honours DN520 or BA Humanities DN530)",
+    "source_url": "https://www.ucd.ie/history/study/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "History & Politics",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years",
+    "source_url": "https://www.ucd.ie/history/study/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "Global Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years",
+    "source_url": "https://www.ucd.ie/history/study/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "Classics, English & History",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CF&LEVEL=UG&ROWS=200"
+  },
+  {
+    "course_name": "Modern Irish",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Irish, Celtic Studies and Folklore",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4 Years",
+    "source_url": "https://www.ucd.ie/icsf/en/studywithus/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "Celtic Civilisation",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Irish, Celtic Studies and Folklore",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4/8 Years",
+    "source_url": "https://www.ucd.ie/icsf/en/studywithus/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "Irish Folklore",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Irish, Celtic Studies and Folklore",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4/8 Years",
+    "source_url": "https://www.ucd.ie/icsf/en/studywithus/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "Irish Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Irish, Celtic Studies and Folklore",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years",
+    "source_url": "https://www.ucd.ie/icsf/en/studywithus/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "An Ghaeilge & An Cultúr",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Irish, Celtic Studies and Folklore",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years",
+    "source_url": "https://www.ucd.ie/icsf/en/studywithus/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "Modern Languages",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Languages, Cultures and Linguistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years",
+    "source_url": "https://www.ucd.ie/slcl/study/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "Languages, Linguistics & Cultures",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Languages, Cultures and Linguistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years",
+    "source_url": "https://www.ucd.ie/slcl/study/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "European Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Languages, Cultures and Linguistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years",
+    "source_url": "https://www.ucd.ie/slcl/study/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "French",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Languages, Cultures and Linguistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4/8 Years",
+    "source_url": "https://www.ucd.ie/slcl/study/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "German",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Languages, Cultures and Linguistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4/8 Years",
+    "source_url": "https://www.ucd.ie/slcl/study/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "Italian",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Languages, Cultures and Linguistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4/8 Years",
+    "source_url": "https://www.ucd.ie/slcl/study/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "Linguistics",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Languages, Cultures and Linguistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4/8 Years",
+    "source_url": "https://www.ucd.ie/slcl/study/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "Portuguese",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Languages, Cultures and Linguistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3 Years",
+    "source_url": "https://www.ucd.ie/slcl/study/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "Spanish",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Languages, Cultures and Linguistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4/8 Years",
+    "source_url": "https://www.ucd.ie/slcl/study/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "Music",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Music",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4 Years",
+    "source_url": "https://www.ucd.ie/music/study/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "Music, Film & Drama",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Music",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years",
+    "source_url": "https://www.ucd.ie/music/study/undergraduateprogrammes/"
+  },
+  {
+    "course_name": "Art History, Collections and Curating",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Art History and Cultural Policy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.ucd.ie/arthistory/study/graduateprogrammes/"
+  },
+  {
+    "course_name": "Cultural Policy and Arts Management",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Art History and Cultural Policy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (3 years part-time)",
+    "source_url": "https://www.ucd.ie/arthistory/study/graduateprogrammes/"
+  },
+  {
+    "course_name": "Classics",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Classics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.ucd.ie/classics/study/postgraduateprogrammes/"
+  },
+  {
+    "course_name": "Creative Writing (MA)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of English, Drama and Film",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.ucd.ie/englishdramafilm/studywithus/postgraduate/"
+  },
+  {
+    "course_name": "Creative Writing (MFA)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of English, Drama and Film",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.ucd.ie/englishdramafilm/studywithus/postgraduate/"
+  },
+  {
+    "course_name": "Gender, Sexuality and Culture",
+    "degree_level": "Master's",
+    "faculty": "UCD School of English, Drama and Film",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.ucd.ie/englishdramafilm/studywithus/postgraduate/"
+  },
+  {
+    "course_name": "Literature and Culture",
+    "degree_level": "Master's",
+    "faculty": "UCD School of English, Drama and Film",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.ucd.ie/englishdramafilm/studywithus/postgraduate/"
+  },
+  {
+    "course_name": "Theatre Practice",
+    "degree_level": "Master's",
+    "faculty": "UCD School of English, Drama and Film",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.ucd.ie/englishdramafilm/studywithus/postgraduate/"
+  },
+  {
+    "course_name": "Writing for Stage and Screen",
+    "degree_level": "Master's",
+    "faculty": "UCD School of English, Drama and Film",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.ucd.ie/englishdramafilm/studywithus/postgraduate/"
+  },
+  {
+    "course_name": "Archives and Records Management",
+    "degree_level": "Master's",
+    "faculty": "UCD School of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12025,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.ucd.ie/history/study/postgraduateprogrammes/"
+  },
+  {
+    "course_name": "European History (UNICA)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time",
+    "source_url": "https://www.ucd.ie/history/study/postgraduateprogrammes/"
+  },
+  {
+    "course_name": "Global History",
+    "degree_level": "Master's",
+    "faculty": "UCD School of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.ucd.ie/history/study/postgraduateprogrammes/"
+  },
+  {
+    "course_name": "History of Welfare and Medicine in Society",
+    "degree_level": "Master's",
+    "faculty": "UCD School of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.ucd.ie/history/study/postgraduateprogrammes/"
+  },
+  {
+    "course_name": "International War Studies",
+    "degree_level": "Master's",
+    "faculty": "UCD School of History",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4755,
+        "year_2": 4660
+      },
+      "non_eu_students": {
+        "year_1": 11300,
+        "year_2": 11300
+      }
+    },
+    "duration": "2 years full-time",
+    "source_url": "https://www.ucd.ie/history/study/postgraduateprogrammes/"
+  },
+  {
+    "course_name": "Irish History",
+    "degree_level": "Master's",
+    "faculty": "UCD School of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.ucd.ie/history/study/postgraduateprogrammes/"
+  },
+  {
+    "course_name": "Medieval Studies",
+    "degree_level": "Master's",
+    "faculty": "UCD School of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.ucd.ie/history/study/postgraduateprogrammes/"
+  },
+  {
+    "course_name": "Public History",
+    "degree_level": "Master's",
+    "faculty": "UCD School of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.ucd.ie/history/study/postgraduateprogrammes/"
+  },
+  {
+    "course_name": "Irish Folklore and Ethnology",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Irish, Celtic Studies and Folklore",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.ucd.ie/icsf/en/studywithus/graduateprogrammes/"
+  },
+  {
+    "course_name": "Irish Studies",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Irish, Celtic Studies and Folklore",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.ucd.ie/icsf/en/studywithus/graduateprogrammes/"
+  },
+  {
+    "course_name": "Writing and Communication in Irish",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Irish, Celtic Studies and Folklore",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.ucd.ie/icsf/en/studywithus/graduateprogrammes/"
+  },
+  {
+    "course_name": "Modern Irish",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Irish, Celtic Studies and Folklore",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.ucd.ie/icsf/en/studywithus/graduateprogrammes/"
+  },
+  {
+    "course_name": "Languages and Image Studies",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Languages, Cultures and Linguistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.ucd.ie/slcl/study/postgraduatetaughtprogrammes/"
+  },
+  {
+    "course_name": "Linguistics and Applied Linguistics",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Languages, Cultures and Linguistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.ucd.ie/slcl/study/postgraduatetaughtprogrammes/"
+  },
+  {
+    "course_name": "Music and Culture",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Music",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.ucd.ie/music/study/graduateprogrammes/"
+  },
+  {
+    "course_name": "Agricultural Systems Technology",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Biosystems and Food Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (a specialisation stream within the DN250 Agricultural Science common-entry programme)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=ETS2"
+  },
+  {
+    "course_name": "Architecture",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Architecture, Planning and Environmental Policy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=ATS4"
+  },
+  {
+    "course_name": "Automotive Engineering (Non-EU applicants only)",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Mechanical and Materials Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=NMS4"
+  },
+  {
+    "course_name": "Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD College of Engineering and Architecture (common-entry programme, DN150; administered by the College Office rather than one School)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (DN150 common entry: shared first year, then students choose one specialisation stream: Biomedical Engineering, Chemical & Bioprocess Engineering, Civil Engineering, Electrical/Electronic Engineering, Mechanical Engineering, Structural Engineering with Architecture, or Sustainable Systems Engineering, each delivered by its own School)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=NUS1"
+  },
+  {
+    "course_name": "City Planning & Environmental Policy",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Architecture, Planning and Environmental Policy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=RCS3"
+  },
+  {
+    "course_name": "Civil Engineering Infrastructure (Non-EU applicants only)",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Civil Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=NVS6"
+  },
+  {
+    "course_name": "Landscape Architecture",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Architecture, Planning and Environmental Policy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LDS2"
+  },
+  {
+    "course_name": "Electrical Power Engineering",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Electrical and Electronic Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 9720,
+        "year_2": 9230
+      },
+      "non_eu_students": {
+        "year_1": 29500,
+        "year_2": 29100
+      }
+    },
+    "duration": "2 years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T335"
+  },
+  {
+    "course_name": "Biopharmaceutical Engineering",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Chemical and Bioprocess Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time option available)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T070"
+  },
+  {
+    "course_name": "Chemical Engineering",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Chemical and Bioprocess Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T218"
+  },
+  {
+    "course_name": "Electrical Power Networks",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Electrical and Electronic Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T378"
+  },
+  {
+    "course_name": "Electronic & Computer Engineering (MEngSc)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Electrical and Electronic Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T257"
+  },
+  {
+    "course_name": "Engineering Management",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Mechanical and Materials Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T288"
+  },
+  {
+    "course_name": "Food Engineering",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Biosystems and Food Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X082"
+  },
+  {
+    "course_name": "Materials Science and Engineering (MEngSc)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Mechanical and Materials Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T286"
+  },
+  {
+    "course_name": "Structural Engineering",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Civil Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time option available)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T279"
+  },
+  {
+    "course_name": "Water and Environmental Engineering",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Civil Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time option available)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T430"
+  },
+  {
+    "course_name": "Sustainability Engineering Leadership",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Biosystems and Food Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "2 years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T414"
+  },
+  {
+    "course_name": "Architecture, Urbanism & Climate Action",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Architecture, Planning and Environmental Policy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T339"
+  },
+  {
+    "course_name": "Digital Technology for Sustainable Agriculture",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Biosystems and Food Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T385"
+  },
+  {
+    "course_name": "Environmental Policy, Strategy & Leadership",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Architecture, Planning and Environmental Policy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time option available)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T431"
+  },
+  {
+    "course_name": "Environmental Technology",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Biosystems and Food Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X565"
+  },
+  {
+    "course_name": "Global Change Landscape Design",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Architecture, Planning and Environmental Policy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10770,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time option available)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T407"
+  },
+  {
+    "course_name": "Sustainable Energy & Green Technologies",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Biosystems and Food Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X413"
+  },
+  {
+    "course_name": "Urban Design & Planning",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Architecture, Planning and Environmental Policy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W332"
+  },
+  {
+    "course_name": "Master of Architecture",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Architecture, Planning and Environmental Policy",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 9720,
+        "year_2": 9230
+      },
+      "non_eu_students": {
+        "year_1": 29500,
+        "year_2": 29100
+      }
+    },
+    "duration": "2 years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T273"
+  },
+  {
+    "course_name": "Master of Regional & Urban Planning",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Architecture, Planning and Environmental Policy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10770,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time option available)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T399"
+  },
+  {
+    "course_name": "Biomedical Engineering",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Electrical and Electronic Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 9720,
+        "year_2": 9230
+      },
+      "non_eu_students": {
+        "year_1": 29500,
+        "year_2": 29100
+      }
+    },
+    "duration": "2 years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T160"
+  },
+  {
+    "course_name": "Biosystems & Food Engineering",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Biosystems and Food Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 9720,
+        "year_2": 9230
+      },
+      "non_eu_students": {
+        "year_1": 29500,
+        "year_2": 29100
+      }
+    },
+    "duration": "2 years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T299"
+  },
+  {
+    "course_name": "Civil Engineering",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Civil Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "2 years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T308"
+  },
+  {
+    "course_name": "Civil, Structural & Environmental Engineering",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Civil Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "2 years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T298"
+  },
+  {
+    "course_name": "Electronic & Computer Engineering (ME)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Electrical and Electronic Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 9720,
+        "year_2": 9230
+      },
+      "non_eu_students": {
+        "year_1": 29500,
+        "year_2": 29100
+      }
+    },
+    "duration": "2 years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T163"
+  },
+  {
+    "course_name": "Energy Systems Engineering",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Mechanical and Materials Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "2 years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T164"
+  },
+  {
+    "course_name": "Engineering with Business",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Mechanical and Materials Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 9720,
+        "year_2": 9230
+      },
+      "non_eu_students": {
+        "year_1": 29500,
+        "year_2": 29100
+      }
+    },
+    "duration": "2 years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T166"
+  },
+  {
+    "course_name": "Materials Science and Engineering (ME)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Mechanical and Materials Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 9720,
+        "year_2": 9230
+      },
+      "non_eu_students": {
+        "year_1": 29500,
+        "year_2": 29100
+      }
+    },
+    "duration": "2 years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T275"
+  },
+  {
+    "course_name": "Mechanical Engineering",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Mechanical and Materials Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 9720,
+        "year_2": 9230
+      },
+      "non_eu_students": {
+        "year_1": 29500,
+        "year_2": 29100
+      }
+    },
+    "duration": "2 years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T165"
+  },
+  {
+    "course_name": "Robotics and Intelligent Manufacturing",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Mechanical and Materials Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10035,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 25350,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T405"
+  },
+  {
+    "course_name": "Agri-Environmental Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Animal Science",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Animal & Crop Production",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Animal Science - Equine",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Crop Science",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Dairy Business",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Food & Agribusiness Management",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Food Business with Chinese Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Food Science",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Forestry",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Horticulture",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Human Nutrition",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Sustainable Food Systems",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=UG&ROWS=200"
+  },
+  {
+    "course_name": "Veterinary Medicine",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Veterinary Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10004,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 38000,
+        "period": "year"
+      }
+    },
+    "duration": "5 years, full-time (undergraduate direct entry, MVB)",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Veterinary Medicine (Graduate Entry)",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Veterinary Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 25118,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 44880,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (graduate entry, MVB)",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Veterinary Nursing",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Veterinary Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7574,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Midwifery",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Nursing, Midwifery and Health Systems",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7360,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Nursing (Children's & General)",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Nursing, Midwifery and Health Systems",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7360,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Nursing (General)",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Nursing, Midwifery and Health Systems",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7360,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Nursing (Mental Health)",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Nursing, Midwifery and Health Systems",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7360,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Physiotherapy",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Public Health, Physiotherapy and Sports Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8958,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Sport & Exercise Management",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Public Health, Physiotherapy and Sports Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Sport, Health & Exercise Science",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Public Health, Physiotherapy and Sports Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "3 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Medicine",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8958,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 63890,
+        "period": "year"
+      }
+    },
+    "duration": "6 years, full-time (undergraduate direct entry, MB BCh BAO)",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Medicine (Graduate Entry)",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 19260,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 66360,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (graduate entry, MB BCh BAO)",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Medicine UCD Penang (MDSF)",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 years, full-time (MB BCh BAO, delivered jointly with MAHSA University, Penang, Malaysia)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=UG&ROWS=200"
+  },
+  {
+    "course_name": "Physiology",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=UG&ROWS=200"
+  },
+  {
+    "course_name": "Radiography",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8958,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 36250,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Diagnostic Radiography (Graduate Entry)",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 14820,
+        "year_2": 14535
+      },
+      "non_eu_students": {
+        "year_1": 32880,
+        "year_2": 32240
+      }
+    },
+    "duration": "3 years, full-time (fee also has a distinct, lower Year 3 rate not representable in this schema's two-tier fee shape: EU 7,090/non-EU 16,120)",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Biomedical, Health & Life Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/euundergraduatefees202627/"
+  },
+  {
+    "course_name": "Advanced Practice Midwifery",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Nursing, Midwifery and Health Systems",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 6000,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/eugraduatetaughtfees202627/"
+  },
+  {
+    "course_name": "Critical Care Nursing",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Nursing, Midwifery and Health Systems",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5520,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5520,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, part-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/eugraduatetaughtfees202627/"
+  },
+  {
+    "course_name": "Gerontological Care",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Nursing, Midwifery and Health Systems",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5520,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5520,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/eugraduatetaughtfees202627/"
+  },
+  {
+    "course_name": "Leadership, Innovation & Management for Healthcare",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Nursing, Midwifery and Health Systems",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "3 years, part-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Nursing (Public Health Nursing)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Nursing, Midwifery and Health Systems",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5520,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 14755,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/eugraduatetaughtfees202627/"
+  },
+  {
+    "course_name": "Advanced Practice (Nursing)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Nursing, Midwifery and Health Systems",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 6000,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/eugraduatetaughtfees202627/"
+  },
+  {
+    "course_name": "Nursing (Clinical Practice)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Nursing, Midwifery and Health Systems",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5520,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5520,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, part-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/eugraduatetaughtfees202627/"
+  },
+  {
+    "course_name": "Palliative Care",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Nursing, Midwifery and Health Systems",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5520,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5520,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, part-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/eugraduatetaughtfees202627/"
+  },
+  {
+    "course_name": "Epidemiology",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Public Health, Physiotherapy and Sports Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10670,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22765,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (MPH)",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/eugraduatetaughtfees202627/"
+  },
+  {
+    "course_name": "European Master in Public Health (Europubhealth+)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Public Health, Physiotherapy and Sports Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, full-time (MPH, Erasmus Mundus joint programme)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Global Health",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Public Health, Physiotherapy and Sports Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10670,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22765,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time / 2 years part-time (MPH; part-time EU/non-EU rate is 5,160/14,755 per year)",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/eugraduatetaughtfees202627/"
+  },
+  {
+    "course_name": "Public Health",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Public Health, Physiotherapy and Sports Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10670,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22765,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time / 2 years part-time (MPH; part-time EU/non-EU rate is 5,160/14,755 per year)",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/eugraduatetaughtfees202627/"
+  },
+  {
+    "course_name": "Public Health (Nutrition)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Public Health, Physiotherapy and Sports Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10670,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22765,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time / 2 years part-time (MPH; part-time EU/non-EU rate is 5,160/14,755 per year)",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/eugraduatetaughtfees202627/"
+  },
+  {
+    "course_name": "Clinical Nutrition & Dietetics",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Public Health, Physiotherapy and Sports Science",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 15155,
+        "year_2": 14790
+      },
+      "non_eu_students": {
+        "year_1": 29500,
+        "year_2": 29100
+      }
+    },
+    "duration": "2 years, full-time",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/eugraduatetaughtfees202627/"
+  },
+  {
+    "course_name": "Occupational Medicine",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Public Health, Physiotherapy and Sports Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, part-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Occupational Safety & Health (Full-Time)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Public Health, Physiotherapy and Sports Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Occupational Safety & Health (Part-Time)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Public Health, Physiotherapy and Sports Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Sport Management (Sport)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Public Health, Physiotherapy and Sports Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10670,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22310,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time / 2 years part-time (part-time EU/non-EU rate is 5,160/14,755 per year)",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/eugraduatetaughtfees202627/"
+  },
+  {
+    "course_name": "Physiotherapy",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Public Health, Physiotherapy and Sports Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 17300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "year_1": 29500,
+        "year_2": 29100
+      }
+    },
+    "duration": "2 years, full-time (Professional Masters, entry-level qualifying degree)",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/eugraduatetaughtfees202627/"
+  },
+  {
+    "course_name": "Coaching Science in Sport",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Public Health, Physiotherapy and Sports Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10670,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22310,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (assumed, consistent with comparable MSc programmes in this School)",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/eugraduatetaughtfees202627/"
+  },
+  {
+    "course_name": "Agricultural Extension and Innovation",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10640,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time / 2 years part-time (MAgrSc)",
+    "source_url": "https://www.ucd.ie/students/fees/eucoursefees/eugraduatetaughtfees202627/"
+  },
+  {
+    "course_name": "Agroforestry",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Animal Science",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time / 2 years part-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Crop Science",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Environmental Resource Management",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, full-time (MSc(Agr))",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Food Regulatory Affairs",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Food Safety",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Food Science with Nutrition",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Food, Nutrition & Health",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Horticulture",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Sustainable Agriculture and Rural Development",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time / 2 years part-time (MSc(Agr))",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Wildlife Conservation and Management",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "UCD Teagasc Knowledge Transfer Funded Masters",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, full-time (MAgrSc)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Humanitarian Action",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Humanitarian Action (2 Years)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Agriculture and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, full-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Artificial Intelligence for Medicine & Medical Research (Full-Time)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Artificial Intelligence for Medicine & Medical Research (Part-Time)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Child Art Psychotherapy Studies",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Child Art Psychotherapy",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 years, part-time (Professional Masters)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Computed Tomography",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "16 months, full-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Group Analytic Psychotherapy",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "6 years, part-time (Professional Masters)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Clinical & Diagnostic Biochemistry",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Clinical & Translational Research",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Experimental Physiology",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Healthcare Informatics",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Healthcare Risk Management & Quality",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, part-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Medical Imaging (Part-Time)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Precision Medicine",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Magnetic Resonance Imaging",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "16 months, full-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Medical Imaging",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time / 2 years part-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Ultrasound",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "18 months, full-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "One Health",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Primary Care (Orthopaedics & Musculoskeletal Medicine)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Psychoanalytic Psychotherapy",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 years, part-time (Professional Masters)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Psychoanalytic Psychotherapy Studies",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Systemic Psychotherapy (Individual, Couple & Families)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 years, part-time (Professional Masters)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&COLLEGE=CZ&LEVEL=GT&ROWS=200"
+  },
+  {
+    "course_name": "Science",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD College of Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, DN200 common entry (Omnibus). Final-year exit awards/majors span UCD School of Biology and Environmental Science, UCD School of Biomolecular and Biomedical Science, UCD School of Chemistry, UCD School of Earth Sciences, UCD School of Mathematics and Statistics and UCD School of Physics (Computer Science DN201, Actuarial & Financial Studies DN230 and Sustainability DN240 are separate CAO codes with their own fee lines and are recorded as separate programmes)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=SCU1"
+  },
+  {
+    "course_name": "Computer Science",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Computer Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7574,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, DN201 (includes a Computer Science with Data Science & Artificial Intelligence stream option under the same CAO code/fee line)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=CSSA"
+  },
+  {
+    "course_name": "Actuarial & Financial Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Mathematics and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, DN230",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=BSS3"
+  },
+  {
+    "course_name": "Sustainability",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD College of Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": 26200,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, DN240 (streams: Business & Economics / Environmental Sciences / Social Sciences, Policy & Law)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=STS1"
+  },
+  {
+    "course_name": "Actuarial Science",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Mathematics and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 15155,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 25950,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F034"
+  },
+  {
+    "course_name": "Advanced Artificial Intelligence",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Computer Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 31780,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T413"
+  },
+  {
+    "course_name": "Advanced Synthetic Chemistry",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Chemistry",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10670,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F267"
+  },
+  {
+    "course_name": "Applied Environmental Science",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Biology and Environmental Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F311"
+  },
+  {
+    "course_name": "Applied Mathematics & Theoretical Physics",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10670,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F124"
+  },
+  {
+    "course_name": "Biological & Biomolecular Science (Negotiated Learning)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Biology and Environmental Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F104"
+  },
+  {
+    "course_name": "Biotechnology",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Biomolecular and Biomedical Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 13065,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X439"
+  },
+  {
+    "course_name": "Biotechnology & Business",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Biomolecular and Biomedical Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16730,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X447"
+  },
+  {
+    "course_name": "Biotherapeutics",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Biomolecular and Biomedical Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 13065,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F102"
+  },
+  {
+    "course_name": "Biotherapeutics & Business",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Biomolecular and Biomedical Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16730,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F103"
+  },
+  {
+    "course_name": "Computational Physics",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10670,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F120"
+  },
+  {
+    "course_name": "Computer Science (Conversion)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Computer Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "16 Months",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T195"
+  },
+  {
+    "course_name": "Cybersecurity",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Computer Science",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 7355,
+        "year_2": 7170
+      },
+      "non_eu_students": {
+        "year_1": 10760,
+        "year_2": 10610
+      }
+    },
+    "duration": "Blended, Part Time, 2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T380"
+  },
+  {
+    "course_name": "Data & Computational Science",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Mathematics and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27720,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T306"
+  },
+  {
+    "course_name": "Data Science",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Mathematics and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "Online, Part Time, 2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F275"
+  },
+  {
+    "course_name": "Environmental Sustainability (Negotiated Learning)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Biology and Environmental Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "Online, FT 2 Years / PT 4 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F058"
+  },
+  {
+    "course_name": "Financial Mathematics",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Mathematics and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22845,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T341"
+  },
+  {
+    "course_name": "Forensic Computing & Cybercrime Investigation",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Computer Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11595,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 11595,
+        "period": "year"
+      }
+    },
+    "duration": "Online, FT 1 Year / PT 2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T146"
+  },
+  {
+    "course_name": "Global Change: Ecosystem Science & Policy",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Biology and Environmental Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "16 Months",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F038"
+  },
+  {
+    "course_name": "Artificial Intelligence for Weather & Climate Change",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Mathematics and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27720,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F297"
+  },
+  {
+    "course_name": "Computer Science (Negotiated Learning)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Computer Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 31780,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT (PT route EU applicants only)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T150"
+  },
+  {
+    "course_name": "Medical Physics",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10670,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T342"
+  },
+  {
+    "course_name": "NanoBio Science",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10670,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T149"
+  },
+  {
+    "course_name": "Nanotechnology",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10670,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F122"
+  },
+  {
+    "course_name": "Physics (Negotiated Learning)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10670,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F012"
+  },
+  {
+    "course_name": "Plant Biology & Biotechnology",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Biology and Environmental Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F080"
+  },
+  {
+    "course_name": "Regulatory Affairs & Toxicology",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Biomolecular and Biomedical Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F167"
+  },
+  {
+    "course_name": "Space Science & Technology",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10670,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29500,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F060"
+  },
+  {
+    "course_name": "Statistical Data Science",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Mathematics and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27720,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T387"
+  },
+  {
+    "course_name": "Subsurface Geomodelling",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Earth Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 25310,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F283"
+  },
+  {
+    "course_name": "Environmental & Engineering Geoscience",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Earth Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9720,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 25310,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F290"
+  },
+  {
+    "course_name": "Archaeology",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Archaeology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4/8 Years (DN520 BA / DN700 BSc common-entry routes into UCD's Social Sciences & Law omnibus degree; internal code AEJ1 has no separate fee line and is priced at the standard DN520/DN700 common-entry rate)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=AEJ1"
+  },
+  {
+    "course_name": "GC Hunter-Gatherer Archaeology & Anthropology",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Archaeology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W614"
+  },
+  {
+    "course_name": "Grad Cert Experimental Archaeology & Material Culture",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Archaeology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W499"
+  },
+  {
+    "course_name": "Grad Dip Mediterranean Archaeology",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Archaeology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W631"
+  },
+  {
+    "course_name": "Graduate Diploma World Heritage Conservation",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Archaeology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F041"
+  },
+  {
+    "course_name": "Graduate Diploma Archaeology",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Archaeology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7325,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15070,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W493"
+  },
+  {
+    "course_name": "Graduate Diploma Hunter-Gatherer Archaeology",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Archaeology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7325,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15070,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W503"
+  },
+  {
+    "course_name": "Graduate Diploma in Experimental Archaeology & Material Culture",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Archaeology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7325,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15070,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W373"
+  },
+  {
+    "course_name": "Graduate Diploma World Heritage Management",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Archaeology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8780,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15070,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X139"
+  },
+  {
+    "course_name": "Higher Diploma Archaeology",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Archaeology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7325,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15070,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z212"
+  },
+  {
+    "course_name": "MSc Archaeology",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Archaeology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W491"
+  },
+  {
+    "course_name": "MSc Hunter-Gatherer Archaeology",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Archaeology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W501"
+  },
+  {
+    "course_name": "MSc Mediterranean Archaeology",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Archaeology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W629"
+  },
+  {
+    "course_name": "MSc World Heritage Management & Conservation",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Archaeology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F098"
+  },
+  {
+    "course_name": "MSc in Experimental Archaeology & Material Culture",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Archaeology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W349"
+  },
+  {
+    "course_name": "Economics",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3 Years (DN700 common-entry / DN710 direct-entry routes; code ECS4)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=ECS4"
+  },
+  {
+    "course_name": "Economics, Mathematics and Statistics",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years (DN700 BSc Social Sciences common-entry stream, jointly delivered with UCD School of Mathematics and Statistics; code EMS1)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=EMS1"
+  },
+  {
+    "course_name": "HDip Economics",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15070,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W015"
+  },
+  {
+    "course_name": "Graduate Diploma Economics",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5325,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7540,
+        "period": "year"
+      }
+    },
+    "duration": "Part-Time (2 Years)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W318"
+  },
+  {
+    "course_name": "MSc Applied Economics",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 13065,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W369"
+  },
+  {
+    "course_name": "MSc Behavioural Economics",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 13065,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W376"
+  },
+  {
+    "course_name": "MSc Economics and Data Analytics",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 13065,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W564"
+  },
+  {
+    "course_name": "MSc Quantitative Economics",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 13065,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W352"
+  },
+  {
+    "course_name": "Education, Gaeilge &/or Modern Languages",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years (BEd, DN760)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=EDS3"
+  },
+  {
+    "course_name": "Graduate Diploma Inclusive & Special Education",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8025,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15070,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W424"
+  },
+  {
+    "course_name": "MEd (Leadership)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8025,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W328"
+  },
+  {
+    "course_name": "MA Education",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W027"
+  },
+  {
+    "course_name": "MA Education (Mentoring, Leading & Global Learning)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": 7530,
+        "period": "year"
+      }
+    },
+    "duration": "Part-Time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W546"
+  },
+  {
+    "course_name": "MEd",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": 11300,
+        "period": "year"
+      }
+    },
+    "duration": "Part-Time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W030"
+  },
+  {
+    "course_name": "MSc Education, Children & Youth",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W480"
+  },
+  {
+    "course_name": "MSc Mathematics & Science Education",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7770,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W397"
+  },
+  {
+    "course_name": "MSc Multilingual Education",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W628"
+  },
+  {
+    "course_name": "Master of Education Leadership & Inclusion",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "Part-Time",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W488"
+  },
+  {
+    "course_name": "Professional Diploma Education - Leadership",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4090,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year (Part-Time)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W342"
+  },
+  {
+    "course_name": "Professional Diploma Education Studies",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4010,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7540,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year (Part-Time)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W314"
+  },
+  {
+    "course_name": "Professional Diploma Middle Leadership",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4090,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year (Part-Time)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W489"
+  },
+  {
+    "course_name": "Professional Master of Education",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7770,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W327"
+  },
+  {
+    "course_name": "Geography",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4/8 Years (DN520 BA / DN700 BSc common-entry routes; codes GGC1/GGJ1)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=GGC1"
+  },
+  {
+    "course_name": "Critical Geographies: Crises, Climate & Inequality",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W589"
+  },
+  {
+    "course_name": "MA Geography",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W051"
+  },
+  {
+    "course_name": "MA Geopolitics & the Global Economy",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W262"
+  },
+  {
+    "course_name": "MSc Applied Catchment Science & Management",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W626"
+  },
+  {
+    "course_name": "MSc GIS & Remote Sensing",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W599"
+  },
+  {
+    "course_name": "Graduate Diploma - GIS and Remote Sensing",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W549"
+  },
+  {
+    "course_name": "MSc Geospatial Data Analysis",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W477"
+  },
+  {
+    "course_name": "MSc Risk, Resilience & Sustainability",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W464"
+  },
+  {
+    "course_name": "MSc Urban Data Analytics",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W601"
+  },
+  {
+    "course_name": "Information & Communication Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Information and Communication Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4 Years (DN520 BA / DN700 BSc common-entry routes; codes ICC4/ICJ4)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=ICC4"
+  },
+  {
+    "course_name": "Grad Dip Communication and Media",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Information and Communication Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7610,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W442"
+  },
+  {
+    "course_name": "Grad Dip Digital & AI Policy",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Information and Communication Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7610,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15070,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W624"
+  },
+  {
+    "course_name": "Grad Dip Information Systems",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Information and Communication Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7610,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15070,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W329"
+  },
+  {
+    "course_name": "Grad Dip Library & Information Studies",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Information and Communication Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7610,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15070,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W041"
+  },
+  {
+    "course_name": "Graduate Diploma Digital Policy",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Information and Communication Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7610,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15070,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W507"
+  },
+  {
+    "course_name": "Master of Library & Information Studies",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Information and Communication Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W006"
+  },
+  {
+    "course_name": "MSc Communication and Media",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Information and Communication Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W440"
+  },
+  {
+    "course_name": "MSc Digital & AI Policy",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Information and Communication Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W622"
+  },
+  {
+    "course_name": "MSc Digital Policy",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Information and Communication Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W471"
+  },
+  {
+    "course_name": "MSc Human Computer Interaction",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Information and Communication Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24700,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W521"
+  },
+  {
+    "course_name": "MSc Information Systems",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Information and Communication Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24700,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W267"
+  },
+  {
+    "course_name": "Law",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years (BCL, DN600)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LWS6"
+  },
+  {
+    "course_name": "Law Dual Degree – BCL/Maîtrise",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years (BCL Maitrise, DN615/DN600)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LWS3"
+  },
+  {
+    "course_name": "Law with Economics",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years (BCL, DN600)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LWW4"
+  },
+  {
+    "course_name": "Law with French Law",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years (BCL, DN600)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LWS2"
+  },
+  {
+    "course_name": "Law with History",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years (BCL, DN600)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LWW2"
+  },
+  {
+    "course_name": "Law with Irish",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years (BCL, DN600)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LWWB"
+  },
+  {
+    "course_name": "Law with Philosophy",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years (BCL, DN600)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LWW1"
+  },
+  {
+    "course_name": "Law with Politics",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years (BCL, DN600)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LWW3"
+  },
+  {
+    "course_name": "Law with Social Justice",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years (BCL, DN600)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LWW9"
+  },
+  {
+    "course_name": "Criminology & Criminal Justice (MSc)",
+    "degree_level": "Master's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12025,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B220"
+  },
+  {
+    "course_name": "Criminology & Criminal Justice (LLM)",
+    "degree_level": "Master's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12025,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B292"
+  },
+  {
+    "course_name": "Data Protection Law & Governance",
+    "degree_level": "Master's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": 7540,
+        "period": "year"
+      }
+    },
+    "duration": "9 Months (Part-Time)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B659"
+  },
+  {
+    "course_name": "Diploma in Arbitration",
+    "degree_level": "Master's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": 7540,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year (Part-Time)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B640"
+  },
+  {
+    "course_name": "Dispute Resolution (Mediation)",
+    "degree_level": "Master's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 Year (Part-Time, Online)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B761"
+  },
+  {
+    "course_name": "EU Law & Governance",
+    "degree_level": "Master's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12025,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B820"
+  },
+  {
+    "course_name": "Environmental & Climate Law",
+    "degree_level": "Master's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12025,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 12025,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B783"
+  },
+  {
+    "course_name": "Intellectual Property & Information Technology",
+    "degree_level": "Master's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12025,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B296"
+  },
+  {
+    "course_name": "International Financial Services Law",
+    "degree_level": "Master's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 Year (codes W435, W388)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W435"
+  },
+  {
+    "course_name": "International Human Rights",
+    "degree_level": "Master's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12025,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B440"
+  },
+  {
+    "course_name": "International Law & Business",
+    "degree_level": "Master's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16475,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B438"
+  },
+  {
+    "course_name": "LLM General",
+    "degree_level": "Master's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12025,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B294"
+  },
+  {
+    "course_name": "LLM International Commercial Law FT",
+    "degree_level": "Master's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12025,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1/2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B453"
+  },
+  {
+    "course_name": "Law (Professional Certificate)",
+    "degree_level": "Master's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": 3010,
+        "period": "year"
+      }
+    },
+    "duration": "4 Months (Part-Time)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B400"
+  },
+  {
+    "course_name": "Law (Graduate Diploma)",
+    "degree_level": "Master's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B064"
+  },
+  {
+    "course_name": "MSc European Governance",
+    "degree_level": "Master's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 Years",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W351"
+  },
+  {
+    "course_name": "Masters Common Law",
+    "degree_level": "Master's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8780,
+        "year_2": 8445
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "2 Years (MCL)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B209"
+  },
+  {
+    "course_name": "Professional Diploma Dispute Resolution (Mediation)",
+    "degree_level": "Master's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B778"
+  },
+  {
+    "course_name": "Professional Diploma in Law",
+    "degree_level": "Master's",
+    "faculty": "UCD Sutherland School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": 7540,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B389"
+  },
+  {
+    "course_name": "Philosophy",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4/8 Years (BA Joint Honours DN520 or BSc Social Sciences DN700 common entry)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=PLJ1&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Philosophy, Politics and Economics",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Philosophy and UCD School of Politics and International Relations (joint programme with School of Economics)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years, DN700 (direct entry or via BSc Social Sciences common entry)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=COS1&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Politics & International Relations",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years, DN700 (direct entry or via BSc Social Sciences common entry)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=PTJ3&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Politics and International Relations (Non-EU)",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3 Years (direct-entry pathway offered only to Non-EU applicants, distinct from the 4-year DN700 common-entry route)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=PTS5&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Psychology",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4 Years, DN720",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=PCS2&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Social Justice",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Social Policy, Social Work and Social Justice",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years, DN700 (direct entry or via BSc Social Sciences common entry)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=SJJ1&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Social Policy and Sociology",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Social Policy, Social Work and Social Justice and UCD School of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3 Years, DN750 (BSocSc)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=SBU2&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Sociology",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "3/4/8 Years (BA Joint Honours DN520 or BSc Social Sciences DN700 common entry)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=SOJ1&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Computational Social Science",
+    "degree_level": "Bachelor's",
+    "faculty": "UCD School of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5880,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "4 Years, DN700 (direct entry or via BSc Social Sciences common entry)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=SCS1&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Contemporary European Philosophy",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W456&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Ethics: Theory and Practice",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W398&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Philosophy",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W021&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Philosophy & Literature",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W179&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Philosophy of Mind and Embodied Cognition",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5710,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT (EU intake currently Part-Time only)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W596&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Philosophy & Public Affairs",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W182&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Cognitive Science",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W358&AUDIENCE=EU"
+  },
+  {
+    "course_name": "European Politics & Policy (MA)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT (MA)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W346&AUDIENCE=EU"
+  },
+  {
+    "course_name": "European Politics & Policy (MSc)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT (MSc)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W344&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Gender, Politics and International Relations",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT (MA)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W458&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Gender, Politics & International Relations",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT (MSc)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W525&AUDIENCE=EU"
+  },
+  {
+    "course_name": "International Development (MA)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT (MA)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W301&AUDIENCE=EU"
+  },
+  {
+    "course_name": "International Development (MSc)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT (MSc)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W303&AUDIENCE=EU"
+  },
+  {
+    "course_name": "International Political Economy (MA)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT (MA)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W290&AUDIENCE=EU"
+  },
+  {
+    "course_name": "International Political Economy (MSc)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT (MSc)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W293&AUDIENCE=EU"
+  },
+  {
+    "course_name": "International Relations (MA)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT (MA)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W235&AUDIENCE=EU"
+  },
+  {
+    "course_name": "International Relations (MSc)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT (MSc)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W036&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Middle East Politics",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W393&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Peace and Conflict (MA)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT (MA)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W410&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Peace and Conflict (MSc)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT (MSc)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W408&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Political Theory",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W277&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Politics (MA)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT (MA)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W023&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Politics (MSc)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT (MSc)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W233&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Politics & International Relations",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6710,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 11300,
+        "period": "year"
+      }
+    },
+    "duration": "2 Years, Part-Time only",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W292&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Politics & Data Science",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W473&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Human Rights",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Politics and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W035&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Sociology (MA)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT (MA)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W438&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Sociology (MSc)",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT (MSc)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W436&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Comparative Social Change",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10350,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18790,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W360&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Sustainable Societies",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W618&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Equality Studies",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Social Policy, Social Work and Social Justice",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W105&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Gender Studies",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Social Policy, Social Work and Social Justice",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9515,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W383&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Gender and Sexualities Studies",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Social Policy, Social Work and Social Justice",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=SJC3&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Public Policy",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Social Policy, Social Work and Social Justice",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 Year FT / 2 Years PT",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W279&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Social Work",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Social Policy, Social Work and Social Justice",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 Years (Professional Master's)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W426&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Welfare & Justice",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Social Policy, Social Work and Social Justice",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 Year (MSocSc)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W585&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Behavioural Neuroscience",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12025,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24870,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W461&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Disability",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10555,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22600,
+        "period": "year"
+      }
+    },
+    "duration": "1 Year",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W530&AUDIENCE=EU"
+  },
+  {
+    "course_name": "Psychological Science",
+    "degree_level": "Master's",
+    "faculty": "UCD School of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 Year (MPsychSc)",
+    "source_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W241&AUDIENCE=EU"
+  }
+]

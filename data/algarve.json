@@ -1,0 +1,1928 @@
+[
+  {
+    "course_name": "Economics",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1440"
+  },
+  {
+    "course_name": "Medicine",
+    "degree_level": "Integrated Master's (Mestrado Integrado, 1st+2nd cycle)",
+    "faculty": "Faculty of Medicine and Biomedical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "12 semesters (6 years), 360 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1916"
+  },
+  {
+    "course_name": "Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Management, Hospitality and Tourism",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1418"
+  },
+  {
+    "course_name": "Informatics",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1478"
+  },
+  {
+    "course_name": "Nursing",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "8 semesters (4 years), 240 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1517"
+  },
+  {
+    "course_name": "Psychology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Human and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1452"
+  },
+  {
+    "course_name": "Communication Design",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Education and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1454"
+  },
+  {
+    "course_name": "Marine Biology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1412"
+  },
+  {
+    "course_name": "Informatics Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1474"
+  },
+  {
+    "course_name": "Finance",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2250,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "year_1": 2250,
+        "year_2": 1750
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1554"
+  },
+  {
+    "course_name": "Agronomy",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1459"
+  },
+  {
+    "course_name": "Basic Education",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Education and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1483"
+  },
+  {
+    "course_name": "Biochemistry",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1492"
+  },
+  {
+    "course_name": "Bioengineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1907"
+  },
+  {
+    "course_name": "Biology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1413"
+  },
+  {
+    "course_name": "Biomedical Laboratory Sciences",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "8 semesters (4 years), 240 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1781"
+  },
+  {
+    "course_name": "Biomedical Sciences",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Medicine and Biomedical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1915"
+  },
+  {
+    "course_name": "Biotechnology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1530"
+  },
+  {
+    "course_name": "Business Administration",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1439"
+  },
+  {
+    "course_name": "Civil Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Institute of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1449"
+  },
+  {
+    "course_name": "Communication Sciences",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Education and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1456"
+  },
+  {
+    "course_name": "Cultural Heritage and Archaeological",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Human and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1685"
+  },
+  {
+    "course_name": "Dietetics and Nutrition",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "8 semesters (4 years), 240 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1519"
+  },
+  {
+    "course_name": "Educational Sciences and Training",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Human and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1448"
+  },
+  {
+    "course_name": "Electrical and Computer Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Institute of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1524"
+  },
+  {
+    "course_name": "Hotel Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Management, Hospitality and Tourism",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1417"
+  },
+  {
+    "course_name": "Landscape Architecture",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1536"
+  },
+  {
+    "course_name": "Languages and Intercultural Communication",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Human and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1571"
+  },
+  {
+    "course_name": "Languages, Literatures and Cultures",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Human and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1539"
+  },
+  {
+    "course_name": "Management (Evening Classes)",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Management, Hospitality and Tourism",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "8 semesters (4 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1419"
+  },
+  {
+    "course_name": "Management (Evening Classes, Portimão)",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Management, Hospitality and Tourism",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "8 semesters (4 years), 175 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1421"
+  },
+  {
+    "course_name": "Management (Portimão)",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Management, Hospitality and Tourism",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1420"
+  },
+  {
+    "course_name": "Marine and Coastal Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1827"
+  },
+  {
+    "course_name": "Marketing",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Management, Hospitality and Tourism (ESGHT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1516"
+  },
+  {
+    "course_name": "Mathematics Applied To Economics and Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1839"
+  },
+  {
+    "course_name": "Mechanical Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Institute of Engineering (ISE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1441"
+  },
+  {
+    "course_name": "Medical Imaging and Radiotherapy",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Health (ESSUAlg)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "8 semesters (4 years), 240 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1752"
+  },
+  {
+    "course_name": "Moving Image",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Education and Communication (ESEC)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1670"
+  },
+  {
+    "course_name": "Pharmacy",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Health (ESSUAlg)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "8 semesters (4 years), 240 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1520"
+  },
+  {
+    "course_name": "Physiotherapy",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Health (ESSUAlg)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "8 semesters (4 years), 240 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1914"
+  },
+  {
+    "course_name": "Social Education",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Education and Communication (ESEC)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1455"
+  },
+  {
+    "course_name": "Sociology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1442"
+  },
+  {
+    "course_name": "Speech and Language Therapy",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "8 semesters (4 years), 240 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1523"
+  },
+  {
+    "course_name": "Sports",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Education and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1538"
+  },
+  {
+    "course_name": "Sustainable Blue Economy",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/node/411635"
+  },
+  {
+    "course_name": "Systems Engineering and Computer Technologies",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Institute of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1941"
+  },
+  {
+    "course_name": "Tourism",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Management, Hospitality and Tourism",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1416"
+  },
+  {
+    "course_name": "Tourism (Portimão)",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Management, Hospitality and Tourism",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1423"
+  },
+  {
+    "course_name": "Visual Arts",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Human and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1453"
+  },
+  {
+    "course_name": "Integrated Master in Pharmaceutical Sciences",
+    "degree_level": "Integrated Master's (Mestrado Integrado, 1st+2nd cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "10 semesters (5 years), 300 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1488"
+  },
+  {
+    "course_name": "Accounting and Management Control",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2250,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "year_1": 2250,
+        "year_2": 1750
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1553"
+  },
+  {
+    "course_name": "Animação",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Education and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1980"
+  },
+  {
+    "course_name": "Applied Ecohydrology - Erasmus Mundus",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1931"
+  },
+  {
+    "course_name": "Aquaculture and Fisheries",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1430"
+  },
+  {
+    "course_name": "Archaeology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Human and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1471"
+  },
+  {
+    "course_name": "Biomedical Sciences",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Medicine and Biomedical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3600,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1917"
+  },
+  {
+    "course_name": "Biotechnology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1548"
+  },
+  {
+    "course_name": "Business Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2250,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "year_1": 2250,
+        "year_2": 1750
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1551"
+  },
+  {
+    "course_name": "Chemical Innovation and Regulation - Erasmus Mundus",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 9000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1708"
+  },
+  {
+    "course_name": "Civil Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Institute of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1723"
+  },
+  {
+    "course_name": "Clinical and Health Psychology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Human and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1511"
+  },
+  {
+    "course_name": "Coastal Hazards - Risks, Climate Change Impacts and Adaption",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "year_1": 90000,
+        "year_2": 9000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1939"
+  },
+  {
+    "course_name": "Cognitive Neuroscience and Neuropsychology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Human and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1526"
+  },
+  {
+    "course_name": "Communication and Digital Media",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Education and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1940"
+  },
+  {
+    "course_name": "Communication Design For Tourism and Culture",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Education and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1748"
+  },
+  {
+    "course_name": "Creation Processes",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Human and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 1100,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1956"
+  },
+  {
+    "course_name": "Educational Psychology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Human and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1527"
+  },
+  {
+    "course_name": "Educational Sciences",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Human and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/2872"
+  },
+  {
+    "course_name": "Electrical and Computer Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Institute of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1477"
+  },
+  {
+    "course_name": "Food Technology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Institute of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1507"
+  },
+  {
+    "course_name": "Geographic Information Systems",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Science and Technology / Institute of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1954"
+  },
+  {
+    "course_name": "Health Care Services Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2250,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "year_1": 2250,
+        "year_2": 1750
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1467"
+  },
+  {
+    "course_name": "History and Cultural Heritages",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Human and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1742"
+  },
+  {
+    "course_name": "Horticulture",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1500"
+  },
+  {
+    "course_name": "Hospitality Management and Administration",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Management, Hospitality and Tourism",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2000,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "year_1": 2500,
+        "year_2": 1500
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1699"
+  },
+  {
+    "course_name": "Human Resources Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Management, Hospitality and Tourism / Faculty of Human and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2000,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "year_1": 2500,
+        "year_2": 1500
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1700"
+  },
+  {
+    "course_name": "Islamic and Medieval Mediterranean History",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Human and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1722"
+  },
+  {
+    "course_name": "Landscape Architecture",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1549"
+  },
+  {
+    "course_name": "Language Sciences",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Human and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1509"
+  },
+  {
+    "course_name": "Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "year_1": 2500,
+        "year_2": 1750
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1783"
+  },
+  {
+    "course_name": "Health Technology Management and Assessment",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 6100,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1707"
+  },
+  {
+    "course_name": "Management, Entrepreneurship and Innovation",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2250,
+        "year_2": 500
+      },
+      "non_eu_students": {
+        "year_1": 2250,
+        "year_2": 1000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1908"
+  },
+  {
+    "course_name": "Marine and Coastal Systems",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1740"
+  },
+  {
+    "course_name": "Marine Biological Resources - Erasmus Mundus",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1836"
+  },
+  {
+    "course_name": "Marine Biology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1433"
+  },
+  {
+    "course_name": "Marketing Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2250,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "year_1": 2250,
+        "year_2": 1750
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1794"
+  },
+  {
+    "course_name": "Mechanical Engineering - Energy, Air-conditioning and Refrigeration",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Institute of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1782"
+  },
+  {
+    "course_name": "Molecular and Microbial Biology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1461"
+  },
+  {
+    "course_name": "Occupational Health and Safety",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Institute of Engineering / Faculty of Human and Social Sciences / School of Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1795"
+  },
+  {
+    "course_name": "Oncobiology - Molecular Mechanisms In Cancer",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Medicine and Biomedical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3600,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1918"
+  },
+  {
+    "course_name": "Pré-school Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Education and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1785"
+  },
+  {
+    "course_name": "School Management and Administration",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Education and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1741"
+  },
+  {
+    "course_name": "Sme Management - Portimão",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Management, Hospitality and Tourism",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "year_1": 2500,
+        "year_2": 1500
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1924"
+  },
+  {
+    "course_name": "Social Gerontology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Education and Communication / School of Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1582"
+  },
+  {
+    "course_name": "Social, Work and Organizational Psychology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Human and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1835"
+  },
+  {
+    "course_name": "Sociology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2000,
+        "year_2": 500
+      },
+      "non_eu_students": {
+        "year_1": 2250,
+        "year_2": 1750
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1503"
+  },
+  {
+    "course_name": "Sustainable Management of Rural Areas",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2400,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1677"
+  },
+  {
+    "course_name": "Tax Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Management, Hospitality and Tourism",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2000,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "year_1": 2500,
+        "year_2": 1500
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1698"
+  },
+  {
+    "course_name": "Teaching In the First Cycle of Basic Education and of Mathematics and Natural Sciences In the Second Cycle of Basic Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Education and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1792"
+  },
+  {
+    "course_name": "Teaching In the First Cycle of Basic Education and of Portuguese, and History and Geography of Portugal In the Second Cycle of Basic Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Education and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1790"
+  },
+  {
+    "course_name": "Teaching of English In the First Cycle of Basic Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Education and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1799"
+  },
+  {
+    "course_name": "Teaching of Portuguese and English In the Second Cycle of Basic Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Education and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1796"
+  },
+  {
+    "course_name": "Tourism",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Management, Hospitality and Tourism",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2000,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "year_1": 2500,
+        "year_2": 1500
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1784"
+  },
+  {
+    "course_name": "Tourism Economics and Regional Development",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "year_1": 2500,
+        "year_2": 1750
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1703"
+  },
+  {
+    "course_name": "Tourism Organisations Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "year_1": 2500,
+        "year_2": 1750
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1466"
+  },
+  {
+    "course_name": "Urban Water Cycle",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Institute of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1743"
+  },
+  {
+    "course_name": "Ecohydrology - Erasmus Mundus",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1569"
+  },
+  {
+    "course_name": "Marine Biodiversity, Fisheries and Conservation",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4000,
+        "period": "year"
+      }
+    },
+    "duration": "2 semesters (1 year), 60 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1933"
+  },
+  {
+    "course_name": "Mathematics for Teachers",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1797"
+  },
+  {
+    "course_name": "Quality in Analytical Laboratories - Erasmus Mundus",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 9000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1473"
+  },
+  {
+    "course_name": "Recreation Sports",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Education and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1909"
+  },
+  {
+    "course_name": "Social Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Education and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1541"
+  },
+  {
+    "course_name": "Special Education - Mental and Motor Disabilities",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Education and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1592"
+  },
+  {
+    "course_name": "Water and Coastal Management - Erasmus Mundus",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 8000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ualg.pt/en/curso/1727"
+  }
+]

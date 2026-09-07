@@ -1,0 +1,1074 @@
+[
+  {
+    "course_name": "Economics",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Católica Lisbon School of Business & Economics (CLSBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7410,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 8580,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS (Bologna default; page confirms ~60 ECTS/year pace)",
+    "source_url": "https://www.clsbe.lisboa.ucp.pt/bachelors-degrees-economics/economics"
+  },
+  {
+    "course_name": "Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Católica Lisbon School of Business & Economics (CLSBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7410,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 8580,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS (Bologna default)",
+    "source_url": "https://www.clsbe.lisboa.ucp.pt/bachelorsdegrees-management/fees-scholarships"
+  },
+  {
+    "course_name": "Business Administration (International Undergraduate Program)",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Católica Lisbon School of Business & Economics (CLSBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7830,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 8580,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS (Bologna default; fully taught in English)",
+    "source_url": "https://www.clsbe.lisboa.ucp.pt/international-bachelors-degrees-business-administration/fees-and-scholarships"
+  },
+  {
+    "course_name": "Economics & Finance (International Undergraduate Program)",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Católica Lisbon School of Business & Economics (CLSBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7830,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 8580,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS (Bologna default; fully taught in English)",
+    "source_url": "https://clsbe.lisboa.ucp.pt/iups-economics-finance/propinas-e-bolsas"
+  },
+  {
+    "course_name": "Management & Data Analytics (International Undergraduate Program)",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Católica Lisbon School of Business & Economics (CLSBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7830,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 8580,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS (Bologna default; fully taught in English)",
+    "source_url": "https://clsbe.lisboa.ucp.pt/international-undergraduate-program-management-data-analytics/fees-scholarships"
+  },
+  {
+    "course_name": "Economics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Católica Lisbon School of Business & Economics (CLSBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 14100,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 14100,
+        "period": "total"
+      }
+    },
+    "duration": "3 or 4 semesters (1.5-2 years); ~90-120 ECTS",
+    "source_url": "https://www.clsbe.lisboa.ucp.pt/msc-economics/program-structure"
+  },
+  {
+    "course_name": "Finance",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Católica Lisbon School of Business & Economics (CLSBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 19400,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 19400,
+        "period": "total"
+      }
+    },
+    "duration": "3 or 4 semesters (1.5-2 years); ~90-120 ECTS",
+    "source_url": "https://www.clsbe.lisboa.ucp.pt/master-science-finance/fees-scholarships"
+  },
+  {
+    "course_name": "Business Analytics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Católica Lisbon School of Business & Economics (CLSBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 15600,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 15600,
+        "period": "total"
+      }
+    },
+    "duration": "3 or 4 semesters (1.5-2 years); ~90-120 ECTS",
+    "source_url": "https://clsbe.lisboa.ucp.pt/master-science-business-analytics/fees-scholarships"
+  },
+  {
+    "course_name": "Business",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Católica Lisbon School of Business & Economics (CLSBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 15600,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 15600,
+        "period": "total"
+      }
+    },
+    "duration": "3 or 4 semesters (1.5-2 years); ~90-120 ECTS",
+    "source_url": "https://clsbe.lisboa.ucp.pt/master-science-business/fees-scholarships"
+  },
+  {
+    "course_name": "Management with Specialization in Strategic Marketing",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Católica Lisbon School of Business & Economics (CLSBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 15600,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 15600,
+        "period": "total"
+      }
+    },
+    "duration": "3 or 4 semesters (1.5-2 years); ~90-120 ECTS",
+    "source_url": "https://www.clsbe.lisboa.ucp.pt/msc-management-specialization-strategic-marketing/fees-scholarships"
+  },
+  {
+    "course_name": "Management with Specialization in Strategy, Entrepreneurship & Impact",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Católica Lisbon School of Business & Economics (CLSBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 15600,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 15600,
+        "period": "total"
+      }
+    },
+    "duration": "3 or 4 semesters (1.5-2 years); ~90-120 ECTS",
+    "source_url": "https://clsbe.lisboa.ucp.pt/msc-management-specialization-strategy-entrepreneurship-impact/fees-scholarships"
+  },
+  {
+    "course_name": "International Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Católica Lisbon School of Business & Economics (CLSBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16900,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "total"
+      }
+    },
+    "duration": "3 or 4 semesters (1.5-2 years); ~90-120 ECTS",
+    "source_url": "https://www.clsbe.lisboa.ucp.pt/international-msc-management/fees-scholarships"
+  },
+  {
+    "course_name": "International Finance",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Católica Lisbon School of Business & Economics (CLSBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 20700,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 20700,
+        "period": "total"
+      }
+    },
+    "duration": "3 or 4 semesters (1.5-2 years); ~90-120 ECTS",
+    "source_url": "https://clsbe.lisboa.ucp.pt/international-msc-finance/overview"
+  },
+  {
+    "course_name": "Finance (Post Experience)",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Católica Lisbon School of Business & Economics (CLSBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 21400,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 21400,
+        "period": "total"
+      }
+    },
+    "duration": "14 months (12 months coursework across 2 semesters + 2-month dissertation defense); accelerated post-experience format, ~90 ECTS assumed",
+    "source_url": "https://clsbe.lisboa.ucp.pt/msc-finance-post-experience/fees-scholarships"
+  },
+  {
+    "course_name": "Law",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Law (Lisbon)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "8 semesters (4 years), 240 ECTS (Bologna default; total ECTS not explicitly stated on page)",
+    "source_url": "https://fd.lisboa.ucp.pt/undergraduate/undergraduate-degree-law"
+  },
+  {
+    "course_name": "Administrative Law",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Law (Lisbon)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9125,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 9125,
+        "period": "total"
+      }
+    },
+    "duration": "3 semesters (1.5 years), 95 ECTS (30+30+35 per program page)",
+    "source_url": "https://fd.lisboa.ucp.pt/masters-degree/master-laws-administrative-law"
+  },
+  {
+    "course_name": "Law & Business",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Law (Lisbon)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "3 semesters (1.5 years), ~90-95 ECTS (assumed, matching other Master of Laws tracks)",
+    "source_url": "https://fd.lisboa.ucp.pt/masters-degree/master-law-business"
+  },
+  {
+    "course_name": "Corporate Law",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Law (Lisbon)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "3 semesters (1.5 years), ~90-95 ECTS (assumed, matching other Master of Laws tracks)",
+    "source_url": "https://fd.lisboa.ucp.pt/masters-degree/master-laws-corporate-law"
+  },
+  {
+    "course_name": "Taxation",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Law (Lisbon)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9125,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 9125,
+        "period": "total"
+      }
+    },
+    "duration": "3 semesters (1.5 years), ~90-95 ECTS (assumed, matching other Master of Laws tracks); partly taught in Portuguese, partly in English",
+    "source_url": "https://fd.lisboa.ucp.pt/masters-degree/master-laws-taxation"
+  },
+  {
+    "course_name": "Litigation",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Law (Lisbon)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "3 semesters (1.5 years), ~90-95 ECTS (assumed, matching other Master of Laws tracks)",
+    "source_url": "https://fd.lisboa.ucp.pt/masters-degree/master-laws-litigation"
+  },
+  {
+    "course_name": "LL.M. Law in a European and Global Context",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Católica Global School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 14000,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 14000,
+        "period": "total"
+      }
+    },
+    "duration": "2 semesters (1 year) full-time, or 4 semesters (2 years) part-time; Bologna 60 ECTS default assumed for 1-year LLM",
+    "source_url": "https://catolicalaw.fd.lisboa.ucp.pt/llm-law-european-and-global-context"
+  },
+  {
+    "course_name": "LL.M. International Business Law",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Católica Global School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 14000,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 14000,
+        "period": "total"
+      }
+    },
+    "duration": "2 semesters (1 year) full-time, or 4 semesters (2 years) part-time; Bologna 60 ECTS default assumed",
+    "source_url": "https://catolicalaw.fd.lisboa.ucp.pt/llm-international-business-law"
+  },
+  {
+    "course_name": "LL.M. Law in a Digital Economy",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Católica Global School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 14000,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 14000,
+        "period": "total"
+      }
+    },
+    "duration": "2 semesters (1 year) full-time, or 4 semesters (2 years) part-time; Bologna 60 ECTS default assumed",
+    "source_url": "https://catolicalaw.fd.lisboa.ucp.pt/llm-law-digital-economy"
+  },
+  {
+    "course_name": "Executive LL.M. Regulation and Compliance",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Católica Global School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9500,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 9500,
+        "period": "total"
+      }
+    },
+    "duration": "1 year (part-time, September to July); ECTS not stated on page",
+    "source_url": "https://catolicalaw.fd.lisboa.ucp.pt/executive-llm-regulation-and-compliance"
+  },
+  {
+    "course_name": "Master of Transnational Law",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Católica Global School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "3 semesters total (1.5 years): 2 semesters of LLM coursework (~60 ECTS) + 1 thesis semester (30 ECTS)",
+    "source_url": "https://catolicalaw.fd.lisboa.ucp.pt/master-transnational-law"
+  },
+  {
+    "course_name": "Law",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Law (Porto)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "8 semesters (4 years), 240 ECTS",
+    "source_url": "https://fd.porto.ucp.pt/en/licenciaturas/licenciatura-em-direito"
+  },
+  {
+    "course_name": "Law and Management (Double Degree)",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Law (Porto)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "10 semesters (5 years), joint degree with Católica Porto Business School; ~330 ECTS",
+    "source_url": "https://fd.porto.ucp.pt/pt-pt/licenciaturas/dupla-licenciatura-em-direito-e-em-gestao"
+  },
+  {
+    "course_name": "Law - International and European Law",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Law (Porto)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9225,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 9225,
+        "period": "total"
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS (60 taught + 30 dissertation)",
+    "source_url": "https://fd.porto.ucp.pt/pt-pt/mestrado-em-direito-internacional-e-europeu"
+  },
+  {
+    "course_name": "Law - International Studies Programme",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Law (Porto)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9225,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 9225,
+        "period": "total"
+      }
+    },
+    "duration": "3 semesters (1.5 years): first two semesters academic (taught in English), third semester dissertation; 90 ECTS Bologna default assumed",
+    "source_url": "https://fd.porto.ucp.pt/en/international-studies-programme"
+  },
+  {
+    "course_name": "Communication and Cultural Sciences",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Human Sciences (Lisbon)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5610,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5610,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://fch.lisboa.ucp.pt/undergraduate/programs/undergraduate-program-communication-and-cultural-sciences"
+  },
+  {
+    "course_name": "Applied Foreign Languages",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Human Sciences (Lisbon)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5430,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5430,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://fch.lisboa.ucp.pt/undergraduate/programs/undergraduate-program-applied-foreign-languages"
+  },
+  {
+    "course_name": "Social Work",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Human Sciences (Lisbon)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5430,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5430,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://fch.lisboa.ucp.pt/undergraduate/programs/undergraduate-program-social-work"
+  },
+  {
+    "course_name": "Psychology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Human Sciences (Lisbon)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5610,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5610,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://fch.lisboa.ucp.pt/undergraduate/programs/undergraduate-program-psychology"
+  },
+  {
+    "course_name": "Philosophy, Politics and Economics (PPE)",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Human Sciences (Lisbon)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5940,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5940,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://fch.lisboa.ucp.pt/undergraduate/programs/undergraduate-program-philosophy-politics-and-economics-ppe"
+  },
+  {
+    "course_name": "Communication Studies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Human Sciences (Lisbon)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5610,
+        "year_2": 3960
+      },
+      "non_eu_students": {
+        "year_1": 6750,
+        "year_2": 4770
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (Bologna default)",
+    "source_url": "https://fch.lisboa.ucp.pt/master-communication-studies"
+  },
+  {
+    "course_name": "Culture Studies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Human Sciences (Lisbon)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (Bologna default)",
+    "source_url": "https://fch.lisboa.ucp.pt/master-culture-studies"
+  },
+  {
+    "course_name": "Psychology and Environmental Sustainability",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Human Sciences (Lisbon)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5450,
+        "year_2": 1980
+      },
+      "non_eu_students": {
+        "year_1": 6870,
+        "year_2": 2385
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (Bologna default)",
+    "source_url": "https://fch.lisboa.ucp.pt/master-psychology-environmental-sustainability"
+  },
+  {
+    "course_name": "Psychology in Business and Economics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Human Sciences (Lisbon)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5450,
+        "year_2": 1980
+      },
+      "non_eu_students": {
+        "year_1": 6870,
+        "year_2": 2385
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (Bologna default)",
+    "source_url": "https://fch.lisboa.ucp.pt/mestrados/programas/master-psychology-business-and-economics"
+  },
+  {
+    "course_name": "Asian Studies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Human Sciences (Lisbon)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5450,
+        "year_2": 1980
+      },
+      "non_eu_students": {
+        "year_1": 6870,
+        "year_2": 2385
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (Bologna default)",
+    "source_url": "https://fch.lisboa.ucp.pt/master-asian-studies"
+  },
+  {
+    "course_name": "Translation",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Human Sciences (Lisbon)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5450,
+        "year_2": 3960
+      },
+      "non_eu_students": {
+        "year_1": 6870,
+        "year_2": 4770
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (Bologna default)",
+    "source_url": "https://fch.lisboa.ucp.pt/masters-degree/programs/master-translation"
+  },
+  {
+    "course_name": "Social Work",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Human Sciences (Lisbon)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5450,
+        "year_2": 1980
+      },
+      "non_eu_students": {
+        "year_1": 6870,
+        "year_2": 2385
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (Bologna default)",
+    "source_url": "https://fch.lisboa.ucp.pt/pt-pt/masters-degree/programs/mestrado-em-servico-social"
+  },
+  {
+    "course_name": "Systems and Cognitive Neuroscience",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Institute of Health Sciences (Lisbon)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1925,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2081,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://fcse.lisboa.ucp.pt/programa-de-licenciatura/bsc-systems-and-cognitive-neuroscience"
+  },
+  {
+    "course_name": "Economics",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Católica Porto Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6525,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 6525,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://catolicabs.porto.ucp.pt/pt-pt/licenciaturas/licenciatura-em-economia"
+  },
+  {
+    "course_name": "Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Católica Porto Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6525,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 6525,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://catolicabs.porto.ucp.pt/pt-pt/licenciaturas/licenciatura-em-gestao"
+  },
+  {
+    "course_name": "Business Economics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Católica Porto Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 7264,
+        "year_2": 3632
+      },
+      "non_eu_students": {
+        "amount": 11676,
+        "period": "total"
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS minimum full-time; extendable up to 5 semesters (2.5 years) for part-time",
+    "source_url": "https://catolicabs.porto.ucp.pt/mestrados/business-economics"
+  },
+  {
+    "course_name": "Finance",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Católica Porto Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 7264,
+        "year_2": 3632
+      },
+      "non_eu_students": {
+        "amount": 11676,
+        "period": "total"
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS minimum full-time; extendable up to 5 semesters (2.5 years) for part-time",
+    "source_url": "https://catolicabs.porto.ucp.pt/masters-msc/master-finance"
+  },
+  {
+    "course_name": "Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Católica Porto Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 7264,
+        "year_2": 3632
+      },
+      "non_eu_students": {
+        "amount": 11676,
+        "period": "total"
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS minimum full-time; extendable up to 5 semesters (2.5 years) for part-time. Offers 5 specialization tracks after a common core semester: Business Analytics, International Management, Human Resources Management, Management Control, Service Management",
+    "source_url": "https://catolicabs.porto.ucp.pt/masters-msc/management"
+  },
+  {
+    "course_name": "Marketing",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Católica Porto Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 7264,
+        "year_2": 3632
+      },
+      "non_eu_students": {
+        "amount": 11676,
+        "period": "total"
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS minimum full-time; extendable up to 5 semesters (2.5 years) for part-time",
+    "source_url": "https://catolicabs.porto.ucp.pt/mestrados/marketing"
+  },
+  {
+    "course_name": "Applied Data Science",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Philosophy and Social Sciences (Braga)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5025,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5025,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS (Bologna default)",
+    "source_url": "https://ffcs.braga.ucp.pt/pt-pt/undergraduate-courses/programs/degree-applied-data-science/propinas"
+  },
+  {
+    "course_name": "Data Science and Technology (Distance Learning)",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Philosophy and Social Sciences (Braga)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5175,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5175,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS (Bologna default); fully online, taught in English",
+    "source_url": "https://ffcs.braga.ucp.pt/pt-pt/undergraduate-courses/programs/degree-data-science-and-technology-ead/propinas"
+  },
+  {
+    "course_name": "Applied Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Philosophy and Social Sciences (Braga)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5685,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5685,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS (Bologna default)",
+    "source_url": "https://ffcs.braga.ucp.pt/pt-pt/undergraduate-courses/programs/degree-applied-management/propinas"
+  },
+  {
+    "course_name": "Educational Sciences",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Philosophy and Social Sciences (Braga)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4485,
+        "year_2": 2850
+      },
+      "non_eu_students": {
+        "year_1": 4485,
+        "year_2": 2850
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (Bologna default)",
+    "source_url": "https://ffcs.braga.ucp.pt/en/masters/programas/masters-educational-sciences"
+  },
+  {
+    "course_name": "Applied Social Gerontology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Philosophy and Social Sciences (Braga)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4485,
+        "year_2": 2850
+      },
+      "non_eu_students": {
+        "year_1": 4485,
+        "year_2": 2850
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (Bologna default); evening classes",
+    "source_url": "https://ffcs.braga.ucp.pt/pt-pt/masters/programas/master-applied-social-gerontology/propinas"
+  },
+  {
+    "course_name": "Educational Psychology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Philosophy and Social Sciences (Braga)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4935,
+        "year_2": 3298.5
+      },
+      "non_eu_students": {
+        "year_1": 4935,
+        "year_2": 3298.5
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (Bologna default)",
+    "source_url": "https://ffcs.braga.ucp.pt/en/masters/programas/masters-degree-educational-psychology"
+  },
+  {
+    "course_name": "Tourism (Administration and Management / Cultural and Religious Tourism)",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Philosophy and Social Sciences (Braga)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4485,
+        "year_2": 2850
+      },
+      "non_eu_students": {
+        "year_1": 4485,
+        "year_2": 2850
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (Bologna default)",
+    "source_url": "https://ffcs.braga.ucp.pt/pt-pt/mestrados/programas/mestrado-em-turismo/mestrado-turismo-administracao-e-gestao-do-turismo"
+  },
+  {
+    "course_name": "Psychology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Education and Psychology (Porto)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5865,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5865,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://fep.porto.ucp.pt/en/bachelors-degree-psychology-catolica-porto"
+  },
+  {
+    "course_name": "Bioengineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Biotechnology (Porto)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 6300,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS; specializations in Food, Environmental, or Biomedical Engineering",
+    "source_url": "https://fd.porto.ucp.pt/pt-pt/system/files/assets/files/propinas-1ciclo-2026-27.pdf"
+  },
+  {
+    "course_name": "Science and Society (Liberal Sciences)",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Biotechnology (Porto)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 6300,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS; taught fully in English or fully in Portuguese",
+    "source_url": "https://esb.ucp.pt/pt-pt/licenciaturas/licenciatura-em-ciencias-e-sociedade-liberal-sciences"
+  },
+  {
+    "course_name": "Microbiology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Biotechnology (Porto)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 6300,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://esb.ucp.pt/pt-pt/licenciaturas/licenciatura-em-microbiologia"
+  },
+  {
+    "course_name": "Applied Microbiology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Biotechnology (Porto)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 3816,
+        "year_2": 3990
+      },
+      "non_eu_students": {
+        "year_1": 6360,
+        "year_2": 3990
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS; 100% taught in English",
+    "source_url": "https://admissions.porto.ucp.pt/sites/default/files/2026-05/Extrato_TabelaPropinas_2Ciclo_2026_27_ESB.pdf"
+  },
+  {
+    "course_name": "Biotechnology for the Bioeconomy",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Biotechnology (Porto)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 3816,
+        "year_2": 3990
+      },
+      "non_eu_students": {
+        "year_1": 6360,
+        "year_2": 3990
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://admissions.porto.ucp.pt/sites/default/files/2026-05/Extrato_TabelaPropinas_2Ciclo_2026_27_ESB.pdf"
+  },
+  {
+    "course_name": "Food Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Biotechnology (Porto)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 3816,
+        "year_2": 3932.5
+      },
+      "non_eu_students": {
+        "year_1": 6360,
+        "year_2": 4780
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS; 100% taught in English",
+    "source_url": "https://esb.ucp.pt/en/masters/masters-food-engineering"
+  },
+  {
+    "course_name": "Biomedical Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Biotechnology (Porto)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 3816,
+        "year_2": 3932.5
+      },
+      "non_eu_students": {
+        "year_1": 6360,
+        "year_2": 4780
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://admissions.porto.ucp.pt/sites/default/files/2026-05/Extrato_TabelaPropinas_2Ciclo_2026_27_ESB.pdf"
+  },
+  {
+    "course_name": "Biotechnology and Innovation",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Biotechnology (Porto)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5854.5,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 7762.5,
+        "period": "total"
+      }
+    },
+    "duration": "3 semesters (18 months), 90 ECTS; evening/weekend format",
+    "source_url": "https://admissions.porto.ucp.pt/sites/default/files/2026-05/Extrato_TabelaPropinas_2Ciclo_2026_27_ESB.pdf"
+  }
+]

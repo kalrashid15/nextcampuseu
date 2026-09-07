@@ -1,0 +1,1148 @@
+<meta charset="UTF-8" />
+<title>NextCampusEU — Portugal Course Directory</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Schibsted+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+  /* Palette matches Index.html exactly — single fixed light theme, no dark-mode remap. */
+  :root {
+    --paper: #f6f3ec;
+    --ink: #1c241f;
+    --ink-soft: #41504a;
+    --ink-softer: #5b6a63;
+    --accent: #1c5c3f;
+    --accent-strong: #123f2c;
+    --accent-tint: #e7eddb;
+    --gold: #9c7a1f;
+    --line: #e4e0d3;
+    --line-strong: #d3cdb8;
+    --surface: #ffffff;
+    --surface-alt: #eef0e6;
+    --chip-bg: #ffffff;
+    --shadow: 0 1px 2px rgba(28, 36, 31, 0.06), 0 6px 16px rgba(28, 36, 31, 0.05);
+    --footer-bg: #141c17;
+    --footer-ink: #a9b5ac;
+    --footer-heading: #f6f3ec;
+    --lisboa: #8a5a3a;
+    --nova: #4f7a4a;
+    --catolica: #7a3b52;
+    --iscte: #a97a1e;
+    --evora: #3b5a7a;
+    --algarve: #b8562f;
+    --porto: #2f4858;
+    --minho: #6b7a3a;
+    --level-bsc: #3e7a6e;
+    --level-msc: #a5533b;
+    --level-int: #9c7a1f;
+    --radius: 7px;
+    --font-display: 'Newsreader', Georgia, "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
+    --font-body: 'Schibsted Grotesk', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --font-data: ui-monospace, "SF Mono", "Cascadia Code", "Consolas", "Liberation Mono", monospace;
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--font-body);
+    line-height: 1.45;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: var(--accent); }
+  a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+
+  .wrap {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 0 20px 64px;
+  }
+
+  /* Shared site nav (matches Index.html) */
+  .site-nav {
+    position: sticky; top: 0; z-index: 40;
+    background: rgba(246, 243, 236, 0.85);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--line);
+  }
+  .site-nav .nav-wrap { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; gap: 32px; padding: 16px 32px; }
+  .brand { display: flex; align-items: center; gap: 10px; color: var(--ink); font-weight: 700; font-size: 18px; letter-spacing: -0.01em; text-decoration: none; min-width: 0; flex: 1 1 auto; }
+  .brand .mark {
+    width: 30px; height: 30px; border-radius: 8px; background: var(--accent);
+    color: #f6f3ec; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 15px; flex: none;
+  }
+  .brand .brand-text { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .nav-links { display: flex; gap: 26px; margin-left: 12px; font-size: 15px; font-weight: 500; flex: none; }
+  .nav-links a { color: var(--ink); white-space: nowrap; text-decoration: none; }
+  .nav-links a:hover { color: var(--accent); }
+  .nav-cta { margin-left: auto; background: var(--accent); color: #f6f3ec; padding: 11px 20px; border-radius: 999px; font-weight: 600; font-size: 15px; white-space: nowrap; flex: none; text-decoration: none; }
+  .nav-cta:hover { background: var(--accent-strong); color: #fff; }
+  .nav-cta .full { display: inline; }
+  .nav-cta .short { display: none; }
+  @media (max-width: 560px) {
+    .nav-links { display: none; }
+    .site-nav .nav-wrap { gap: 12px; padding: 14px 16px; }
+    .brand { font-size: 16px; }
+    .nav-cta { padding: 9px 14px; font-size: 14px; }
+    .nav-cta .full { display: none; }
+    .nav-cta .short { display: inline; }
+  }
+
+  /* Shared footer (matches Index.html) */
+  .site-footer { background: var(--footer-bg); color: var(--footer-ink); padding: 52px 32px 34px; margin-top: 56px; }
+  .footer-grid { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: 1.4fr 1fr 1fr 1fr; gap: 36px; }
+  .footer-brand { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
+  .footer-brand span.name { font-weight: 700; font-size: 18px; color: var(--footer-heading); }
+  .footer-grid p { font-size: 14px; line-height: 1.55; max-width: 280px; margin: 0; }
+  .footer-col-title { color: var(--footer-heading); font-weight: 600; font-size: 14px; margin-bottom: 12px; }
+  .footer-links { display: flex; flex-direction: column; gap: 9px; font-size: 14px; }
+  .footer-links a { color: var(--footer-ink); text-decoration: none; }
+  .footer-links a:hover { color: var(--footer-heading); }
+  .footer-cta { display: inline-block; background: var(--accent); color: #f6f3ec; padding: 11px 18px; border-radius: 999px; font-weight: 600; font-size: 14px; text-decoration: none; }
+  .footer-legal { max-width: 1200px; margin: 34px auto 0; padding-top: 20px; border-top: 1px solid rgba(255, 255, 255, 0.08); font-size: 12.5px; color: #7f8b82; line-height: 1.6; }
+  .footer-legal p { margin: 0 0 8px; }
+  .footer-legal a { color: #9aa89f; }
+  .footer-legal a:hover { color: var(--footer-heading); }
+  @media (max-width: 900px) { .footer-grid { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 560px) { .footer-grid { grid-template-columns: 1fr; } }
+
+  header.masthead {
+    padding: 40px 0 22px;
+    border-bottom: 1px solid var(--line);
+  }
+  .eyebrow {
+    font-family: var(--font-data);
+    font-size: 12px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--accent);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .eyebrow::before {
+    content: "";
+    display: inline-block;
+    width: 18px;
+    height: 2px;
+    background: var(--gold);
+  }
+  h1 {
+    font-family: var(--font-display);
+    font-weight: 400;
+    font-size: clamp(28px, 4vw, 40px);
+    margin: 10px 0 8px;
+    text-wrap: balance;
+    letter-spacing: -0.01em;
+  }
+  .lede {
+    max-width: 62ch;
+    color: var(--ink-soft);
+    font-size: 15.5px;
+    margin: 0;
+  }
+
+  .stat-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 22px;
+  }
+  .load-status {
+    margin-top: 22px;
+    padding: 14px 16px;
+    border-radius: var(--radius);
+    background: var(--surface-alt);
+    border: 1px solid var(--line-strong);
+    color: var(--ink-soft);
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .load-status code {
+    font-family: var(--font-data);
+    font-size: 12.5px;
+    background: var(--chip-bg);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 1px 5px;
+  }
+  .stat {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    padding: 10px 14px;
+    min-width: 108px;
+  }
+  .stat .n {
+    font-family: var(--font-data);
+    font-variant-numeric: tabular-nums;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1;
+  }
+  .stat .l {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-soft);
+    margin-top: 4px;
+  }
+  .stat .dot {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-right: 6px;
+  }
+
+  .controls {
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    background: var(--paper);
+    padding: 16px 0 14px;
+    border-bottom: 1px solid var(--line);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .controls-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+  }
+  .search-box {
+    position: relative;
+    flex: 1 1 240px;
+    min-width: 200px;
+  }
+  .search-box input {
+    width: 100%;
+    padding: 9px 12px 9px 32px;
+    border-radius: var(--radius);
+    border: 1px solid var(--line-strong);
+    background: var(--surface);
+    color: var(--ink);
+    font-family: var(--font-body);
+    font-size: 14px;
+  }
+  .search-box svg {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 14px;
+    height: 14px;
+    stroke: var(--ink-soft);
+    pointer-events: none;
+  }
+  select {
+    padding: 8px 10px;
+    border-radius: var(--radius);
+    border: 1px solid var(--line-strong);
+    background: var(--surface);
+    color: var(--ink);
+    font-family: var(--font-body);
+    font-size: 13.5px;
+  }
+  .max-fee-input {
+    padding: 8px 10px;
+    border-radius: var(--radius);
+    border: 1px solid var(--line-strong);
+    background: var(--surface);
+    color: var(--ink);
+    font-family: var(--font-body);
+    font-size: 13.5px;
+    width: 150px;
+  }
+  .chipset {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-family: var(--font-body);
+    font-size: 12.5px;
+    padding: 6px 11px;
+    border-radius: 999px;
+    border: 1px solid var(--line-strong);
+    background: var(--chip-bg);
+    color: var(--ink-soft);
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    transition: background-color 0.12s ease, color 0.12s ease, border-color 0.12s ease;
+  }
+  .chip .dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: currentColor;
+  }
+  .chip[aria-pressed="true"] {
+    color: #fff;
+    border-color: transparent;
+  }
+  .chip:hover { border-color: var(--accent); }
+  .reset-btn {
+    font-family: var(--font-body);
+    font-size: 12.5px;
+    padding: 6px 12px;
+    border-radius: 999px;
+    border: 1px dashed var(--line-strong);
+    background: transparent;
+    color: var(--ink-soft);
+    cursor: pointer;
+  }
+  .reset-btn:hover { color: var(--ink); border-color: var(--ink-soft); }
+
+  .result-line {
+    font-size: 12.5px;
+    color: var(--ink-soft);
+    font-family: var(--font-data);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .table-shell {
+    margin-top: 4px;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: var(--surface);
+  }
+  table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+  }
+  thead th {
+    position: sticky;
+    top: 0;
+    background: var(--surface-alt);
+    text-align: left;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--ink-soft);
+    font-weight: 600;
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--line);
+    white-space: normal;
+  }
+  tbody tr {
+    border-bottom: 1px solid var(--line);
+  }
+  tbody tr:last-child { border-bottom: none; }
+  tbody tr:hover { background: var(--surface-alt); }
+  tbody td {
+    padding: 10px 12px;
+    vertical-align: top;
+    font-size: 13.5px;
+    word-break: break-word;
+    overflow-wrap: break-word;
+  }
+  td.col-uni {
+    white-space: normal;
+    border-left: 3px solid var(--uni-color, var(--line));
+  }
+  .uni-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--uni-color, var(--ink));
+  }
+  .uni-tag .dot {
+    width: 8px; height: 8px; border-radius: 50%;
+    background: var(--uni-color, var(--ink));
+    flex: none;
+  }
+  td.col-course { font-weight: 600; }
+  td.col-course .src {
+    display: block;
+    font-size: 11px;
+    font-weight: 400;
+    margin-top: 2px;
+  }
+  td.col-course .src a { color: var(--ink-soft); text-decoration: none; }
+  td.col-course .src a:hover { color: var(--accent); text-decoration: underline; }
+  td.col-faculty { color: var(--ink-soft); }
+  td.col-level { white-space: nowrap; }
+  .level-pill {
+    display: inline-block;
+    font-size: 10.5px;
+    font-weight: 600;
+    padding: 3px 8px;
+    border-radius: 999px;
+    color: #fff;
+    white-space: nowrap;
+  }
+  td.col-duration {
+    font-family: var(--font-data);
+    font-variant-numeric: tabular-nums;
+    font-size: 12.5px;
+    color: var(--ink-soft);
+  }
+  td.col-fee {
+    font-family: var(--font-data);
+    font-variant-numeric: tabular-nums;
+    font-size: 12.5px;
+  }
+  td.col-fee .amt { color: var(--ink); font-weight: 600; }
+  td.col-fee .rest { color: var(--ink-soft); }
+
+  .empty-state {
+    padding: 48px 20px;
+    text-align: center;
+    color: var(--ink-soft);
+    font-size: 14px;
+  }
+
+  .wizard {
+    padding: 34px 0 10px;
+  }
+  .wizard-eyebrow {
+    font-family: var(--font-data);
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin: 0 0 6px;
+  }
+  .wizard-title {
+    font-family: var(--font-display);
+    font-weight: 400;
+    font-size: clamp(21px, 3vw, 27px);
+    margin: 0 0 20px;
+    text-wrap: balance;
+  }
+  .wizard-back {
+    font-family: var(--font-body);
+    font-size: 12.5px;
+    color: var(--ink-soft);
+    background: none;
+    border: none;
+    padding: 0 0 14px;
+    cursor: pointer;
+    display: block;
+  }
+  .wizard-back:hover { color: var(--accent); }
+
+  .discipline-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    gap: 12px;
+  }
+  .discipline-card {
+    text-align: left;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 18px 18px 16px;
+    cursor: pointer;
+    font-family: var(--font-body);
+    color: var(--ink);
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    transition: border-color 0.14s ease, transform 0.14s ease, box-shadow 0.14s ease;
+  }
+  .discipline-card:hover {
+    border-color: var(--accent);
+    box-shadow: var(--shadow);
+    transform: translateY(-1px);
+  }
+  .discipline-card .dc-name {
+    font-family: var(--font-display);
+    font-size: 18px;
+    line-height: 1.25;
+  }
+  .discipline-card .dc-blurb {
+    font-size: 12.5px;
+    color: var(--ink-soft);
+    line-height: 1.4;
+  }
+  .discipline-card .dc-count {
+    font-family: var(--font-data);
+    font-variant-numeric: tabular-nums;
+    font-size: 11px;
+    color: var(--accent);
+    margin-top: 4px;
+  }
+
+  .level-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 12px;
+  }
+  .level-card {
+    text-align: left;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 16px 18px;
+    cursor: pointer;
+    font-family: var(--font-body);
+    color: var(--ink);
+    transition: border-color 0.14s ease, transform 0.14s ease, box-shadow 0.14s ease;
+  }
+  .level-card:hover {
+    border-color: var(--lc-color, var(--accent));
+    box-shadow: var(--shadow);
+    transform: translateY(-1px);
+  }
+  .level-card .lc-name {
+    font-family: var(--font-display);
+    font-size: 17px;
+  }
+  .level-card .lc-count {
+    font-family: var(--font-data);
+    font-variant-numeric: tabular-nums;
+    font-size: 11px;
+    color: var(--ink-soft);
+    margin-top: 3px;
+  }
+
+  .start-over {
+    font-family: var(--font-body);
+    font-size: 12.5px;
+    color: var(--ink-soft);
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  .start-over:hover { color: var(--accent); }
+  .scope-line {
+    font-size: 12.5px;
+    color: var(--ink-soft);
+  }
+  .scope-line strong { color: var(--ink); font-weight: 600; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .chip { transition: none; }
+    .discipline-card, .level-card { transition: none; }
+  }
+
+  @media (max-width: 720px) {
+    thead { display: none; }
+    .table-shell { border: none; background: transparent; }
+    table, tbody, tr, td { display: block; width: 100%; }
+    tbody tr {
+      border: 1px solid var(--line);
+      border-left: 3px solid var(--uni-color, var(--line));
+      border-radius: var(--radius);
+      background: var(--surface);
+      margin-bottom: 10px;
+      padding: 10px 12px;
+    }
+    tbody td {
+      border: none;
+      padding: 3px 0;
+    }
+    td.col-uni { border-left: none; padding-bottom: 6px; }
+    td[data-label]::before {
+      content: attr(data-label);
+      display: block;
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--ink-soft);
+      margin-top: 6px;
+    }
+  }
+</style>
+
+<header class="site-nav">
+  <nav class="nav-wrap">
+    <a href="index.html" class="brand"><span class="mark">N</span><span class="brand-text">NextCampusEU</span></a>
+    <div class="nav-links">
+      <a href="index.html#finder">Courses</a>
+      <a href="index.html#countries">Universities</a>
+      <a href="index.html#services">How it works</a>
+      <a href="index.html#services">Why us</a>
+    </div>
+    <a href="index.html#talk" class="nav-cta"><span class="full">Talk to us</span><span class="short">Talk</span></a>
+  </nav>
+</header>
+
+<div class="wrap">
+  <header class="masthead">
+    <div class="eyebrow">Lisbon &amp; Porto &amp; Braga &amp; Évora &amp; Faro · eight institutions, one table</div>
+    <h1>The Portugal Higher-Ed Course Directory</h1>
+    <p class="lede">Every bachelor's, master's and integrated master's programme catalogued across the <b>University of Lisbon</b> (ULisboa), <b>NOVA University Lisbon</b> (NOVA), <b>Universidade Católica Portuguesa</b> (Católica), <b>ISCTE-IUL</b> (ISCTE), the <b>University of Évora</b> (Évora), the <b>University of Algarve</b> (Algarve), the <b>University of Porto</b> (Porto) and the <b>University of Minho</b> (Minho).</p>
+    <div class="stat-row" id="statRow"></div>
+  </header>
+
+  <div class="load-status" id="loadStatus" style="display:none;"></div>
+
+  <section class="wizard" id="wizardStep1">
+    <p class="wizard-eyebrow">Step 1 of 2</p>
+    <h2 class="wizard-title">What do you want to study?</h2>
+    <div class="discipline-grid" id="disciplineGrid"></div>
+  </section>
+
+  <section class="wizard" id="wizardStep2" style="display:none;">
+    <button class="wizard-back" id="backToStep1" type="button">‹ Change field</button>
+    <p class="wizard-eyebrow">Step 2 of 2</p>
+    <h2 class="wizard-title" id="step2Title">Bachelor's or Master's?</h2>
+    <div class="level-grid" id="levelGrid"></div>
+  </section>
+
+  <section id="resultsSection" style="display:none;">
+    <div class="controls-row" style="padding-top:6px;">
+      <span class="scope-line" id="scopeLine"></span>
+      <button class="start-over" id="startOverBtn" type="button">‹ Start over</button>
+    </div>
+
+    <div class="controls">
+      <div class="controls-row">
+        <div class="search-box">
+          <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+          <input type="text" id="searchInput" placeholder="Search programme or school…" autocomplete="off" />
+        </div>
+        <select id="facultySelect"><option value="">All schools</option></select>
+        <input type="number" id="maxFeeInput" placeholder="Max EU fee (€/yr)" min="0" step="50" class="max-fee-input" />
+        <select id="sortSelect">
+          <option value="name">Sort: Name (A–Z)</option>
+          <option value="university">Sort: University</option>
+          <option value="fee-asc">Sort: EU fee (low → high)</option>
+          <option value="fee-desc">Sort: EU fee (high → low)</option>
+        </select>
+        <button class="reset-btn" id="resetBtn" type="button">Reset filters</button>
+      </div>
+      <div class="controls-row">
+        <div class="chipset" id="disciplineChips"></div>
+      </div>
+      <div class="controls-row">
+        <div class="chipset" id="uniChips"></div>
+      </div>
+      <div class="controls-row">
+        <div class="chipset" id="levelChips"></div>
+        <span class="result-line" id="resultLine"></span>
+      </div>
+    </div>
+
+    <div class="table-shell">
+      <table id="courseTable">
+        <thead>
+          <tr>
+            <th style="width:14%">University</th>
+            <th style="width:19%">Programme</th>
+            <th style="width:17%">School / Faculty</th>
+            <th style="width:9%">Level</th>
+            <th style="width:12%">Duration</th>
+            <th style="width:14.5%">EU / national fee</th>
+            <th style="width:14.5%">Non-EU fee</th>
+          </tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+      </table>
+      <div class="empty-state" id="emptyState" style="display:none;">No programmes match these filters. Try clearing a filter or broadening your search.</div>
+    </div>
+  </section>
+
+
+</div>
+
+<footer class="site-footer">
+  <div class="footer-grid">
+    <div>
+      <div class="footer-brand"><span class="mark" style="width:30px;height:30px;border-radius:8px;background:var(--accent);display:flex;align-items:center;justify-content:center;color:#f6f3ec;font-weight:700;font-size:15px;">N</span><span class="name">NextCampusEU</span></div>
+      <p>Helping international students find and apply to English-language programs at Portugal's leading universities.</p>
+    </div>
+    <div>
+      <div class="footer-col-title">Explore</div>
+      <div class="footer-links"><a href="index.html#finder">Courses</a><a href="index.html#countries">Universities</a><a href="index.html#services">How it works</a></div>
+    </div>
+    <div>
+      <div class="footer-col-title">Company</div>
+      <div class="footer-links"><a href="index.html#services">Why us</a><a href="index.html#talk">Contact</a><a href="#">For agents</a></div>
+    </div>
+    <div>
+      <div class="footer-col-title">Get started</div>
+      <a href="index.html#talk" class="footer-cta">Free guidance</a>
+    </div>
+  </div>
+  <div class="footer-legal">
+    <p>© 2026 NextCampusEU · Not affiliated with the Portuguese government</p>
+    <p>Compiled from each university's official website, 2026/2027 academic year figures where available. Click a programme's source link to verify current pricing and up-to-date information</p>
+  </div>
+</footer>
+
+<script>
+var UNIVERSITIES = [
+  { key: "ulisboa", name: "University of Lisbon", short: "ULisboa", color: "var(--lisboa)" },
+  { key: "nova", name: "NOVA University Lisbon", short: "NOVA", color: "var(--nova)" },
+  { key: "catolica", name: "Universidade Católica Portuguesa", short: "Católica", color: "var(--catolica)" },
+  { key: "iscte", name: "ISCTE – Instituto Universitário de Lisboa", short: "ISCTE", color: "var(--iscte)" },
+  { key: "evora", name: "University of Évora", short: "Évora", color: "var(--evora)" },
+  { key: "algarve", name: "University of Algarve", short: "Algarve", color: "var(--algarve)" },
+  { key: "porto", name: "University of Porto", short: "Porto", color: "var(--porto)" },
+  { key: "minho", name: "University of Minho", short: "Minho", color: "var(--minho)" }
+];
+
+var LEVELS = [
+  { key: "bsc", match: "Bachelor's", label: "Bachelor's", color: "var(--level-bsc)" },
+  { key: "msc", match: "Master's (Mestrado, 2nd cycle)", label: "Master's", color: "var(--level-msc)" },
+  { key: "int", match: "Integrated Master's", label: "Integrated Master's", color: "var(--level-int)" }
+];
+
+function levelKeyFor(deg) {
+  if (deg.indexOf("Integrated") === 0) return "int";
+  if (deg.indexOf("Bachelor's") === 0) return "bsc";
+  return "msc";
+}
+
+var DISCIPLINES = [
+  { key: "business", label: "Business, Economics & Management", short: "Business & Economics", blurb: "Management, finance, accounting, marketing, economics" },
+  { key: "engineering", label: "Engineering, Technology & Computing", short: "Engineering & Tech", blurb: "Computer science, data, all engineering disciplines, architecture's technical schools" },
+  { key: "health", label: "Sciences & Health", short: "Sciences & Health", blurb: "Medicine, pharmacy, nursing, natural sciences, biotechnology" },
+  { key: "social", label: "Social Sciences, Law & Humanities", short: "Social Sciences & Law", blurb: "Law, sociology, psychology, history, languages, theology" },
+  { key: "arts", label: "Arts, Design & Architecture", short: "Arts & Design", blurb: "Fine arts, communication design, music, performing arts, architecture" }
+];
+
+var ARTS_HINTS = ["architecture", "fine arts", "painting", "drawing", "communication design", "design for sustainability", "artistic studies", "musical", "performing arts", "glass and ceramic"];
+var ARTS_FACULTY_HINTS = ["fine arts"];
+var ENGINEERING_FACULTY_HINTS = ["técnico", "tecnico", "technology", "engineering", "information management", "digital technologies", "information systems", "ista", "fct"];
+var BUSINESS_FACULTY_HINTS = ["business", "economics & management", "economics and management", "iseg", "sbe", "economics", "management"];
+var HEALTH_FACULTY_HINTS = ["medicine", "medical", "pharmacy", "dental", "health", "human kinetics", "biotechnology", "faculty of sciences", "agriculture", "nursing"];
+
+function classifyDiscipline(courseName, faculty) {
+  var name = (courseName || "").toLowerCase();
+  var fac = (faculty || "").toLowerCase();
+  if (ARTS_HINTS.some(function (h) { return name.indexOf(h) !== -1; })) return "arts";
+  if (ARTS_FACULTY_HINTS.some(function (h) { return fac.indexOf(h) !== -1; })) return "arts";
+  if (ENGINEERING_FACULTY_HINTS.some(function (h) { return fac.indexOf(h) !== -1; })) return "engineering";
+  if (BUSINESS_FACULTY_HINTS.some(function (h) { return fac.indexOf(h) !== -1; })) return "business";
+  if (HEALTH_FACULTY_HINTS.some(function (h) { return fac.indexOf(h) !== -1; })) return "health";
+  return "social";
+}
+
+var DATASETS = {};
+
+var DATA_FILES = {
+  ulisboa: "data/ulisboa.json",
+  nova: "data/nova.json",
+  catolica: "data/catolica.json",
+  iscte: "data/iscte.json",
+  evora: "data/evora.json",
+  algarve: "data/algarve.json",
+  porto: "data/porto.json",
+  minho: "data/minho.json"
+};
+
+var ALL_COURSES = [];
+function buildAllCourses() {
+  ALL_COURSES = [];
+  UNIVERSITIES.forEach(function (uni) {
+    (DATASETS[uni.key] || []).forEach(function (c) {
+      ALL_COURSES.push({
+        uniKey: uni.key,
+        uniName: uni.name,
+        uniShort: uni.short,
+        uniColor: uni.color,
+        levelKey: levelKeyFor(c.degree_level),
+        disciplineKey: classifyDiscipline(c.course_name, c.faculty),
+        course_name: c.course_name,
+        degree_level: c.degree_level,
+        faculty: c.faculty,
+        eu_fee: c.tuition_fee.eu_students,
+        non_eu_fee: c.tuition_fee.non_eu_students,
+        duration: c.duration,
+        source_url: c.source_url
+      });
+    });
+  });
+}
+
+function feeSortKey(fee) {
+  if (!fee) return Infinity;
+  if (fee.amount != null) return fee.amount;
+  if (fee.year_1 != null) return fee.year_1;
+  return Infinity;
+}
+
+function formatFee(fee) {
+  if (!fee || fee.amount === null) return '<span class="rest">not listed</span>';
+  if ("year_1" in fee) {
+    return '<span class="amt">€' + fee.year_1.toLocaleString() + " (year 1)</span>" +
+           '<span class="rest"> + €' + fee.year_2.toLocaleString() + " (year 2)</span>";
+  }
+  if (fee.amount === 0) return '<span class="amt">Free</span>';
+  var suffix = fee.period === "total" ? " total" : "/yr";
+  return '<span class="amt">€' + fee.amount.toLocaleString() + "</span>" + '<span class="rest">' + suffix + "</span>";
+}
+
+var state = {
+  search: "",
+  unis: new Set(UNIVERSITIES.map(function (u) { return u.key; })),
+  levels: new Set(LEVELS.map(function (l) { return l.key; })),
+  disciplines: new Set(DISCIPLINES.map(function (d) { return d.key; })),
+  faculty: "",
+  maxFee: null,
+  sort: "name"
+};
+
+var statRow = document.getElementById("statRow");
+var uniChipsEl = document.getElementById("uniChips");
+var levelChipsEl = document.getElementById("levelChips");
+var disciplineChipsEl = document.getElementById("disciplineChips");
+var facultySelect = document.getElementById("facultySelect");
+var maxFeeInput = document.getElementById("maxFeeInput");
+var sortSelect = document.getElementById("sortSelect");
+var searchInput = document.getElementById("searchInput");
+var resetBtn = document.getElementById("resetBtn");
+var tableBody = document.getElementById("tableBody");
+var emptyState = document.getElementById("emptyState");
+var resultLine = document.getElementById("resultLine");
+var tableShell = document.querySelector(".table-shell");
+
+var wizardStep1 = document.getElementById("wizardStep1");
+var wizardStep2 = document.getElementById("wizardStep2");
+var disciplineGrid = document.getElementById("disciplineGrid");
+var levelGrid = document.getElementById("levelGrid");
+var backToStep1 = document.getElementById("backToStep1");
+var step2Title = document.getElementById("step2Title");
+var resultsSection = document.getElementById("resultsSection");
+var scopeLine = document.getElementById("scopeLine");
+var startOverBtn = document.getElementById("startOverBtn");
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, function (c) {
+    return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+  });
+}
+
+function renderStats() {
+  var html = '<div class="stat"><div class="n">' + ALL_COURSES.length + '</div><div class="l">Total programmes</div></div>';
+  UNIVERSITIES.forEach(function (u) {
+    var n = ALL_COURSES.filter(function (c) { return c.uniKey === u.key; }).length;
+    html += '<div class="stat"><div class="n"><span class="dot" style="background:' + u.color + '"></span>' + n + '</div><div class="l">' + escapeHtml(u.short) + '</div></div>';
+  });
+  statRow.innerHTML = html;
+}
+
+function renderChips() {
+  uniChipsEl.innerHTML = UNIVERSITIES.map(function (u) {
+    var pressed = state.unis.has(u.key);
+    return '<button type="button" class="chip" data-kind="uni" data-key="' + u.key + '" aria-pressed="' + pressed + '" style="' + (pressed ? "background:" + u.color + ";border-color:" + u.color : "color:" + u.color) + '"><span class="dot"></span>' + escapeHtml(u.short) + '</button>';
+  }).join("");
+
+  levelChipsEl.innerHTML = LEVELS.map(function (l) {
+    var pressed = state.levels.has(l.key);
+    return '<button type="button" class="chip" data-kind="level" data-key="' + l.key + '" aria-pressed="' + pressed + '" style="' + (pressed ? "background:" + l.color + ";border-color:" + l.color : "color:" + l.color) + '"><span class="dot"></span>' + escapeHtml(l.label) + '</button>';
+  }).join("");
+
+  disciplineChipsEl.innerHTML = DISCIPLINES.map(function (d) {
+    var pressed = state.disciplines.has(d.key);
+    return '<button type="button" class="chip" data-kind="discipline" data-key="' + d.key + '" aria-pressed="' + pressed + '" style="' + (pressed ? "background:var(--accent);border-color:var(--accent);color:#fff" : "color:var(--accent)") + '">' + escapeHtml(d.short) + '</button>';
+  }).join("");
+}
+
+function renderFacultyOptions() {
+  var visible = ALL_COURSES.filter(function (c) { return state.unis.has(c.uniKey) && state.disciplines.has(c.disciplineKey); });
+  var faculties = Array.from(new Set(visible.map(function (c) { return c.faculty; }))).sort();
+  var current = state.faculty;
+  var html = '<option value="">All schools</option>';
+  faculties.forEach(function (f) {
+    html += '<option value="' + escapeHtml(f) + '"' + (f === current ? " selected" : "") + '>' + escapeHtml(f) + "</option>";
+  });
+  facultySelect.innerHTML = html;
+  if (faculties.indexOf(current) === -1) {
+    state.faculty = "";
+    facultySelect.value = "";
+  }
+}
+
+function updateScopeLine() {
+  var d = DISCIPLINES.filter(function (x) { return state.disciplines.has(x.key); });
+  var dLabel = d.length === DISCIPLINES.length ? "All fields" : d.map(function (x) { return x.short; }).join(", ");
+  var l = LEVELS.filter(function (x) { return state.levels.has(x.key); });
+  var lLabel = l.length === LEVELS.length ? "all levels" : l.map(function (x) { return x.label; }).join(", ");
+  scopeLine.innerHTML = "Browsing: <strong>" + escapeHtml(dLabel) + "</strong> · <strong>" + escapeHtml(lLabel) + "</strong>";
+}
+
+function getFiltered() {
+  var q = state.search.trim().toLowerCase();
+  var rows = ALL_COURSES.filter(function (c) {
+    if (!state.unis.has(c.uniKey)) return false;
+    if (!state.levels.has(c.levelKey)) return false;
+    if (!state.disciplines.has(c.disciplineKey)) return false;
+    if (state.faculty && c.faculty !== state.faculty) return false;
+    if (state.maxFee != null && feeSortKey(c.eu_fee) > state.maxFee) return false;
+    if (q && c.course_name.toLowerCase().indexOf(q) === -1 && c.faculty.toLowerCase().indexOf(q) === -1) return false;
+    return true;
+  });
+
+  rows.sort(function (a, b) {
+    if (state.sort === "university") {
+      var ui = UNIVERSITIES.map(function (u) { return u.key; });
+      var d = ui.indexOf(a.uniKey) - ui.indexOf(b.uniKey);
+      return d !== 0 ? d : a.course_name.localeCompare(b.course_name);
+    }
+    if (state.sort === "fee-asc") return feeSortKey(a.eu_fee) - feeSortKey(b.eu_fee);
+    if (state.sort === "fee-desc") return feeSortKey(b.eu_fee) - feeSortKey(a.eu_fee);
+    return a.course_name.localeCompare(b.course_name);
+  });
+
+  return rows;
+}
+
+function renderTable() {
+  var rows = getFiltered();
+  resultLine.textContent = "Showing " + rows.length + " of " + ALL_COURSES.length + " programmes";
+
+  if (rows.length === 0) {
+    tableBody.innerHTML = "";
+    emptyState.style.display = "block";
+    tableShell.querySelector("table").style.display = "none";
+    return;
+  }
+  emptyState.style.display = "none";
+  tableShell.querySelector("table").style.display = "";
+
+  tableBody.innerHTML = rows.map(function (c) {
+    var levelInfo = LEVELS.filter(function (l) { return l.key === c.levelKey; })[0];
+    return (
+      '<tr style="--uni-color:' + c.uniColor + '">' +
+        '<td class="col-uni" data-label="University"><span class="uni-tag" style="--uni-color:' + c.uniColor + '"><span class="dot"></span>' + escapeHtml(c.uniShort) + "</span></td>" +
+        '<td class="col-course" data-label="Programme">' + escapeHtml(c.course_name) +
+          '<span class="src"><a href="' + escapeHtml(c.source_url) + '" target="_blank" rel="noopener noreferrer">Official source ↗</a></span>' +
+        "</td>" +
+        '<td class="col-faculty" data-label="School">' + escapeHtml(c.faculty) + "</td>" +
+        '<td class="col-level" data-label="Level"><span class="level-pill" style="background:' + levelInfo.color + '">' + escapeHtml(levelInfo.label) + "</span></td>" +
+        '<td class="col-duration" data-label="Duration">' + escapeHtml(c.duration) + "</td>" +
+        '<td class="col-fee" data-label="EU / national fee">' + formatFee(c.eu_fee) + "</td>" +
+        '<td class="col-fee" data-label="Non-EU fee">' + formatFee(c.non_eu_fee) + "</td>" +
+      "</tr>"
+    );
+  }).join("");
+}
+
+function renderAll() {
+  updateScopeLine();
+  renderChips();
+  renderFacultyOptions();
+  renderTable();
+}
+
+uniChipsEl.addEventListener("click", function (e) {
+  var btn = e.target.closest(".chip");
+  if (!btn) return;
+  var key = btn.getAttribute("data-key");
+  if (state.unis.has(key)) {
+    if (state.unis.size > 1) state.unis.delete(key);
+  } else {
+    state.unis.add(key);
+  }
+  renderAll();
+});
+
+levelChipsEl.addEventListener("click", function (e) {
+  var btn = e.target.closest(".chip");
+  if (!btn) return;
+  var key = btn.getAttribute("data-key");
+  if (state.levels.has(key)) {
+    if (state.levels.size > 1) state.levels.delete(key);
+  } else {
+    state.levels.add(key);
+  }
+  renderAll();
+});
+
+disciplineChipsEl.addEventListener("click", function (e) {
+  var btn = e.target.closest(".chip");
+  if (!btn) return;
+  var key = btn.getAttribute("data-key");
+  if (state.disciplines.has(key)) {
+    if (state.disciplines.size > 1) state.disciplines.delete(key);
+  } else {
+    state.disciplines.add(key);
+  }
+  renderAll();
+});
+
+function renderDisciplineGrid() {
+  disciplineGrid.innerHTML = DISCIPLINES.map(function (d) {
+    var n = ALL_COURSES.filter(function (c) { return c.disciplineKey === d.key; }).length;
+    return (
+      '<button type="button" class="discipline-card" data-discipline-key="' + d.key + '">' +
+        '<div class="dc-name">' + escapeHtml(d.label) + "</div>" +
+        '<div class="dc-blurb">' + escapeHtml(d.blurb) + "</div>" +
+        '<div class="dc-count">' + n + " programmes</div>" +
+      "</button>"
+    );
+  }).join("");
+}
+
+function renderLevelGrid(disciplineKey) {
+  var inDiscipline = ALL_COURSES.filter(function (c) { return c.disciplineKey === disciplineKey; });
+  var cards = LEVELS.filter(function (l) {
+    return inDiscipline.some(function (c) { return c.levelKey === l.key; });
+  }).map(function (l) {
+    var n = inDiscipline.filter(function (c) { return c.levelKey === l.key; }).length;
+    return (
+      '<button type="button" class="level-card" data-level-key="' + l.key + '" style="--lc-color:' + l.color + '">' +
+        '<div class="lc-name">' + escapeHtml(l.label) + "</div>" +
+        '<div class="lc-count">' + n + (n === 1 ? " programme" : " programmes") + "</div>" +
+      "</button>"
+    );
+  }).join("");
+  cards += (
+    '<button type="button" class="level-card" data-level-key="__all__">' +
+      '<div class="lc-name">All levels</div>' +
+      '<div class="lc-count">' + inDiscipline.length + " programmes</div>" +
+    "</button>"
+  );
+  levelGrid.innerHTML = cards;
+}
+
+function goStep2(disciplineKey) {
+  state.disciplines = new Set([disciplineKey]);
+  var d = DISCIPLINES.filter(function (x) { return x.key === disciplineKey; })[0];
+  step2Title.textContent = d.short + " — Bachelor's or Master's?";
+  renderLevelGrid(disciplineKey);
+  wizardStep1.style.display = "none";
+  wizardStep2.style.display = "";
+}
+
+function enterResults() {
+  wizardStep1.style.display = "none";
+  wizardStep2.style.display = "none";
+  resultsSection.style.display = "";
+  renderAll();
+}
+
+function goStartOver() {
+  state.search = "";
+  state.unis = new Set(UNIVERSITIES.map(function (u) { return u.key; }));
+  state.levels = new Set(LEVELS.map(function (l) { return l.key; }));
+  state.disciplines = new Set(DISCIPLINES.map(function (d) { return d.key; }));
+  state.faculty = "";
+  state.maxFee = null;
+  state.sort = "name";
+  searchInput.value = "";
+  maxFeeInput.value = "";
+  sortSelect.value = "name";
+  resultsSection.style.display = "none";
+  wizardStep2.style.display = "none";
+  renderDisciplineGrid();
+  wizardStep1.style.display = "";
+}
+
+disciplineGrid.addEventListener("click", function (e) {
+  var btn = e.target.closest(".discipline-card");
+  if (!btn) return;
+  goStep2(btn.getAttribute("data-discipline-key"));
+});
+
+levelGrid.addEventListener("click", function (e) {
+  var btn = e.target.closest(".level-card");
+  if (!btn) return;
+  var key = btn.getAttribute("data-level-key");
+  state.levels = key === "__all__" ? new Set(LEVELS.map(function (l) { return l.key; })) : new Set([key]);
+  enterResults();
+});
+
+backToStep1.addEventListener("click", function () {
+  wizardStep2.style.display = "none";
+  wizardStep1.style.display = "";
+});
+
+startOverBtn.addEventListener("click", goStartOver);
+
+facultySelect.addEventListener("change", function () {
+  state.faculty = facultySelect.value;
+  renderTable();
+});
+
+var maxFeeDebounce;
+maxFeeInput.addEventListener("input", function () {
+  clearTimeout(maxFeeDebounce);
+  var v = maxFeeInput.value;
+  maxFeeDebounce = setTimeout(function () {
+    state.maxFee = v === "" ? null : parseFloat(v);
+    renderTable();
+  }, 90);
+});
+
+sortSelect.addEventListener("change", function () {
+  state.sort = sortSelect.value;
+  renderTable();
+});
+
+var searchDebounce;
+searchInput.addEventListener("input", function () {
+  clearTimeout(searchDebounce);
+  var v = searchInput.value;
+  searchDebounce = setTimeout(function () {
+    state.search = v;
+    renderTable();
+  }, 90);
+});
+
+resetBtn.addEventListener("click", function () {
+  state.search = "";
+  state.unis = new Set(UNIVERSITIES.map(function (u) { return u.key; }));
+  state.levels = new Set(LEVELS.map(function (l) { return l.key; }));
+  state.disciplines = new Set(DISCIPLINES.map(function (d) { return d.key; }));
+  state.faculty = "";
+  state.maxFee = null;
+  state.sort = "name";
+  searchInput.value = "";
+  maxFeeInput.value = "";
+  sortSelect.value = "name";
+  renderAll();
+});
+
+function applyIncomingLinkFilters() {
+  var params = new URLSearchParams(location.search);
+  var disciplineParam = params.get("discipline");
+  var levelParam = params.get("level");
+  var universityParam = params.get("university");
+  var validDiscipline = DISCIPLINES.some(function (d) { return d.key === disciplineParam; });
+  var validLevel = LEVELS.some(function (l) { return l.key === levelParam; });
+  var validUniversity = UNIVERSITIES.some(function (u) { return u.key === universityParam; });
+  if (!validDiscipline && !validLevel && !validUniversity) return;
+
+  state.disciplines = validDiscipline ? new Set([disciplineParam]) : new Set(DISCIPLINES.map(function (d) { return d.key; }));
+  state.levels = validLevel ? new Set([levelParam]) : new Set(LEVELS.map(function (l) { return l.key; }));
+  state.unis = validUniversity ? new Set([universityParam]) : new Set(UNIVERSITIES.map(function (u) { return u.key; }));
+  enterResults();
+}
+
+function showLoadError(err) {
+  var loadStatus = document.getElementById("loadStatus");
+  loadStatus.style.display = "block";
+  loadStatus.innerHTML =
+    "<strong>Couldn't load course data.</strong> This page fetches <code>data/ulisboa.json</code>, " +
+    "<code>data/nova.json</code>, <code>data/catolica.json</code>, <code>data/iscte.json</code>, " +
+    "<code>data/evora.json</code>, <code>data/algarve.json</code>, <code>data/porto.json</code> and " +
+    "<code>data/minho.json</code> at load time, which only " +
+    "works when the page is served over http(s) — not opened directly as a local file. Try running a static " +
+    "server in this folder (e.g. <code>npx http-server</code>) and reload.";
+  console.error("Course data load failed:", err);
+}
+
+Promise.all(Object.keys(DATA_FILES).map(function (key) {
+  return fetch(DATA_FILES[key]).then(function (res) {
+    if (!res.ok) throw new Error("HTTP " + res.status + " loading " + DATA_FILES[key]);
+    return res.json();
+  }).then(function (json) { DATASETS[key] = json; });
+})).then(function () {
+  buildAllCourses();
+  renderStats();
+  renderDisciplineGrid();
+  renderAll();
+  applyIncomingLinkFilters();
+}).catch(showLoadError);
+</script>

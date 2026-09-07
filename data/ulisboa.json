@@ -1,0 +1,1531 @@
+[
+  {
+    "course_name": "Communication Design",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Fine Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/licenciatura/communication-design"
+  },
+  {
+    "course_name": "Drawing",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Faculty of Fine Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/licenciatura/drawing"
+  },
+  {
+    "course_name": "Economics",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "ISEG - Lisbon School of Economics & Management",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/licenciatura/economics-0"
+  },
+  {
+    "course_name": "Finance",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "ISEG - Lisbon School of Economics & Management",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/licenciatura/finance-0"
+  },
+  {
+    "course_name": "Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "ISEG - Lisbon School of Economics & Management",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/licenciatura/management-0"
+  },
+  {
+    "course_name": "Applied Mathematics for Economics & Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "ISEG - Lisbon School of Economics & Management",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/node/21223"
+  },
+  {
+    "course_name": "African Studies",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Arts and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/licenciatura/african-studies"
+  },
+  {
+    "course_name": "Archaeology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Arts and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/licenciatura/archaeology"
+  },
+  {
+    "course_name": "Arts and Humanities",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Arts and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/licenciatura/arts-and-humanities"
+  },
+  {
+    "course_name": "Asian Studies",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Arts and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/licenciatura/asian-studies"
+  },
+  {
+    "course_name": "Classical Studies",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Arts and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/licenciatura/classical-studies"
+  },
+  {
+    "course_name": "Comparative Studies",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Arts and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/licenciatura/comparative-studies"
+  },
+  {
+    "course_name": "European Studies",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Arts and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/licenciatura/european-studies"
+  },
+  {
+    "course_name": "History",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Arts and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/licenciatura/history"
+  },
+  {
+    "course_name": "History of Art",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Arts and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/licenciatura/history-art"
+  },
+  {
+    "course_name": "Language Sciences",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Arts and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/licenciatura/language-sciences"
+  },
+  {
+    "course_name": "Languages, Literatures & Cultures",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Arts and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/licenciatura/languages-literatures-and-cultures"
+  },
+  {
+    "course_name": "Philosophy",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Arts and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/licenciatura/philosophy"
+  },
+  {
+    "course_name": "Portuguese Studies",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Arts and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/licenciatura/portuguese-studies"
+  },
+  {
+    "course_name": "Studies of Culture & Intercultural Communication",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Arts and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/licenciatura/studies-culture-and-intercultural-communication"
+  },
+  {
+    "course_name": "Translation",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Arts and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/licenciatura/translation"
+  },
+  {
+    "course_name": "Artistic Studies",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Arts and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/node/20937"
+  },
+  {
+    "course_name": "General Engineering (GENI)",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/node/20089"
+  },
+  {
+    "course_name": "Oral Health Sciences & Technology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Dental Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2750,
+        "year_2": 1500
+      },
+      "non_eu_students": {
+        "year_1": 6000,
+        "year_2": 3000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/node/20086"
+  },
+  {
+    "course_name": "Communication Design",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Fine Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1700,
+        "year_2": 1250
+      },
+      "non_eu_students": {
+        "year_1": 4000,
+        "year_2": 2000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/communication-design-0"
+  },
+  {
+    "course_name": "Design for Sustainability",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Fine Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1400,
+        "year_2": 1250
+      },
+      "non_eu_students": {
+        "year_1": 4000,
+        "year_2": 2000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/design-sustainability"
+  },
+  {
+    "course_name": "Painting",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Fine Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1700,
+        "year_2": 1250
+      },
+      "non_eu_students": {
+        "year_1": 4000,
+        "year_2": 2000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/painting"
+  },
+  {
+    "course_name": "Law and Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4000,
+        "year_2": 2800
+      },
+      "non_eu_students": {
+        "year_1": 4000,
+        "year_2": 2800
+      }
+    },
+    "duration": "3 semesters (~1.5 years), 90 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/course/msc-master-degree/law-and-management"
+  },
+  {
+    "course_name": "Biomedical Research",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2700,
+        "year_2": 1950
+      },
+      "non_eu_students": {
+        "year_1": 7700,
+        "year_2": 4400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/biomedical-research"
+  },
+  {
+    "course_name": "Cardiovascular Imaging",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2700,
+        "year_2": 1950
+      },
+      "non_eu_students": {
+        "year_1": 7700,
+        "year_2": 4400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/cardiovascular-imaging"
+  },
+  {
+    "course_name": "Cardiovascular Rehabilitation",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2700,
+        "year_2": 1950
+      },
+      "non_eu_students": {
+        "year_1": 7700,
+        "year_2": 4400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/cardiovascular-rehabilitation"
+  },
+  {
+    "course_name": "Clinical Nutrition",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 3000,
+        "year_2": 1400
+      },
+      "non_eu_students": {
+        "year_1": 7700,
+        "year_2": 3850
+      }
+    },
+    "duration": "3 semesters (~1.5 years), 90 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/clinical-nutrition"
+  },
+  {
+    "course_name": "Clinical Research",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2700,
+        "year_2": 1950
+      },
+      "non_eu_students": {
+        "year_1": 7700,
+        "year_2": 4400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/clinical-research"
+  },
+  {
+    "course_name": "Epidemiology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2700,
+        "year_2": 1950
+      },
+      "non_eu_students": {
+        "year_1": 7700,
+        "year_2": 4400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/epidemiology"
+  },
+  {
+    "course_name": "Metabolic Disorders & Eating Behaviour",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2700,
+        "year_2": 1950
+      },
+      "non_eu_students": {
+        "year_1": 7700,
+        "year_2": 4400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/metabolic-disorders-and-eating-behaviour"
+  },
+  {
+    "course_name": "Oncobiology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2700,
+        "year_2": 1950
+      },
+      "non_eu_students": {
+        "year_1": 7700,
+        "year_2": 4400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/oncobiology"
+  },
+  {
+    "course_name": "Palliative Care",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2700,
+        "year_2": 1950
+      },
+      "non_eu_students": {
+        "year_1": 7700,
+        "year_2": 4400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/palliative-care"
+  },
+  {
+    "course_name": "Neurosciences",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2700,
+        "year_2": 1950
+      },
+      "non_eu_students": {
+        "year_1": 7700,
+        "year_2": 4400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/node/21210"
+  },
+  {
+    "course_name": "Biopharmaceutical Sciences",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Pharmacy",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1500,
+        "year_2": 1750
+      },
+      "non_eu_students": {
+        "year_1": 3250,
+        "year_2": 3750
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/biopharmaceutical-sciences"
+  },
+  {
+    "course_name": "Medicinal & Biopharmaceutical Chemistry",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Pharmacy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "year_1": 3250,
+        "year_2": 3750
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/medicinal-and-biopharmaceutical-chemistry"
+  },
+  {
+    "course_name": "Regulation & Evaluation of Medicines & Health Products",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Pharmacy",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4500,
+        "year_2": 1100
+      },
+      "non_eu_students": {
+        "year_1": 4500,
+        "year_2": 1100
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/regulation-and-evaluation-medicines-and-health-products"
+  },
+  {
+    "course_name": "Biostatistics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1060,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/biostatistics"
+  },
+  {
+    "course_name": "Data Science",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/data-science"
+  },
+  {
+    "course_name": "Geology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/geology"
+  },
+  {
+    "course_name": "History & Philosophy of Science",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/history-and-philosophy-science"
+  },
+  {
+    "course_name": "Mathematics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 980,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/mathematics"
+  },
+  {
+    "course_name": "Physics & Astrophysics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1060,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/physics-and-astrophysics"
+  },
+  {
+    "course_name": "Medical Physics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Faculty of Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/node/23325"
+  },
+  {
+    "course_name": "Accounting",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISEG - Lisbon School of Economics & Management",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4850,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 6350,
+        "year_2": 3500
+      }
+    },
+    "duration": "3 semesters (~1.5 years), 90 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/accounting"
+  },
+  {
+    "course_name": "Actuarial Science",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISEG - Lisbon School of Economics & Management",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 3500,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 5000,
+        "year_2": 3500
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/actuarial-science"
+  },
+  {
+    "course_name": "Data Analytics for Business",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISEG - Lisbon School of Economics & Management",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4850,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 6350,
+        "year_2": 3500
+      }
+    },
+    "duration": "3 semesters (~1.5 years), 90 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/data-analytics-business"
+  },
+  {
+    "course_name": "Economics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISEG - Lisbon School of Economics & Management",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 3750,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 5000,
+        "year_2": 3250
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/economics"
+  },
+  {
+    "course_name": "Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISEG - Lisbon School of Economics & Management",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5800,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 7500,
+        "year_2": 3500
+      }
+    },
+    "duration": "3 semesters (~1.5 years), 90 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/management"
+  },
+  {
+    "course_name": "Monetary & Financial Economics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISEG - Lisbon School of Economics & Management",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 3750,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 5000,
+        "year_2": 3250
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/monetary-and-financial-economics"
+  },
+  {
+    "course_name": "Finance",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISEG - Lisbon School of Economics & Management",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5900,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 8000,
+        "year_2": 3900
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/node/21226"
+  },
+  {
+    "course_name": "Management Information Systems",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISEG - Lisbon School of Economics & Management",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 3900,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 4900,
+        "year_2": 3000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/node/21227"
+  },
+  {
+    "course_name": "Industrial Management, Operations & Sustainability",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISEG - Lisbon School of Economics & Management",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4850,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 6350,
+        "year_2": 3500
+      }
+    },
+    "duration": "3 semesters (~1.5 years), 90 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/node/22905"
+  },
+  {
+    "course_name": "Applied Econometrics & Forecasting",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISEG - Lisbon School of Economics & Management",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 3100,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 4100,
+        "year_2": 3000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/node/23179"
+  },
+  {
+    "course_name": "Mathematical Finance",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISEG - Lisbon School of Economics & Management",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 3750,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 5250,
+        "year_2": 3500
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/node/23180"
+  },
+  {
+    "course_name": "Mediterranean Forestry & Natural Resources Management (MEDfOR)",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Agriculture",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/mediterranean-forestry-and-natural-resources-management-medfor-eramus-mundus"
+  },
+  {
+    "course_name": "Modern Literatures, Arts & Cultures",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Arts and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 1200,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/modern-literatures-arts-and-cultures"
+  },
+  {
+    "course_name": "Aerospace Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 825,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/aerospace-engineering"
+  },
+  {
+    "course_name": "Applied Mathematics & Computation",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 825,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/applied-mathematics-and-computation"
+  },
+  {
+    "course_name": "Bioengineering for Regenerative & Precision Medicine",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1060,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/bioengineering-regenerative-and-precision-medicine"
+  },
+  {
+    "course_name": "Biological Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 825,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/biological-engineering"
+  },
+  {
+    "course_name": "Biomedical Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 825,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/biomedical-engineering"
+  },
+  {
+    "course_name": "Biotechnology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1060,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/biotechnology"
+  },
+  {
+    "course_name": "Chemical Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 825,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/chemical-engineering"
+  },
+  {
+    "course_name": "Civil Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 825,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/civil-engineering"
+  },
+  {
+    "course_name": "Data Science & Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/data-science-and-engineering"
+  },
+  {
+    "course_name": "Electrical & Computer Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 825,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/electrical-and-computer-engineering"
+  },
+  {
+    "course_name": "Electronics Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 825,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/electronics-engineering"
+  },
+  {
+    "course_name": "Energy Resources Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1060,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/energy-resources-engineering"
+  },
+  {
+    "course_name": "Engineering & Energy Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1060,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/engineering-and-energy-management"
+  },
+  {
+    "course_name": "Engineering & Management of Innovation & Entrepreneurship",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/engineering-and-management-innovation-and-entrepreneurship"
+  },
+  {
+    "course_name": "Environmental Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 825,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/environmental-engineering-0"
+  },
+  {
+    "course_name": "Industrial Engineering & Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 825,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/industrial-engineering-and-management"
+  },
+  {
+    "course_name": "Information Security & Cyberspace Law",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/information-security-and-cyberspace-law"
+  },
+  {
+    "course_name": "Information Systems & Computer Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 825,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/information-systems-and-computer-engineering"
+  },
+  {
+    "course_name": "Materials Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 825,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/materials-enginering"
+  },
+  {
+    "course_name": "Mechanical Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 825,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/mechanical-engineering"
+  },
+  {
+    "course_name": "Microbiology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1063.47,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/microbiology"
+  },
+  {
+    "course_name": "Mining & Geological Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 825,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/mining-and-geological-engineering"
+  },
+  {
+    "course_name": "Molecular Science & Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1060,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/molecular-science-and-engineering"
+  },
+  {
+    "course_name": "Naval & Oceanic Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 825,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/naval-and-oceanic-engineering"
+  },
+  {
+    "course_name": "Pharmaceutical Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2120,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/pharmaceutical-engineering"
+  },
+  {
+    "course_name": "Physics Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 825,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/physics-engineering"
+  },
+  {
+    "course_name": "Radiation Protection & Safety",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1060,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/radiation-protection-and-safety"
+  },
+  {
+    "course_name": "Telecommunications & Informatics Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 825,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/telecommunications-and-informatics-engineering"
+  },
+  {
+    "course_name": "Transportation Systems",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Técnico ULisboa",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1060,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.ulisboa.pt/en/curso/mestrado/transportation-systems"
+  }
+]

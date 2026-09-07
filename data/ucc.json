@@ -1,0 +1,3584 @@
+[
+  {
+    "course_name": "Commerce",
+    "degree_level": "Bachelor's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3830,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21700,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK201, BComm Hons)",
+    "source_url": "https://www.ucc.ie/en/ck201/"
+  },
+  {
+    "course_name": "Accounting",
+    "degree_level": "Bachelor's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21700,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK202, BSc Hons)",
+    "source_url": "https://www.ucc.ie/en/ck202/"
+  },
+  {
+    "course_name": "Business Information Systems",
+    "degree_level": "Bachelor's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21700,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK203, BSc Hons)",
+    "source_url": "https://www.ucc.ie/en/ck203/"
+  },
+  {
+    "course_name": "Finance",
+    "degree_level": "Bachelor's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21700,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK204, BSc Hons)",
+    "source_url": "https://www.ucc.ie/en/ck204/"
+  },
+  {
+    "course_name": "Applied Economics",
+    "degree_level": "Bachelor's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3830,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21700,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK212, BSc Hons); Year 3 is a 6-month work placement/research project or a study-abroad year, both within the 4-year structure",
+    "source_url": "https://www.ucc.ie/en/ck212/"
+  },
+  {
+    "course_name": "Food Marketing and Entrepreneurship",
+    "degree_level": "Bachelor's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21700,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK213, BSc Hons)",
+    "source_url": "https://www.ucc.ie/en/ck213/"
+  },
+  {
+    "course_name": "International Business with Languages",
+    "degree_level": "Bachelor's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3830,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21700,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK215, BSc Hons), including a Year 3 year abroad at a partner institution in the student's chosen language pathway",
+    "source_url": "https://www.ucc.ie/en/ck215/"
+  },
+  {
+    "course_name": "Accounting (MAcc)",
+    "degree_level": "Master's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (CKL26, Master of Accounting/MACC)",
+    "source_url": "https://www.ucc.ie/en/ckl26/"
+  },
+  {
+    "course_name": "Accounting and Performance Analytics",
+    "degree_level": "Master's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (MSc, CKL05)",
+    "source_url": "https://www.ucc.ie/en/ckl05/"
+  },
+  {
+    "course_name": "Business Analytics",
+    "degree_level": "Master's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22300,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (MSc, CKL51)",
+    "source_url": "https://www.ucc.ie/en/ckl51/"
+  },
+  {
+    "course_name": "Business Economics",
+    "degree_level": "Master's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,400/yr, MSc, CKL06)",
+    "source_url": "https://www.ucc.ie/en/ckl06/"
+  },
+  {
+    "course_name": "Design and Development of Digital Business",
+    "degree_level": "Master's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MSc, CKL17)",
+    "source_url": "https://www.ucc.ie/en/ckl17/"
+  },
+  {
+    "course_name": "Finance (Banking and Risk Management)",
+    "degree_level": "Master's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,400/yr, MSc, CKL19; formerly MSc Financial Economics)",
+    "source_url": "https://www.ucc.ie/en/ckl19/"
+  },
+  {
+    "course_name": "Finance (Corporate Finance)",
+    "degree_level": "Master's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MSc, CKL21)",
+    "source_url": "https://www.ucc.ie/en/ckl21/"
+  },
+  {
+    "course_name": "Finance (Investment and Asset Management)",
+    "degree_level": "Master's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MSc, CKL40)",
+    "source_url": "https://www.ucc.ie/en/ckl40/"
+  },
+  {
+    "course_name": "Food Business and Innovation",
+    "degree_level": "Master's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (MSc, CKL02)",
+    "source_url": "https://www.ucc.ie/en/ckl02/"
+  },
+  {
+    "course_name": "Human Resource Management",
+    "degree_level": "Master's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,400/yr, MSc, MSCHRM)",
+    "source_url": "https://www.ucc.ie/en/study/postgrad/taughtcourses/masters/humanresourcemanagement/"
+  },
+  {
+    "course_name": "Information Systems for Business Performance",
+    "degree_level": "Master's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MSc, CKL18)",
+    "source_url": "https://www.ucc.ie/en/ckl18/"
+  },
+  {
+    "course_name": "International Sustainable Business",
+    "degree_level": "Master's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (MSc, CKL/MSCISU)",
+    "source_url": "https://www.ucc.ie/en/mscisu/"
+  },
+  {
+    "course_name": "Management and Marketing",
+    "degree_level": "Master's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22300,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MSc, CKL22)",
+    "source_url": "https://www.ucc.ie/en/ckl22/"
+  },
+  {
+    "course_name": "Marketing",
+    "degree_level": "Master's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (MSc, CKL07)",
+    "source_url": "https://www.ucc.ie/en/ckl07/"
+  },
+  {
+    "course_name": "Sustainable Development, Agri-Food and Co-operatives",
+    "degree_level": "Master's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time, includes a placement (MSc, MSCSAC), delivered jointly by the Department of Food Business and Development and the Department of Management and Marketing",
+    "source_url": "https://www.ucc.ie/en/mscsac/"
+  },
+  {
+    "course_name": "Executive MBA",
+    "degree_level": "Master's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years part-time, delivered as block lectures (Thursday-Saturday) across four teaching periods (CKL11)",
+    "source_url": "https://www.ucc.ie/en/ckl11/"
+  },
+  {
+    "course_name": "Commerce (MSc by Research)",
+    "degree_level": "Master's",
+    "faculty": "Cork University Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "12 months full-time minimum, normal maximum 24 months part-time; research topic in Accounting, Economics, Food Business and Development, Finance, Information Systems, Management or Marketing",
+    "source_url": "https://www.ucc.ie/en/business-school/programmes/msccommercebyresearch/"
+  },
+  {
+    "course_name": "Law (Pathways)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21700,
+        "period": "year"
+      }
+    },
+    "duration": "3 years standard (CK301, BCL Hons); students may apply after Year 1 to transfer into the BCL (Clinical) or BCL (International) pathway, each of which extends the degree to 4 years",
+    "source_url": "https://www.ucc.ie/en/ck301/"
+  },
+  {
+    "course_name": "Law and French",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21700,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK302, BCL Hons)",
+    "source_url": "https://www.ucc.ie/en/ck302/"
+  },
+  {
+    "course_name": "Law and Irish",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21700,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK304, BCL Hons)",
+    "source_url": "https://www.ucc.ie/en/ck304/"
+  },
+  {
+    "course_name": "Law and Business",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21700,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK307, BCL Hons)",
+    "source_url": "https://www.ucc.ie/en/ck307/"
+  },
+  {
+    "course_name": "Law LLB (Law Graduates)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,600/yr). Graduate-entry LLB for applicants who already hold a primary law degree (code LLB, page URL ckl13)",
+    "source_url": "https://www.ucc.ie/en/ckl13/"
+  },
+  {
+    "course_name": "Law LLB (Non-Law Graduates)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7700,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17400,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time; 4 years part-time (part-time EU fee is 3,850/yr). Graduate-entry LLB for applicants without a prior law degree, includes core and optional law modules sufficient for professional legal training (code LLB, same page as the law-graduate track)",
+    "source_url": "https://www.ucc.ie/en/ckl13/"
+  },
+  {
+    "course_name": "Law LLM",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,600/yr, CKL14). A Postgraduate Diploma exit award is also offered (EU 5,000 FT / 2,500 PT, Non-EU 10,900) - not recorded separately here",
+    "source_url": "https://www.ucc.ie/en/ckl14/"
+  },
+  {
+    "course_name": "Law LLM (Alternative Dispute Resolution)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,600/yr, LLMADR)",
+    "source_url": "https://www.ucc.ie/en/llmadr/"
+  },
+  {
+    "course_name": "Law LLM (International Business Law)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,600/yr, CKL38, LLMIBL; listed as 'Law (Business Law) - LLM' on UCC's central fee schedule)",
+    "source_url": "https://www.ucc.ie/en/ckl38/"
+  },
+  {
+    "course_name": "Law LLM (Children's Rights and Family Law)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,600/yr, CKL29)",
+    "source_url": "https://www.ucc.ie/en/ckl29/"
+  },
+  {
+    "course_name": "Law LLM (Environmental and Natural Resources Law)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,600/yr, CKL48)",
+    "source_url": "https://www.ucc.ie/en/ckl48/"
+  },
+  {
+    "course_name": "Law LLM (International Human Rights Law and Public Policy)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,600/yr, CKL27)",
+    "source_url": "https://www.ucc.ie/en/ckl27/"
+  },
+  {
+    "course_name": "Law LLM (Law, Technology and Innovation)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,600/yr, CKL16, LLMLTI)",
+    "source_url": "https://www.ucc.ie/en/ckl16/"
+  },
+  {
+    "course_name": "Law LLM (Marine and Maritime Law)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,600/yr, CKL46)",
+    "source_url": "https://www.ucc.ie/en/ckl46/"
+  },
+  {
+    "course_name": "Applied Psychology",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Applied Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5895,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24000,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (CK120, BA Hons)",
+    "source_url": "https://www.ucc.ie/en/ck120/"
+  },
+  {
+    "course_name": "Psychology and Computing",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Applied Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24000,
+        "period": "year"
+      }
+    },
+    "duration": "3 years standard, 4 years with International Pathway/study abroad option (CK121, BA Hons; delivered jointly with Computer Science)",
+    "source_url": "https://www.ucc.ie/en/ck121/"
+  },
+  {
+    "course_name": "Early Years and Childhood Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6405,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK111, BA Hons); genuinely interdisciplinary, drawing on the Schools of Applied Psychology, Applied Social Studies and Education (primary academic coordinator is in the School of Education) plus input from Music/Drama/Theatre, Occupational Therapy and Physical Education",
+    "source_url": "https://www.ucc.ie/en/ck111/"
+  },
+  {
+    "course_name": "Social Science",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Applied Social Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5895,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "3 years standard, 4 years with International Pathway (CK102, BSocSc Hons)",
+    "source_url": "https://www.ucc.ie/en/ck102/"
+  },
+  {
+    "course_name": "Youth and Community Work",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Applied Social Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6405,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19900,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (CK114, BSocSc Hons)",
+    "source_url": "https://www.ucc.ie/en/ck114/"
+  },
+  {
+    "course_name": "Social Work",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Applied Social Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6405,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK115, BSW Hons)",
+    "source_url": "https://www.ucc.ie/en/ck115/"
+  },
+  {
+    "course_name": "Education (Gaeilge)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8710,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK124, BEd Hons)",
+    "source_url": "https://www.ucc.ie/en/ck124/"
+  },
+  {
+    "course_name": "Physical Education, Sports Studies and Arts",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8710,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK125, BEd Hons)",
+    "source_url": "https://www.ucc.ie/en/ck125/"
+  },
+  {
+    "course_name": "Science Education",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7530,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 years (CK413, BEd Hons)",
+    "source_url": "https://www.ucc.ie/en/ck413/"
+  },
+  {
+    "course_name": "English",
+    "degree_level": "Bachelor's",
+    "faculty": "School of English and Digital Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5895,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "3 years standard, 4 years with International Pathway (CK109, BA Hons)",
+    "source_url": "https://www.ucc.ie/en/ck109/"
+  },
+  {
+    "course_name": "Digital Humanities and Information Technology",
+    "degree_level": "Bachelor's",
+    "faculty": "School of English and Digital Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7610,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "3 years standard, 4 years with International Pathway or Work Experience Pathway (CK118, BA Hons)",
+    "source_url": "https://www.ucc.ie/en/ck118/"
+  },
+  {
+    "course_name": "Applied Psychology (MA)",
+    "degree_level": "Master's",
+    "faculty": "School of Applied Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8400,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (CKE13)",
+    "source_url": "https://www.ucc.ie/en/cke13/"
+  },
+  {
+    "course_name": "Applied Psychology (Mental Health) (MA)",
+    "degree_level": "Master's",
+    "faculty": "School of Applied Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (CKD39)",
+    "source_url": "https://www.ucc.ie/en/ckd39/"
+  },
+  {
+    "course_name": "Applied Psychology (Positive and Coaching Psychology) (MA)",
+    "degree_level": "Master's",
+    "faculty": "School of Applied Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,700/yr, CKD02)",
+    "source_url": "https://www.ucc.ie/en/ckd02/"
+  },
+  {
+    "course_name": "Work and Organisational Psychology (MA)",
+    "degree_level": "Master's",
+    "faculty": "School of Applied Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (for applicants with a psychology background, MAWOP)",
+    "source_url": "https://www.ucc.ie/en/mawop/"
+  },
+  {
+    "course_name": "Work and Organisational Behaviour (MA)",
+    "degree_level": "Master's",
+    "faculty": "School of Applied Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (conversion equivalent of the Work and Organisational Psychology MA for applicants without a psychology background, MAWOB)",
+    "source_url": "https://www.ucc.ie/en/mawob/"
+  },
+  {
+    "course_name": "Social Work (MSW)",
+    "degree_level": "Master's",
+    "faculty": "School of Applied Social Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19900,
+        "period": "year"
+      }
+    },
+    "duration": "Full-time; a Postgraduate Diploma in Social Work Studies exit award is also offered on the same page (EU 7,200 / Non-EU 13,300) - not recorded separately here",
+    "source_url": "https://www.ucc.ie/en/appsoc/courses/masterofsocialworkmswpgdsws/"
+  },
+  {
+    "course_name": "Social Policy and Social Justice (Online) (MSocSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Applied Social Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6400,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2-3 years part-time (part-time EU fee is 3,400/yr, MSOCSJ, fully online)",
+    "source_url": "https://www.ucc.ie/en/msocsj/"
+  },
+  {
+    "course_name": "Professional Master of Education (PME)",
+    "degree_level": "Master's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time (PEC01); qualifies graduates to teach at post-primary/secondary level in Ireland",
+    "source_url": "https://www.ucc.ie/en/pec01/"
+  },
+  {
+    "course_name": "Professional Master of Education (Art and Design) (PME)",
+    "degree_level": "Master's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time (CKD25); offered jointly by UCC's School of Education and Munster Technological University's Crawford College of Art & Design (MTU-CCAD)",
+    "source_url": "https://www.ucc.ie/en/ckd25/"
+  },
+  {
+    "course_name": "Education (M.Ed.)",
+    "degree_level": "Master's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 to 5 years part-time, modular/stackable programme (MEDUC): builds from Postgraduate Certificate (30 credits) through Postgraduate Diploma (60 credits) to M.Ed (90 credits); priced per 15-credit module (EU 1,500/module) rather than a flat annual or total fee, so not reducible to this schema's amount fields",
+    "source_url": "https://www.ucc.ie/en/cke59/"
+  },
+  {
+    "course_name": "Creative Writing (MA)",
+    "degree_level": "Master's",
+    "faculty": "School of English and Digital Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19900,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,600/yr, MACWE)",
+    "source_url": "https://www.ucc.ie/en/cke10/"
+  },
+  {
+    "course_name": "Modernities: Literature, Theory and Culture from the Romantics to the Present (MA)",
+    "degree_level": "Master's",
+    "faculty": "School of English and Digital Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (CKE29)",
+    "source_url": "https://www.ucc.ie/en/cke29/"
+  },
+  {
+    "course_name": "Texts and Contexts: Medieval to Renaissance (MA)",
+    "degree_level": "Master's",
+    "faculty": "School of English and Digital Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (CKE31, also listed on its own programme page as 'MA English (Medieval and Renaissance Literature)')",
+    "source_url": "https://www.ucc.ie/en/cke31/"
+  },
+  {
+    "course_name": "Digital Arts and Humanities (MA)",
+    "degree_level": "Master's",
+    "faculty": "School of English and Digital Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (CKE09)",
+    "source_url": "https://www.ucc.ie/en/cke09/"
+  },
+  {
+    "course_name": "History (MA)",
+    "degree_level": "Master's",
+    "faculty": "School of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr)",
+    "source_url": "https://www.ucc.ie/en/history/graduatestudies/mainhistory/"
+  },
+  {
+    "course_name": "Local History (MA)",
+    "degree_level": "Master's",
+    "faculty": "School of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2700,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time only, no full-time option (CKE43)",
+    "source_url": "https://www.ucc.ie/en/history/graduatestudies/mainlocalhistory/"
+  },
+  {
+    "course_name": "International Relations (MA)",
+    "degree_level": "Master's",
+    "faculty": "School of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr)",
+    "source_url": "https://www.ucc.ie/en/history/graduatestudies/maininternationalrelations/"
+  },
+  {
+    "course_name": "Strategic Studies (Online) (MA)",
+    "degree_level": "Master's",
+    "faculty": "School of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4700,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7400,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time only, fully online, no full-time option",
+    "source_url": "https://www.ucc.ie/en/strategicstudies/"
+  },
+  {
+    "course_name": "Arts",
+    "degree_level": "Bachelor's",
+    "faculty": "College of Arts, Celtic Studies and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3185,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (CK101, BA Hons); common-entry, no single owning School - students choose 4 subjects in Year 1 from 6 groups: Group 1 (Asian Studies, Computer Science, History, Portuguese), Group 2a (History of Art), Group 2b (European Studies, Folklore, Gaeilge/Irish, Greek & Roman Civilisation, Studies in Psychology), Group 3 (Archaeology, Chinese Studies, German, Latin, Mathematical Studies, Politics), Group 4 (French, Sociology, Studies in Music), Group 5 (Bealoideas, Economics, English, Greek, Religions & Global Diversity), Group 6a (Geography, Italian), Group 6b (Celtic Civilisation, Philosophy, Spanish)",
+    "source_url": "https://www.ucc.ie/en/ck101/"
+  },
+  {
+    "course_name": "Arts (International)",
+    "degree_level": "Bachelor's",
+    "faculty": "College of Arts, Celtic Studies and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3185,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, includes a year abroad (CK108, BA Hons); same common-entry subject structure as CK101 Arts",
+    "source_url": "https://www.ucc.ie/en/ck108/"
+  },
+  {
+    "course_name": "Music",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Film, Music & Theatre",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3725,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (CK104, BA Hons)",
+    "source_url": "https://www.ucc.ie/en/ck104/"
+  },
+  {
+    "course_name": "Film and Screen Media",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Film, Music & Theatre",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (CK105, BA Hons)",
+    "source_url": "https://www.ucc.ie/en/ck105/"
+  },
+  {
+    "course_name": "Theatre and Performative Practices",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Film, Music & Theatre",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (CK112, BA Hons)",
+    "source_url": "https://www.ucc.ie/en/ck112/"
+  },
+  {
+    "course_name": "World Languages",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Languages, Literatures & Cultures",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (CK110, BA Hons)",
+    "source_url": "https://www.ucc.ie/en/ck110/"
+  },
+  {
+    "course_name": "Criminology",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Society, Politics and Ethics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (CK113, BA Hons); delivered by the Department of Sociology and Criminology",
+    "source_url": "https://www.ucc.ie/en/ck113/"
+  },
+  {
+    "course_name": "Government and Political Science",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Society, Politics and Ethics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (CK122, BSc Hons); delivered by the Department of Government and Politics",
+    "source_url": "https://www.ucc.ie/en/ck122/"
+  },
+  {
+    "course_name": "Classical Studies",
+    "degree_level": "Master's",
+    "faculty": "School of the Human Environment: Geography, Archaeology and Classics",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8100,
+        "year_2": 4700
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE40); delivered by the Department of Classics; only MA of its kind in Ireland",
+    "source_url": "https://www.ucc.ie/en/cke40/"
+  },
+  {
+    "course_name": "Human Osteoarchaeology",
+    "degree_level": "Master's",
+    "faculty": "School of the Human Environment: Geography, Archaeology and Classics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MA in Archaeology - Human Osteoarchaeology, CKE17); delivered by the Department of Archaeology; offered on alternating years",
+    "source_url": "https://www.ucc.ie/en/cke17/"
+  },
+  {
+    "course_name": "Museum Studies",
+    "degree_level": "Master's",
+    "faculty": "School of the Human Environment: Geography, Archaeology and Classics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19900,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MA, code MAMUSE/CKD09); delivered by the Department of Archaeology; includes two supervised museum work placements",
+    "source_url": "https://www.ucc.ie/en/ckd09/"
+  },
+  {
+    "course_name": "Applied Coastal and Marine Management",
+    "degree_level": "Master's",
+    "faculty": "School of the Human Environment: Geography, Archaeology and Classics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MSc, CKE39); delivered by the Department of Geography with collaboration from Civil Engineering and Biology departments",
+    "source_url": "https://www.ucc.ie/en/cke39/"
+  },
+  {
+    "course_name": "Geoinformatics",
+    "degree_level": "Master's",
+    "faculty": "School of the Human Environment: Geography, Archaeology and Classics",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8100,
+        "year_2": 4700
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MSc, CKE33); delivered by the Department of Geography",
+    "source_url": "https://www.ucc.ie/en/cke33/"
+  },
+  {
+    "course_name": "Planning and Sustainable Development",
+    "degree_level": "Master's",
+    "faculty": "School of the Human Environment: Geography, Archaeology and Classics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19900,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time (MPlan, CKE69); professionally accredited spatial planning degree, delivered by the UCC Centre for Planning Education and Research (the Planning department within this School); PG Diploma exit award available after Year 1",
+    "source_url": "https://www.ucc.ie/en/cke69/"
+  },
+  {
+    "course_name": "Applied Linguistics",
+    "degree_level": "Master's",
+    "faculty": "School of Languages, Literatures & Cultures",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MA, CKE01)",
+    "source_url": "https://www.ucc.ie/en/cke01/"
+  },
+  {
+    "course_name": "Asian Studies",
+    "degree_level": "Master's",
+    "faculty": "School of Languages, Literatures & Cultures",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8100,
+        "year_2": 4700
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE81)",
+    "source_url": "https://www.ucc.ie/en/cke81/"
+  },
+  {
+    "course_name": "Teaching Chinese to Speakers of Other Languages",
+    "degree_level": "Master's",
+    "faculty": "School of Languages, Literatures & Cultures",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8400,
+        "year_2": 4800
+      },
+      "non_eu_students": {
+        "amount": 19900,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,800/yr, MA, CKD47)",
+    "source_url": "https://www.ucc.ie/en/ckd47/"
+  },
+  {
+    "course_name": "Translation Studies",
+    "degree_level": "Master's",
+    "faculty": "School of Languages, Literatures & Cultures",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8100,
+        "year_2": 4700
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE77)",
+    "source_url": "https://www.ucc.ie/en/cke77/"
+  },
+  {
+    "course_name": "Migration, Mobility and Culture",
+    "degree_level": "Master's",
+    "faculty": "School of Languages, Literatures & Cultures",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8100,
+        "year_2": 4700
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA)",
+    "source_url": "https://www.ucc.ie/en/mammc/"
+  },
+  {
+    "course_name": "Modern Irish (Nua-Ghaeilge)",
+    "degree_level": "Master's",
+    "faculty": "School of Irish Learning",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8100,
+        "year_2": 4700
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE51); delivered by the Department of Modern Irish; teaching conducted through Irish",
+    "source_url": "https://www.ucc.ie/en/cke51/"
+  },
+  {
+    "course_name": "Gaelic Literature and Culture (Online)",
+    "degree_level": "Master's",
+    "faculty": "School of Irish Learning",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5200,
+        "year_2": 3200
+      },
+      "non_eu_students": {
+        "year_1": 8700,
+        "year_2": 5700
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (MA, CKD13); delivered by the Department of Modern Irish; fully online, taught in English, no prior Gaelic knowledge required",
+    "source_url": "https://www.ucc.ie/en/ckd13/"
+  },
+  {
+    "course_name": "Irish Language and European Law",
+    "degree_level": "Master's",
+    "faculty": "School of Irish Learning",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8100,
+        "year_2": 4700
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MA, CKD49); run by the Department of Modern Irish in collaboration with the School of Law; includes a residential Gaeltacht course",
+    "source_url": "https://www.ucc.ie/en/ckd49/"
+  },
+  {
+    "course_name": "Early and Medieval Irish",
+    "degree_level": "Master's",
+    "faculty": "School of Irish Learning",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8100,
+        "year_2": 4700
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE24); delivered by the Department of Early and Medieval Irish",
+    "source_url": "https://www.ucc.ie/en/cke24/"
+  },
+  {
+    "course_name": "Celtic Civilisation",
+    "degree_level": "Master's",
+    "faculty": "School of Irish Learning",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8100,
+        "year_2": 4700
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE23); delivered by the Department of Early and Medieval Irish, not the Department of Classics",
+    "source_url": "https://www.ucc.ie/en/cke23/"
+  },
+  {
+    "course_name": "The Beginnings of Irish Christianity",
+    "degree_level": "Master's",
+    "faculty": "School of Irish Learning",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8100,
+        "year_2": 4700
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE19); delivered by the Department of Early and Medieval Irish with participation from Archaeology, Classics, Folklore and History",
+    "source_url": "https://www.ucc.ie/en/cke19/"
+  },
+  {
+    "course_name": "Irish Mythology and Folklore (Online)",
+    "degree_level": "Master's",
+    "faculty": "School of Irish Learning",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5200,
+        "year_2": 3200
+      },
+      "non_eu_students": {
+        "year_1": 8700,
+        "year_2": 5700
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (MA); delivered jointly by the Departments of Early and Medieval Irish and Folklore & Ethnology; fully online, asynchronous",
+    "source_url": "https://www.ucc.ie/en/maimf/"
+  },
+  {
+    "course_name": "Film and Screen Media",
+    "degree_level": "Master's",
+    "faculty": "School of Film, Music & Theatre",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19900,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MA, CKE02)",
+    "source_url": "https://www.ucc.ie/en/cke02/"
+  },
+  {
+    "course_name": "Irish Traditional Music",
+    "degree_level": "Master's",
+    "faculty": "School of Film, Music & Theatre",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8100,
+        "year_2": 4700
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA); plus a separate €600 bench fee not included in the tuition figure above; delivered by the Department of Music",
+    "source_url": "https://www.ucc.ie/en/maitm/"
+  },
+  {
+    "course_name": "Arts Management and Creative Producing",
+    "degree_level": "Master's",
+    "faculty": "School of Film, Music & Theatre",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 12800,
+        "year_2": 7400
+      },
+      "non_eu_students": {
+        "amount": 23500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 7,400/yr, MA, CKD01)",
+    "source_url": "https://www.ucc.ie/en/ckd01/"
+  },
+  {
+    "course_name": "Ethnomusicology",
+    "degree_level": "Master's",
+    "faculty": "School of Film, Music & Theatre",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8100,
+        "year_2": 4700
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE68); delivered by the Department of Music",
+    "source_url": "https://www.ucc.ie/en/cke68/"
+  },
+  {
+    "course_name": "Music and Cultural History",
+    "degree_level": "Master's",
+    "faculty": "School of Film, Music & Theatre",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8100,
+        "year_2": 4700
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE79); delivered by the Department of Music",
+    "source_url": "https://www.ucc.ie/en/cke79/"
+  },
+  {
+    "course_name": "Experimental Sound Practice",
+    "degree_level": "Master's",
+    "faculty": "School of Film, Music & Theatre",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8100,
+        "year_2": 4700
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE78); delivered by the Department of Music",
+    "source_url": "https://www.ucc.ie/en/cke78/"
+  },
+  {
+    "course_name": "Sociology",
+    "degree_level": "Master's",
+    "faculty": "School of Society, Politics and Ethics",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8100,
+        "year_2": 4700
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, code MASC); delivered by the Department of Sociology and Criminology",
+    "source_url": "https://www.ucc.ie/en/cke55/"
+  },
+  {
+    "course_name": "Sociology of Sustainability and Global Challenges",
+    "degree_level": "Master's",
+    "faculty": "School of Society, Politics and Ethics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MA, CKE56); delivered by the Department of Sociology and Criminology",
+    "source_url": "https://www.ucc.ie/en/cke56/"
+  },
+  {
+    "course_name": "Criminology",
+    "degree_level": "Master's",
+    "faculty": "School of Society, Politics and Ethics",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8100,
+        "year_2": 4700
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE32); delivered by the Department of Sociology and Criminology",
+    "source_url": "https://www.ucc.ie/en/cke32/"
+  },
+  {
+    "course_name": "International Public Policy and Diplomacy",
+    "degree_level": "Master's",
+    "faculty": "School of Society, Politics and Ethics",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 9400,
+        "year_2": 5400
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,400/yr, MSc, CKD56); delivered by the Department of Government and Politics; interdisciplinary with History, Law and Food Business and Development",
+    "source_url": "https://www.ucc.ie/en/ckd56/"
+  },
+  {
+    "course_name": "Philosophy",
+    "degree_level": "Master's",
+    "faculty": "School of Society, Politics and Ethics",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8100,
+        "year_2": 4700
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE53); covers analytic, Continental and Asian philosophical traditions",
+    "source_url": "https://www.ucc.ie/en/cke53/"
+  },
+  {
+    "course_name": "Health and Society",
+    "degree_level": "Master's",
+    "faculty": "School of Society, Politics and Ethics",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8100,
+        "year_2": 4700
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKD10); joint programme led by the Department of Philosophy with the School of Public Health and the Department of Economics",
+    "source_url": "https://www.ucc.ie/en/ckd10/"
+  },
+  {
+    "course_name": "Women's Studies",
+    "degree_level": "Master's",
+    "faculty": "School of Society, Politics and Ethics",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 8100,
+        "year_2": 4700
+      },
+      "non_eu_students": {
+        "amount": 18500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, code CKE03 full-time / CKE21 part-time); interdisciplinary, delivered by the Department of Women's Studies",
+    "source_url": "https://www.ucc.ie/en/cke03/"
+  },
+  {
+    "course_name": "Medicine",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6150,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 52100,
+        "period": "year"
+      }
+    },
+    "duration": "5 years (MB, BCh, BAO (Hons); CAO code CK701; non-EU fee includes a €750 clinical contribution)",
+    "source_url": "https://www.ucc.ie/en/ck701/"
+  },
+  {
+    "course_name": "Medicine (Graduate Entry)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 15800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 56100,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (MB, BCh, BAO (Hons); CAO code CK791; graduate-entry via GAMSAT, not covered by the Free Fees Scheme; non-EU fee includes a €750 clinical contribution)",
+    "source_url": "https://www.ucc.ie/en/ck791/"
+  },
+  {
+    "course_name": "Paramedicine",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 years (BSc (Hons), NFQ Level 8; CAO code CK708; international/non-EU applications were not being accepted as of this programme's early intakes)",
+    "source_url": "https://www.ucc.ie/en/ck708/"
+  },
+  {
+    "course_name": "Paramedic Studies (Practitioner Entry)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3138,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 6500,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time (BSc (Hons), NFQ Level 8; application code BSCPST; practitioner-entry route restricted to registered practising paramedics holding a Level 7 Diploma in Emergency Medical Science/Technology or equivalent; does not lead to PHECC registration)",
+    "source_url": "https://www.ucc.ie/en/study/undergrad/courses/paramedicstudies/"
+  },
+  {
+    "course_name": "Dentistry",
+    "degree_level": "Bachelor's",
+    "faculty": "Dental School & Hospital",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 52100,
+        "period": "year"
+      }
+    },
+    "duration": "5 years (BDS (Hons); CAO code CK702; additional equipment/bench fees apply in years 3-5 for both EU (~€4,000 total, €1,500/€1,500/€1,000) and non-EU students)",
+    "source_url": "https://www.ucc.ie/en/ck702/"
+  },
+  {
+    "course_name": "Dental Hygiene",
+    "degree_level": "Bachelor's",
+    "faculty": "Dental School & Hospital",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, full-time (Diploma in Dental Hygiene, DipDHyg, NFQ Level 7 — a sub-degree diploma rather than an honours Bachelor's award; application code DDH; currently open to EU applicants only)",
+    "source_url": "https://www.ucc.ie/en/dipdh/"
+  },
+  {
+    "course_name": "Dental Nursing",
+    "degree_level": "Bachelor's",
+    "faculty": "Dental School & Hospital",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years full-time (Clinical Training pathway) or 16 months part-time (Special Purpose Award pathway) (Diploma in Dental Nursing, DipDN, NFQ Level 7 — a sub-degree diploma rather than an honours Bachelor's award; currently open to EU applicants only; 2026/27 fee not published on the fee schedule — 2025-entry figures were approx. €3,207/yr full-time and €3,000 total part-time)",
+    "source_url": "https://www.ucc.ie/en/dipdentnurs/"
+  },
+  {
+    "course_name": "Pharmacy",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Pharmacy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22200,
+        "period": "year"
+      }
+    },
+    "duration": "5 years (MPharm, integrated Bachelor's + Master's award; CAO code CK703; EU fee of €4,840/yr applies to years 1-4, rising to a postgraduate fee of €8,000 in year 5; non-EU fee is a flat €22,200/yr across all 5 years)",
+    "source_url": "https://www.ucc.ie/en/ck703/"
+  },
+  {
+    "course_name": "Nursing (General)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4606,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24400,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (BSc (Hons), NFQ Level 8; CAO code CK710)",
+    "source_url": "https://www.ucc.ie/en/ck710/"
+  },
+  {
+    "course_name": "Nursing (Children's and General Integrated)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4606,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24400,
+        "period": "year"
+      }
+    },
+    "duration": "4.5 years (BSc (Hons), NFQ Level 8; CAO code CK712)",
+    "source_url": "https://www.ucc.ie/en/ck712/"
+  },
+  {
+    "course_name": "Nursing (Mental Health)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4606,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24400,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (BSc (Hons), NFQ Level 8; CAO code CK720; delivered in partnership with HSE South)",
+    "source_url": "https://www.ucc.ie/en/ck720/"
+  },
+  {
+    "course_name": "Nursing (Intellectual Disability)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4606,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24400,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (BSc (Hons), NFQ Level 8; CAO code CK730)",
+    "source_url": "https://www.ucc.ie/en/ck730/"
+  },
+  {
+    "course_name": "Midwifery",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4606,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24400,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (BSc (Hons), NFQ Level 8; CAO code CK740)",
+    "source_url": "https://www.ucc.ie/en/ck740/"
+  },
+  {
+    "course_name": "Nursing Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 11700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (BSc (Hons) top-up degree, NFQ Level 8; application code BSCN; for already-registered nurses with NMBI or equivalent registration and 6+ months post-registration experience; does not itself confer professional nurse registration and includes no clinical placement)",
+    "source_url": "https://www.ucc.ie/en/nursingstudies/"
+  },
+  {
+    "course_name": "Occupational Therapy",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Clinical Therapies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22200,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (BSc (Hons), NFQ Level 8; CAO code CK704)",
+    "source_url": "https://www.ucc.ie/en/ck704/"
+  },
+  {
+    "course_name": "Speech and Language Therapy",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Clinical Therapies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22200,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (BSc (Hons), NFQ Level 8; CAO code CK705)",
+    "source_url": "https://www.ucc.ie/en/ck705/"
+  },
+  {
+    "course_name": "Public Health Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Public Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (BSc (Hons), NFQ Level 8; CAO code CK706; includes a 12-week unpaid work placement in year 3)",
+    "source_url": "https://www.ucc.ie/en/ck706/"
+  },
+  {
+    "course_name": "Medical and Health Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Public Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 26700,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (BSc (Hons), NFQ Level 8; CAO code CK707; flexible interdisciplinary degree with no fixed majors — students choose specialised modules and complete a research project in the final year)",
+    "source_url": "https://www.ucc.ie/en/ck707/"
+  },
+  {
+    "course_name": "Audiology",
+    "degree_level": "Master's",
+    "faculty": "School of Clinical Therapies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19700,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time (MSc; UCC's pre-registration/entry-to-practice route in Audiology — there is no separate undergraduate Audiology degree)",
+    "source_url": "https://www.ucc.ie/en/ckx51/"
+  },
+  {
+    "course_name": "Hearing, Balance and Communication",
+    "degree_level": "Master's",
+    "faculty": "School of Clinical Therapies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4700,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 11100,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time (MSc; post-qualification specialisation for already-registered clinicians, not an entry-to-practice route)",
+    "source_url": "https://www.ucc.ie/en/speech/postgraduatestudy/audiology/mschearingbalanceandcommunication/"
+  },
+  {
+    "course_name": "Physiotherapy",
+    "degree_level": "Master's",
+    "faculty": "School of Clinical Therapies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22200,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time (MSc; accelerated pre-registration route for graduates with a primary degree in a subject other than physiotherapy — this is UCC's only Physiotherapy qualification, there is no separate undergraduate route)",
+    "source_url": "https://www.ucc.ie/en/ckx23/"
+  },
+  {
+    "course_name": "Clinical Pharmacy (Online)",
+    "degree_level": "Master's",
+    "faculty": "School of Pharmacy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 9100,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, fully online (for practising hospital/community pharmacists)",
+    "source_url": "https://www.ucc.ie/en/ckx03/"
+  },
+  {
+    "course_name": "Industrial Pharmaceutical Sciences, Operations and Management",
+    "degree_level": "Master's",
+    "faculty": "School of Pharmacy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (4-month teaching block plus 8-month industry placement; delivered jointly with Cork University Business School)",
+    "source_url": "https://www.ucc.ie/en/mscips/"
+  },
+  {
+    "course_name": "Pharmaceutical Regulatory Sciences",
+    "degree_level": "Master's",
+    "faculty": "School of Pharmacy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (blended learning with a 6-month industry placement in semesters 2-3)",
+    "source_url": "https://www.ucc.ie/en/study/postgrad/taughtcourses/masters/pharmaceuticalregulatorysciences/"
+  },
+  {
+    "course_name": "Pharmaceutical Technology and Quality Systems",
+    "degree_level": "Master's",
+    "faculty": "School of Pharmacy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 9900,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, blended learning (for graduates already working in the pharmaceutical/biopharmaceutical sector; EU and non-EU fees are the same flat rate; HPRA-recognised for Qualified Person (QP) eligibility)",
+    "source_url": "https://www.ucc.ie/en/ckx05/"
+  },
+  {
+    "course_name": "Public Health",
+    "degree_level": "Master's",
+    "faculty": "School of Public Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (MPH)",
+    "source_url": "https://www.ucc.ie/en/ckx11/"
+  },
+  {
+    "course_name": "Public Health (Online)",
+    "degree_level": "Master's",
+    "faculty": "School of Public Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 11100,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, fully online (MPH)",
+    "source_url": "https://www.ucc.ie/en/ckx49/"
+  },
+  {
+    "course_name": "Occupational Health",
+    "degree_level": "Master's",
+    "faculty": "School of Public Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8400,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time, blended (approx. 70% on-campus / 30% online); IOSH-accredited; non-EU fee not published for this delivery mode on the fee schedule (see also the separate fully-online variant)",
+    "source_url": "https://www.ucc.ie/en/ckx06/"
+  },
+  {
+    "course_name": "Occupational Health (Online)",
+    "degree_level": "Master's",
+    "faculty": "School of Public Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8400,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 11100,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, fully online",
+    "source_url": "https://www.ucc.ie/en/ckx50/"
+  },
+  {
+    "course_name": "Infection Prevention and Control (Online)",
+    "degree_level": "Master's",
+    "faculty": "School of Public Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 11100,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, part-time, fully online (delivered in collaboration with other UCC schools including Microbiology)",
+    "source_url": "https://www.ucc.ie/en/mscipc/"
+  },
+  {
+    "course_name": "Health and Wellbeing",
+    "degree_level": "Master's",
+    "faculty": "School of Public Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "Final year of a progressive 3-year pathway (PG Cert year 1, PG Dip year 2, MSc year 3, 90 credits total); delivered jointly by UCC and Munster Technological University; MSc-year fee not separately published on the fee schedule (only the PG Cert, part-time €3,200/yr EU / €7,500/yr non-EU, and PG Dip, part-time €6,200/yr EU / €10,200/yr non-EU, exit-award fees are listed)",
+    "source_url": "https://www.ucc.ie/en/mschw/"
+  },
+  {
+    "course_name": "General Nursing (Graduate Entry)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, full-time; fee not published on the 2026/27 fee schedule",
+    "source_url": "https://www.ucc.ie/en/nursingmidwifery/study/postgrad/"
+  },
+  {
+    "course_name": "Midwifery (Pathway)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 11200,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time (for registered midwives; purely academic programme, no clinical placement)",
+    "source_url": "https://www.ucc.ie/en/nursingmidwifery/study/postgrad/midwifery/"
+  },
+  {
+    "course_name": "Midwifery (Direct Entry to Year 2)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2700,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, part-time (direct entry to year 2 for holders of a relevant Postgraduate/Higher Diploma)",
+    "source_url": "https://www.ucc.ie/en/nursingmidwifery/study/postgrad/midwifery/"
+  },
+  {
+    "course_name": "Nursing (Direct Entry to Year 2)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2700,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, part-time (direct entry to year 2 for holders of a Higher/Postgraduate Diploma in Nursing, Midwifery or Public Health Nursing gained within the previous 5 academic years)",
+    "source_url": "https://www.ucc.ie/en/ckx13/"
+  },
+  {
+    "course_name": "Nursing (for Non-EU Applicants only)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": 20100,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (non-clinical, theory-only Master's specifically for non-EU registered nurses; not open to EU applicants; established 2013)",
+    "source_url": "https://www.ucc.ie/en/ckx19/"
+  },
+  {
+    "course_name": "Nursing (Gerontological Nursing)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time / 2 years part-time (combined PG Dip/MSc; students register for the Postgraduate Diploma in year 1 and may progress to the MSc)",
+    "source_url": "https://www.ucc.ie/en/ckw06/"
+  },
+  {
+    "course_name": "Nursing (Intensive Care Nursing)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time / 2 years part-time (combined PG Dip/MSc; students register for the Postgraduate Diploma in year 1 and may progress to the MSc)",
+    "source_url": "https://www.ucc.ie/en/ckw05/"
+  },
+  {
+    "course_name": "Nursing (Medical Surgical Nursing)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 14700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time / 2 years part-time (combined PG Dip/MSc; students register for the Postgraduate Diploma in year 1 and may progress to the MSc)",
+    "source_url": "https://www.ucc.ie/en/ckw15/"
+  },
+  {
+    "course_name": "Nursing (Neonatology Nursing)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time / 2 years part-time (combined PG Dip/MSc; students register for the Postgraduate Diploma in year 1 and may progress to the MSc)",
+    "source_url": "https://www.ucc.ie/en/ckw09/"
+  },
+  {
+    "course_name": "Nursing (Oncology Nursing)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time / 2 years part-time (combined PG Dip/MSc; students register for the Postgraduate Diploma in year 1 and may progress to the MSc)",
+    "source_url": "https://www.ucc.ie/en/ckw18/"
+  },
+  {
+    "course_name": "Nursing (Specialist Mental Health Nursing Practice)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time / 2 years part-time (combined PG Dip/MSc; students register for the Postgraduate Diploma in year 1, 60 credits, and the MSc in year 2, 30 credits)",
+    "source_url": "https://www.ucc.ie/en/ckw08/"
+  },
+  {
+    "course_name": "Nursing (Trauma & Emergency Nursing)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time / 2 years part-time (combined PG Dip/MSc; students register for the Postgraduate Diploma in year 1 and may progress to the MSc)",
+    "source_url": "https://www.ucc.ie/en/ckw04/"
+  },
+  {
+    "course_name": "Nursing Advanced Practice (Nursing/Midwifery)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 13200,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time (NMBI-approved preparation for registration as Advanced Nurse Practitioner or Advanced Midwife Practitioner; includes preparation for Nurse/Midwife Prescriber registration and a minimum of 500 supervised practice hours)",
+    "source_url": "https://www.ucc.ie/en/ckx24/"
+  },
+  {
+    "course_name": "Nursing Studies (Year 1)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time; fee not published on the 2026/27 fee schedule",
+    "source_url": "https://www.ucc.ie/en/ckx08/"
+  },
+  {
+    "course_name": "Healthcare Quality Improvement (Online)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing & Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5700,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7900,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, fully online (admission subject to approval of the School of Nursing & Midwifery; applicants must be qualified, registered healthcare professionals holding a primary honours degree)",
+    "source_url": "https://www.ucc.ie/en/ckx22/"
+  },
+  {
+    "course_name": "Clinical Measurement Physiology",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21800,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time (delivered by the Department of Physiology; entry route into clinical measurement physiology across neurophysiology, cardiac, vascular, respiratory and gastrointestinal physiology)",
+    "source_url": "https://www.ucc.ie/en/msccpy/"
+  },
+  {
+    "course_name": "Clinical Trials (Online)",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 12000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, part-time, fully online (run with the HRB Clinical Research Facility Cork; requires prior completion of the Clinical Trials Postgraduate Certificate and Postgraduate Diploma)",
+    "source_url": "https://www.ucc.ie/en/ckx28/"
+  },
+  {
+    "course_name": "Dementia",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21900,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time / 2 years part-time (interdisciplinary; delivered by the Centre for Gerontology and Rehabilitation)",
+    "source_url": "https://www.ucc.ie/en/ckx21/"
+  },
+  {
+    "course_name": "Diagnostic Radiography",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22200,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time (pre-registration route for graduates holding a Level 8 honours degree in Science; delivered by the Department of Medical Imaging and Radiation Therapy)",
+    "source_url": "https://www.ucc.ie/en/ckx26/"
+  },
+  {
+    "course_name": "Health Professions Education (Online)",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, part-time, fully online (final year of a progressive 3-year pathway: PG Cert year 1, PG Dip year 2, MSc year 3; delivered by the Medical Education Unit)",
+    "source_url": "https://www.ucc.ie/en/meu/postgraduateprogrammes/pgprogrammes-mschpe/"
+  },
+  {
+    "course_name": "Human Anatomy",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17300,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time / 2 years part-time (delivered by the Department of Anatomy and Neuroscience; includes a cadaveric dissection component)",
+    "source_url": "https://www.ucc.ie/en/ckx52/"
+  },
+  {
+    "course_name": "Medical Imaging and Radiation Sciences (Online)",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 9200,
+        "period": "year"
+      }
+    },
+    "duration": "Fully online, part-time; January and September intakes offered; EU and non-EU fees are the same flat rate; delivered by the Department of Medical Imaging and Radiation Therapy",
+    "source_url": "https://www.ucc.ie/en/mscmir/"
+  },
+  {
+    "course_name": "Older Person Rehabilitation",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21900,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time / 2 years part-time (interdisciplinary; delivered by the Centre for Gerontology and Rehabilitation with staff drawn from the Schools of Medicine, Nursing & Midwifery, and Clinical Therapies; includes a clinical placement)",
+    "source_url": "https://www.ucc.ie/en/ckx14/"
+  },
+  {
+    "course_name": "Palliative Care",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "Part-time, blended learning; entry only via the Postgraduate Certificate, progressing through Postgraduate Diploma to MSc over approx. 3 years from first registration; joint programme with Marymount University Hospital & Hospice; non-EU fee not published",
+    "source_url": "https://www.ucc.ie/en/pcpc/"
+  },
+  {
+    "course_name": "Radiation Therapy",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22200,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time (graduate-entry pre-registration route; the only MSc Radiation Therapy programme in Ireland; delivered by the Department of Medical Imaging and Radiation Therapy)",
+    "source_url": "https://www.ucc.ie/en/ckx29/"
+  },
+  {
+    "course_name": "Specialist Paramedic Practice",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, full-time (for existing National Ambulance Service paramedic staff holding a BSc (Hons) Paramedic Studies/Paramedicine and PHECC registration; students may exit early with a Postgraduate Certificate); fee not published on the 2026/27 fee schedule",
+    "source_url": "https://reg.ucc.ie/curriculum/archive/20202021/calendar/postgraduate/Masters/medicine/page47.html"
+  },
+  {
+    "course_name": "Sports and Exercise Medicine",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time / 2 years part-time (MMedSc; open to medical graduates in good standing with their regulatory body, or Honours Physiotherapy graduates who are members of the Irish Society of Chartered Physiotherapists)",
+    "source_url": "https://www.ucc.ie/en/ckx02/"
+  },
+  {
+    "course_name": "Surgical Science",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8400,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16800,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time / 2 years part-time (MCh; for medical graduates registered with a Medical Council; delivered by the Medical Education Unit; part-time non-EU fee is €10,100/yr)",
+    "source_url": "https://www.ucc.ie/en/ckx20/"
+  },
+  {
+    "course_name": "Dental Public Health",
+    "degree_level": "Master's",
+    "faculty": "Dental School & Hospital",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 12600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (MDPH, Master of Dental Public Health; for dental professionals)",
+    "source_url": "https://www.ucc.ie/en/ckx01/"
+  },
+  {
+    "course_name": "Biological and Chemical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "College of Science, Engineering and Food Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK402, BSc Hons); common-entry route, no single owning School - students choose one of 9 streams after Year 1: Applied Plant Biology, Biochemistry, Biotechnology, Chemistry, Chemistry of Pharmaceutical Compounds, Chemistry with Forensic Sciences, Microbiology (all delivered by SEFS Schools), plus Neuroscience and Physiology (delivered by the College of Medicine and Health's Department of Neuroscience/Department of Physiology - out of SEFS scope)",
+    "source_url": "https://www.ucc.ie/en/ck402/"
+  },
+  {
+    "course_name": "Biological, Environmental and Geological Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Biological, Earth and Environmental Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK404, BSc Hons); common-entry, streams chosen after Year 1: Applied Plant Biology, Ecology and Environmental Biology, Environmental Science, Geoscience, Zoology",
+    "source_url": "https://www.ucc.ie/en/ck404/"
+  },
+  {
+    "course_name": "Agricultural Science",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Biological, Earth and Environmental Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK412, BAgrSc Hons); delivered in partnership with Teagasc - Years 1-2 on UCC campus, increasingly at the Paddy O'Keeffe Innovation Centre, Teagasc Moorepark from Year 3",
+    "source_url": "https://www.ucc.ie/en/ck412/"
+  },
+  {
+    "course_name": "Marine Biology",
+    "degree_level": "Master's",
+    "faculty": "School of Biological, Earth and Environmental Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (CKR38, MSc); plus a separate €2,500 bench fee for Sea Survival/Boat Handling/Marine Radio certification and fieldwork, not included in the tuition figure above",
+    "source_url": "https://www.ucc.ie/en/ckr38/"
+  },
+  {
+    "course_name": "Applied Environmental Geoscience",
+    "degree_level": "Master's",
+    "faculty": "School of Biological, Earth and Environmental Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (CKR53, MSc); plus a bench fee of €1,000 (FT) / €500 (PT), not included in the tuition figure above",
+    "source_url": "https://www.ucc.ie/en/ckr53/"
+  },
+  {
+    "course_name": "Freshwater Quality Monitoring and Assessment (Online)",
+    "degree_level": "Master's",
+    "faculty": "School of Biological, Earth and Environmental Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3510,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "3-4 years part-time, online (CKR17, MSc); delivered by the UNEP GEMS/Water Capacity Development Centre, hosted within BEES; fees shown are the part-time annual rate",
+    "source_url": "https://www.ucc.ie/en/ckr17/"
+  },
+  {
+    "course_name": "Environmental Science (MRes)",
+    "degree_level": "Master's",
+    "faculty": "School of Biological, Earth and Environmental Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "12 months full-time (PAC code CKS83, MRes - Master of Research); research thesis (70 credits) + taught modules (20 credits); page directs to a general College/Bench fee enquiry rather than publishing a figure",
+    "source_url": "https://www.ucc.ie/en/bees/courses/masters/mresenv/"
+  },
+  {
+    "course_name": "Geological Sciences (MRes)",
+    "degree_level": "Master's",
+    "faculty": "School of Biological, Earth and Environmental Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "12 months full-time (PAC code CKS82, MRes - Master of Research); research thesis (70 credits) + taught modules (20 credits); no part-time option; page directs to a general College/Bench fee enquiry rather than publishing a figure",
+    "source_url": "https://www.ucc.ie/en/bees/courses/masters/mresgeo/"
+  },
+  {
+    "course_name": "Plant Biology (MRes)",
+    "degree_level": "Master's",
+    "faculty": "School of Biological, Earth and Environmental Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "12 months full-time, MRes (Master of Research); research thesis (70 credits) + taught modules (20 credits); no part-time option; page directs to a general College/Bench fee enquiry rather than publishing a figure",
+    "source_url": "https://www.ucc.ie/en/bees/courses/masters/mresplant/"
+  },
+  {
+    "course_name": "Animal Behaviour and Welfare (MRes)",
+    "degree_level": "Master's",
+    "faculty": "School of Biological, Earth and Environmental Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "12 months full-time, MRes (Master of Research); research thesis (70 credits) + taught modules (20 credits); research often based at Fota Wildlife Park/Teagasc Moorepark; programme's own page (ucc.ie/en/mresabw/) returned 404 at time of research, so this record is sourced from BEES's own course-listing page instead",
+    "source_url": "https://www.ucc.ie/en/bees/"
+  },
+  {
+    "course_name": "Genetics",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Biochemistry and Cell Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK405, BSc Hons)",
+    "source_url": "https://www.ucc.ie/en/ck405/"
+  },
+  {
+    "course_name": "Biomedical Science",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Biochemistry and Cell Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 years (MT871, BSc Hons); joint programme delivered with Munster Technological University (MTU), ~35 places/year; Non-EU fee not present in UCC's international undergraduate fee schedule",
+    "source_url": "https://www.ucc.ie/en/mt871/"
+  },
+  {
+    "course_name": "Biotechnology",
+    "degree_level": "Master's",
+    "faculty": "School of Biochemistry and Cell Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MSc, code CKR01/MSCBTY); joint programme involving Chemistry, Microbiology and Plant Science staff; plus a separate €1,000 bench fee not included in the tuition figure above",
+    "source_url": "https://www.ucc.ie/en/biochemistry/postgraduatecoursesresearch-basedprogrammes/mscbiotech/"
+  },
+  {
+    "course_name": "Molecular Cell Biology with Bioinnovation",
+    "degree_level": "Master's",
+    "faculty": "School of Biochemistry and Cell Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time, taught with a 6-month research project component (MSc, code MSCMCB); delivered across three UCC colleges; no fee published on the programme's own page",
+    "source_url": "https://www.ucc.ie/en/biochemistry/postgraduatecoursesresearch-basedprogrammes/mscmolcellbiol/"
+  },
+  {
+    "course_name": "Advanced Cell and Gene Therapy",
+    "degree_level": "Master's",
+    "faculty": "School of Biochemistry and Cell Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (MSc, code MSCCGT), including a 6-month industry/research placement; plus a separate €1,000 bench fee not included in the tuition figure above; the programme's own page names its owner only as \"College of Science, Engineering and Food Science\" rather than a specific School, but it is administered out of Biochemistry and Cell Biology",
+    "source_url": "https://www.ucc.ie/en/msccgt/"
+  },
+  {
+    "course_name": "Biochemistry and Biosciences (MRes)",
+    "degree_level": "Master's",
+    "faculty": "School of Biochemistry and Cell Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "12 months full-time; 24 months part-time, MRes (Master of Research); page directs to the general PG fee schedule rather than publishing a figure",
+    "source_url": "https://www.ucc.ie/en/bcbmrs/"
+  },
+  {
+    "course_name": "Chemical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Chemistry",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK406, BSc Hons); common-entry, streams chosen after Year 1: Chemistry, Chemistry with Forensic Science, Chemical Physics",
+    "source_url": "https://www.ucc.ie/en/ck406/"
+  },
+  {
+    "course_name": "Analytical Chemistry",
+    "degree_level": "Master's",
+    "faculty": "School of Chemistry",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (CKR03, MSc); plus a bench fee of €1,000 (FT) / €500 (PT), not included in the tuition figure above",
+    "source_url": "https://www.ucc.ie/en/ckr03/"
+  },
+  {
+    "course_name": "Analysis of Pharmaceutical Compounds",
+    "degree_level": "Master's",
+    "faculty": "School of Chemistry",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (CKR02, MSc); plus a bench fee of €1,000 (FT) / €500 (PT), not included in the tuition figure above",
+    "source_url": "https://www.ucc.ie/en/ckr02/"
+  },
+  {
+    "course_name": "Environmental Analytical Chemistry",
+    "degree_level": "Master's",
+    "faculty": "School of Chemistry",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (MSc); plus a bench fee of €1,000 (FT) / €500 (PT), not included in the tuition figure above",
+    "source_url": "https://www.ucc.ie/en/financeoffice/fees/schedules/postgraduateeuandinternationalfees202627/"
+  },
+  {
+    "course_name": "Sustainable Materials and the Environment (MRes)",
+    "degree_level": "Master's",
+    "faculty": "School of Chemistry",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "12 months full-time, MRes (Master of Research); run with the Environmental Research Institute and Tyndall National Institute; page directs to the general PG fee schedule rather than publishing a figure",
+    "source_url": "https://www.ucc.ie/en/mress/"
+  },
+  {
+    "course_name": "Computer Science",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Computer Science and Information Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK401, BSc Hons), includes a mandatory Year 3 work placement (6 or 12 months)",
+    "source_url": "https://www.ucc.ie/en/ck401/"
+  },
+  {
+    "course_name": "Data Science and Artificial Intelligence",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Computer Science and Information Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (CK411, BSc Hons), includes a mandatory paid Year 3 work placement",
+    "source_url": "https://www.ucc.ie/en/ck411/"
+  },
+  {
+    "course_name": "Computing Science",
+    "degree_level": "Master's",
+    "faculty": "School of Computer Science and Information Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (MSc, code CKR40); UCC's fee schedule lists this via separate EU-only and Non-EU-only fee rows for the same programme",
+    "source_url": "https://www.ucc.ie/en/compsci/courses/tpostgraduate/msccs/"
+  },
+  {
+    "course_name": "Cybersecurity",
+    "degree_level": "Master's",
+    "faculty": "School of Computer Science and Information Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MSc)",
+    "source_url": "https://www.ucc.ie/en/msccyb/"
+  },
+  {
+    "course_name": "Interactive Media",
+    "degree_level": "Master's",
+    "faculty": "School of Computer Science and Information Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (MSc); UCC's fee schedule lists this via separate EU-only and Non-EU-only fee rows for the same programme",
+    "source_url": "https://www.ucc.ie/en/compsci/courses/tpostgraduate/mscim/"
+  },
+  {
+    "course_name": "Data Science and Artificial Intelligence",
+    "degree_level": "Master's",
+    "faculty": "School of Computer Science and Information Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MSc, code CKR49); jointly offered with the School of Mathematical Sciences; also marketed on UCC's central fee schedule as \"Data Science and Analytics - MSc\"",
+    "source_url": "https://www.ucc.ie/en/ckr49/"
+  },
+  {
+    "course_name": "Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering and Architecture",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, BE Hons (CK600); common first year, then streams: Civil, Structural and Environmental Engineering; Electrical and Electronic Engineering; Energy Engineering; Process and Chemical Engineering. Civil/Structural/Environmental students may progress internally (no separate CAO/fee code) to a 5-year integrated ME (Hons)",
+    "source_url": "https://www.ucc.ie/en/ck600/"
+  },
+  {
+    "course_name": "Architecture",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering and Architecture",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, BSc Hons (CK606); delivered by the Cork Centre for Architectural Education, a joint programme between UCC and Munster Technological University (MTU)",
+    "source_url": "https://www.ucc.ie/en/ck606/"
+  },
+  {
+    "course_name": "Engineering - Sustainable Energy",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering and Architecture",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MEngSc, CKR26); 8-month exit route to a PGDip in Sustainable Energy",
+    "source_url": "https://www.ucc.ie/en/ckr26/"
+  },
+  {
+    "course_name": "Engineering - Electrical and Electronic Engineering",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering and Architecture",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MEngSc, CKR47)",
+    "source_url": "https://www.ucc.ie/en/ckr47/"
+  },
+  {
+    "course_name": "Engineering - Mechanical Engineering (Manufacturing, Process and Automation Systems)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering and Architecture",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MEngSc, CKR27); no undergraduate Mechanical Engineering stream exists at UCC - this Master's is the only Mechanical Engineering programme",
+    "source_url": "https://www.ucc.ie/en/ckr27/"
+  },
+  {
+    "course_name": "Industrial Biotechnology and Biomanufacturing",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering and Architecture",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28000,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (MEngSc, code MENIBB); jointly taught by the Schools of Microbiology and Engineering and Architecture",
+    "source_url": "https://www.ucc.ie/en/menibb/"
+  },
+  {
+    "course_name": "Engineering in Pharmaceutical and Biopharmaceutical Systems",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering and Architecture",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28000,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (MEngSc, code MENEPB); distinct from the separately-coded part-time \"Pharmaceutical and Biopharmaceutical Engineering\" (CKR35) below",
+    "source_url": "https://www.ucc.ie/en/menepb/"
+  },
+  {
+    "course_name": "Pharmaceutical and Biopharmaceutical Engineering (Part-Time)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering and Architecture",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4700,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "Part-time, minimum 24 months / maximum 60 months, blended online + in-person (MEngSc, CKR35); page states \"not all courses are open to international/non-EU applicants\" and lists no Non-EU figure",
+    "source_url": "https://www.ucc.ie/en/ckr35/"
+  },
+  {
+    "course_name": "Architecture",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering and Architecture",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MArch, CKR42)",
+    "source_url": "https://www.ucc.ie/en/sefs/postgraduate/taughtmasters/"
+  },
+  {
+    "course_name": "Redesigning the Post-Industrial City (RePIC)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering and Architecture",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 9000,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time, 120 credits (MSc); jointly delivered with UCC's Department of Geography and the UNIC European university alliance (8 partner universities), with mobility across partner campuses; total programme cost is EU €9,000 / Non-EU €18,000 over the 2 years",
+    "source_url": "https://www.ucc.ie/en/repic/"
+  },
+  {
+    "course_name": "Food Science",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Food and Nutritional Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, BSc Hons (CK505); accredited by the Institute of Food Science and Technology (IFST); includes a 6-month Year 3 work placement",
+    "source_url": "https://www.ucc.ie/en/ck505/"
+  },
+  {
+    "course_name": "Nutritional Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Food and Nutritional Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, BSc Hons (CK504); accredited by the Association for Nutrition (AfN); includes a 6-month Year 3 work placement",
+    "source_url": "https://www.ucc.ie/en/ck504/"
+  },
+  {
+    "course_name": "Human Nutrition and Dietetics",
+    "degree_level": "Master's",
+    "faculty": "School of Food and Nutritional Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 14500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28000,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time (MSc, CKR07); includes 1,000 hours of clinical placement; leads to CORU dietitian registration eligibility",
+    "source_url": "https://www.ucc.ie/en/ckr07/"
+  },
+  {
+    "course_name": "Food Science",
+    "degree_level": "Master's",
+    "faculty": "School of Food and Nutritional Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee €4,800/yr) (MSc, CKR22); taught collaboratively with the Department of Microbiology and the Department of Food Business and Development",
+    "source_url": "https://www.ucc.ie/en/ckr22/"
+  },
+  {
+    "course_name": "Mathematical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Mathematical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, BSc Hons (CK407); common-entry, streams after Year 1: Mathematical Sciences (Single Honours), Financial Mathematics and Actuarial Science (Single Honours), Mathematical Sciences and Physics (Joint Honours, with CK408)",
+    "source_url": "https://www.ucc.ie/en/ck407/"
+  },
+  {
+    "course_name": "Mathematical Modelling and Machine Learning",
+    "degree_level": "Master's",
+    "faculty": "School of Mathematical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MSc, CKR56); formerly marketed as \"Mathematical Modelling and Self-Learning Systems\"",
+    "source_url": "https://www.ucc.ie/en/ckr56/"
+  },
+  {
+    "course_name": "Microbiome Science",
+    "degree_level": "Master's",
+    "faculty": "School of Microbiology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28000,
+        "period": "year"
+      }
+    },
+    "duration": "12 months full-time (MSc, code MSCMSC); combines microbiology and computational biology, taught with APC Microbiome Ireland",
+    "source_url": "https://www.ucc.ie/en/mscmsc/"
+  },
+  {
+    "course_name": "Food Microbiology",
+    "degree_level": "Master's",
+    "faculty": "School of Microbiology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MSc, CKR19); jointly associated with the School of Food and Nutritional Sciences; plus a separate €1,000 bench fee not included in the tuition figure above",
+    "source_url": "https://www.ucc.ie/en/ckr19/"
+  },
+  {
+    "course_name": "Bioinformatics and Computational Biology",
+    "degree_level": "Master's",
+    "faculty": "School of Microbiology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; 2 years part-time (part-time EU fee €4,800/yr) (MSc, CKR33); staffed jointly with the Schools of Mathematical Sciences, Biochemistry and Cell Biology, and the Department of Computer Science",
+    "source_url": "https://www.ucc.ie/en/ckr33/"
+  },
+  {
+    "course_name": "Physics and Astrophysics",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, BSc Hons (CK408); common-entry, streams after Year 1: Astrophysics, Chemical Physics, Physics, Mathematical Sciences and Physics (Joint Honours, with CK407)",
+    "source_url": "https://www.ucc.ie/en/ck408/"
+  }
+]

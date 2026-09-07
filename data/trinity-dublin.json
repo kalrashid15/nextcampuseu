@@ -1,0 +1,4002 @@
+[
+  {
+    "course_name": "Computer Science",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Computer Science and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/computer-science/"
+  },
+  {
+    "course_name": "Law",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/law/"
+  },
+  {
+    "course_name": "History",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Histories and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/history/"
+  },
+  {
+    "course_name": "Psychology",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/psychology/"
+  },
+  {
+    "course_name": "Biochemistry: Biological and Biomedical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Biochemistry and Immunology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/biochemistry-biological-and-biomedical-sciences/"
+  },
+  {
+    "course_name": "Business Studies and French",
+    "degree_level": "Bachelor's",
+    "faculty": "Trinity Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/business-studies-and-french/"
+  },
+  {
+    "course_name": "Mechanical and Manufacturing Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "5 years (4-year NFQ Level 8 exit option available)",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/mechanical-and-manufacturing-engineering/"
+  },
+  {
+    "course_name": "Music",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/music/"
+  },
+  {
+    "course_name": "English Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "School of English",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/english-studies/"
+  },
+  {
+    "course_name": "Business, Economic and Social Studies (BESS)",
+    "degree_level": "Bachelor's",
+    "faculty": "Trinity Business School and School of Social Sciences and Philosophy (jointly delivered)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/business-economic-and-social-studies/"
+  },
+  {
+    "course_name": "Physics: Physical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/physics-physical-sciences/"
+  },
+  {
+    "course_name": "Nursing - General Nursing",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7106,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 25460,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/nursing---general-nursing/"
+  },
+  {
+    "course_name": "Pharmacy",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Pharmacy and Pharmaceutical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21230,
+        "period": "year"
+      }
+    },
+    "duration": "5 years, integrated M.Pharm (NFQ Level 9)",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/pharmacy/"
+  },
+  {
+    "course_name": "Medicine",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8371,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 60000,
+        "period": "year"
+      }
+    },
+    "duration": "5 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/medicine/"
+  },
+  {
+    "course_name": "Dental Science",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Dental Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9339,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 60000,
+        "period": "year"
+      }
+    },
+    "duration": "5 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/dental-science/"
+  },
+  {
+    "course_name": "Philosophy",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Social Sciences and Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/philosophy/"
+  },
+  {
+    "course_name": "Civil, Structural and Environmental Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "5 years (4-year NFQ Level 8 exit option available)",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/civil-structural-and-environmental-engineering/"
+  },
+  {
+    "course_name": "Geography and Geoscience",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/geography-and-geoscience/"
+  },
+  {
+    "course_name": "Computer Science: Data Science",
+    "degree_level": "Master's",
+    "faculty": "School of Computer Science and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27790,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/computer-science---data-science--mscpgraddip/"
+  },
+  {
+    "course_name": "Finance",
+    "degree_level": "Master's",
+    "faculty": "Trinity Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 19600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27300,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/finance-msc/"
+  },
+  {
+    "course_name": "Master in Business Administration (MBA)",
+    "degree_level": "Master's",
+    "faculty": "Trinity Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 37300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 37300,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/master-in-business-administration-mba/"
+  },
+  {
+    "course_name": "Management",
+    "degree_level": "Master's",
+    "faculty": "Trinity Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16575,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/management-msc/"
+  },
+  {
+    "course_name": "Marketing",
+    "degree_level": "Master's",
+    "faculty": "Trinity Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16575,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/marketing-msc/"
+  },
+  {
+    "course_name": "Laws (LL.M.)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11540,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22430,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/laws-llm/"
+  },
+  {
+    "course_name": "International and Comparative Law (LL.M.)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11540,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22430,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, 30 ECTS dissertation plus taught modules",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/international-and-comparative-law-llm/"
+  },
+  {
+    "course_name": "Mechanical Engineering",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9910,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27780,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, 90 ECTS",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/mechanical-engineering-mscpgraddipcert/"
+  },
+  {
+    "course_name": "Biomedical Engineering",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12630,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28440,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, 90 ECTS",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/biomedical-engineering-msc--pgraddip/"
+  },
+  {
+    "course_name": "Immunology",
+    "degree_level": "Master's",
+    "faculty": "School of Biochemistry and Immunology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12370,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24740,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/immunology-msc/"
+  },
+  {
+    "course_name": "Molecular Medicine",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21150,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/molecular-medicine-msc/"
+  },
+  {
+    "course_name": "Environmental Sciences",
+    "degree_level": "Master's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9170,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22520,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, 90 ECTS",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/environmental-sciences-msc--pgraddip/"
+  },
+  {
+    "course_name": "Neuroscience",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine (Discipline of Physiology)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12170,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 25540,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/neuroscience-msc/"
+  },
+  {
+    "course_name": "Public History and Cultural Heritage",
+    "degree_level": "Master's",
+    "faculty": "School of Histories and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18720,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/public-history-and-cultural-heritage--mphil--pgraddip/"
+  },
+  {
+    "course_name": "Creative Writing",
+    "degree_level": "Master's",
+    "faculty": "School of English",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18720,
+        "period": "year"
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/creative-writing-mphil/"
+  },
+  {
+    "course_name": "Economics",
+    "degree_level": "Master's",
+    "faculty": "School of Social Sciences and Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/economics-msc--pgraddip/"
+  },
+  {
+    "course_name": "Physiotherapy",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 13500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "2 years",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/physiotherapy-msc/"
+  },
+  {
+    "course_name": "Ancient and Medieval History and Culture",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Histories and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/ancient-and-medieval-history-and-culture/"
+  },
+  {
+    "course_name": "Ancient History and Archaeology (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Histories and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/ancient-history-and-archaeology-jh/"
+  },
+  {
+    "course_name": "Business Studies and German",
+    "degree_level": "Bachelor's",
+    "faculty": "Trinity Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/business-studies-and-german/"
+  },
+  {
+    "course_name": "Business Studies and Polish",
+    "degree_level": "Bachelor's",
+    "faculty": "Trinity Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/business-studies-and-polish/"
+  },
+  {
+    "course_name": "Business Studies and Russian",
+    "degree_level": "Bachelor's",
+    "faculty": "Trinity Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/business-studies-and-russian/"
+  },
+  {
+    "course_name": "Business Studies and Spanish",
+    "degree_level": "Bachelor's",
+    "faculty": "Trinity Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/business-studies-and-spanish/"
+  },
+  {
+    "course_name": "Classical Civilisation (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Histories and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/classical-civilisation-jh/"
+  },
+  {
+    "course_name": "Classical Languages (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Histories and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/classical-languages-jh/"
+  },
+  {
+    "course_name": "Classics, Ancient History and Archaeology",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Histories and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/classics-ancient-history-and-archaeology/"
+  },
+  {
+    "course_name": "Clinical Speech and Language Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Linguistic, Speech, and Communication Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8371,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 41210,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/clinical-speech-and-language-studies/"
+  },
+  {
+    "course_name": "Deaf Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Linguistic, Speech, and Communication Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/deaf-studies/"
+  },
+  {
+    "course_name": "Drama and Theatre Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/drama-and-theatre-studies/"
+  },
+  {
+    "course_name": "Drama Studies (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/drama-studies-jh/"
+  },
+  {
+    "course_name": "Early and Modern Irish",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Languages, Literatures and Cultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/early-and-modern-irish/"
+  },
+  {
+    "course_name": "Early Irish (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Languages, Literatures and Cultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/early-irish-jh/"
+  },
+  {
+    "course_name": "Economics (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Social Sciences and Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/economics-jh/"
+  },
+  {
+    "course_name": "English Studies (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of English",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/english-studies-jh/"
+  },
+  {
+    "course_name": "European Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Languages, Literatures and Cultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/european-studies/"
+  },
+  {
+    "course_name": "Film",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/film/"
+  },
+  {
+    "course_name": "Film Studies (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/film-studies-jh/"
+  },
+  {
+    "course_name": "French (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Languages, Literatures and Cultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/french-jh/"
+  },
+  {
+    "course_name": "German (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Languages, Literatures and Cultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/german-jh/"
+  },
+  {
+    "course_name": "Global Business (Bachelor in Business Studies)",
+    "degree_level": "Bachelor's",
+    "faculty": "Trinity Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/global-business-bachelor-in-business-studies/"
+  },
+  {
+    "course_name": "History (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Histories and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/history-jh/"
+  },
+  {
+    "course_name": "History of Art and Architecture",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Histories and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/history-of-art-and-architecture/"
+  },
+  {
+    "course_name": "History of Art and Architecture (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Histories and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/history-of-art-and-architecture-jh/"
+  },
+  {
+    "course_name": "Irish (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Languages, Literatures and Cultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/irish-jh/"
+  },
+  {
+    "course_name": "Italian (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Languages, Literatures and Cultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/italian-jh/"
+  },
+  {
+    "course_name": "Law (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/law-jh/"
+  },
+  {
+    "course_name": "Law and French",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law and School of Languages, Literatures and Cultural Studies (jointly delivered)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/law-and-french/"
+  },
+  {
+    "course_name": "Law and German",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law and School of Languages, Literatures and Cultural Studies (jointly delivered)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/law-and-german/"
+  },
+  {
+    "course_name": "Linguistics (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Linguistic, Speech, and Communication Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/linguistics-jh/"
+  },
+  {
+    "course_name": "Middle Eastern and European Languages and Cultures",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Languages, Literatures and Cultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/middle-eastern-and-european-languages-and-cultures/"
+  },
+  {
+    "course_name": "Middle Eastern Jewish and Islamic Civilisations (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Languages, Literatures and Cultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/middle-eastern-jewish-and-islamic-civilisations-jh/"
+  },
+  {
+    "course_name": "Modern Language (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Languages, Literatures and Cultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/modern-language-jh/"
+  },
+  {
+    "course_name": "Music (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/music-jh/"
+  },
+  {
+    "course_name": "Music Education",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/music-education/"
+  },
+  {
+    "course_name": "Philosophy (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Social Sciences and Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/philosophy-jh/"
+  },
+  {
+    "course_name": "Philosophy Political Science Economics and Sociology",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Social Sciences and Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/philosophy-political-science-economics-and-sociology/"
+  },
+  {
+    "course_name": "Political Science (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Social Sciences and Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/political-science-jh/"
+  },
+  {
+    "course_name": "Religion",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Religion, Theology and Peace Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/religion/"
+  },
+  {
+    "course_name": "Religion (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Religion, Theology and Peace Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/religion-jh/"
+  },
+  {
+    "course_name": "Russian (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Languages, Literatures and Cultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/russian-jh/"
+  },
+  {
+    "course_name": "Social Policy (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Social Work and Social Policy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/social-policy-jh/"
+  },
+  {
+    "course_name": "Social Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Social Work and Social Policy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/social-studies/"
+  },
+  {
+    "course_name": "Sociology (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Social Sciences and Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/sociology-jh/"
+  },
+  {
+    "course_name": "Spanish (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Languages, Literatures and Cultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5681,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/spanish-jh/"
+  },
+  {
+    "course_name": "Accounting and Analytics",
+    "degree_level": "Master's",
+    "faculty": "Trinity Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/accounting-and-analytics-mscpgraddip/"
+  },
+  {
+    "course_name": "Applied Behaviour Analysis",
+    "degree_level": "Master's",
+    "faculty": "School of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17310,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/applied-behaviour-analysis-msc/"
+  },
+  {
+    "course_name": "Applied Intercultural Communications",
+    "degree_level": "Master's",
+    "faculty": "School of Languages, Literatures and Cultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19590,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (3 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/applied-intercultural-communications-mphil/"
+  },
+  {
+    "course_name": "Applied Linguistics",
+    "degree_level": "Master's",
+    "faculty": "School of Linguistic, Speech, and Communication Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21550,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/applied-linguistics-mphil--pgraddip/"
+  },
+  {
+    "course_name": "Applied Psychology",
+    "degree_level": "Master's",
+    "faculty": "School of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23100,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/applied-psychology-msc/"
+  },
+  {
+    "course_name": "Applied Social Data Science",
+    "degree_level": "Master's",
+    "faculty": "School of Social Sciences and Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/applied-social-data-science-msc/"
+  },
+  {
+    "course_name": "Applied Social Research",
+    "degree_level": "Master's",
+    "faculty": "School of Social Work and Social Policy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/applied-social-research-msc/"
+  },
+  {
+    "course_name": "Business Analytics and AI for Management",
+    "degree_level": "Master's",
+    "faculty": "Trinity Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 17340,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23950,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/business-analytics-and-ai-for-management-msc/"
+  },
+  {
+    "course_name": "Child Protection and Welfare",
+    "degree_level": "Master's",
+    "faculty": "School of Social Work and Social Policy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years (1-year P.Grad.Dip. plus 1 additional year online for M.Sc.)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/child-protection-and-welfare-msc--pgraddip/"
+  },
+  {
+    "course_name": "Children's Literature",
+    "degree_level": "Master's",
+    "faculty": "School of English",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18720,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/childrens-literature-mphil--pgraddip/"
+  },
+  {
+    "course_name": "Chinese Studies",
+    "degree_level": "Master's",
+    "faculty": "School of Languages, Literatures and Cultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21550,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/chinese-studies-mphil--pgraddip/"
+  },
+  {
+    "course_name": "Christian Theology",
+    "degree_level": "Master's",
+    "faculty": "School of Religion, Theology and Peace Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/christian-theology-mphil--pgraddip/"
+  },
+  {
+    "course_name": "Classics",
+    "degree_level": "Master's",
+    "faculty": "School of Histories and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/classics-mphil--pgraddip/"
+  },
+  {
+    "course_name": "Clinical Speech and Language Studies",
+    "degree_level": "Master's",
+    "faculty": "School of Linguistic, Speech, and Communication Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21550,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/clinical-speech-and-language-studies-msc/"
+  },
+  {
+    "course_name": "Clinical Supervision",
+    "degree_level": "Master's",
+    "faculty": "School of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years part-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/clinical-supervision-msc--pgrad-dip/"
+  },
+  {
+    "course_name": "Comparative Literature",
+    "degree_level": "Master's",
+    "faculty": "School of English and School of Languages, Literatures and Cultural Studies (jointly delivered)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19020,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (3 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/comparative-literature-mphil/"
+  },
+  {
+    "course_name": "Comparative Social Change",
+    "degree_level": "Master's",
+    "faculty": "School of Social Sciences and Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/comparative-social-change-msc/"
+  },
+  {
+    "course_name": "Conflict Resolution and Reconciliation",
+    "degree_level": "Master's",
+    "faculty": "School of Religion, Theology and Peace Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/conflict-resolution-and-reconciliation-mphil--pgraddip/"
+  },
+  {
+    "course_name": "Contextual Theologies and Interfaith Relations",
+    "degree_level": "Master's",
+    "faculty": "School of Religion, Theology and Peace Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/contextual-theologies-and-interfaith-relations-mphil--pgraddip/"
+  },
+  {
+    "course_name": "Digital Arts and Intermedia Practices",
+    "degree_level": "Master's",
+    "faculty": "School of Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10028,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21417,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/digital-arts-and-intermedia-practices-mphil/"
+  },
+  {
+    "course_name": "Digital Humanities and Culture",
+    "degree_level": "Master's",
+    "faculty": "School of Languages, Literatures and Cultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19590,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (3 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/digital-humanities-and-culture-mphil/"
+  },
+  {
+    "course_name": "Digital Marketing Strategy",
+    "degree_level": "Master's",
+    "faculty": "Trinity Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16575,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/digital-marketing-strategy-msc/"
+  },
+  {
+    "course_name": "Early Modern History",
+    "degree_level": "Master's",
+    "faculty": "School of Histories and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/early-modern-history-mphil--pgraddip/"
+  },
+  {
+    "course_name": "Economic Policy",
+    "degree_level": "Master's",
+    "faculty": "School of Social Sciences and Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years part-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/economic-policy-msc/"
+  },
+  {
+    "course_name": "English Language Teaching",
+    "degree_level": "Master's",
+    "faculty": "School of Linguistic, Speech, and Communication Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21550,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/english-language-teaching-mphil--pgraddip/"
+  },
+  {
+    "course_name": "Entrepreneurship and Innovation",
+    "degree_level": "Master's",
+    "faculty": "Trinity Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16575,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/entrepreneurship-and-innovation-msc/"
+  },
+  {
+    "course_name": "Environmental History",
+    "degree_level": "Master's",
+    "faculty": "School of Histories and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17830,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/environmental-history-mphil--pgraddip/"
+  },
+  {
+    "course_name": "Financial Risk Management",
+    "degree_level": "Master's",
+    "faculty": "Trinity Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 19600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27300,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/financial-risk-management-msc/"
+  },
+  {
+    "course_name": "History of Art and Architecture",
+    "degree_level": "Master's",
+    "faculty": "School of Histories and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/history-of-art-and-architecture-mphil--pgraddip/"
+  },
+  {
+    "course_name": "Human Resource Management",
+    "degree_level": "Master's",
+    "faculty": "Trinity Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16575,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/human-resource-management-msc/"
+  },
+  {
+    "course_name": "Identities and Cultures of Europe",
+    "degree_level": "Master's",
+    "faculty": "School of Languages, Literatures and Cultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19020,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (3 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/identities-and-cultures-of-europe-mphil/"
+  },
+  {
+    "course_name": "Intellectual Property and Information Technology Law (LL.M.)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11540,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22430,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/intellectual-property-and-information-technology-law-llm/"
+  },
+  {
+    "course_name": "International and European Business Law (LL.M.)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11540,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22430,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/international-and-european-business-law-llm/"
+  },
+  {
+    "course_name": "International History",
+    "degree_level": "Master's",
+    "faculty": "School of Histories and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17830,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/international-history-mphil--pgraddip/"
+  },
+  {
+    "course_name": "International Management",
+    "degree_level": "Master's",
+    "faculty": "Trinity Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 17150,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/international-management-msc/"
+  },
+  {
+    "course_name": "International Peace Studies",
+    "degree_level": "Master's",
+    "faculty": "School of Religion, Theology and Peace Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/international-peace-studies-mphilpeace-studies--pgraddip/"
+  },
+  {
+    "course_name": "International Politics",
+    "degree_level": "Master's",
+    "faculty": "School of Social Sciences and Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/international-politics-msc--pgraddip/"
+  },
+  {
+    "course_name": "Irish Writing",
+    "degree_level": "Master's",
+    "faculty": "School of English",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18720,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/irish-writing-mphil--pgraddip/"
+  },
+  {
+    "course_name": "Irish-Medium and Gaeltacht Education",
+    "degree_level": "Master's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4730,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/irish-medium-and-gaeltacht-education-med/"
+  },
+  {
+    "course_name": "Law and Finance",
+    "degree_level": "Master's",
+    "faculty": "School of Law and Trinity Business School (jointly delivered)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16575,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/law-and-finance-msc/"
+  },
+  {
+    "course_name": "Linguistics",
+    "degree_level": "Master's",
+    "faculty": "School of Linguistic, Speech, and Communication Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21550,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/linguistics-mphil--pgraddip/"
+  },
+  {
+    "course_name": "Literary Translation",
+    "degree_level": "Master's",
+    "faculty": "School of Languages, Literatures and Cultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19020,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (3 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/literary-translation-mphil/"
+  },
+  {
+    "course_name": "Master in Education",
+    "degree_level": "Master's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7990,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 14210,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2-3 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/master-in-education-med/"
+  },
+  {
+    "course_name": "Master in Theology",
+    "degree_level": "Master's",
+    "faculty": "School of Religion, Theology and Peace Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3790,
+        "period": "year"
+      }
+    },
+    "duration": "3 years part-time (Mode A) / 4 years part-time (Mode B)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/master-in-theology/"
+  },
+  {
+    "course_name": "Medieval Irish",
+    "degree_level": "Master's",
+    "faculty": "School of Languages, Literatures and Cultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time (2 years part-time for Classical Modern Irish modules)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/medieval-irish-mphil/"
+  },
+  {
+    "course_name": "Medieval Studies",
+    "degree_level": "Master's",
+    "faculty": "School of Histories and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7770,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16590,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/medieval-studies-mphil--pgraddip/"
+  },
+  {
+    "course_name": "Middle East in a Global Context",
+    "degree_level": "Master's",
+    "faculty": "School of Languages, Literatures and Cultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19020,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (3 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/middle-east-in-a-global-context-mphil/"
+  },
+  {
+    "course_name": "Modern and Contemporary Literary Studies",
+    "degree_level": "Master's",
+    "faculty": "School of English",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18180,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/modern-and-contemporary-literary-studies-mphil--pgraddip/"
+  },
+  {
+    "course_name": "Modern Irish History",
+    "degree_level": "Master's",
+    "faculty": "School of Histories and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18720,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/modern-irish-history-mphil--pgraddip/"
+  },
+  {
+    "course_name": "Operations and Supply Chain Management",
+    "degree_level": "Master's",
+    "faculty": "Trinity Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16575,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/operations-and-supply-chain-management-msc/"
+  },
+  {
+    "course_name": "Philosophy",
+    "degree_level": "Master's",
+    "faculty": "School of Social Sciences and Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/philosophy/"
+  },
+  {
+    "course_name": "Playwriting",
+    "degree_level": "Master's",
+    "faculty": "School of Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23480,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/playwriting-mfa/"
+  },
+  {
+    "course_name": "Professional Masters in Education",
+    "degree_level": "Master's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5610,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 11980,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/professional-masters-in-education-pme/"
+  },
+  {
+    "course_name": "Psychoanalytic Studies",
+    "degree_level": "Master's",
+    "faculty": "School of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/psychoanalytic-studies-mphil--pgraddip/"
+  },
+  {
+    "course_name": "Race, Ethnicity, Conflict",
+    "degree_level": "Master's",
+    "faculty": "School of Social Sciences and Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/race-ethnicity-conflict-mphil/"
+  },
+  {
+    "course_name": "Responsible Business and Sustainability",
+    "degree_level": "Master's",
+    "faculty": "Trinity Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16575,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/responsible-business-and-sustainability-msc/"
+  },
+  {
+    "course_name": "Screen Studies",
+    "degree_level": "Master's",
+    "faculty": "School of Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21550,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/screen-studies-mphil/"
+  },
+  {
+    "course_name": "Social Work",
+    "degree_level": "Master's",
+    "faculty": "School of Social Work and Social Policy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/social-work-msw--pgraddip/"
+  },
+  {
+    "course_name": "Speech and Language Processing",
+    "degree_level": "Master's",
+    "faculty": "School of Linguistic, Speech, and Communication Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21550,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/speech-and-language-processing-mphil--pgraddip/"
+  },
+  {
+    "course_name": "Stage Design",
+    "degree_level": "Master's",
+    "faculty": "School of Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23480,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/stage-design-mfa/"
+  },
+  {
+    "course_name": "Theatre and Performance",
+    "degree_level": "Master's",
+    "faculty": "School of Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21550,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/theatre-and-performance-mphil/"
+  },
+  {
+    "course_name": "Theatre Directing",
+    "degree_level": "Master's",
+    "faculty": "School of Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23480,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/theatre-directing-mfa/"
+  },
+  {
+    "course_name": "Theatre Producing",
+    "degree_level": "Master's",
+    "faculty": "School of Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23480,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/theatre-producing-mfa/"
+  },
+  {
+    "course_name": "Theology and Social Justice",
+    "degree_level": "Master's",
+    "faculty": "School of Religion, Theology and Peace Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/theology-and-social-justice-mphil--pgraddip/"
+  },
+  {
+    "course_name": "Women's Gender and Sexuality Studies",
+    "degree_level": "Master's",
+    "faculty": "School of Histories and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/women39s-gender-and-sexuality-studies-mphil--pgraddip/"
+  },
+  {
+    "course_name": "Biodiversity and Conservation",
+    "degree_level": "Master's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9170,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22520,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/biodiversity-and-conservation-msc--pgraddip/"
+  },
+  {
+    "course_name": "Climate Adaptation Engineering",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time, blended learning (90% in-person / 10% online)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/climate-adaptation-engineering-msc--pgraddip/"
+  },
+  {
+    "course_name": "Computational Engineering",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time (2-3 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/computational-engineering-mscpgraddippgradcert/"
+  },
+  {
+    "course_name": "Computer Science: Augmented and Virtual Reality",
+    "degree_level": "Master's",
+    "faculty": "School of Computer Science and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27790,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 90 ECTS",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/computer-science---augmented-and-virtual-reality--mscpgraddip/"
+  },
+  {
+    "course_name": "Computer Science: Future Networked Systems",
+    "degree_level": "Master's",
+    "faculty": "School of Computer Science and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27790,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 90 ECTS",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/computer-science---future-networked-systems--mscpgraddip/"
+  },
+  {
+    "course_name": "Computer Science: Intelligent Systems",
+    "degree_level": "Master's",
+    "faculty": "School of Computer Science and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27790,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 90 ECTS",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/computer-science---intelligent-systems--mscpgraddip/"
+  },
+  {
+    "course_name": "Electronic Information Engineering",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9910,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27780,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2-3 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/electronic-information-engineering-msc--pgraddip--pgradcert/"
+  },
+  {
+    "course_name": "Energy Science",
+    "degree_level": "Master's",
+    "faculty": "Schools of Chemistry, Natural Sciences, Physics and Engineering (jointly delivered)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/energy-science-msc--pgraddip/"
+  },
+  {
+    "course_name": "Engineering (Environmental / Structural and Geotechnical / Transport / Sustainable Energy)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9910,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27780,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/engineering-environmental--structural-and-geotechnical--transport-sustainable-energy/"
+  },
+  {
+    "course_name": "High Performance Computing",
+    "degree_level": "Master's",
+    "faculty": "School of Mathematics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8950,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23710,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/high-performance-computing-msc--pgraddip/"
+  },
+  {
+    "course_name": "Immunotherapeutics",
+    "degree_level": "Master's",
+    "faculty": "School of Biochemistry and Immunology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11980,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23990,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/immunotherapeutics-msc/"
+  },
+  {
+    "course_name": "Interactive Digital Media",
+    "degree_level": "Master's",
+    "faculty": "School of Computer Science and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27790,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 90 ECTS",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/interactive-digital-media-msc/"
+  },
+  {
+    "course_name": "Quantum Fields, Strings and Gravity",
+    "degree_level": "Master's",
+    "faculty": "School of Mathematics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9420,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 25560,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/quantum-fields-strings-and-gravity-msc--pgraddip/"
+  },
+  {
+    "course_name": "Quantum Science and Technology",
+    "degree_level": "Master's",
+    "faculty": "School of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/quantum-science-and-technology-msc--pgraddip/"
+  },
+  {
+    "course_name": "Smart and Sustainable Cities",
+    "degree_level": "Master's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9170,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 25370,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/smart-and-sustainable-cities-msc--pgraddip/"
+  },
+  {
+    "course_name": "Statistics and Sustainability",
+    "degree_level": "Master's",
+    "faculty": "School of Computer Science and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24820,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/statistics-and-sustainability-msc--pgraddip/"
+  },
+  {
+    "course_name": "Zero Carbon Technology",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9910,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27780,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2-3 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/zero-carbon-technology-mscpgraddipcert/"
+  },
+  {
+    "course_name": "Biological and Biomedical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/biological-and-biomedical-sciences/"
+  },
+  {
+    "course_name": "Biomedical Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (5 years with integrated Master's, NFQ Level 9)",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/biomedical-engineering/"
+  },
+  {
+    "course_name": "Botany: Biological and Biomedical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/botany-biological-and-biomedical-sciences/"
+  },
+  {
+    "course_name": "Chemical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Chemistry",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/chemical-sciences/"
+  },
+  {
+    "course_name": "Chemistry with Biosciences: Chemical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Chemistry",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/chemistry-with-biosciences-chemical-sciences/"
+  },
+  {
+    "course_name": "Chemistry with Molecular Modelling: Chemical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Chemistry",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/chemistry-with-molecular-modelling-chemical-sciences/"
+  },
+  {
+    "course_name": "Chemistry: Chemical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Chemistry",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/chemistry-chemical-sciences/"
+  },
+  {
+    "course_name": "Medicinal Chemistry: Chemical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Chemistry",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/medicinal-chemistry-chemical-sciences/"
+  },
+  {
+    "course_name": "Nanoscience: Chemical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Chemistry and School of Physics (jointly delivered)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/nanoscience-chemical-sciences/"
+  },
+  {
+    "course_name": "Computer Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Computer Science and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (5-year integrated Master's option, NFQ Level 9)",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/computer-engineering/"
+  },
+  {
+    "course_name": "Computer Science, Linguistics and a Language",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Computer Science and Statistics and School of Linguistic, Speech, and Communication Sciences (jointly delivered)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/computer-science-linguistics-and-a-language/"
+  },
+  {
+    "course_name": "Electronic and Computer Engineering (joint programme)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "5 years (4-year NFQ Level 8 exit option available)",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/electronic-and-computer-engineering-joint-programme/"
+  },
+  {
+    "course_name": "Electronic Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "5 years (4-year NFQ Level 8 exit option available)",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/electronic-engineering/"
+  },
+  {
+    "course_name": "Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "5 years (4-year NFQ Level 8 exit option available)",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/engineering/"
+  },
+  {
+    "course_name": "Engineering with Management",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "5 years (4-year NFQ Level 8 exit option available)",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/engineering-with-management/"
+  },
+  {
+    "course_name": "Environmental Science and Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Natural Sciences and School of Engineering (jointly delivered)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "5 years integrated (4-year B.Sc. plus 1 additional year leading to M.A.I. or M.A.E.S.)",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/environmental-science-and-engineering/"
+  },
+  {
+    "course_name": "Environmental Sciences: Biological and Biomedical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/environmental-sciences-biological-and-biomedical-sciences/"
+  },
+  {
+    "course_name": "Genetics: Biological and Biomedical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Genetics and Microbiology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/genetics-biological-and-biomedical-sciences/"
+  },
+  {
+    "course_name": "Human Genetics: Biological and Biomedical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Genetics and Microbiology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/human-genetics-biological-and-biomedical-sciences/"
+  },
+  {
+    "course_name": "Immunology: Biological and Biomedical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Biochemistry and Immunology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/immunology-biological-and-biomedical-sciences/"
+  },
+  {
+    "course_name": "Microbiology: Biological and Biomedical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Genetics and Microbiology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/microbiology-biological-and-biomedical-sciences/"
+  },
+  {
+    "course_name": "Molecular Medicine: Biological and Biomedical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Biochemistry and Immunology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/molecular-medicine-biological-and-biomedical-sciences/"
+  },
+  {
+    "course_name": "Zoology: Biological and Biomedical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/zoology-biological-and-biomedical-sciences/"
+  },
+  {
+    "course_name": "Geography: Geography and Geoscience",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/geography-geography-and-geoscience/"
+  },
+  {
+    "course_name": "Geoscience: Geography and Geoscience",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/geoscience-geography-and-geoscience/"
+  },
+  {
+    "course_name": "Management Science and Information Systems Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Computer Science and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/management-science-and-information-systems-studies/"
+  },
+  {
+    "course_name": "Mathematics",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Mathematics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/mathematics/"
+  },
+  {
+    "course_name": "Mathematics (JH)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Mathematics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/mathematics-jh/"
+  },
+  {
+    "course_name": "Physical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/physical-sciences/"
+  },
+  {
+    "course_name": "Nanoscience: Physical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Chemistry and School of Physics (jointly delivered)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/nanoscience-physical-sciences/"
+  },
+  {
+    "course_name": "Physics and Astrophysics: Physical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/physics-and-astrophysics-physical-sciences/"
+  },
+  {
+    "course_name": "Theoretical Physics",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Physics and School of Mathematics (jointly delivered)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/theoretical-physics/"
+  },
+  {
+    "course_name": "Addiction Recovery",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9410,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18840,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time), 90 ECTS",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/addiction-recovery-mscpgraddip/"
+  },
+  {
+    "course_name": "Advanced Practice (Midwifery)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years part-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/advanced-practice-midwifery/"
+  },
+  {
+    "course_name": "Advanced Practice (Nursing)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5771,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 11771,
+        "period": "year"
+      }
+    },
+    "duration": "2 years part-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/advanced-practice-nursing-msc/"
+  },
+  {
+    "course_name": "Ageing Health and Wellbeing in Intellectual Disability",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11480,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22950,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/ageing-health-amp-wellbeing-in-intellectual-disability-msc/"
+  },
+  {
+    "course_name": "Biomedical Sciences (Intercalated)",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21150,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (restricted to enrolled Trinity medical students, typically Year 3)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/biomedical-sciences-intercalated-msc--pgraddip/"
+  },
+  {
+    "course_name": "Cancer Survivorship",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8660,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17320,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/cancer-survivorship-msc--pgraddip--pgradcert/"
+  },
+  {
+    "course_name": "Clinical Chemistry",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7950,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16670,
+        "period": "year"
+      }
+    },
+    "duration": "2 years part-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/clinical-chemistry-msc--pgraddip/"
+  },
+  {
+    "course_name": "Clinical Health Sciences Education",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18010,
+        "period": "year"
+      }
+    },
+    "duration": "2 years part-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/clinical-health-sciences-education-msc--pgraddip/"
+  },
+  {
+    "course_name": "Community Health",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/community-health-msc--pgraddip--pgradcert/"
+  },
+  {
+    "course_name": "Dementia",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8910,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17840,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/dementia-msc--pgraddip/"
+  },
+  {
+    "course_name": "Diagnostic Radiography",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9860,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19740,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/diagnostic-radiography-msc/"
+  },
+  {
+    "course_name": "Entrepreneurship of Smart Medicines",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12170,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 25540,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/entrepreneurship-of-smart-medicines-msc/"
+  },
+  {
+    "course_name": "Genomic Medicine",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20540,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/genomic-medicine-msc/"
+  },
+  {
+    "course_name": "Gerontological Nursing",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17050,
+        "period": "year"
+      }
+    },
+    "duration": "2 years part-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/gerontological-nursing-msc--pgraddip/"
+  },
+  {
+    "course_name": "Global Health",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11830,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22950,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/global-health-msc/"
+  },
+  {
+    "course_name": "Health Policy and Management",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11480,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22960,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/health-policy-and-management-msc/"
+  },
+  {
+    "course_name": "Healthcare Infection",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10090,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21150,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/healthcare-infection-msc/"
+  },
+  {
+    "course_name": "Hospital Pharmacy",
+    "degree_level": "Master's",
+    "faculty": "School of Pharmacy and Pharmaceutical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5410,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years part-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/hospital-pharmacy-msc/"
+  },
+  {
+    "course_name": "Mental Health",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11830,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/mental-health-msc--pgraddip/"
+  },
+  {
+    "course_name": "Midwifery Practice and Leadership",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/midwifery-practice-and-leadership-msc--pgraddip/"
+  },
+  {
+    "course_name": "Nursing",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11480,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22950,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/nursing-msc/"
+  },
+  {
+    "course_name": "Nursing - Advancing Child Health and Wellbeing",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11480,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22990,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (part-time option over 3 years)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/nursing---advancing-child-health-and-wellbeing-1-year-full-time-mscpgraddip/"
+  },
+  {
+    "course_name": "Palliative Care",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6510,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 13040,
+        "period": "year"
+      }
+    },
+    "duration": "2 years part-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/palliative-care-msc--pgrad-dip/"
+  },
+  {
+    "course_name": "Pharmaceutical Manufacturing Technology (Online)",
+    "degree_level": "Master's",
+    "faculty": "School of Pharmacy and Pharmaceutical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11370,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 11370,
+        "period": "year"
+      }
+    },
+    "duration": "2 years part-time, online",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/pharmaceutical-manufacturing-technology-online---mscpgraddip/"
+  },
+  {
+    "course_name": "Pharmaceutical Sciences",
+    "degree_level": "Master's",
+    "faculty": "School of Pharmacy and Pharmaceutical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10810,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/pharmaceutical-sciences-msc--pgrad-dip/"
+  },
+  {
+    "course_name": "Psychoanalytic Psychotherapy",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21490,
+        "period": "year"
+      }
+    },
+    "duration": "2 years part-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/psychoanalytic-psychotherapy-msc--pgrad-dip/"
+  },
+  {
+    "course_name": "Specialist Practice - Renal",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year part-time (up to 3 years to complete M.Sc.)",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/specialist-practice---renal-mscpgraddippgradcert/"
+  },
+  {
+    "course_name": "Sports and Exercise Medicine",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 13490,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28320,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/sports-and-exercise-medicine-msc/"
+  },
+  {
+    "course_name": "Translational Oncology",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10430,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21890,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time",
+    "source_url": "https://www.tcd.ie/courses/postgraduate/courses/translational-oncology-msc/"
+  },
+  {
+    "course_name": "Dental Hygiene",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Dental Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8290,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22580,
+        "period": "year"
+      }
+    },
+    "duration": "2 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/dental-hygiene/"
+  },
+  {
+    "course_name": "Dental Nursing",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Dental Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3988,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15060,
+        "period": "year"
+      }
+    },
+    "duration": "2 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/dental-nursing/"
+  },
+  {
+    "course_name": "Dental Technology",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Dental Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4773,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19100,
+        "period": "year"
+      }
+    },
+    "duration": "3 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/dental-technology/"
+  },
+  {
+    "course_name": "Human Nutrition and Dietetics (Joint Degree)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/human-nutrition-and-dietetics-joint-degree/"
+  },
+  {
+    "course_name": "Integrated Children's and General Nursing",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7106,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "5 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/integrated-childrens-and-general-nursing/"
+  },
+  {
+    "course_name": "Midwifery",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7106,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/midwifery/"
+  },
+  {
+    "course_name": "Nursing - General Nursing Adelaide",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7106,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 25460,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/nursing---general-nursing-adelaide/"
+  },
+  {
+    "course_name": "Nursing - Intellectual Disability Nursing",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7106,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/nursing---intellectual-disability-nursing/"
+  },
+  {
+    "course_name": "Nursing - Mental Health Nursing",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7106,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 25460,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/nursing---mental-health-nursing/"
+  },
+  {
+    "course_name": "Occupational Therapy",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8371,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 26880,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/occupational-therapy/"
+  },
+  {
+    "course_name": "Pharmacy - Graduate Entry to Pharmacy",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Pharmacy and Pharmaceutical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "5 years, integrated M.Pharm",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/pharmacy---graduate-entry-to-pharmacy/"
+  },
+  {
+    "course_name": "Physiotherapy",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8371,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 26880,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/physiotherapy/"
+  },
+  {
+    "course_name": "Radiation Therapy",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8371,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 26880,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/radiation-therapy/"
+  },
+  {
+    "course_name": "Physiology: Biological and Biomedical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7332,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 29570,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.tcd.ie/courses/undergraduate/courses/physiology-biological-and-biomedical-sciences/"
+  }
+]

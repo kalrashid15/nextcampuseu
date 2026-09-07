@@ -1,0 +1,1751 @@
+[
+  {
+    "course_name": "Integrated Master's Degree in Architecture",
+    "degree_level": "Integrated Master's (Mestrado Integrado, 1st+2nd cycle)",
+    "faculty": "School of Fine Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "10 semesters (5 years), 300 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9257"
+  },
+  {
+    "course_name": "Design",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Fine Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9069"
+  },
+  {
+    "course_name": "Computer Sciences Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9119"
+  },
+  {
+    "course_name": "Artificial Intelligence and Data Science",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=L227"
+  },
+  {
+    "course_name": "Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9147"
+  },
+  {
+    "course_name": "Economics",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9081"
+  },
+  {
+    "course_name": "Psychology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9219"
+  },
+  {
+    "course_name": "Nursing",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "S. João de Deus School of Nursing",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "8 semesters (4 years), 240 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9500"
+  },
+  {
+    "course_name": "Veterinary Medicine",
+    "degree_level": "Integrated Master's (Mestrado Integrado, 1st+2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "11 semesters (5.5 years), 330 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9847"
+  },
+  {
+    "course_name": "Informatics Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=9286"
+  },
+  {
+    "course_name": "Visual Arts and Multimedia",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Fine Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9347"
+  },
+  {
+    "course_name": "Music",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Fine Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9214"
+  },
+  {
+    "course_name": "Theatre",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Fine Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9243"
+  },
+  {
+    "course_name": "Design",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Fine Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=9277"
+  },
+  {
+    "course_name": "Teaching of Music",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Fine Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=M527"
+  },
+  {
+    "course_name": "Music",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Fine Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6198"
+  },
+  {
+    "course_name": "Artistic Practices in Visual Arts",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Fine Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=M748"
+  },
+  {
+    "course_name": "Theatre",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Fine Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6371"
+  },
+  {
+    "course_name": "Agronomy",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9003"
+  },
+  {
+    "course_name": "Biology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9011"
+  },
+  {
+    "course_name": "Biology and Geology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9012"
+  },
+  {
+    "course_name": "Human Biology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=8262"
+  },
+  {
+    "course_name": "Biochemistry",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9015"
+  },
+  {
+    "course_name": "Biotechnology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9016"
+  },
+  {
+    "course_name": "Applied Animal Science",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9818"
+  },
+  {
+    "course_name": "Ecology and Environment",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=L090"
+  },
+  {
+    "course_name": "Aerospace Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=L221"
+  },
+  {
+    "course_name": "Renewable Energies Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9910"
+  },
+  {
+    "course_name": "Industrial Engineering and Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9104"
+  },
+  {
+    "course_name": "Mechatronics Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9751"
+  },
+  {
+    "course_name": "Oenology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9752"
+  },
+  {
+    "course_name": "Physics and Chemistry",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9760"
+  },
+  {
+    "course_name": "Geography",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9143"
+  },
+  {
+    "course_name": "Mathematics",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9209"
+  },
+  {
+    "course_name": "Applied Mathematics for Economics and Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9210"
+  },
+  {
+    "course_name": "Landscape Architecture",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6998"
+  },
+  {
+    "course_name": "Bioarchaeology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=ME30"
+  },
+  {
+    "course_name": "Conservation Biology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=9265"
+  },
+  {
+    "course_name": "Biochemistry",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=9396"
+  },
+  {
+    "course_name": "Earth and Atmospheric Sciences",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=MA87"
+  },
+  {
+    "course_name": "Agricultural Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=9520"
+  },
+  {
+    "course_name": "Solar Energy Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=M628"
+  },
+  {
+    "course_name": "Aquaculture Engineering and Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1060,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 1980,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=ME21"
+  },
+  {
+    "course_name": "Geological Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=9423"
+  },
+  {
+    "course_name": "Informatics Engineering (E-Learning)",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=92861"
+  },
+  {
+    "course_name": "Mechatronics Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6775"
+  },
+  {
+    "course_name": "Zootechnical Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=9287"
+  },
+  {
+    "course_name": "Geology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6933"
+  },
+  {
+    "course_name": "Management and Conservation of Natural Resources",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology (in association with Institute of Agronomy, University of Lisbon)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1063.47,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6777"
+  },
+  {
+    "course_name": "Artificial Intelligence and Data Science",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=ME93"
+  },
+  {
+    "course_name": "Mathematics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=9315"
+  },
+  {
+    "course_name": "Statistical Modeling and Data Analysis",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6780"
+  },
+  {
+    "course_name": "Olive Cultivation and Olive Oil",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=M304"
+  },
+  {
+    "course_name": "Paleontology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 1500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=M587"
+  },
+  {
+    "course_name": "Chemistry",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=9442"
+  },
+  {
+    "course_name": "Precision Agriculture Technologies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=MA17"
+  },
+  {
+    "course_name": "Viticulture and Oenology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Science and Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6631"
+  },
+  {
+    "course_name": "Education Sciences",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9026"
+  },
+  {
+    "course_name": "Basic Education",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9853"
+  },
+  {
+    "course_name": "Philosophy and Contemporary Culture",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=L365"
+  },
+  {
+    "course_name": "History and Archaeology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=8251"
+  },
+  {
+    "course_name": "Languages and Literatures",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=L047"
+  },
+  {
+    "course_name": "Cultural Heritage",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9787"
+  },
+  {
+    "course_name": "International Relations",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9229"
+  },
+  {
+    "course_name": "Sociology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9240"
+  },
+  {
+    "course_name": "Tourism",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9254"
+  },
+  {
+    "course_name": "Archaeology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6011"
+  },
+  {
+    "course_name": "Education Sciences - Administration, Regulation and Educational Policies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=M895"
+  },
+  {
+    "course_name": "Language Sciences",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6703"
+  },
+  {
+    "course_name": "Economics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=9280"
+  },
+  {
+    "course_name": "Applied Economics and Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6911"
+  },
+  {
+    "course_name": "Special Education, Motor and Cognitive Domain",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6293"
+  },
+  {
+    "course_name": "Preschool Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6914"
+  },
+  {
+    "course_name": "Preschool Education and Primary Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6915"
+  },
+  {
+    "course_name": "Teaching Mathematics in the 3rd Cycle of Basic School and in Secondary School",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6451"
+  },
+  {
+    "course_name": "Teaching Biology and Geology in the 3rd Cycle of Basic Education and in Secondary Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6449"
+  },
+  {
+    "course_name": "Teaching Physical Education in the Basic Education and Secondary Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6454"
+  },
+  {
+    "course_name": "Physics and Chemistry Teaching in the 3rd Cycle of Basic Education and in Secondary Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6452"
+  },
+  {
+    "course_name": "Teaching Portuguese and English in the 3rd Cycle of Basic Education and in Secondary Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=MD91"
+  },
+  {
+    "course_name": "Practical Philosophy - Politics, Citizenship and the Environment",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=MF03"
+  },
+  {
+    "course_name": "Biomedical and Health Sciences",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Health and Human Development",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=L256"
+  },
+  {
+    "course_name": "Sports Sciences",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Health and Human Development",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9707"
+  },
+  {
+    "course_name": "Pharmaceutical Sciences",
+    "degree_level": "Integrated Master's (Mestrado Integrado, 1st+2nd cycle)",
+    "faculty": "School of Health and Human Development",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "10 semesters (5 years), 300 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9494"
+  },
+  {
+    "course_name": "Psychomotor Rehabilitation",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Health and Human Development",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/licenciaturas?cod=9841"
+  },
+  {
+    "course_name": "Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=9295"
+  },
+  {
+    "course_name": "Management and Enhancement of Historic and Cultural Heritage",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6154"
+  },
+  {
+    "course_name": "History",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6158"
+  },
+  {
+    "course_name": "History of the Islamic and Medieval Mediterranean",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 1200,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=M477"
+  },
+  {
+    "course_name": "Literature",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=M805"
+  },
+  {
+    "course_name": "Public Policies and Projects",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=M404"
+  },
+  {
+    "course_name": "Psychology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=9463"
+  },
+  {
+    "course_name": "International Relations and European Studies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6235"
+  },
+  {
+    "course_name": "Sociology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=9333"
+  },
+  {
+    "course_name": "Tourism and Development of Destinations",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=MH41"
+  },
+  {
+    "course_name": "Nursing",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "S. João de Deus School of Nursing",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6734"
+  },
+  {
+    "course_name": "Maternal and Obstetric Health Nursing",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "S. João de Deus School of Nursing",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=MA01"
+  },
+  {
+    "course_name": "Biomedical and Health Sciences",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Health and Human Development",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=MF95"
+  },
+  {
+    "course_name": "Sports Management and Direction",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Health and Human Development",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6909"
+  },
+  {
+    "course_name": "Exercise and Health",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Health and Human Development",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6125"
+  },
+  {
+    "course_name": "Psychomotricity",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Health and Human Development",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=M936"
+  },
+  {
+    "course_name": "Technology in Sport and Health",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Health and Human Development",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=MD65"
+  },
+  {
+    "course_name": "Archaeological Materials Science (ARCHMAT)",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Institute of Research and Advanced Training (IIFA)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 1050,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=MB13"
+  },
+  {
+    "course_name": "Management and Enhancement of Historic and Cultural Heritage (TPTI, Erasmus Mundus)",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Institute of Research and Advanced Training (IIFA)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 1000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.uevora.pt/en/estudar/cursos/mestrados?cod=6154_1"
+  }
+]

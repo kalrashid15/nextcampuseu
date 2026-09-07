@@ -1,0 +1,1577 @@
+[
+  {
+    "course_name": "Data Science",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Technology and Architecture (ISTA) / ISCTE Business School (IBS) (joint program)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0322"
+  },
+  {
+    "course_name": "Telecommunications and Computer Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Technology and Architecture (ISTA)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/9098"
+  },
+  {
+    "course_name": "Computer Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Technology and Architecture (ISTA)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/9119"
+  },
+  {
+    "course_name": "Computer Science and Business Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Technology and Architecture (ISTA)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "8 semesters (4 years), 240 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/9189"
+  },
+  {
+    "course_name": "Applied Mathematics to Economics and Finance",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Technology and Architecture (ISTA) / ISCTE Business School (IBS) (joint program)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0519"
+  },
+  {
+    "course_name": "Architecture",
+    "degree_level": "Integrated Master's (Mestrado Integrado, 1st+2nd cycle)",
+    "faculty": "School of Technology and Architecture (ISTA)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "10 semesters (5 years), 300 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/9257"
+  },
+  {
+    "course_name": "Data Science",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Technology and Architecture (ISTA) / ISCTE Business School (IBS) (joint program)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4000,
+        "year_2": 1800
+      },
+      "non_eu_students": {
+        "year_1": 5000,
+        "year_2": 2500
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0329"
+  },
+  {
+    "course_name": "Sustainable Conservation and Rehabilitation",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Technology and Architecture (ISTA)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2000,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "year_1": 3000,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0448"
+  },
+  {
+    "course_name": "Telecommunications and Computer Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Technology and Architecture (ISTA)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1063,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "year_1": 3000,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/B103"
+  },
+  {
+    "course_name": "Computer Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Technology and Architecture (ISTA)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1063,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "year_1": 3000,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/B104"
+  },
+  {
+    "course_name": "Information Systems Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Technology and Architecture (ISTA)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 3500,
+        "year_2": 1500
+      },
+      "non_eu_students": {
+        "year_1": 4500,
+        "year_2": 2500
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/B15"
+  },
+  {
+    "course_name": "Informatics and Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Technology and Architecture (ISTA)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2500,
+        "year_2": 1600
+      },
+      "non_eu_students": {
+        "year_1": 3000,
+        "year_2": 2000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/039"
+  },
+  {
+    "course_name": "Artificial Intelligence",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Technology and Architecture (ISTA)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 3300,
+        "year_2": 1200
+      },
+      "non_eu_students": {
+        "year_1": 5000,
+        "year_2": 2500
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0450"
+  },
+  {
+    "course_name": "Applied Computational Mathematics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Technology and Architecture (ISTA) / School of Applied Digital Technologies (ETDA) (joint program)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2300,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "year_1": 4600,
+        "year_2": 2000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0531"
+  },
+  {
+    "course_name": "Integrated Decision Support Systems",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Technology and Architecture (ISTA)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 3300,
+        "year_2": 1200
+      },
+      "non_eu_students": {
+        "year_1": 4000,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/B57"
+  },
+  {
+    "course_name": "Digital Technologies for Business",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Technology and Architecture (ISTA)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7500,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 12500,
+        "period": "total"
+      }
+    },
+    "duration": "12 months (Executive Education format), ECTS not listed on page",
+    "source_url": "https://execed.iscte-iul.pt/mestrado-em-tecnologias-digitais-para-o-negocio"
+  },
+  {
+    "course_name": "Economics",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/9081/licenciatura-economia"
+  },
+  {
+    "course_name": "Finance and Accounting",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/8029/licenciatura-financas-contabilidade"
+  },
+  {
+    "course_name": "Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/9147/licenciatura-gestao"
+  },
+  {
+    "course_name": "Marketing Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/9156/licenciatura-gestao-de-marketing"
+  },
+  {
+    "course_name": "Human Resources Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/9157/licenciatura-gestao-de-recursos-humanos"
+  },
+  {
+    "course_name": "Industrial Management and Logistics",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/L030/licenciatura-gestao-industrial-logistica"
+  },
+  {
+    "course_name": "Applied Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9700,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 14900,
+        "period": "total"
+      }
+    },
+    "duration": "12 months, 60 ECTS",
+    "source_url": "https://execed.iscte-iul.pt/en/master-in-applied-management"
+  },
+  {
+    "course_name": "Applied Management in Healthcare",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9700,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 14900,
+        "period": "total"
+      }
+    },
+    "duration": "12 months (November to November); ECTS not listed on page",
+    "source_url": "https://execed.iscte-iul.pt/mestrado-em-gestao-aplicada-na-saude"
+  },
+  {
+    "course_name": "Humanitarian Action",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISCTE Business School (IBS) / School of Sociology and Public Policy (ESPP) (joint program)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2700,
+        "year_2": 1250
+      },
+      "non_eu_students": {
+        "year_1": 3300,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/0344/mestrado-acao-humanitaria"
+  },
+  {
+    "course_name": "Business Analytics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4000,
+        "year_2": 1800
+      },
+      "non_eu_students": {
+        "year_1": 5000,
+        "year_2": 2500
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/0325/mestrado-business-analytics"
+  },
+  {
+    "course_name": "Accounting and Management Control",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5250,
+        "year_2": 1600
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 2800
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/0380/mestrado-contabilidade-controlo-de-gestao"
+  },
+  {
+    "course_name": "Accounting and Taxation",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4850,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 6350,
+        "year_2": 3500
+      }
+    },
+    "duration": "3 semesters (2 years), 90 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/0513/mestrado-contabilidade-fiscalidade"
+  },
+  {
+    "course_name": "Economics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2900,
+        "year_2": 1600
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 2800
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/B110/mestrado-economia"
+  },
+  {
+    "course_name": "Business Economics and Competition",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2900,
+        "year_2": 1600
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 2800
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/6421/mestrado-economia-empresa-concorrencia"
+  },
+  {
+    "course_name": "Finance",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5950,
+        "year_2": 1950
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 2800
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/B24/mestrado-financas"
+  },
+  {
+    "course_name": "Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5750,
+        "year_2": 1600
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 2800
+      }
+    },
+    "duration": "3 semesters (1.5 years), 96 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/B113/mestrado-gestao"
+  },
+  {
+    "course_name": "Technology and Supply Chain Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5250,
+        "year_2": 1600
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 2800
+      }
+    },
+    "duration": "3 semesters (2 years), 96 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/0514/mestrado-gestao-tecnologia-cadeia-de-abastecimento"
+  },
+  {
+    "course_name": "Business Administration",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5750,
+        "year_2": 1600
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 2800
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/B16/mestrado-gestao-de-empresas"
+  },
+  {
+    "course_name": "Hospitality and Tourism Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5250,
+        "year_2": 1600
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 2800
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/027/mestrado-gestao-de-hotelaria-turismo"
+  },
+  {
+    "course_name": "Human Resource Management and Organizational Consultancy",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5250,
+        "year_2": 1600
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 2800
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/0219/mestrado-gestao-de-recursos-humanos-consultadoria-organizacional"
+  },
+  {
+    "course_name": "Health Services Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5250,
+        "year_2": 1600
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 2800
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/B23/mestrado-gestao-de-servicos-de-saude"
+  },
+  {
+    "course_name": "International Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 7000,
+        "year_2": 1600
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 2800
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/B42/mestrado-gestao-internacional"
+  },
+  {
+    "course_name": "Marketing",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5250,
+        "year_2": 1600
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 2800
+      }
+    },
+    "duration": "3 semesters (2 years), 96 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/B55/mestrado-marketing"
+  },
+  {
+    "course_name": "Financial Mathematics (ISCTE/FCUL)",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "ISCTE Business School (IBS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 3900,
+        "year_2": 1300
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://ibs.iscte-iul.pt/curso/codigo/B76/mestrado-matematica-financeira-isctefcul"
+  },
+  {
+    "course_name": "Political Science",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Sociology and Public Policy (ESPP)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/9019"
+  },
+  {
+    "course_name": "Sociology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Sociology and Public Policy (ESPP)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/9240"
+  },
+  {
+    "course_name": "Social Work",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Sociology and Public Policy (ESPP)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0418"
+  },
+  {
+    "course_name": "Modern and Contemporary History",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Sociology and Public Policy (ESPP)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/9927"
+  },
+  {
+    "course_name": "International Studies",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Sociology and Public Policy (ESPP)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS (new program, starting 2026/2027)",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0527"
+  },
+  {
+    "course_name": "Sociology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Sociology and Public Policy (ESPP)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1250,
+        "year_2": 1150
+      },
+      "non_eu_students": {
+        "year_1": 3000,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/B30"
+  },
+  {
+    "course_name": "Political Science",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Sociology and Public Policy (ESPP)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1250,
+        "year_2": 1150
+      },
+      "non_eu_students": {
+        "year_1": 3000,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/B31"
+  },
+  {
+    "course_name": "Public Policies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Sociology and Public Policy (ESPP)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2250,
+        "year_2": 1250
+      },
+      "non_eu_students": {
+        "year_1": 3250,
+        "year_2": 1850
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/012"
+  },
+  {
+    "course_name": "Public Administration",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Sociology and Public Policy (ESPP)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2500,
+        "year_2": 1250
+      },
+      "non_eu_students": {
+        "year_1": 3500,
+        "year_2": 2000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/013"
+  },
+  {
+    "course_name": "African Studies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Sociology and Public Policy (ESPP)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2000,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "year_1": 3000,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/014"
+  },
+  {
+    "course_name": "International Studies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Sociology and Public Policy (ESPP)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2500,
+        "year_2": 1250
+      },
+      "non_eu_students": {
+        "year_1": 3500,
+        "year_2": 2000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0186"
+  },
+  {
+    "course_name": "Work, Employment and Society",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Sociology and Public Policy (ESPP)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2000,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "year_1": 3000,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0425"
+  },
+  {
+    "course_name": "Labour Studies and Industrial Relations",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Sociology and Public Policy (ESPP)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2000,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "year_1": 3000,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0568"
+  },
+  {
+    "course_name": "Education and Society",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Sociology and Public Policy (ESPP)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2000,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "year_1": 3000,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/B34"
+  },
+  {
+    "course_name": "Social Work",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Sociology and Public Policy (ESPP)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1500,
+        "year_2": 1250
+      },
+      "non_eu_students": {
+        "year_1": 3400,
+        "year_2": 1850
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/B119"
+  },
+  {
+    "course_name": "Politics and Communication",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Sociology and Public Policy (ESPP)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2500,
+        "year_2": 1250
+      },
+      "non_eu_students": {
+        "year_1": 3500,
+        "year_2": 2000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0538"
+  },
+  {
+    "course_name": "Social Innovation and Sustainability",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Sociology and Public Policy (ESPP)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4000,
+        "period": "year"
+      }
+    },
+    "duration": "2 semesters (1 year), 60 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0530"
+  },
+  {
+    "course_name": "Disability Studies and Human Rights",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Sociology and Public Policy (ESPP)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1100,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "year_1": 3000,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0451"
+  },
+  {
+    "course_name": "Interdisciplinary Gender and Sexuality Studies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Sociology and Public Policy (ESPP) / School of Social Sciences and Humanities (ECSH) (joint program)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1300,
+        "year_2": 1100
+      },
+      "non_eu_students": {
+        "year_1": 3000,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0468"
+  },
+  {
+    "course_name": "Urban Studies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Sociology and Public Policy (ESPP) / School of Social Sciences and Humanities (ECSH) (joint program, delivered in association with NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1300,
+        "year_2": 1100
+      },
+      "non_eu_students": {
+        "year_1": 3000,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/080"
+  },
+  {
+    "course_name": "Anthropology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Social Sciences and Humanities (ECSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/9448"
+  },
+  {
+    "course_name": "Law",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Social Sciences and Humanities (ECSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5500,
+        "period": "year"
+      }
+    },
+    "duration": "8 semesters (4 years), 240 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0528"
+  },
+  {
+    "course_name": "Psychology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Social Sciences and Humanities (ECSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/9219"
+  },
+  {
+    "course_name": "Anthropology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences and Humanities (ECSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1100,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "year_1": 3000,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/B121"
+  },
+  {
+    "course_name": "Emotion Sciences",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences and Humanities (ECSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2500,
+        "year_2": 1250
+      },
+      "non_eu_students": {
+        "year_1": 3500,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0454"
+  },
+  {
+    "course_name": "Crime and Deviance",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences and Humanities (ECSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1500,
+        "year_2": 750
+      },
+      "non_eu_students": {
+        "year_1": 3000,
+        "year_2": 1500
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0533"
+  },
+  {
+    "course_name": "Corporate and Labor Law",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences and Humanities (ECSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2500,
+        "year_2": 1250
+      },
+      "non_eu_students": {
+        "year_1": 3500,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0239"
+  },
+  {
+    "course_name": "Economics and Public Policy",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences and Humanities (ECSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2500,
+        "year_2": 1250
+      },
+      "non_eu_students": {
+        "year_1": 3500,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/B68"
+  },
+  {
+    "course_name": "Monetary and Financial Economics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences and Humanities (ECSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2900,
+        "year_2": 1600
+      },
+      "non_eu_students": {
+        "year_1": 4000,
+        "year_2": 2000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/B114"
+  },
+  {
+    "course_name": "Political Economy",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences and Humanities (ECSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2500,
+        "year_2": 1250
+      },
+      "non_eu_students": {
+        "year_1": 3500,
+        "year_2": 1850
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0326"
+  },
+  {
+    "course_name": "Development Studies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences and Humanities (ECSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2500,
+        "year_2": 1250
+      },
+      "non_eu_students": {
+        "year_1": 3500,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0115"
+  },
+  {
+    "course_name": "Social Studies of Environment and Sustainability",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences and Humanities (ECSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2500,
+        "year_2": 1250
+      },
+      "non_eu_students": {
+        "year_1": 3500,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0424"
+  },
+  {
+    "course_name": "Ocean Governance and Sustainability",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences and Humanities (ECSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2300,
+        "year_2": 1200
+      },
+      "non_eu_students": {
+        "year_1": 3000,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0291"
+  },
+  {
+    "course_name": "Human Resource Development Policies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences and Humanities (ECSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2900,
+        "year_2": 1600
+      },
+      "non_eu_students": {
+        "year_1": 4000,
+        "year_2": 2000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/B12"
+  },
+  {
+    "course_name": "Community Psychology, Protection of Children and Young People at Risk",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences and Humanities (ECSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2000,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "year_1": 3500,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0210"
+  },
+  {
+    "course_name": "Psychology of Global Mobility, Inclusion and Diversity in Society",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences and Humanities (ECSH) (Erasmus Mundus Joint Master's)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (Bologna default; ISCTE page redirects to external Erasmus Mundus consortium site global-minds.eu)",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0338"
+  },
+  {
+    "course_name": "Psychology of Intercultural Relations",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences and Humanities (ECSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2500,
+        "year_2": 1250
+      },
+      "non_eu_students": {
+        "year_1": 3500,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/081"
+  },
+  {
+    "course_name": "Social Psychology of Health and Wellbeing",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences and Humanities (ECSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2000,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "year_1": 3500,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0495"
+  },
+  {
+    "course_name": "Social Psychology of Transformation",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences and Humanities (ECSH) (Erasmus Mundus Joint Master's)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (Bologna default; ISCTE page redirects to external Erasmus Mundus consortium site spot-psychology.eu)",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0483"
+  },
+  {
+    "course_name": "Social and Organizational Psychology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Social Sciences and Humanities (ECSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 697,
+        "year_2": 697
+      },
+      "non_eu_students": {
+        "year_1": 3000,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/B4"
+  },
+  {
+    "course_name": "Software and Application Development",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Applied Digital Technologies (ETDA, Sintra)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0385"
+  },
+  {
+    "course_name": "Applied Mathematics and Digital Technologies",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Applied Digital Technologies (ETDA, Sintra)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0426"
+  },
+  {
+    "course_name": "Politics, Economics and Society",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Applied Digital Technologies (ETDA, Sintra)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0394"
+  },
+  {
+    "course_name": "Digital Technologies and Automation - Robotics",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Applied Digital Technologies (ETDA, Sintra)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0389"
+  },
+  {
+    "course_name": "Digital Technologies and Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Applied Digital Technologies (ETDA, Sintra)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0391"
+  },
+  {
+    "course_name": "Digital Technologies and Artificial Intelligence",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Applied Digital Technologies (ETDA, Sintra)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0387"
+  },
+  {
+    "course_name": "Digital Technologies and Health",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Applied Digital Technologies (ETDA, Sintra)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0392"
+  },
+  {
+    "course_name": "Digital Technologies and Information Security - Cybersecurity",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Applied Digital Technologies (ETDA, Sintra)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0430"
+  },
+  {
+    "course_name": "Educational Digital Technologies",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Applied Digital Technologies (ETDA, Sintra)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0386"
+  },
+  {
+    "course_name": "Digital Technologies, Buildings and Sustainable Construction",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "School of Applied Digital Technologies (ETDA, Sintra)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0429"
+  },
+  {
+    "course_name": "Cybersecurity and Resilience",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Applied Digital Technologies (ETDA, Sintra)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 3500,
+        "year_2": 1500
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 3000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0487"
+  },
+  {
+    "course_name": "Digital Transformation Management in the Health Sector",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Applied Digital Technologies (ETDA, Sintra)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 semesters (2 years), 90 ECTS (fully online; international joint program with Laurea UAS Finland and Aristotle University of Thessaloniki)",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0452"
+  },
+  {
+    "course_name": "Digital Transformation in Teaching and Learning",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "School of Applied Digital Technologies (ETDA, Sintra)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3000,
+        "period": "year"
+      }
+    },
+    "duration": "2 semesters (1 year), 60 ECTS (professional master's)",
+    "source_url": "https://www.iscte-iul.pt/cursos/curso/0481"
+  }
+]

@@ -1,0 +1,3060 @@
+[
+  {
+    "course_name": "Economics",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Nova School of Business & Economics (Nova SBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180-195 ECTS",
+    "source_url": "https://www.novasbe.unl.pt/en/programs/bachelors/economics/fees"
+  },
+  {
+    "course_name": "Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Nova School of Business & Economics (Nova SBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180-195 ECTS",
+    "source_url": "https://www.novasbe.unl.pt/en/programs/bachelors/management/fees"
+  },
+  {
+    "course_name": "Ocean Studies",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "Nova School of Business & Economics (Nova SBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS (assumed Bologna default; total ECTS not explicitly stated on page)",
+    "source_url": "https://www.novasbe.unl.pt/en/programs/bachelors/ocean-studies/fees"
+  },
+  {
+    "course_name": "Business Analytics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Nova School of Business & Economics (Nova SBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11900,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 13000,
+        "period": "total"
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS minimum to graduate (extendable to 4 semesters/120 ECTS)",
+    "source_url": "https://www.novasbe.unl.pt/en/programs/masters/business-analytics/fees"
+  },
+  {
+    "course_name": "Economics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Nova School of Business & Economics (Nova SBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11900,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 13000,
+        "period": "total"
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS minimum to graduate (extendable to 4 semesters/120 ECTS)",
+    "source_url": "https://www.novasbe.unl.pt/en/programs/masters/economics/fees"
+  },
+  {
+    "course_name": "Finance",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Nova School of Business & Economics (Nova SBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 13250,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 14450,
+        "period": "total"
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS minimum to graduate (extendable to 4 semesters/120 ECTS)",
+    "source_url": "https://www.novasbe.unl.pt/en/programs/masters/finance/fees"
+  },
+  {
+    "course_name": "Impact Entrepreneurship & Innovation",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Nova School of Business & Economics (Nova SBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11900,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 13000,
+        "period": "total"
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS minimum to graduate (extendable to 4 semesters/120 ECTS)",
+    "source_url": "https://www.novasbe.unl.pt/en/programs/masters/impact-entrepreneurship-innovation/fees"
+  },
+  {
+    "course_name": "International Development & Public Policy",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Nova School of Business & Economics (Nova SBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11900,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 13000,
+        "period": "total"
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS minimum to graduate (extendable to 4 semesters/120 ECTS)",
+    "source_url": "https://www.novasbe.unl.pt/en/programs/masters/international-development-public-policy/fees"
+  },
+  {
+    "course_name": "Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Nova School of Business & Economics (Nova SBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11900,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 13000,
+        "period": "total"
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS minimum to graduate (extendable to 4 semesters/120 ECTS)",
+    "source_url": "https://www.novasbe.unl.pt/en/programs/masters/management/fees"
+  },
+  {
+    "course_name": "International Master's in Finance",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Nova School of Business & Economics (Nova SBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 13499,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 14699,
+        "period": "total"
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS minimum to graduate (extendable to 4 semesters/120 ECTS)",
+    "source_url": "https://www.novasbe.unl.pt/en/programs/masters/international-masters-in-finance/fees"
+  },
+  {
+    "course_name": "International Master's in Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Nova School of Business & Economics (Nova SBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11900,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 13000,
+        "period": "total"
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS minimum to graduate (extendable to 4 semesters/120 ECTS)",
+    "source_url": "https://www.novasbe.unl.pt/en/programs/masters/international-masters-in-management/fees"
+  },
+  {
+    "course_name": "CEMS Master's in International Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Nova School of Business & Economics (Nova SBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": 21750,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years) - Year 1: base Master's curriculum; Year 2: dedicated CEMS MIM curriculum. Total ECTS not explicitly stated; assumed approx. 120 ECTS",
+    "source_url": "https://www.novasbe.unl.pt/en/programs/masters/cems-mim/fees"
+  },
+  {
+    "course_name": "Law & Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Nova School of Business & Economics (Nova SBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4600,
+        "year_2": 1600
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 3000
+      }
+    },
+    "duration": "3 semesters (18 months); 60 ECTS confirmed for taught component; total program ECTS not explicitly stated on official Nova SBE pages",
+    "source_url": "https://www.novasbe.unl.pt/en/programs/masters/law-management/fees"
+  },
+  {
+    "course_name": "Law & Economics of the Sea",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "Nova School of Business & Economics (Nova SBE)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4200,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 3000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (60 ECTS taught/academic phase + 60 ECTS non-taught/dissertation phase)",
+    "source_url": "https://www.novasbe.unl.pt/en/programs/masters/law-economics-of-the-sea/fees"
+  },
+  {
+    "course_name": "Agro-Industrial Technology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-agro-industrial-technology"
+  },
+  {
+    "course_name": "Applied Chemistry",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-applied-chemistry"
+  },
+  {
+    "course_name": "Applied Mathematics to Risk Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-applied-mathematics-risk-management"
+  },
+  {
+    "course_name": "Biochemistry",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-biochemistry"
+  },
+  {
+    "course_name": "Biomedical Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-biomedical-engineering"
+  },
+  {
+    "course_name": "Cell and Molecular Biology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-cell-and-molecular-biology"
+  },
+  {
+    "course_name": "Civil Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-civil-engineering"
+  },
+  {
+    "course_name": "Communication and Information Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-communication-and-information-engineering"
+  },
+  {
+    "course_name": "Computer Science and Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-computer-science-and-engineering"
+  },
+  {
+    "course_name": "Conservation-Restoration",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-conservation-restoration"
+  },
+  {
+    "course_name": "Electrical and Computer Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-electrical-and-computer-engineering"
+  },
+  {
+    "course_name": "Environmental Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-environmental-engineering"
+  },
+  {
+    "course_name": "Geology for Sustainability",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelors-degree-geology-sustainability"
+  },
+  {
+    "course_name": "Industrial Engineering and Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-industrial-engineering-and-management"
+  },
+  {
+    "course_name": "Ocean Studies",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-ocean-studies"
+  },
+  {
+    "course_name": "Materials Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-materials-engineering"
+  },
+  {
+    "course_name": "Mathematics",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-mathematics"
+  },
+  {
+    "course_name": "Mechanical Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-mechanical-engineering"
+  },
+  {
+    "course_name": "Micro and Nanotechnology Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-micro-and-nanotechnology-engineering"
+  },
+  {
+    "course_name": "Physics Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-physics-engineering"
+  },
+  {
+    "course_name": "Aerospace Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-aerospace-engineering"
+  },
+  {
+    "course_name": "Chemical and Biological Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-chemical-and-biological-engineering"
+  },
+  {
+    "course_name": "Data Analysis and Engineering",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/bachelor-s-degree-data-analysis-and-engineering"
+  },
+  {
+    "course_name": "Actuarial Mathematics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-actuarial-mathematics"
+  },
+  {
+    "course_name": "Biochemistry",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-biochemistry"
+  },
+  {
+    "course_name": "Biochemistry for Health",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-biochemistry-health"
+  },
+  {
+    "course_name": "Bioorganic Chemistry",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-bioorganic-chemistry"
+  },
+  {
+    "course_name": "Biomaterials and NanoMedicine",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/master-s-biomaterials-and-nanomedicine"
+  },
+  {
+    "course_name": "Biotechnology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-biotechnology"
+  },
+  {
+    "course_name": "Digital Skills for Health",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/master-s-digital-skills-health"
+  },
+  {
+    "course_name": "Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1250,
+        "year_2": 900
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "3 semesters (1.5 years); ECTS not confirmed on page",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-education"
+  },
+  {
+    "course_name": "Computational Biology and Bioinformatics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/master-s-computational-biology-and-bioinformatics"
+  },
+  {
+    "course_name": "Gastronomic Sciences",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1750,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (assumed)",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-gastronomic-sciences"
+  },
+  {
+    "course_name": "Marine Living Resources: Science, Technology and Society",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "3 semesters (1.5 years); ECTS not confirmed on page",
+    "source_url": "https://www.fct.unl.pt/en/education/course/master-s-marine-living-resources-science-technology-and-society"
+  },
+  {
+    "course_name": "Mathematics and Applications",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (assumed)",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-mathematics-and-applications"
+  },
+  {
+    "course_name": "Mathematics Teaching in the 3rd Cycle of Basic Education and in Secondary Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/master-s-mathematics-teaching-3rd-cycle-basic-education-and-secondary-education"
+  },
+  {
+    "course_name": "Medical Microbiology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 2500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-medical-microbiology"
+  },
+  {
+    "course_name": "Molecular Genetics and Biomedicine",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-molecular-genetics-and-biomedicine"
+  },
+  {
+    "course_name": "Paleontology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 1500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-paleontology"
+  },
+  {
+    "course_name": "Statistics in Health",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2000,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (assumed); program not running in 2026/27 per source page",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-statistics-health"
+  },
+  {
+    "course_name": "Aerospace Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-aerospace-engineering"
+  },
+  {
+    "course_name": "Biomedical Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-biomedical-engineering"
+  },
+  {
+    "course_name": "Chemical and Biological Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-chemical-and-biological-engineering"
+  },
+  {
+    "course_name": "Civil Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-civil-engineering"
+  },
+  {
+    "course_name": "Computer Science and Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-computer-science-and-engineering"
+  },
+  {
+    "course_name": "Data Analysis and Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (assumed)",
+    "source_url": "https://www.fct.unl.pt/en/education/course/master-s-data-analysis-and-engineering"
+  },
+  {
+    "course_name": "Digital Advanced Manufacturing Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (assumed)",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-digital-advanced-manufacturing-engineering"
+  },
+  {
+    "course_name": "Electrical and Computer Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/master-s-electrical-and-computer-engineering"
+  },
+  {
+    "course_name": "Embedded Intelligence Nanosystems Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-embedded-intelligence-nanosystems-engineering"
+  },
+  {
+    "course_name": "Environmental Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-environmental-engineering"
+  },
+  {
+    "course_name": "Geological Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/master-s-geological-engineering"
+  },
+  {
+    "course_name": "Industrial Engineering and Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-industrial-engineering-and-management"
+  },
+  {
+    "course_name": "Materials Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-materials-engineering"
+  },
+  {
+    "course_name": "Mechanical Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-mechanical-engineering"
+  },
+  {
+    "course_name": "Micro and Nanotechnologies Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (assumed)",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-micro-and-nanotechnologies-engineering"
+  },
+  {
+    "course_name": "Physics Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-physics-engineering"
+  },
+  {
+    "course_name": "Renewable Energy Engineering",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-renewable-energy-engineering"
+  },
+  {
+    "course_name": "Robotics Engineering and Intelligent Manufacturing Systems",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-robotics-engineering-and-intelligent-manufacturing-systems"
+  },
+  {
+    "course_name": "Agri-Food Systems, Innovation and Sustainability",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/master-s-degree-agri-food-systems-innovation-and-sustainability"
+  },
+  {
+    "course_name": "Advanced Materials and Innovative Recycling",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (assumed)",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-advanced-materials-and-innovative-recycling"
+  },
+  {
+    "course_name": "Agro-industrial Production and Transformation Technologies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (assumed)",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-agro-industrial-production-and-transformation-technologies"
+  },
+  {
+    "course_name": "Building Rehabilitation",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "3 semesters (approx. 1.5 years); ECTS not confirmed on page",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-building-rehabilitation"
+  },
+  {
+    "course_name": "Conservation and Restoration",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/master-s-conservation-and-restoration"
+  },
+  {
+    "course_name": "Curatorship and Digital Humanities",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (assumed)",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-curatorship-and-digital-humanities"
+  },
+  {
+    "course_name": "Digital Society",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (assumed)",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-digital-society"
+  },
+  {
+    "course_name": "Food Technology and Safety",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-food-technology-and-safety"
+  },
+  {
+    "course_name": "Geoenvironmental Rehabilitation of Degraded Areas",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-geoenvironmental-rehabilitation-degraded-areas"
+  },
+  {
+    "course_name": "Glass and Ceramic Art and Science",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "year_1": 4000,
+        "year_2": 2000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (assumed)",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-glass-and-ceramic-art-and-science"
+  },
+  {
+    "course_name": "Industrial and Scientific Heritage",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1250,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (assumed)",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-industrial-and-scientific-heritage"
+  },
+  {
+    "course_name": "Precision Agriculture Technologies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-precision-agriculture-technologies"
+  },
+  {
+    "course_name": "Sustainable Urbanism and Spatial Planning",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Science and Technology (NOVA FCT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1450,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 1900,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fct.unl.pt/en/education/course/masters-sustainable-urbanism-and-spatial-planning"
+  },
+  {
+    "course_name": "Data Science",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA Information Management School (NOVA IMS)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://novaims.unl.pt/lcd/"
+  },
+  {
+    "course_name": "Information Management",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA Information Management School (NOVA IMS)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://novaims.unl.pt/lgi/"
+  },
+  {
+    "course_name": "Information Systems and Technologies",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA Information Management School (NOVA IMS)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://novaims.unl.pt/lsti/"
+  },
+  {
+    "course_name": "Clinical Research Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA Information Management School (NOVA IMS)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2750,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-program-in-clinical-research-management/"
+  },
+  {
+    "course_name": "Data-Driven Marketing",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA Information Management School (NOVA IMS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4100,
+        "year_2": 1900
+      },
+      "non_eu_students": {
+        "year_1": 4900,
+        "year_2": 2600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-in-data-driven-marketing/"
+  },
+  {
+    "course_name": "Data Science and Advanced Analytics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA Information Management School (NOVA IMS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4100,
+        "year_2": 2100
+      },
+      "non_eu_students": {
+        "year_1": 5300,
+        "year_2": 2700
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-program-in-data-science-and-advanced-analytics/"
+  },
+  {
+    "course_name": "Geographic Information Systems and Science",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA Information Management School (NOVA IMS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 3000,
+        "year_2": 1200
+      },
+      "non_eu_students": {
+        "year_1": 3000,
+        "year_2": 1200
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-in-geographic-information-systems-and-science/"
+  },
+  {
+    "course_name": "Geospatial Technologies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA Information Management School (NOVA IMS)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5100,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 5100,
+        "period": "total"
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS",
+    "source_url": "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-in-geospatial-technologies/"
+  },
+  {
+    "course_name": "Information Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA Information Management School (NOVA IMS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4100,
+        "year_2": 1900
+      },
+      "non_eu_students": {
+        "year_1": 4900,
+        "year_2": 2600
+      }
+    },
+    "duration": "3 semesters (1.5 years), 95 ECTS",
+    "source_url": "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-in-information-management/"
+  },
+  {
+    "course_name": "Information Systems Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA Information Management School (NOVA IMS)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8000,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 8000,
+        "period": "total"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/european-master-of-science-in-information-systems-management/"
+  },
+  {
+    "course_name": "Law and Financial Markets",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA Information Management School (NOVA IMS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4200,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 3000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-in-law-and-financial-markets/"
+  },
+  {
+    "course_name": "Risk Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA Information Management School (NOVA IMS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4100,
+        "year_2": 1900
+      },
+      "non_eu_students": {
+        "year_1": 4900,
+        "year_2": 2600
+      }
+    },
+    "duration": "3 semesters (1.5 years), 95 ECTS",
+    "source_url": "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-in-risk-management/"
+  },
+  {
+    "course_name": "Statistics and Information Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA Information Management School (NOVA IMS)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4100,
+        "year_2": 1900
+      },
+      "non_eu_students": {
+        "year_1": 4900,
+        "year_2": 2600
+      }
+    },
+    "duration": "3 semesters (1.5 years), 95 ECTS",
+    "source_url": "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-in-statistics-and-information-management/"
+  },
+  {
+    "course_name": "Law",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "8 semesters (4 years), 240 ECTS",
+    "source_url": "https://novalaw.unl.pt/en/bachelors-in-law/"
+  },
+  {
+    "course_name": "Law Applied to Technology (Law & Tech)",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5200,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 8000,
+        "year_2": 3000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (60 taught + 60 research)",
+    "source_url": "https://novalaw.unl.pt/en/masters-program-in-law-applied-to-technology-law-and-tech/"
+  },
+  {
+    "course_name": "Law and Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4600,
+        "year_2": 1600
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 3000
+      }
+    },
+    "duration": "3 semesters (1.5 years), 100 ECTS (60 taught + 40 research)",
+    "source_url": "https://novalaw.unl.pt/en/master-in-law-and-management/"
+  },
+  {
+    "course_name": "Litigation and Arbitration",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4600,
+        "year_2": 1300
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 3000
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS (60 taught + 30 research)",
+    "source_url": "https://novalaw.unl.pt/en/master-in-litigation-and-arbitration/"
+  },
+  {
+    "course_name": "Law and Financial Markets",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4200,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 3000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (60 taught + 60 research)",
+    "source_url": "https://novalaw.unl.pt/en/master-in-law-and-financial-markets/"
+  },
+  {
+    "course_name": "Law and Economics of the Sea - Ocean Governance",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4200,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 3000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (60 taught + 60 research)",
+    "source_url": "https://novalaw.unl.pt/en/master-in-law-and-economics-of-the-sea-ocean-governance/"
+  },
+  {
+    "course_name": "Law and Security",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 3900,
+        "year_2": 1000
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 3000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (60 taught + 60 research)",
+    "source_url": "https://novalaw.unl.pt/en/master-in-law-and-security/"
+  },
+  {
+    "course_name": "Law - Specialization in Social Law and Innovation",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4200,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 3000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (60 taught + 60 research)",
+    "source_url": "https://novalaw.unl.pt/en/master-in-law-specialization-in-social-law-and-innovation/"
+  },
+  {
+    "course_name": "Law - Specialization in Public Regulatory Law",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4200,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 3000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (60 taught + 60 research)",
+    "source_url": "https://novalaw.unl.pt/en/master-in-law-specialization-in-public-law/"
+  },
+  {
+    "course_name": "Law - Specialization in International and European Law",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4200,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 3000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (60 taught + 60 research)",
+    "source_url": "https://novalaw.unl.pt/en/master-in-law-specialization-in-international-and-european-law/"
+  },
+  {
+    "course_name": "Law - Specialization in Human Rights and Sustainability",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4200,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 3000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (60 taught + 60 research)",
+    "source_url": "https://novalaw.unl.pt/en/master-in-law-specialization-in-human-rights-and-sustainability/"
+  },
+  {
+    "course_name": "Law - Specialization in Business Law and Health",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4200,
+        "year_2": 2000
+      },
+      "non_eu_students": {
+        "year_1": 7000,
+        "year_2": 3000
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (60 taught + 60 research)",
+    "source_url": "https://novalaw.unl.pt/en/master-in-law-specialization-in-business-law-and-health/"
+  },
+  {
+    "course_name": "Medicine",
+    "degree_level": "Integrated Master's (Mestrado Integrado, 1st+2nd cycle)",
+    "faculty": "NOVA Medical School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "12 semesters (6 years), 360 ECTS",
+    "source_url": "https://www.nms.unl.pt/en-us/education/programs/integrated-masters-degree-in-medicine"
+  },
+  {
+    "course_name": "Nutrition Sciences",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA Medical School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "8 semesters (4 years), 240 ECTS",
+    "source_url": "https://www.nms.unl.pt/en-us/education/programs/bachelors-degree-in-nutrition-sciences"
+  },
+  {
+    "course_name": "Human Nutrition and Metabolism",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA Medical School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 6500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.nms.unl.pt/pt-pt/ensino/programas/mestrados/mestrado-em-nutricao-humana-e-metabolismo-nhm"
+  },
+  {
+    "course_name": "Biomedical Research",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA Medical School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.nms.unl.pt/en-us/education/programs/master-degrees/master-in-biomedical-research"
+  },
+  {
+    "course_name": "Medical Microbiology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA Medical School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.nms.unl.pt/en-us/education/programs/master-degrees/master-in-medical-microbiology"
+  },
+  {
+    "course_name": "Clinical Research Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA Medical School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2750,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.nms.unl.pt/en-us/education/programs/master-degrees/master-in-clinical-research-management"
+  },
+  {
+    "course_name": "Epidemiology, Biostatistics and Health Research",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA Medical School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (Bologna standard default; not explicitly confirmed on page)",
+    "source_url": "https://www.nms.unl.pt/en-us/education/programs/master-degrees/master-epibis"
+  },
+  {
+    "course_name": "One Health: Human and Animal Public Health",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA Medical School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS (Bologna standard default; not explicitly confirmed on page)",
+    "source_url": "https://www.nms.unl.pt/en-us/education/programs/master-degrees/master-in-human-and-animal-public-health"
+  },
+  {
+    "course_name": "Nutritional Phytotechnology for Human Health",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA Medical School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.nms.unl.pt/en-us/education/programs/master-degrees/master-in-nutritional-phytotechnology-for-human-health"
+  },
+  {
+    "course_name": "Computational Biology and Bioinformatics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA Medical School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 1500,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.nms.unl.pt/en-us/education/programs/master-degrees/msc-computational-biology-and-bioinformatics"
+  },
+  {
+    "course_name": "Biochemistry for Health",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA Medical School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 1100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.nms.unl.pt/en-us/education/programs/master-degrees/master-in-biochemistry-for-health-bps"
+  },
+  {
+    "course_name": "Physiotherapy in Musculoskeletal Conditions",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA Medical School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 6300,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.nms.unl.pt/en-us/education/programs/master-degrees/master-of-physiotherapy-in-musculoskeletal-conditions"
+  },
+  {
+    "course_name": "Anthropology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/licenciatura_em_antropologia/"
+  },
+  {
+    "course_name": "Archaeology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/licenciatura_em_arqueologia/"
+  },
+  {
+    "course_name": "Political Science and International Relations",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/licenciatura_em_ciencia_politica_e_relacoes_internacionais/"
+  },
+  {
+    "course_name": "Communication Sciences",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/licenciatura_em_ciencias_da_comunicacao/"
+  },
+  {
+    "course_name": "Language Sciences",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/licenciatura_em_ciencias_da_linguagem/"
+  },
+  {
+    "course_name": "Musical Sciences",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/licenciatura_em_ciencias_musicais/"
+  },
+  {
+    "course_name": "Social Sciences (Evening Program)",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/ciencias-sociais-pos-laboral/"
+  },
+  {
+    "course_name": "Marine Studies",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/estudos-do-mar/"
+  },
+  {
+    "course_name": "Portuguese Studies",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/licenciatura_em_estudos_portugueses/"
+  },
+  {
+    "course_name": "Philosophy",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/licenciatura_em_filosofia/"
+  },
+  {
+    "course_name": "Geography and Regional Planning",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/licenciatura_em_geografia_e_planeamento_regional/"
+  },
+  {
+    "course_name": "History",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/licenciatura_em_historia/"
+  },
+  {
+    "course_name": "Art History",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/licenciatura_em_historia_da_arte/"
+  },
+  {
+    "course_name": "Languages, Literatures and Cultures",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/licenciatura_em_linguas_literaturas_e_culturas/"
+  },
+  {
+    "course_name": "Sociology",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/licenciatura_em_sociologia/"
+  },
+  {
+    "course_name": "Translation",
+    "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
+    },
+    "duration": "6 semesters (3 years), 180 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/licenciatura_em_traducao/"
+  },
+  {
+    "course_name": "Anthropology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 600
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_antropologia/"
+  },
+  {
+    "course_name": "Archaeology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 600
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_arqueologia/"
+  },
+  {
+    "course_name": "Performing Arts",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 800
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_artes_cenicas/"
+  },
+  {
+    "course_name": "Musical Arts",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 800
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_artes_musicais/"
+  },
+  {
+    "course_name": "Political Science and International Relations",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 600
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_ciencia_politica_e_relacoes_internacionais/"
+  },
+  {
+    "course_name": "Communication Sciences",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 600
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_ciencias_da_comunicacao/"
+  },
+  {
+    "course_name": "Language Sciences",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 600
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_ciencias_da_linguagem/"
+  },
+  {
+    "course_name": "Musical Sciences",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 600
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_ciencias_musicais/"
+  },
+  {
+    "course_name": "Science Communication",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 800
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_comunicacao_de_ciencia/"
+  },
+  {
+    "course_name": "Curatorship and Digital Humanities",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 800
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/curadoria-e-humanidades-digitais/"
+  },
+  {
+    "course_name": "English Didactics",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "3 semesters (1.5 years), 90 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_didatica_do_ingles/"
+  },
+  {
+    "course_name": "Human Ecology and Contemporary Social Problems",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 800
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_ecologia_humana_e_problemas_sociais_contemporaneos/"
+  },
+  {
+    "course_name": "Text Editing",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 800
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_edicao_de_texto/"
+  },
+  {
+    "course_name": "Aesthetics and Artistic Studies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 800
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_estetica_e_estudos_artisticos/"
+  },
+  {
+    "course_name": "Education Studies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 800
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado-em-estudos-da-educacao/"
+  },
+  {
+    "course_name": "Portuguese Studies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 600
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_estudos_portugueses/"
+  },
+  {
+    "course_name": "Women's Studies: Women in Society and Culture",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 800
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_estudos_sobre_as_mulheres_as_mulheres_na_sociedade_e_na_cultura/"
+  },
+  {
+    "course_name": "Urban Studies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1300,
+        "year_2": 1100
+      },
+      "non_eu_students": {
+        "year_1": 3000,
+        "year_2": 1600
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_estudos_urbanos/"
+  },
+  {
+    "course_name": "European Master in Linguistic Data Science (Erasmus Mundus)",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 semesters (2 years, assumed), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/european-master-in-linguistic-data-science-erasmus-mundus/"
+  },
+  {
+    "course_name": "Philosophy",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 600
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_filosofia/"
+  },
+  {
+    "course_name": "Territory Management",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 600
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_gestao_do_territorio/"
+  },
+  {
+    "course_name": "History",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 600
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_historia/"
+  },
+  {
+    "course_name": "Art History and Museology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 600
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_historia_da_arte/"
+  },
+  {
+    "course_name": "Journalism",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 800
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_jornalismo/"
+  },
+  {
+    "course_name": "Migration, Inter-Ethnicities and Transnationalism",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/migracoes-inter-etnicidades-e-transnacionalismo/"
+  },
+  {
+    "course_name": "New Media and Web Practices",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 800
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_novos_media_e_praticas_web/"
+  },
+  {
+    "course_name": "Territorial Planning and Geographic Information Systems",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 800
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_ordenamento_do_territorio_e_sistemas_de_informacao_geografica/"
+  },
+  {
+    "course_name": "Heritage Studies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 800
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/patrimonio/"
+  },
+  {
+    "course_name": "Portuguese as a Second and Foreign Language",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 800
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_portugues_como_lingua_segunda_e_estrangeira/"
+  },
+  {
+    "course_name": "Sociology",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 600
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_sociologia/"
+  },
+  {
+    "course_name": "Trends in English and North-American Studies",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 600
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/trends-in-english-and-north-american-studies/"
+  },
+  {
+    "course_name": "Translation",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 1800,
+        "year_2": 600
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_traducao/"
+  },
+  {
+    "course_name": "Transition, Innovation and Sustainable Environments",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/transicao-inovacao-e-ambientes-sustentaveis/"
+  },
+  {
+    "course_name": "Sustainable Urbanism and Spatial Planning",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado_em_urbanismo_sustentavel_e_ordenamento_do_territorio/"
+  },
+  {
+    "course_name": "Music Education Teaching (2nd Cycle of Basic Education)",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 697,
+        "year_2": 697
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado-ensino-da-educacao-musical-no-ensino-basico-2-ciclo-do-ensino-basico/"
+  },
+  {
+    "course_name": "Philosophy Teaching in Secondary Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 697,
+        "year_2": 697
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado-ensino-de-filosofia-no-ensino-secundario/"
+  },
+  {
+    "course_name": "Geography Teaching in Basic and Secondary Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 697,
+        "year_2": 697
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado-ensino-de-geografia-no-3-o-ciclo-do-ensino-basico-e-no-ensino-secundario/"
+  },
+  {
+    "course_name": "History Teaching in Basic and Secondary Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 697,
+        "year_2": 697
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado-ensino-de-historia-no-3-o-ciclo-do-ensino-basico-e-no-ensino-secundario/"
+  },
+  {
+    "course_name": "English Teaching in Primary Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 697,
+        "year_2": 697
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado-ensino-de-ingles-no-1-o-ciclo-do-ensino-basico/"
+  },
+  {
+    "course_name": "English Teaching in Basic and Secondary Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 697,
+        "year_2": 697
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/ensino-de-ingles-no-3-o-ciclo-do-ensino-basico-e-no-ensino-secundario/"
+  },
+  {
+    "course_name": "English and Foreign Language Teaching in Basic and Secondary Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 697,
+        "year_2": 697
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/mestrado-ensino-de-ingles-e-de-lingua-estrangeira-no-3-o-ciclo-do-ensino-basico-e-no-ensino-secundario/"
+  },
+  {
+    "course_name": "Portuguese and Foreign Language Teaching in Basic and Secondary Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 697,
+        "year_2": 697
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/ensino-de-portugues-e-de-lingua-estrangeira-no-3-o-ciclo-do-ensino-basico-e-no-ensino-secundario/"
+  },
+  {
+    "course_name": "Portuguese Teaching in Basic and Secondary Education",
+    "degree_level": "Master's (Mestrado, 2nd cycle)",
+    "faculty": "NOVA School of Social Sciences and Humanities (NOVA FCSH)",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 697,
+        "year_2": 697
+      },
+      "non_eu_students": {
+        "year_1": 3600,
+        "year_2": 2400
+      }
+    },
+    "duration": "4 semesters (2 years), 120 ECTS",
+    "source_url": "https://www.fcsh.unl.pt/cursos/ensino-de-portugues-no-3-o-ciclo-do-ensino-basico-e-no-ensino-secundario/"
+  }
+]
