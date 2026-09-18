@@ -1,0 +1,610 @@
+[
+  {
+    "course_name": "Sustainability Engineering and Management",
+    "degree_level": "Master's",
+    "faculty": "Department of Management and Engineering (IEI)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 332000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; specialisation (semesters 2-3) in concepts, strategies and methods spanning renewable energy/energy efficiency, waste management systems, urban and industrial symbioses, corporate environmental management, and innovation management; delivered via IEI's Division of Environmental Technology and Management, with the Energy Systems and Environmental Technology and Management research groups; degree awarded: Master of Science (120 credits) with a major in Energy and Environmental Engineering; autumn intake. Non-EU fee is the confirmed whole-programme total (SEK 332,000), billed in semester instalments per LiU's standard credit-based invoicing, not an annual figure.",
+    "source_url": "https://liu.se/en/education/program/6msus"
+  },
+  {
+    "course_name": "Electronics Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Electrical Engineering (ISY)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 332000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; compulsory first-semester core, then one of two specialisations for semesters 2-3: Embedded Digital Systems, or Microelectronics; includes project-based VLSI/CAD design courses; degree awarded: Master of Science (120 credits) with a major in Electrical Engineering; autumn intake. Non-EU fee is the confirmed whole-programme total (SEK 332,000), billed in semester instalments, not an annual figure.",
+    "source_url": "https://liu.se/en/education/program/6mele"
+  },
+  {
+    "course_name": "Mechanical Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Management and Engineering (IEI)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 332000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; five specialisations: Applied Mechanics, Engineering Design and Product Development, Engineering Materials, Manufacturing Engineering, Mechatronics; confirmed as an IEI-administered programme via IEI's own department page (also listed as \"involving\" the Department of Electrical Engineering/ISY, reflecting the Mechatronics specialisation's control-systems coursework); autumn intake. Non-EU fee is the confirmed whole-programme total (SEK 332,000), billed in semester instalments, not an annual figure.",
+    "source_url": "https://liu.se/en/education/program/6mmec"
+  },
+  {
+    "course_name": "Biomedical Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Biomedical Engineering (IMT)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 332000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; combines engineering, biology and medicine; three year-2 tracks: Biomedical Signals and Instrumentation, Medical Imaging, Medical Informatics and eHealth; thesis completed at the department, a hospital, or a private company; confirmed as IMT's own named master's programme on IMT's department page; autumn intake. Non-EU fee is the confirmed whole-programme total (SEK 332,000), billed in semester instalments, not an annual figure.",
+    "source_url": "https://liu.se/en/education/program/6mbme"
+  },
+  {
+    "course_name": "Intelligent Transport Systems and Logistics",
+    "degree_level": "Master's",
+    "faculty": "Department of Science and Technology (ITN)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 332000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; two mixable focus areas: Traffic (travel-pattern/traffic-flow analysis) and Logistics (supply chain planning/modelling), plus electives in Smart Cities/Internet of Things; degree awarded: Master of Science (120 credits) with a major in Transportation Systems Engineering; based at Campus Norrköping. Department attribution to ITN is an inference from subject-matter match to ITN's own \"Communications and Transport Systems (KTS)\" research area (national leader in transport/logistics research covering traffic modelling, transport analytics, urban logistics) rather than an explicit \"delivered by ITN\" statement on the programme's own page -- flagged as not independently confirmed by name, worth a follow-up check. Autumn intake. Non-EU fee is the confirmed whole-programme total (SEK 332,000), billed in semester instalments, not an annual figure.",
+    "source_url": "https://liu.se/en/education/program/6mtsl"
+  },
+  {
+    "course_name": "Aeronautical Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Management and Engineering (IEI)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 332000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; three specialisations: Aircraft Systems, Aircraft Fluid and Thermodynamics, Aircraft Structures; close collaboration with the aerospace industry (e.g. Saab); confirmed as an IEI-administered programme via IEI's own department page; autumn intake. Non-EU fee is the confirmed whole-programme total (SEK 332,000), billed in semester instalments, not an annual figure.",
+    "source_url": "https://liu.se/en/education/program/6maer"
+  },
+  {
+    "course_name": "Design",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer and Information Science (IDA); Department of Management and Engineering (IEI); Department of Science and Technology (ITN)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 332000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; genuinely cross-departmental, no single owning department stated on the programme's own page. Three tracks, each mapping to a different one of the 12 LiU departments: Service Design (IDA -- Human-Centered Systems division; track lead Stefan Holmlid) and Design itself are explicitly listed among IDA's own \"Master's programmes\" on IDA's department page; Sustainable Design (IEI -- track lead Renee Wever) is likewise listed among IEI's own \"Master's programmes\" on IEI's department page; Visual Media Design (track lead Jonas Loewgren) matches ITN's own \"Media and Information Technology (MIT)\" research area (computer graphics, visualisation, interaction design) but is not independently confirmed by an explicit department statement -- flagged as the weaker leg of this three-way attribution. Degree awarded: Master (120 credits) with a major in Design; ~30 admits/year, portfolio- and essay-based admission; autumn intake. Non-EU fee is the confirmed whole-programme total (SEK 332,000), billed in semester instalments, not an annual figure.",
+    "source_url": "https://liu.se/en/education/program/6mdes"
+  },
+  {
+    "course_name": "Cybersecurity",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer and Information Science (IDA)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 332000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; covers software security, system and network security, cryptology, digital forensics, cyberlaw, organisational security, and social engineering attacks/defences; degree awarded: Master of Science (120 credits) with a major in Computer Science, supporting IDA as the primary department; jointly listed as \"involving\" the Department of Electrical Engineering (ISY) too, via ISY's Information Coding division/Security Link -- a genuine two-department collaboration, IDA treated as primary per the stated Computer Science major and its own department page listing. Autumn intake. Non-EU fee is the confirmed whole-programme total (SEK 332,000), billed in semester instalments, not an annual figure.",
+    "source_url": "https://liu.se/en/education/program/6mcys"
+  },
+  {
+    "course_name": "Data Science and Information Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Electrical Engineering (ISY)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 332000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; three specialisations from semester 2: Images and Vision, Data Science, Connectivity; the programme's own page explicitly states it is associated with \"the Department of Electrical Engineering\", drawing on ISY's Computer Vision and Learning Systems (CVL) and Communication Systems (KS) divisions, with the Data Science specialisation additionally drawing on IDA's Division of Statistics and Machine Learning (STIMA); confirmed on ISY's own department page as one of its master's programmes. Autumn intake. Non-EU fee is the confirmed whole-programme total (SEK 332,000), billed in semester instalments, not an annual figure.",
+    "source_url": "https://liu.se/en/education/program/6mdsi"
+  },
+  {
+    "course_name": "Industrial Engineering and Management",
+    "degree_level": "Master's",
+    "faculty": "Department of Management and Engineering (IEI)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 332000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; multi-disciplinary industrial management focus, with three selectable profiles from semester 2: Innovation Management, Operations Management, Quality Management; research connections include Operations Management and Finance, Logistics and Quality Management (LOGQ), and Project, Innovations and Entrepreneurship (PIE); confirmed as an IEI-administered programme via IEI's own department page. Autumn intake. Non-EU fee is the confirmed whole-programme total (SEK 332,000), billed in semester instalments, not an annual figure.",
+    "source_url": "https://liu.se/en/education/program/6mind"
+  },
+  {
+    "course_name": "Science and Engineering of Soft Materials",
+    "degree_level": "Master's",
+    "faculty": "Department of Science and Technology (ITN)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 332000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; delivered in collaboration with the Laboratory of Organic Electronics (LOE), part of ITN at Campus Norrköping (confirmed via the programme's own page, which names both \"Department of Science and Technology (ITN)\" and LOE in its contact section); covers organic electronics, energy storage and bioelectronics. Autumn intake. Non-EU fee is the confirmed whole-programme total (SEK 332,000), billed in semester instalments, not an annual figure.",
+    "source_url": "https://liu.se/en/education/program/6mssm"
+  },
+  {
+    "course_name": "Materials Physics and Nanoscience",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics, Chemistry and Biology (IFM)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 332000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; delivered via IFM's Thin Film Physics division (confirmed on the programme's own page); year 2 offers either a full-year thesis (research group or Swedish industry) or additional autumn electives (Computational Physics, Materials for Energy Technologies, Artificial Intelligence for Materials Science, Semiconductor Technology) followed by a spring thesis. Autumn intake. Non-EU fee is the confirmed whole-programme total (SEK 332,000), billed in semester instalments, not an annual figure.",
+    "source_url": "https://liu.se/en/education/program/6mmns"
+  },
+  {
+    "course_name": "Computer Science",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer and Information Science (IDA)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 332000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits. Four specialisations: AI and Machine Learning; Visualization and Computer Graphics (given at Campus Norrköping); Computer Networks, Distributed Systems and Security; Programming and Software Methods. The programme's own liu.se page credits the degree directly to the Department of Computer and Information Science (IDA).",
+    "source_url": "https://liu.se/en/education/program/6mics"
+  },
+  {
+    "course_name": "Statistics and Machine Learning",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer and Information Science (IDA)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 328600,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits, including a 30-ECTS master's thesis (90 credits of coursework + thesis). Degree of Master of Science with a major in Statistics. Hosted by the Division of Statistics and Machine Learning (STIMA), explicitly confirmed on the programme's own page as 'part of the Department of Computer and Information Science'. Exchange-study opportunity in semester 3.",
+    "source_url": "https://liu.se/en/education/program/f7mml"
+  },
+  {
+    "course_name": "Experimental and Medical Biosciences",
+    "degree_level": "Master's",
+    "faculty": "Department of Biomedical and Clinical Sciences (BKV)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 417200,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits. Degree of Master of Medical Science with a major in Medical Biology. Double-degree option for a limited number of students to spend year 2 in Vienna or Krems, Austria (Technikum Wien / IMC University of Applied Sciences Krems). Department confirmed via liu.se's own site-search employee/department attribution for this programme (Faculty of Medicine and Health Sciences).",
+    "source_url": "https://liu.se/en/education/program/mmem1"
+  },
+  {
+    "course_name": "Experimental and Industrial Biomedicine",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Biomedical and Clinical Sciences (BKV)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 607000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "3 years, 180 credits. Degree of Bachelor of Science in Medical Biology (Medicine Kandidatexamen i Medicinsk biologi). Confirmed as LiU's only English-taught Bachelor's programme -- no other English-taught undergraduate degree was found anywhere in LiU's programme search during this build. Combines biomedical lab training with project-driven bioentrepreneurship courses; opportunity for a semester of research at LiU or an industrial partner in Sweden or abroad. Department confirmed via liu.se's own site-search employee/department attribution for this programme (Faculty of Medicine and Health Sciences).",
+    "source_url": "https://liu.se/en/education/program/mgmb2"
+  },
+  {
+    "course_name": "Applied Ethology and Animal Biology",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics, Chemistry and Biology (IFM)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 332000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits, with a one-year (60-credit) degree project. Degree of Master of Science with a major in Biology. Field trips and practical studies on farm, laboratory and zoo animals; option to exchange a later course for a professional internship. Programme lead (Per Jensen, head of the AVIAN research group) confirmed via his own liu.se staff page as Department of Physics, Chemistry and Biology (IFM), Biology division -- the programme's own page does not separately state a department, so this is the best-supported attribution rather than an explicit 'delivered by' line.",
+    "source_url": "https://liu.se/en/education/program/6meto"
+  },
+  {
+    "course_name": "Protein Science",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics, Chemistry and Biology (IFM)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 332000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits. Degree of Master of Science with a major in Chemical Biology. Courses jointly offered by two faculties (Science & Engineering and Medicine & Health Sciences); optional double-degree opportunity to study part of year 2 in Basel, Switzerland (Fachhochschule Nordwestschweiz). Lead research group (Hammarström Lab) confirmed within IFM's Chemistry division, and the programme is governed by LiU's Programme Board for Chemistry, Biology and Biotechnology alongside Chemistry/Ecology/Ethology -- flagged as the best-supported attribution rather than an explicit single-line 'delivered by' statement on the programme's own page.",
+    "source_url": "https://liu.se/en/education/program/6mpro"
+  },
+  {
+    "course_name": "Chemistry",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics, Chemistry and Biology (IFM)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 332000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits. Degree of Master of Science with a major in Chemistry. Strong lab/experimental focus (nanotechnology, medicinal chemistry, materials science); optional double-degree opportunity to study part of year 2 in Basel, Switzerland (Fachhochschule Nordwestschweiz). The programme's own page explicitly names IFM (Department of Physics, Chemistry and Biology) as the home department via a student testimonial and research-group links.",
+    "source_url": "https://liu.se/en/education/program/6mkem"
+  },
+  {
+    "course_name": "Ecology and Sustainable Development",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics, Chemistry and Biology (IFM)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 332000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits, including a one-year (60-credit) thesis project and a six-week internship in semester 2. Degree of Master of Science with a major in Biology. Confirmed governed by LiU's Programme Board for Chemistry, Biology and Biotechnology (the same board overseeing Chemistry/Protein Science/Applied Ethology), which sits within IFM -- the programme's own page does not separately restate the department name, so this is the best-supported attribution.",
+    "source_url": "https://liu.se/en/education/program/6mesd"
+  },
+  {
+    "course_name": "Science for Sustainable Development",
+    "degree_level": "Master's",
+    "faculty": "Department of Thematic Studies (TEMA)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 320400,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits, including a master's thesis in the final semester. Degree of Master of Science with a major in Environmental Science. Uses the Norrköping Decision Arena for visualisation/decision-making exercises; optional internship in semester 3. The programme's own page explicitly credits its research base to 'The Department of Thematic Studies - Environmental Change' (Tema M, incorporating the former Tema V / Centre for Climate Science and Policy Research), i.e. the Department of Thematic Studies (TEMA).",
+    "source_url": "https://liu.se/en/education/program/f7msu"
+  },
+  {
+    "course_name": "Adult Learning and Global Change",
+    "degree_level": "Master's",
+    "faculty": "Department of Behavioural Sciences and Learning (IBL)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 109600,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "60 credits (nominally 1 year full-time, delivered part-time/half-time over 2 years); genuinely joint online programme delivered with University of British Columbia (Vancouver, Canada) and University of the Western Cape (Cape Town, South Africa). Confirmed via LiU's own programme page and the Division of Education and Adult Learning (PVL)'s own organisation page that this is a normal LiU-administered degree with LiU's own standard fee-setting, not a separate consortium/Erasmus-Mundus-style fee arrangement — the SEK 109,600 total is LiU's own published figure, and the page's tuition-fee note uses the same standard 'applies only to students from outside the EU, EEA and Switzerland' phrasing as every other LiU programme, so no EU-fee exception applies here despite the joint delivery. Autumn 2026 intake.",
+    "source_url": "https://liu.se/en/education/program/l7mlg"
+  },
+  {
+    "course_name": "Outdoor and Sustainability Education",
+    "degree_level": "Master's",
+    "faculty": "Department of Behavioural Sciences and Learning (IBL)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 231100,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "120 credits (2 years), can also be completed as a 60-credit (1-year) exit degree; delivered from Norrköping campus. Autumn 2026 intake. Department attribution is inferred rather than page-stated: the programme's own official page names no administering department at all, but LiU's site search consistently and repeatedly links this specific subject matter to IBL staff (e.g. Ola Uhrqvist, Emilia Fägerstam — both listed under Department of Behavioural Sciences and Learning, Division of Education, Teaching and Learning/PEDI) rather than any other department. Flagged here per this project's convention for indirect-evidence attributions (cf. Trinity/UCD/Lund precedents) rather than treated as fully confirmed.",
+    "source_url": "https://liu.se/en/education/program/l7muh"
+  },
+  {
+    "course_name": "Child Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Thematic Studies (TEMA)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 214800,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "120 credits, can be completed in 1 or 2 years; primarily distance-based with three mandatory on-campus sessions (two 4-5 day periods in year one, one in year two). Administered by the Child Studies unit (TEMAB) within TEMA, confirmed via LiU's own staff listings (Department of Thematic Studies (TEMA), Child Studies (TEMAB)). Autumn 2026 intake.",
+    "source_url": "https://liu.se/en/education/program/f7mch"
+  },
+  {
+    "course_name": "Ethics, Science, and Policy",
+    "degree_level": "Master's",
+    "faculty": "Department of Culture and Society (IKOS)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 214800,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "120 credits (2 years); on-campus, full-time. Administered by the Division of Philosophy and Applied Ethics (FTE), confirmed via that division's own organisation page (breadcrumb: Department of Culture and Society > Division of Philosophy and Applied Ethics). Autumn 2026 intake.",
+    "source_url": "https://liu.se/en/education/program/f7mep"
+  },
+  {
+    "course_name": "Ethnic and Migration Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Culture and Society (IKOS)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 214800,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "120 credits (2 years); delivered at Campus Norrköping. Administered by the Institute for Research on Migration, Ethnicity and Society (REMESO), confirmed via REMESO's own organisation page as a division within the Department of Culture and Society (IKOS). EuMIGS Double Degree option available with partner universities in Germany, Switzerland or Spain. Autumn 2026 intake.",
+    "source_url": "https://liu.se/en/education/program/f7mem"
+  },
+  {
+    "course_name": "International and European Relations",
+    "degree_level": "Master's",
+    "faculty": "Department of Management and Engineering (IEI)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 214800,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "120 credits (4 terms / 2 years). Degree awarded is 'Master of Social Science with a major in Political Science', and the Political Science division is confirmed via IEI's own organisation page as one of IEI's divisions. Autumn 2026 intake.",
+    "source_url": "https://liu.se/en/education/program/f7mer"
+  },
+  {
+    "course_name": "Gender Studies - Intersectionality and Change",
+    "degree_level": "Master's",
+    "faculty": "Department of Thematic Studies (TEMA)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 214800,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "120 credits, with an optional 60-credit (1-year) exit track; distance education with 4 mandatory on-campus intensive periods. Administered by the Gender Studies unit (Tema Genus / TEMAG) within TEMA. Autumn 2026 intake.",
+    "source_url": "https://liu.se/en/education/program/f7mgr"
+  },
+  {
+    "course_name": "Strategic Urban and Regional Planning",
+    "degree_level": "Master's",
+    "faculty": "Department of Thematic Studies (TEMA)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 271200,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "120 credits (2 years); on-campus, full-time. Administered by Tema T - Technology and Social Change within the Department of Thematic Studies (TEMA). Autumn 2026 intake.",
+    "source_url": "https://liu.se/en/education/program/f7mur"
+  },
+  {
+    "course_name": "Computational Social Science",
+    "degree_level": "Master's",
+    "faculty": "Department of Management and Engineering (IEI)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 273400,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "120 credits (2 years); full-time, on-campus at Norrköping. Administered by the Institute for Analytical Sociology (IAS), confirmed via IAS's own organisation page ('It is administratively linked to the Department of Management and Engineering') and via IEI's own division list, which names IAS as one of its divisions. Autumn 2026 intake.",
+    "source_url": "https://liu.se/en/education/program/f7mcd"
+  },
+  {
+    "course_name": "Business Administration - Strategy and Management in International Organisations",
+    "degree_level": "Master's",
+    "faculty": "Department of Management and Engineering (IEI)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 214800,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "120 credits (2 years); full-time, on-campus; programme deliberately kept small at approximately 40 students per cohort. Administered by the Business Administration division (FEK), confirmed via IEI's own division list. Admission prioritises GMAT score, then English proficiency, then academic merit. Autumn 2026 intake.",
+    "source_url": "https://liu.se/en/education/program/f7mio"
+  },
+  {
+    "course_name": "Ageing and Social Change",
+    "degree_level": "Master's",
+    "faculty": "Department of Culture and Society (IKOS)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 214800,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "120 credits, offered as a 2-year full-time programme or a 60-credit (1-year) option; distance education delivered from Norrköping campus with one mandatory in-person session per year. Administered by the Division of Ageing and Social Change (ASC), confirmed via IKOS's own division list. Autumn 2026 intake.",
+    "source_url": "https://liu.se/en/education/program/f7mag"
+  }
+]

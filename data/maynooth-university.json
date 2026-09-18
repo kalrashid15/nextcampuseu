@@ -1,0 +1,1945 @@
+[
+  {
+    "course_name": "Adult, Community and Further Education (BA, part-time)",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Adult and Community Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "Part-time, evening (mature students only, 21+). Shares CAO/MU Apply code MH804 with two other named degree streams chosen at Registration: BA Equality and Community Studies (4.5 years part-time) and BA Local History, Cultural Heritage and Environment (4.5 years part-time); BA Adult, Community and Further Education itself runs 6 years part-time. Fee not listed on official fee schedule (SUSI Part-Time Fee Scheme eligible programme; contact Fees Office).",
+    "source_url": "https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/ba-adult-community-and-further-education-part-time"
+  },
+  {
+    "course_name": "Master of Education in Adult Guidance and Counselling",
+    "degree_level": "Master's",
+    "faculty": "Department of Adult and Community Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5330,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year part-time; CAO/MU Apply code MHA51.",
+    "source_url": "https://www.maynoothuniversity.ie/adult-and-community-education/our-courses/med-adult-guidance-counselling"
+  },
+  {
+    "course_name": "Master of Education in Adult and Community Education",
+    "degree_level": "Master's",
+    "faculty": "Department of Adult and Community Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MHA92.",
+    "source_url": "https://www.maynoothuniversity.ie/adult-and-community-education/our-courses/med-adult-and-community-education"
+  },
+  {
+    "course_name": "Anthropology (MA)",
+    "degree_level": "Master's",
+    "faculty": "Department of Anthropology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MHC60); also offered 2 years part-time (MHC61, EU fee €5,330/yr, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/ma-anthropology"
+  },
+  {
+    "course_name": "International Development (MA)",
+    "degree_level": "Master's",
+    "faculty": "Department of Anthropology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MH50N. Also offered part-time by flexible/distance learning (MH51N, modular fees, EU total €9,200, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/anthropology/our-courses/ma-international-development"
+  },
+  {
+    "course_name": "International Peacebuilding, Security and Development Practice (MA)",
+    "degree_level": "Master's",
+    "faculty": "Department of Anthropology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MH54N. Also offered part-time by flexible/distance learning (MH55N, modular fees, EU total €9,200, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/anthropology/our-courses/ma-international-peacebuilding-security-and-development-practice"
+  },
+  {
+    "course_name": "Social Science (BSocSc — Social Policy double-major)",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Applied Social Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16500,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (4 years with Erasmus/Study Abroad — BSocSc International); double-major: Social Policy (core, compulsory) plus one of Sociology, Anthropology, Economics, Geography, History or Philosophy chosen in Year 1 and continued in Years 2-3; CAO code MH107.",
+    "source_url": "https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/bachelor-social-science"
+  },
+  {
+    "course_name": "Social Science (Community and Youth Work) (BSocSc)",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Applied Social Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "3 years full-time, Level 8 Honours; professional qualification in Community Work and Youth Work; 520 hours supervised fieldwork placement each year; CAO code MH116. Also offered part-time, in-service, for those already employed in the sector (MU Apply code MUB11).",
+    "source_url": "https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/bachelor-social-science-community-and-youth-work-full-time"
+  },
+  {
+    "course_name": "Community and Youth Work (Master of Social Science)",
+    "degree_level": "Master's",
+    "faculty": "Department of Applied Social Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 7550,
+        "year_2": 3750
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time, professional qualification; CAO/MU Apply code MHB54. Also offered part-time (MHB55, EU fee €3,550/yr, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/applied-social-studies/our-courses"
+  },
+  {
+    "course_name": "Social Science (Rights and Social Policy) (Master of Social Science)",
+    "degree_level": "Master's",
+    "faculty": "Department of Applied Social Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time, dissertation undertaken in year 2 of part-time route); CAO/MU Apply code MHB56 (FT), MHB57 (PT, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/msocsc-social-science-rights-and-social-policy"
+  },
+  {
+    "course_name": "Social Work (Master of Social Science)",
+    "degree_level": "Master's",
+    "faculty": "Department of Applied Social Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time, professional qualification; CAO/MU Apply code MHB62 (same fee both years).",
+    "source_url": "https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/master-social-science-social-work"
+  },
+  {
+    "course_name": "Product Design and Innovation (BSc)",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Design Innovation",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, Level 8 Honours Degree; CAO code MH305.",
+    "source_url": "https://www.maynoothuniversity.ie/design-innovation/undergraduates"
+  },
+  {
+    "course_name": "Design Innovation (MSc)",
+    "degree_level": "Master's",
+    "faculty": "Department of Design Innovation",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MH50K. Also offered 2 years part-time (MH51K, EU fee €5,330/yr, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/design-innovation/why-design-innovation"
+  },
+  {
+    "course_name": "Design for User Experience and Interaction (MSc)",
+    "degree_level": "Master's",
+    "faculty": "Department of Design Innovation",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MH52K.",
+    "source_url": "https://www.maynoothuniversity.ie/design-innovation/msc-design-user-experience-interaction-uxi"
+  },
+  {
+    "course_name": "Economics (BSc)",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Economics, Finance and Accounting",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (4 years with optional placement or Erasmus/Study Abroad); CAO code MH415.",
+    "source_url": "https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/bsc-economics"
+  },
+  {
+    "course_name": "International Economics (BA)",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Economics, Finance and Accounting",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (placement or Erasmus/Study Abroad in year 3); CAO code MH416.",
+    "source_url": "https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/ba-international-economics"
+  },
+  {
+    "course_name": "Economics (MSc)",
+    "degree_level": "Master's",
+    "faculty": "Department of Economics, Finance and Accounting",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MHH52. Also offered 2 years part-time (MHH53, EU fee €5,330/yr, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/msc-economics"
+  },
+  {
+    "course_name": "Economics (Conversion) (MSc)",
+    "degree_level": "Master's",
+    "faculty": "Department of Economics, Finance and Accounting",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (assumed, standard taught MSc — not independently confirmed on programme page); conversion programme for graduates without an economics background; CAO/MU Apply code MHH70.",
+    "source_url": "https://www.maynoothuniversity.ie/economics/our-courses"
+  },
+  {
+    "course_name": "Mathematics / Science (with Education) — concurrent teacher-education BSc",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years BSc (Level 8 Honours), jointly delivered with the relevant Science department, plus an optional further 1-year Professional Master of Education for full teaching qualification (5 years total). Shares CAO code MH212 across 3 named streams chosen at entry: Mathematics (with Education) (MED), Mathematics and Computer Science (with Education) (MCS), Science (with Education) (SED).",
+    "source_url": "https://www.maynoothuniversity.ie/education/our-courses/bsc-mathematics-education-med"
+  },
+  {
+    "course_name": "Educational Leadership and Management (Master of)",
+    "degree_level": "Master's",
+    "faculty": "Department of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3750,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "21 months part-time; CAO/MU Apply code MH45G. Also offered as a shorter 9-months part-time top-up route for those with prior credit (MH47G, EU fee €3,750).",
+    "source_url": "https://www.maynoothuniversity.ie/education/our-courses/master-educational-leadership-and-management"
+  },
+  {
+    "course_name": "Education (Master of)",
+    "degree_level": "Master's",
+    "faculty": "Department of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8050,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MH52G. Also offered part-time modular over 2 years (MH57G).",
+    "source_url": "https://www.maynoothuniversity.ie/education/our-courses/master-education"
+  },
+  {
+    "course_name": "School Guidance Counselling (M.Ed.)",
+    "degree_level": "Master's",
+    "faculty": "Department of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year part-time; CAO/MU Apply code MH53G.",
+    "source_url": "https://www.maynoothuniversity.ie/education/our-courses/med-school-guidance-counselling"
+  },
+  {
+    "course_name": "Professional Master of Education (Secondary)",
+    "degree_level": "Master's",
+    "faculty": "Department of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 7230,
+        "year_2": 4950
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time; initial teacher education for secondary level; CAO/MU Apply code PEM01.",
+    "source_url": "https://www.maynoothuniversity.ie/education/our-courses/professional-master-education-secondary"
+  },
+  {
+    "course_name": "Bachelor of Education — Primary Teaching",
+    "degree_level": "Bachelor's",
+    "faculty": "Froebel Department of Primary and Early Childhood Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (B.Ed.); CAO code MH001.",
+    "source_url": "https://www.maynoothuniversity.ie/froebel-department-primary-and-early-childhood-education/our-courses/b-ed-bachelor-education-primary-teaching"
+  },
+  {
+    "course_name": "Bachelor of Education — Primary Teaching (Gaeltacht)",
+    "degree_level": "Bachelor's",
+    "faculty": "Froebel Department of Primary and Early Childhood Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 years (B.Ed.), Irish-medium/Gaeltacht placement route; CAO code MH002. Not listed on the international undergraduate fee schedule.",
+    "source_url": "https://www.maynoothuniversity.ie/froebel-department-primary-and-early-childhood-education/our-courses/b-ed-bachelor-education-primary-teaching-gaeltacht"
+  },
+  {
+    "course_name": "Early Childhood Teaching and Learning (BA)",
+    "degree_level": "Bachelor's",
+    "faculty": "Froebel Department of Primary and Early Childhood Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16500,
+        "period": "year"
+      }
+    },
+    "duration": "4 years full-time; CAO code MH003. Also offered as a 4-year flexible/part-time route (MH004) not eligible for the state Free Fees subsidy — flat EU fee €3,999/yr, not open to non-EU applicants.",
+    "source_url": "https://www.maynoothuniversity.ie/froebel-department-primary-and-early-childhood-education/our-courses/ba-early-childhood-teaching-learning-full-time"
+  },
+  {
+    "course_name": "Professional Master of Education (Primary)",
+    "degree_level": "Master's",
+    "faculty": "Froebel Department of Primary and Early Childhood Education",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 7230,
+        "year_2": 4950
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time; initial teacher education for primary level; CAO/MU Apply code FR900.",
+    "source_url": "https://www.maynoothuniversity.ie/froebel-department-primary-and-early-childhood-education/our-courses/professional-master-education-primary"
+  },
+  {
+    "course_name": "Education (Research in Practice) (Master of)",
+    "degree_level": "Master's",
+    "faculty": "Froebel Department of Primary and Early Childhood Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year part-time; CAO/MU Apply code MH52L.",
+    "source_url": "https://www.maynoothuniversity.ie/froebel-department-primary-and-early-childhood-education/our-courses/master-education-research-practice-part-time"
+  },
+  {
+    "course_name": "Biological and Geographical Sciences (BSc)",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, Level 8 Honours Degree; jointly delivered with the Department of Biology; CAO code MH203.",
+    "source_url": "https://www.maynoothuniversity.ie/geography/our-courses/bsc-biological-and-geographical-sciences"
+  },
+  {
+    "course_name": "Geography (MA)",
+    "degree_level": "Master's",
+    "faculty": "Department of Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MHN60. Also offered 2 years part-time (MHN61, EU fee €5,330/yr, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/geography/our-courses/ma-geography"
+  },
+  {
+    "course_name": "Geography: Spatial Justice (MA)",
+    "degree_level": "Master's",
+    "faculty": "Department of Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MHN66. Also offered 2 years part-time (MHN67, EU fee €5,330/yr, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/geography/our-courses/ma-geography-spatial-justice"
+  },
+  {
+    "course_name": "Climate Change (MSc)",
+    "degree_level": "Master's",
+    "faculty": "Department of Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MHN56. Also offered 2 years part-time (MHN57, EU fee €5,330/yr, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/geography/our-courses/msc-climate-change"
+  },
+  {
+    "course_name": "Geographical Information Systems and Remote Sensing (MSc)",
+    "degree_level": "Master's",
+    "faculty": "Department of Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MHN58.",
+    "source_url": "https://www.maynoothuniversity.ie/geography/our-courses/msc-geograpinformation-systems-remote-sensing"
+  },
+  {
+    "course_name": "Criminology (BA)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law and Criminology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (4 years with Erasmus/Study Abroad); CAO code MH504.",
+    "source_url": "https://www.maynoothuniversity.ie/law/our-courses/ba-criminology"
+  },
+  {
+    "course_name": "Laws (LLB) (Bachelor of Laws)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law and Criminology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years; CAO code MH501.",
+    "source_url": "https://www.maynoothuniversity.ie/law/our-courses/bachelor-laws-llb"
+  },
+  {
+    "course_name": "Bachelor of Civil Law (BCL) — combined with Accounting, Arts, Business or Criminology",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law and Criminology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "3 years standard (4 years with Erasmus/Study Abroad option, or with work placement for Law and Business). Shares CAO code MH502 across 4 named streams chosen at the start of the degree in September: Law and Accounting (LWA), Law and Arts (LWD), Law and Business (LWB), Law and Criminology (LWC).",
+    "source_url": "https://www.maynoothuniversity.ie/study-maynooth/how-apply/undergraduate-applicants/mh502-options"
+  },
+  {
+    "course_name": "Law and Languages (BCL)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law and Criminology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, combined with French, German, Spanish & Latin American Studies or Nua-Ghaeilge; CAO code MH503.",
+    "source_url": "https://www.maynoothuniversity.ie/law/our-courses/bcl-law-and-languages"
+  },
+  {
+    "course_name": "Études Juridiques / Bachelor of Laws (dual degree with Université Catholique de Lyon)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law and Criminology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "3 years, with option to extend to 4 years on successful completion of Year 3; Years 1-2 at Université Catholique de Lyon (UCLy), Years 3-4 at Maynooth. No CAO code (direct-entry dual-degree route); fee not listed on the central fee schedules.",
+    "source_url": "https://www.maynoothuniversity.ie/law/our-courses/etudes-juridiques-bachelor-laws"
+  },
+  {
+    "course_name": "Global Legal Studies (LLM)",
+    "degree_level": "Master's",
+    "faculty": "School of Law and Criminology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MH50J. Also offered 2 years part-time (MH51J, EU fee €6,800/yr, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/law/our-courses/llm-global-legal-studies"
+  },
+  {
+    "course_name": "International Business Law (LLM)",
+    "degree_level": "Master's",
+    "faculty": "School of Law and Criminology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MH52J. Also offered 2 years part-time (MH53J, EU fee €6,800/yr, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/law/our-courses/llm-international-business-law"
+  },
+  {
+    "course_name": "International Justice (LLM)",
+    "degree_level": "Master's",
+    "faculty": "School of Law and Criminology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MH64J. Also offered 2 years part-time (MH65J, EU fee €6,800/yr, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/law/our-courses/llm-international-justice"
+  },
+  {
+    "course_name": "International Business Law — Dual Degree (LLM, with Université Catholique de Lyon)",
+    "degree_level": "Master's",
+    "faculty": "School of Law and Criminology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MH68J.",
+    "source_url": "https://www.maynoothuniversity.ie/law/our-courses/llm-international-business-law-lyon"
+  },
+  {
+    "course_name": "Comparative Criminology and Criminal Justice (MA)",
+    "degree_level": "Master's",
+    "faculty": "School of Law and Criminology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MH66J. Also offered 2 years part-time (MH67J, EU fee €6,800/yr, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/law/our-courses/ma-comparative-criminology-and-criminal-justice"
+  },
+  {
+    "course_name": "Accounting and Finance (BA)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16500,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (4 years with optional work placement/study abroad); CAO code MH403.",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/ba-accounting-and-finance"
+  },
+  {
+    "course_name": "Business/International Business/Marketing/Accounting & Finance with a Language (BBA joint-honours)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, jointly delivered with the School of Modern Languages, including a year abroad. Shares CAO code MH409 across 12 named subject-combination streams: Accounting Finance and German Studies; Accounting, Finance and Spanish & Latin American Studies; Business Management and Chinese/French/German/Spanish & Latin American Studies; International Business and Chinese/French/German/Spanish & Latin American Studies; Marketing and Chinese/French/German/Spanish & Latin American Studies.",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/bba-business-management-and-german-studies"
+  },
+  {
+    "course_name": "Business and Accounting (BBS)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (BBS) or 4 years (BBA, with work placement); CAO code MH407.",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/bbs-business-accounting"
+  },
+  {
+    "course_name": "Business Studies (BBS: Business & Management / International Business / Marketing, with optional Global Cultures language stream)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (BBS) or 4 years (BBA, with work placement or the Global Cultures international year). Shares CAO code MH404 across 6 named streams: Business & Management (BMA); Business Management and Global Cultures; International Business (INB); International Business and Global Cultures; Marketing (MKT); Marketing and Global Cultures.",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/bbs-business-and-management-bma"
+  },
+  {
+    "course_name": "Entrepreneurship (BBS)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (BBS) or 4 years (BBA, with work placement); CAO code MH411.",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/bbs-entrepreneurship"
+  },
+  {
+    "course_name": "Finance (BBS)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (4 years with work placement); CAO code MH410.",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/bbs-finance"
+  },
+  {
+    "course_name": "Business with Sport Science (BSc)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, with placement or Erasmus/Study Abroad; jointly delivered with Sport Science; CAO code MH412.",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/bsc-business-sport-science"
+  },
+  {
+    "course_name": "Quantitative Finance (BSc)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years; CAO code MH402.",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/bsc-quantitative-finance"
+  },
+  {
+    "course_name": "Accounting (MA)",
+    "degree_level": "Master's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MH28D. Also offered 2 years part-time (MH29D, EU fee €4,850/yr, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/ma-accounting"
+  },
+  {
+    "course_name": "Accounting (Conversion) (MA)",
+    "degree_level": "Master's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 7550,
+        "year_2": 9650
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time; conversion programme for graduates without an accounting background; CAO/MU Apply code MH30D.",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/ma-accounting-1"
+  },
+  {
+    "course_name": "Finance (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; an additional €1,000 (full-time) fee applies for use of the Bloomberg suite; CAO/MU Apply code MH24D. Also offered 2 years part-time (MH25D, EU fee €6,800/yr plus €500 Bloomberg fee, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/msc-finance"
+  },
+  {
+    "course_name": "International Accounting with Management (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MH98D.",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/msc-international-accounting-management"
+  },
+  {
+    "course_name": "Business Analytics (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MH48D. Also offered 2 years part-time (MH49D, EU fee €6,800/yr, not open to non-EU applicants) and with a January-start intake (MH58D, same fees, 1 year full-time).",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/msc-business-analytics"
+  },
+  {
+    "course_name": "Business Management (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MH52D. Also offered 2 years part-time (MH53D, EU fee €6,800/yr, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/msc-business-management"
+  },
+  {
+    "course_name": "Strategy and Innovation (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MH54D. Also offered 2 years part-time (MH55D, EU fee €6,800/yr, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/msc-strategy-innovation"
+  },
+  {
+    "course_name": "IT-Enabled Innovation (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MH84D. Also offered 2 years part-time (MH85D, EU fee €6,800/yr, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/msc-it-enabled-innovation"
+  },
+  {
+    "course_name": "International Business (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MH90D. Also offered 2 years part-time (MH91D, EU fee €6,800/yr, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/msc-international-business"
+  },
+  {
+    "course_name": "Consumer Insights and Branding Strategy (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MH94D. Also offered 2 years part-time (MH95D, EU fee €6,800/yr, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/msc-consumer-insights-and-branding-strategy"
+  },
+  {
+    "course_name": "Supply Chain Management (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MH96D. Also offered 2 years part-time (MH97D, EU fee €6,800/yr, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/msc-supply-chain-management"
+  },
+  {
+    "course_name": "Digital Marketing (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9280,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MH34D. Also offered 2 years part-time (MH35D, EU fee €6,540/yr, not open to non-EU applicants).",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/msc-digital-marketing"
+  },
+  {
+    "course_name": "Business Administration (MBA) (Master of)",
+    "degree_level": "Master's",
+    "faculty": "School of Business",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 25000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 25000,
+        "period": "year"
+      }
+    },
+    "duration": "16 months full-time; CAO/MU Apply code MH92D.",
+    "source_url": "https://www.maynoothuniversity.ie/school-business/our-courses/master-business-administration-mba"
+  },
+  {
+    "course_name": "Social Research (MSc)",
+    "degree_level": "Master's",
+    "faculty": "Department of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, training concentrated on one day per week (Thursdays) on campus; CAO/MU Apply code MHY44. Sociology and Politics are also studied as subjects within the general Bachelor of Arts (MH101) and the Bachelor of Social Science (MH107) — the Department has no standalone undergraduate CAO code of its own.",
+    "source_url": "https://www.maynoothuniversity.ie/sociology/ma-programmes"
+  },
+  {
+    "course_name": "Bachelor of Science (Common Entry)",
+    "degree_level": "Bachelor's",
+    "faculty": "Faculty of Science & Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, Level 8 Honours (NFQ 8); CAO code MH201; CAO points 352 (2026 entry). Common-entry degree with subject-stream choice from Year 2 across the Faculty of Science & Engineering's departments: Biology, Chemistry, Computer Science, Electronic Engineering, Mathematics and Statistics, Physics, Psychology, Sport Science and Nutrition, and Nursing.",
+    "source_url": "https://www.maynoothuniversity.ie/biology/our-courses/bachelor-science"
+  },
+  {
+    "course_name": "Science / Mathematics (with Education)",
+    "degree_level": "Bachelor's",
+    "faculty": "Faculty of Science & Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4-year BSc plus an optional 1-year Professional Master of Education (PME) (5 years total route to second-level teaching); NFQ 8. CAO code MH212 shared by 3 named exit streams chosen at enrolment: BSc Science (with Education) (SED), BSc Mathematics (with Education) (MED), BSc Mathematics and Computer Science (with Education) (MCS). Jointly delivered by the relevant Science department(s) and the Department of Education.",
+    "source_url": "https://www.maynoothuniversity.ie/biology/our-courses/bsc-science-education-sed"
+  },
+  {
+    "course_name": "Biomedical Science",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, Level 8 Honours; CAO code MH205. Note: the Department of Biology's own course page calls this 'BSc Biomedical Science', while the university's central fee schedules list the same fee under the name 'BSc Biological & Biomedical Sciences' (code MH205 on the international schedule, MH208 on the EU schedule) — same fee figures either way; flagged for a future re-check rather than assumed to be two different programmes.",
+    "source_url": "https://www.maynoothuniversity.ie/biology/our-courses/bsc-biomedical-science"
+  },
+  {
+    "course_name": "Biotechnology",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, Level 8 Honours; CAO code MH202.",
+    "source_url": "https://www.maynoothuniversity.ie/biology/our-courses/bsc-biotechnology"
+  },
+  {
+    "course_name": "Biological and Geographical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, Level 8 Honours; CAO code MH203; jointly delivered with the Department of Geography.",
+    "source_url": "https://www.maynoothuniversity.ie/biology/our-courses/bsc-biological-and-geographical-sciences"
+  },
+  {
+    "course_name": "Immunology & Global Health",
+    "degree_level": "Master's",
+    "faculty": "Department of Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; CAO/MU Apply code MHD50.",
+    "source_url": "https://www.maynoothuniversity.ie/biology/our-courses/msc-immunology-global-health"
+  },
+  {
+    "course_name": "Pharmaceutical and Biomedical Chemistry",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Chemistry",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, Level 8 Honours; CAO code MH210.",
+    "source_url": "https://www.maynoothuniversity.ie/chemistry/our-courses/bsc-pharmaceutical-and-biomedical-chemistry"
+  },
+  {
+    "course_name": "Computer Science & Software Engineering / Multimedia, Mobile & Web Development",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Computer Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, Level 8 Honours; CAO code MH602. Common entry with subject-stream choice between Computer Science & Software Engineering (CSS) and Multimedia, Mobile & Web Development (MWS).",
+    "source_url": "https://www.maynoothuniversity.ie/computer-science/our-courses/bsc-computer-science-software-engineering-css"
+  },
+  {
+    "course_name": "Computer Science & Software Engineering / Multimedia, Mobile & Web Development (Arts Pathway)",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Computer Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, Level 8 Honours; CAO code MH601 — an Arts-linked entry pathway, a separate CAO code from the standard MH602 entry into the same two subject streams. Common entry with subject-stream choice between Computer Science & Software Engineering (CSA) and Multimedia, Mobile & Web Development (MWA).",
+    "source_url": "https://www.maynoothuniversity.ie/computer-science/our-courses/bsc-computer-sci-software-engineering-arts-csa"
+  },
+  {
+    "course_name": "Computational Thinking",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Computer Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "3 years, accelerated Level 8 Honours; CAO code MH603. Jointly delivered with the Department of Mathematics and Statistics and Philosophy; optional 1-year work placement or study abroad between 2nd and 3rd year.",
+    "source_url": "https://www.maynoothuniversity.ie/computer-science/our-courses/bsc-computational-thinking"
+  },
+  {
+    "course_name": "Computer Science (Applied)",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer Science",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 7550,
+        "year_2": 3050
+      },
+      "non_eu_students": {
+        "year_1": 18000,
+        "year_2": 7500
+      }
+    },
+    "duration": "2 years, full-time; CAO/MU Apply code MHG68.",
+    "source_url": "https://www.maynoothuniversity.ie/computer-science/our-courses/msc-computer-science-applied"
+  },
+  {
+    "course_name": "Computer Science (Software Engineering) (One Year Programme)",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; CAO/MU Apply code MHG50.",
+    "source_url": "https://www.maynoothuniversity.ie/computer-science/our-courses/msc-computer-science-software-engineering-one-year-programme"
+  },
+  {
+    "course_name": "Electronic Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Electronic Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, Level 8 Honours (Bachelor of Engineering), Engineers Ireland accredited; CAO code MH304. Students achieving 2.2 (50%) or higher in 3rd year may opt into an integrated 5th-year Master of Engineering (ME) stream (not separately CAO-admitted).",
+    "source_url": "https://www.maynoothuniversity.ie/electronic-engineering/our-courses/bachelor-engineering"
+  },
+  {
+    "course_name": "Robotics and Intelligent Devices",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Electronic Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, Level 8 Honours; CAO code MH306.",
+    "source_url": "https://www.maynoothuniversity.ie/electronic-engineering/our-courses/bsc-robotics-and-intelligent-devices"
+  },
+  {
+    "course_name": "Integrated Circuit Design (MEngSc)",
+    "degree_level": "Master's",
+    "faculty": "Department of Electronic Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 25000,
+        "period": "year"
+      }
+    },
+    "duration": "15 months, full-time (9 months taught modules + 6 months industry placement); CAO/MU Apply code MHJ70. Part-time variant also offered (MHJ71, EU fee €7,150/yr).",
+    "source_url": "https://www.maynoothuniversity.ie/electronic-engineering/our-courses/mengsc-integrated-circuit-design"
+  },
+  {
+    "course_name": "Robotics and Embedded AI",
+    "degree_level": "Master's",
+    "faculty": "Department of Electronic Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (MHJ20); 3 years part-time (MHJ21, EU fee €5,330/yr).",
+    "source_url": "https://www.maynoothuniversity.ie/electronic-engineering/our-courses/msc-robotics-and-embedded-ai"
+  },
+  {
+    "course_name": "Data Science",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Mathematics and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, Level 8 Honours; CAO code MH207.",
+    "source_url": "https://www.maynoothuniversity.ie/mathematics-and-statistics/our-courses/bsc-bachelor-data-science"
+  },
+  {
+    "course_name": "Data Science and Analytics",
+    "degree_level": "Master's",
+    "faculty": "Department of Mathematics and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; CAO/MU Apply code MHR64.",
+    "source_url": "https://www.maynoothuniversity.ie/mathematics-and-statistics/our-courses/msc-data-science-and-analytics"
+  },
+  {
+    "course_name": "Mathematics",
+    "degree_level": "Master's",
+    "faculty": "Department of Mathematics and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (taught programme; CAO/MU Apply code MHR70) — distinct from the department's separate 2-year research MSc Mathematics (MHR06/07), which is excluded from this dataset as a research degree.",
+    "source_url": "https://www.maynoothuniversity.ie/mathematics-and-statistics/our-courses/msc-mathematics-0"
+  },
+  {
+    "course_name": "Physics with Astrophysics",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, Level 8 Honours; CAO code MH204.",
+    "source_url": "https://www.maynoothuniversity.ie/physics/our-courses/bsc-physics-astrophysics"
+  },
+  {
+    "course_name": "Theoretical Physics & Mathematics",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "3 years, accelerated Level 8 Honours; CAO code MH206; jointly delivered with the Department of Mathematics and Statistics.",
+    "source_url": "https://www.maynoothuniversity.ie/physics/our-courses/bsc-theoretical-physics-mathematics"
+  },
+  {
+    "course_name": "Mathematical Science",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; CAO/MU Apply code MHQ52.",
+    "source_url": "https://www.maynoothuniversity.ie/physics/our-courses/msc-mathematical-science"
+  },
+  {
+    "course_name": "Theoretical Physics and Mathematics",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (MHQ56); 2 years part-time (MHQ57, EU fee €5,400/yr). Jointly delivered with the Department of Mathematics and Statistics.",
+    "source_url": "https://www.maynoothuniversity.ie/physics/our-courses/msc-theoretical-physics-and-mathematics"
+  },
+  {
+    "course_name": "Psychology (BA)",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16500,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (BA); 4 years (BA International track); CAO code MH106.",
+    "source_url": "https://www.maynoothuniversity.ie/psychology/our-courses/ba-psychology"
+  },
+  {
+    "course_name": "Psychology (BSc)",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, Level 8 Honours; CAO code MH209.",
+    "source_url": "https://www.maynoothuniversity.ie/psychology/our-courses/bsc-psychology"
+  },
+  {
+    "course_name": "Psychology",
+    "degree_level": "Master's",
+    "faculty": "Department of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (taught programme; CAO/MU Apply code MHW54) — distinct from the department's separate 1–2 year research MSc Psychology (MHW04/05), which is excluded from this dataset as a research degree.",
+    "source_url": "https://www.maynoothuniversity.ie/psychology/our-courses/msc-psychology-0"
+  },
+  {
+    "course_name": "Sport Science and Health",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Sport Science and Nutrition",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, Level 8 Honours; CAO code MH221.",
+    "source_url": "https://www.maynoothuniversity.ie/sport-science-and-nutrition/our-courses/bsc-sport-science-and-health"
+  },
+  {
+    "course_name": "Food Science and Human Nutrition",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Sport Science and Nutrition",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, Level 8 Honours; CAO code MH222.",
+    "source_url": "https://www.maynoothuniversity.ie/sport-science-and-nutrition/our-courses/bsc-food-science-and-human-nutrition"
+  },
+  {
+    "course_name": "Business with Sport Science",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Sport Science and Nutrition",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, Level 8 Honours, includes a work placement or Erasmus/Study Abroad option; CAO code MH412; jointly delivered with the Business departments.",
+    "source_url": "https://www.maynoothuniversity.ie/sport-science-and-nutrition/our-courses/bsc-business-sport-science"
+  },
+  {
+    "course_name": "General Nursing",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 years, Level 8 Honours; CAO code MH701. EU/CAO intake only — not listed on the university's 2026/27 international undergraduate fee schedule, indicating no standard non-EU admission channel.",
+    "source_url": "https://www.maynoothuniversity.ie/nursing/our-courses/bachelor-science-general-nursing"
+  },
+  {
+    "course_name": "Classical Studies (MA)",
+    "degree_level": "Master's",
+    "faculty": "Department of Ancient Classics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MHF52. Classical Studies is also studied as a subject within the general Bachelor of Arts (MH101, Group 6) — the Department has no standalone undergraduate CAO code of its own (confirmed via the Department's own 'Our Courses' page, which describes undergraduate entry only via MH101).",
+    "source_url": "https://www.maynoothuniversity.ie/ancient-classics/our-courses/ma-classical-studies"
+  },
+  {
+    "course_name": "Creative Writing and English (BA)",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of English",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (4 years with Erasmus/Study Abroad); CAO code MH111. English is also studied as a subject within the general Bachelor of Arts (MH101, Group 3).",
+    "source_url": "https://www.maynoothuniversity.ie/english/our-courses/ba-creative-writing-and-english"
+  },
+  {
+    "course_name": "English: Literatures of Engagement (MA)",
+    "degree_level": "Master's",
+    "faculty": "Department of English",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MHK82. Also offered 2 years part-time (MHK83, EU fee €5,330/yr, non-EU not open on this route).",
+    "source_url": "https://www.maynoothuniversity.ie/english/our-courses/ma-english-literatures-engagement"
+  },
+  {
+    "course_name": "Creative Writing (MA)",
+    "degree_level": "Master's",
+    "faculty": "Department of English",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MHK84. Also offered 2 years part-time (MHK85, EU fee €5,330/yr, non-EU not open on this route).",
+    "source_url": "https://www.maynoothuniversity.ie/english/our-courses/ma-creative-writing"
+  },
+  {
+    "course_name": "European History (MA)",
+    "degree_level": "Master's",
+    "faculty": "Department of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MHP66. Also offered 2 years part-time (MHP67, EU fee €5,330/yr, non-EU not open on this route). History is primarily studied at undergraduate level via the common-entry Bachelor of Arts (MH101, Group 2); the Department's own 'Our Courses' page text also references a single-honours 'BA in History (MH113)' route, but MH113 does not appear in the Department's actual course table, nor on the 2026/27 EU or International undergraduate fee schedules — likely a stale/inactive CAO code reference, not recorded as its own row here.",
+    "source_url": "https://www.maynoothuniversity.ie/history/our-courses/ma-european-history"
+  },
+  {
+    "course_name": "Irish and Local History (MA)",
+    "degree_level": "Master's",
+    "faculty": "Department of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MHP74. Also offered 2 years part-time (MHP75, EU fee €5,330/yr, non-EU not open on this route).",
+    "source_url": "https://www.maynoothuniversity.ie/history/our-courses/ma-irish-and-local-history"
+  },
+  {
+    "course_name": "Strategy, Leadership & Military History (MA)",
+    "degree_level": "Master's",
+    "faculty": "Department of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MHP78. Also offered 2 years part-time (MHP79, EU fee €5,330/yr, non-EU not open on this route).",
+    "source_url": "https://www.maynoothuniversity.ie/history/our-courses/ma-strategy-leadership-military-history"
+  },
+  {
+    "course_name": "Media Studies (BA)",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Media Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16500,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (BA), or 4 years (BA International); CAO code MH109.",
+    "source_url": "https://www.maynoothuniversity.ie/media-studies/our-courses/ba-media-studies"
+  },
+  {
+    "course_name": "Critical and Creative Media (MA)",
+    "degree_level": "Master's",
+    "faculty": "Department of Media Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MHS58. Also offered 2 years part-time (MHS59, EU fee €5,330/yr, non-EU not open on this route).",
+    "source_url": "https://www.maynoothuniversity.ie/media-studies/our-courses/ma-critical-and-creative-media"
+  },
+  {
+    "course_name": "Bachelor of Music",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Music",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16500,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (BMus), or 4 years with optional Erasmus/Study Abroad (BMus International); Level 8 Honours. Restricted-application course — entry is via audition rather than standard CAO points; CAO code MH103. Music is also studied as a subject within the general Bachelor of Arts (MH101, Groups 2 and 5).",
+    "source_url": "https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/bachelor-music"
+  },
+  {
+    "course_name": "Contemporary Music Practices (MA)",
+    "degree_level": "Master's",
+    "faculty": "Department of Music",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MHT66. Also offered 2 years part-time (MHT67, EU fee €5,330/yr, non-EU not open on this route).",
+    "source_url": "https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/ma-contemporary-music-practices"
+  },
+  {
+    "course_name": "Creative Music Technologies (MA)",
+    "degree_level": "Master's",
+    "faculty": "Department of Music",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MHT50. Also offered 2 years part-time (MHT51, EU fee €5,330/yr, non-EU not open on this route).",
+    "source_url": "https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/ma-creative-music-technologies"
+  },
+  {
+    "course_name": "Music, Culture and Practice (MA)",
+    "degree_level": "Master's",
+    "faculty": "Department of Music",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MHT68. Also offered 2 years part-time (MHT69, EU fee €5,330/yr, non-EU not open on this route).",
+    "source_url": "https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/ma-music-culture-and-practice"
+  },
+  {
+    "course_name": "Sound and Music Computing (MSc)",
+    "degree_level": "Master's",
+    "faculty": "Department of Music",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7550,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; CAO/MU Apply code MHT62. Also offered 2 years part-time (MHT63, EU fee €5,330/yr, non-EU not open on this route).",
+    "source_url": "https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/msc-sound-and-music-computing"
+  },
+  {
+    "course_name": "Bachelor of Arts (Common Entry)",
+    "degree_level": "Bachelor's",
+    "faculty": "Faculty of Arts and Humanities",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2650,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16500,
+        "period": "year"
+      }
+    },
+    "duration": "3 years, Level 8 Honours (NFQ 8) (assumed — the MH101 course page itself does not state a year count, but every sibling Maynooth BA sharing its first-year subject pool, e.g. MH109/MH111/MH116, is stated as 3 years); 4 years with the optional BA International / Erasmus-Study-Abroad track. CAO code MH101; CAO points 300 (2026 entry). Common-entry degree: 32 subjects timetabled into 6 groups; choose 2, 3 or 4 subjects (max 1 per group) at registration in Year 1, with flexible second-year pathways. Group 1: Geography, German, Law, Mathematics (Pure), Philosophy. Group 2: Business (International), Business (Management), Business (Marketing), Criminology, History, Music (extra 15 credits). Group 3: English, International Development, Mathematical Studies, Mathematics (Pure), Nua-Ghaeilge (extra 15 credits). Group 4: Anthropology, Economics, Finance, Music Technology, Nua-Ghaeilge. Group 5: Computer Science, Music, Spanish. Group 6: Accounting, Chinese Studies, Classical Studies, French, Geography, Mathematical Physics, Media, Film & Cultural Studies, Medieval Celtic Studies, Politics, Psychological Studies, Statistics (each group also offers an optional 15-credit Critical Skills course). Five of this dataset's six core Arts and Humanities departments (Ancient Classics as 'Classical Studies', English, History, Music, Philosophy) are offered as MH101 subjects; Media Studies also appears here as 'Media, Film & Cultural Studies' alongside its own standalone BA (MH109). Several Social Sciences departments (Anthropology, Economics, Law, Criminology, Sociology is not separately listed but Politics/Psychological Studies/Business streams are) are also choosable within MH101, confirming the programme spans beyond the Faculty of Arts and Humanities alone.",
+    "source_url": "https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/bachelor-arts"
+  },
+  {
+    "course_name": "Applied Linguistics and Intercultural Studies",
+    "degree_level": "Master's",
+    "faculty": "School of Modern Languages, Literatures and Cultures",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7400,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MU/CAO code MH50P) or 2 years part-time; NFQ Level 9 Taught Master's (MA); a school-wide programme not tied to one specific language department, cross-listed on the Chinese/French/German/Spanish sub-unit pages as well as the School's own umbrella page; exit award available as a Postgraduate Diploma",
+    "source_url": "https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/ma-applied-linguistics-intercultural-studies"
+  },
+  {
+    "course_name": "TESOL and EMI",
+    "degree_level": "Master's",
+    "faculty": "School of Modern Languages, Literatures and Cultures",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7400,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (MU/CAO code MH56P); also offered 2 years part-time (MH57P, EU fee €5,180/yr, non-EU fee not listed on page for the part-time route); commencing 2026/27; NFQ Level 9 Taught Master's (MA); school-wide programme (School of Modern Languages umbrella, not one specific language department); exit award available as a Postgraduate Diploma in TESOL and EMI",
+    "source_url": "https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/ma-tesol-and-emi"
+  },
+  {
+    "course_name": "Chinese Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Chinese",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7400,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; MU/CAO code MH70A; NFQ Level 9 Taught Master's (MA); for students with an undergraduate background in Chinese language; exit award available as a Postgraduate Diploma after 60 credits",
+    "source_url": "https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/ma-chinese-studies"
+  },
+  {
+    "course_name": "Business Translation and Intercultural Communication (in English and Spanish)",
+    "degree_level": "Master's",
+    "faculty": "Department of Spanish & Latin American Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24000,
+        "period": "year"
+      }
+    },
+    "duration": "3 semesters (1.5 years); MU/CAO code MH30P; joint degree delivered with the University of Deusto (Bilbao, Spain) — semester 1 at Maynooth, semester 2 at Deusto, semester 3 a work placement; graduates receive a joint MA from both institutions; fee quoted on Maynooth's official schedule as an annual (\"per annum\") figure despite the programme's non-integer-year length — not independently prorated here",
+    "source_url": "https://www.maynoothuniversity.ie/spanish/our-courses"
+  },
+  {
+    "course_name": "Spanish and Latin American Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Spanish & Latin American Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5180,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years part-time (on-campus sessions on Wednesdays); MU/CAO code MHZ51; department's own page states the programme \"can be completed in one or two years\" but only a part-time MU/CAO code and fee are currently published — no separate full-time code found; NFQ Level 9 Taught Master's (MA); non-EU fee not listed on page; exit award available as a Postgraduate Diploma after 60 credits",
+    "source_url": "https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/ma-spanish-and-latin-american-studies"
+  }
+]

@@ -1,0 +1,477 @@
+[
+  {
+    "course_name": "Business Innovation and Sustainability",
+    "degree_level": "Bachelor's",
+    "faculty": "Jyväskylä University School of Business and Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 10000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "3 years, 180 ECTS; leads to Bachelor of Science in Economics and Business Administration; taught entirely in English; confirmed 3+2 continuation into the Master of Science in Economics and Business Administration",
+    "source_url": "https://www.jyu.fi/en/study-with-us/bachelors-degree-programmes/bachelors-degree-programme-in-business-innovation-and-sustainability"
+  },
+  {
+    "course_name": "Banking and International Finance",
+    "degree_level": "Master's",
+    "faculty": "Jyväskylä University School of Business and Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 12000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; leads to Master of Science (Economics and Business Administration)",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-banking-and-international-finance"
+  },
+  {
+    "course_name": "Corporate Environmental Management",
+    "degree_level": "Master's",
+    "faculty": "Jyväskylä University School of Business and Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 12000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; leads to Master of Science (Economics and Business Administration)",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-corporate-environmental-management"
+  },
+  {
+    "course_name": "Digital Marketing and Corporate Communication",
+    "degree_level": "Master's",
+    "faculty": "Jyväskylä University School of Business and Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 12000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; leads to Master of Science (Economics and Business Administration)",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-digital-marketing-and-corporate-communication"
+  },
+  {
+    "course_name": "International Business and Entrepreneurship",
+    "degree_level": "Master's",
+    "faculty": "Jyväskylä University School of Business and Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 12000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; leads to Master of Science (Economics and Business Administration)",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-international-business-and-entrepreneurship"
+  },
+  {
+    "course_name": "Responsible Management and Business of Sport",
+    "degree_level": "Master's",
+    "faculty": "Jyväskylä University School of Business and Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 10000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; jointly delivered with the Faculty of Sport and Health Sciences; leads to Master of Science (Economics and Business Administration) or Master of Sport Sciences depending on the student's academic background",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-responsible-management-and-business-of-sport"
+  },
+  {
+    "course_name": "Immersive Software Engineering and Artificial Intelligence",
+    "degree_level": "Bachelor's",
+    "faculty": "Faculty of Information Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "3 years, 180 ECTS; non-EU/EEA fee confirmed as EUR 16,000 per academic year on both the programme's own page and JYU's central 'Tuition fees per academic year, 2026 intake' schedule (which explicitly states the listed figure is per academic year, not a whole-programme total)",
+    "source_url": "https://www.jyu.fi/en/study-with-us/bachelors-degree-programmes/bachelors-degree-programme-in-immersive-software-engineering-and-artificial-intelligence"
+  },
+  {
+    "course_name": "Artificial Intelligence",
+    "degree_level": "Master's",
+    "faculty": "Faculty of Information Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 12000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; Master of Science",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-artificial-intelligence"
+  },
+  {
+    "course_name": "High-Performance Computing",
+    "degree_level": "Master's",
+    "faculty": "Faculty of Information Technology; Faculty of Mathematics and Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 12000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; Master of Science; genuinely jointly provided by both the Faculty of Information Technology and the Faculty of Mathematics and Science (confirmed on the programme's own page and listed under both faculties on JYU's central tuition-fee schedule) - students specialise in Computer Science, Chemistry, or Physics",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-high-performance-computing"
+  },
+  {
+    "course_name": "Information Systems",
+    "degree_level": "Master's",
+    "faculty": "Faculty of Information Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 12000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; degree awarded Master of Science in Economics and Business Administration despite being provided by the Faculty of Information Technology - confirmed directly on the programme's own page rather than assumed from the degree title; combines information technology with economic sciences",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-information-systems"
+  },
+  {
+    "course_name": "Aquatic Sciences",
+    "degree_level": "Master's",
+    "faculty": "Department of Biological and Environmental Science (Faculty of Mathematics and Science)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 14000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; Master of Science",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-aquatic-sciences"
+  },
+  {
+    "course_name": "Chemistry and Analytics for Circular Economy",
+    "degree_level": "Master's",
+    "faculty": "Department of Chemistry (Faculty of Mathematics and Science)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 14000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; Master of Science; abbreviated CACE on JYU's own site; linked to the faculty's Center of Expertise for Circular Economy",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-chemistry-and-analytics-for-circular-economy-cace"
+  },
+  {
+    "course_name": "Ecology and Evolutionary Biology",
+    "degree_level": "Master's",
+    "faculty": "Department of Biological and Environmental Science (Faculty of Mathematics and Science)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 14000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; Master of Science",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-ecology-and-evolutionary-biology"
+  },
+  {
+    "course_name": "Nanoscience",
+    "degree_level": "Master's",
+    "faculty": "Nanoscience Center (Faculty of Mathematics and Science)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 14000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; Master of Science; the programme's own page explicitly names the cross-disciplinary Nanoscience Center (NSC) - not one of the faculty's 4 standard departments - as the delivering unit, covering experimental and theoretical study of molecules, materials and structures at the 1-100 nanometer scale",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-nanoscience"
+  },
+  {
+    "course_name": "Physics",
+    "degree_level": "Master's",
+    "faculty": "Faculty of Mathematics and Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 14000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; Master of Science; the programme's own page states only that it is 'organised by the Faculty of Mathematics and Science' with no specific department named as sole owner, so the bare faculty name is used rather than guessing Department of Physics",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-physics"
+  },
+  {
+    "course_name": "Technology for Safety and Risk Management",
+    "degree_level": "Master's",
+    "faculty": "Faculty of Mathematics and Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 14000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; Master of Science; explicitly multidisciplinary (physics, chemistry, biology, mathematics, programming/statistics, risk management, human factors/safety culture, safety leadership/crisis communication) with no single named department claiming ownership on the programme's own page, so the bare faculty name is used",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-technology-for-safety-and-risk-management"
+  },
+  {
+    "course_name": "Radiation and its Effects on MicroElectronics and Photonics Technologies",
+    "degree_level": "Master's",
+    "faculty": "Faculty of Mathematics and Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; an Erasmus Mundus Joint Master's Degree (RADMEP/RADMEP+) delivered with University Jean Monnet Saint-Etienne (coordinator), KU Leuven, and University of Montpellier - students spend semester 1 at JYU, semester 2 at KU Leuven, a 2-month summer internship, then semester 3 at either Montpellier (microelectronics) or Jean Monnet (photonics) before a 6-month thesis; JYU's own programme page publishes no fee figure at all and routes applicants to the external consortium site (master-radmep.org) for full details - per this project's sourcing rule, both fee sides are left null rather than using the off-domain consortium figure (third-party/aggregator sources report a programme-country vs partner-country tiered fee structure where even EU/programme-country students pay a fee, which would make this a genuine 'everyone pays' exception like other Erasmus Mundus programmes elsewhere in this project, but this could not be confirmed on jyu.fi itself so amount is null rather than 0 or a guessed figure); a JYU news article states the JYU Department of Physics (via its Accelerator Laboratory, JYFL-ACCLAB) is 'strongly linked' to the programme's research, but no page states the Department of Physics as the programme's formal owning unit, so the bare faculty name is used rather than that inference",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-radiation-and-its-effects-on-microelectronics-and-photonics-technologies"
+  },
+  {
+    "course_name": "Early Childhood Education",
+    "degree_level": "Bachelor's",
+    "faculty": "Faculty of Education and Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 10000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "3 years, 180 ECTS; degree awarded Bachelor of Arts in Education; taught entirely in English, with Finnish-language study (up to 25 ECTS) integrated throughout to support students' language development; own page names no unit more specific than the bare Faculty",
+    "source_url": "https://www.jyu.fi/en/study-with-us/bachelors-degree-programmes/bachelors-degree-in-early-childhood-education"
+  },
+  {
+    "course_name": "Educational Sciences",
+    "degree_level": "Master's",
+    "faculty": "Faculty of Education and Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 12000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; also known by its own abbreviation EDUMA; degree awarded Master of Arts (Education), which does not itself confer a Finnish teacher qualification; specialisation areas offered: Early Childhood Education, Educational Leadership, Global and Sustainable Education, Language and Education, Special Education, and Study and Career Guidance; own page names no unit more specific than the bare Faculty",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-educational-sciences"
+  },
+  {
+    "course_name": "Development, Education and International Cooperation",
+    "degree_level": "Master's",
+    "faculty": "Faculty of Education and Psychology; Faculty of Humanities and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 10000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; also known by its own abbreviation DEICO; own page explicitly states the programme 'is provided by the Faculty of Education and Psychology and the Faculty of Humanities and Social Sciences' - recorded with a joint faculty string per this project's convention for genuinely jointly-delivered programmes with no single lead faculty stated; graduates awarded Master of Arts (Education) or Master of Social Sciences depending on specialisation; the Master of Arts (Education) award does not provide a teacher-profession qualification",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-development-education-and-international-cooperation-deico"
+  },
+  {
+    "course_name": "Game Studies",
+    "degree_level": "Master's",
+    "faculty": "Faculty of Humanities and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 10000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; degree awarded Master of Arts; annual admission is approximately 25 students; blends humanities education with digital game development, team projects and industry networking (partnering with the Jyvaskyla Digi & Game Center). Neither the general programme page nor its dedicated Studyinfo application page names an owning department more specific than the bare Faculty - third-party/course-listing evidence (Department of Music, Art and Culture Studies teaches several of its game-studies courses) was found but is not an explicit ownership statement on the programme's own page, so recorded at the Faculty level per this project's confirmed-unit rule rather than guessed",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-game-studies"
+  },
+  {
+    "course_name": "Language, Globalization and Intercultural Communication",
+    "degree_level": "Master's",
+    "faculty": "Department of Language and Communication Studies (Faculty of Humanities and Social Sciences)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 10000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; also known by its own abbreviation LAGIC; degree awarded Master of Arts; own page explicitly states 'The LAGIC programme is located at the Department of Language and Communication Studies which is a large, multilingual and actively international unit'",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-language-globalization-and-intercultural-communication"
+  },
+  {
+    "course_name": "Music and Science",
+    "degree_level": "Master's",
+    "faculty": "Department of Music, Art, and Culture Studies (Faculty of Humanities and Social Sciences)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 10000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; own page explicitly states the programme is 'Organised by the Department of Music, Art, and Culture Studies'; closely affiliated with the Centre of Excellence in Music, Mind, Body, and Brain; also suited to students with prior practical training as music therapists who want to build research-methods competence",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-music-and-science"
+  },
+  {
+    "course_name": "Biology of Physical Activity",
+    "degree_level": "Master's",
+    "faculty": "Faculty of Sport and Health Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 12000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; also known by its own abbreviation BPA; degree awarded Master of Sports Sciences; three specialisation options offered - Exercise Physiology, Science of Sport Coaching and Fitness Testing, and Biomechanics; own page names no unit more specific than the bare Faculty",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-biology-of-physical-activity"
+  },
+  {
+    "course_name": "Psychology of Physical Activity, Health and Well-being",
+    "degree_level": "Master's",
+    "faculty": "Faculty of Sport and Health Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 10000,
+        "currency": "EUR",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS; degree awarded Master of Sports Sciences; covers Sport and Exercise Psychology across three domains - Sport Psychology, Exercise Psychology, and research on psychological wellbeing in relation to physical activity; own page names no unit more specific than the bare Faculty",
+    "source_url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/masters-degree-programme-in-psychology-of-physical-activity-health-and-well-being"
+  }
+]

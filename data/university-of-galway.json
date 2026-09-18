@@ -1,0 +1,3322 @@
+[
+  {
+    "course_name": "Bachelor of Commerce",
+    "degree_level": "Bachelor's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "3 years, with an optional 4th year; 180-240 ECTS (assumed, Bologna default)",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce.html"
+  },
+  {
+    "course_name": "Bachelor of Commerce (Accounting)",
+    "degree_level": "Bachelor's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "3 years, with an optional 4-year Global Experience Year pathway; 180-240 ECTS (assumed, Bologna default)",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-accounting.html"
+  },
+  {
+    "course_name": "Bachelor of Commerce (International with French)",
+    "degree_level": "Bachelor's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-with-french.html"
+  },
+  {
+    "course_name": "Bachelor of Commerce (International with German)",
+    "degree_level": "Bachelor's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-with-german.html"
+  },
+  {
+    "course_name": "Bachelor of Commerce (International with Spanish)",
+    "degree_level": "Bachelor's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-with-spanish.html"
+  },
+  {
+    "course_name": "Bachelor of Commerce (Gaeilge)",
+    "degree_level": "Bachelor's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-with-gaeilge.html"
+  },
+  {
+    "course_name": "Bachelor of Commerce (Global Experience)",
+    "degree_level": "Bachelor's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS (assumed, Bologna default)",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-global-experience.html"
+  },
+  {
+    "course_name": "Bachelor of Science (Business Information Systems)",
+    "degree_level": "Bachelor's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS (assumed, Bologna default)",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/business-information-systems-science.html"
+  },
+  {
+    "course_name": "Law (BCL)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6733,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS (assumed, Bologna default)",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/law.html"
+  },
+  {
+    "course_name": "Law (BCL) and Business",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6733,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/law-business.html"
+  },
+  {
+    "course_name": "Law (BCL) and Human Rights",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6733,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS (assumed, Bologna default)",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/law-human-rights.html"
+  },
+  {
+    "course_name": "Law (BCL), Criminology and Criminal Justice",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6733,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS (assumed, Bologna default)",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/criminology-and-criminal-justice.html"
+  },
+  {
+    "course_name": "Bachelor of Business Studies (International Hotel Management)",
+    "degree_level": "Bachelor's",
+    "faculty": "Shannon College of Hotel Management",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years 9 months, includes a paid industry placement; 240 ECTS (assumed, Bologna default)",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/business-studies-hotel-management.html"
+  },
+  {
+    "course_name": "Bachelor of Commerce in International Hotel Management",
+    "degree_level": "Bachelor's",
+    "faculty": "Shannon College of Hotel Management",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years 9 months, includes a paid industry placement; 240 ECTS (assumed, Bologna default)",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-international-hotel-management.html"
+  },
+  {
+    "course_name": "Bachelor of Business Studies in Global Luxury & Experience Management",
+    "degree_level": "Bachelor's",
+    "faculty": "Shannon College of Hotel Management",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16140,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS (assumed, Bologna default)",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/global-luxury-experience-management.html"
+  },
+  {
+    "course_name": "Bachelor of Laws (LLB)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8290,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18940,
+        "period": "year"
+      }
+    },
+    "duration": "2-3 years full-time or 4 years part-time; graduate-entry primary law degree (NFQ Level 8) requiring a prior Level 8 honours degree; 120-180 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/llb/"
+  },
+  {
+    "course_name": "Business Analytics (MSc)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/business-analytics.html"
+  },
+  {
+    "course_name": "Business and Hospitality (MSc)",
+    "degree_level": "Master's",
+    "faculty": "Shannon College of Hotel Management",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19440,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/hospitalitymanagement.html/"
+  },
+  {
+    "course_name": "Corporate Finance (MSc)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/corporate-finance.html"
+  },
+  {
+    "course_name": "Criminology, Criminal Justice and Human Rights (LLM)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20540,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time; 90 ECTS; jointly delivered with the Irish Centre for Human Rights",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/criminology-criminal-justice-human-rights.html"
+  },
+  {
+    "course_name": "Cybersecurity Risk Management (MSc)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/cybersecurity-risk-management.html"
+  },
+  {
+    "course_name": "Digital Marketing (MSc)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20890,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/digitalmarketingmsc/"
+  },
+  {
+    "course_name": "Fintech [Economics and Financial Technology] (MSc)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20890,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/fintech.html"
+  },
+  {
+    "course_name": "Gender and Human Rights Law and Policy (LLM)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20540,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/llm-gender-humanrights.html"
+  },
+  {
+    "course_name": "Law (General) (LLM)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20540,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/llm-general.html"
+  },
+  {
+    "course_name": "Global Environmental Economics (MSc)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20540,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/global-environmental-economics.html"
+  },
+  {
+    "course_name": "Health Economics (MSc)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20540,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/health-economics.html"
+  },
+  {
+    "course_name": "Hospitality Performance Revenue & Asset Management (MSc)",
+    "degree_level": "Master's",
+    "faculty": "Shannon College of Hotel Management",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19440,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/hospitality-performance.html"
+  },
+  {
+    "course_name": "Human Resource Management (MSc)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/human-resource-management.html"
+  },
+  {
+    "course_name": "Information Systems Management (MSc)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/information-systems-management.html"
+  },
+  {
+    "course_name": "International Accounting and Analytics - Pathway A (MSc)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20890,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, September intake; for general business graduates specialising in Accounting & Analytics; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/internationalaccountingandanalyticspathwayamsc/"
+  },
+  {
+    "course_name": "International Accounting and Analytics - Pathway B (MSc)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 13840,
+        "period": "year"
+      }
+    },
+    "duration": "7 months full-time or 14 months part-time, January intake; for early-mid career accountants with RPL exemptions; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/internationalaccountingandanalyticspathwaybmsc/"
+  },
+  {
+    "course_name": "International and Comparative Business Law (LLM)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20540,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/llm-international-comparative-business.html"
+  },
+  {
+    "course_name": "International and Comparative Disability Law and Policy (LLM)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20540,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/law-intl-comparative-disability-policy.html"
+  },
+  {
+    "course_name": "International Criminal Law (LLM)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20540,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/law-international-criminal.html"
+  },
+  {
+    "course_name": "International Finance (MEconSc)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20890,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/international-finance.html"
+  },
+  {
+    "course_name": "International Human Rights (LLM)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20540,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/law-international-human-rights.html"
+  },
+  {
+    "course_name": "International Management (MSc)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; 90 ECTS; includes a mandatory International Seminar Week in Europe",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/international-management.html"
+  },
+  {
+    "course_name": "International Migration and Refugee Law and Policy (LLM)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20540,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/law-international-migration-refugee-law.html"
+  },
+  {
+    "course_name": "Law and Digital Innovation (LLM)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20540,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/LLM-Law-and-Digital-Innovation"
+  },
+  {
+    "course_name": "Management and Sustainability (MSc)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20890,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/management-and-sustainability.html"
+  },
+  {
+    "course_name": "Marketing Management (MSc)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20890,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/marketing-management.html"
+  },
+  {
+    "course_name": "Accounting (Master of)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20540,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; 90 ECTS; for recent accounting graduates with full/near-full CAP 1 exemptions",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/accounting.html"
+  },
+  {
+    "course_name": "Marketing Practice (MSc)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, full-time; 90 ECTS; own page states non-EU candidates cannot be accepted due to Irish work-visa regulations specific to this programme",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/marketing-practice.html"
+  },
+  {
+    "course_name": "Peace Operations, Humanitarian Law and Conflict (LLM)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20540,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/law-international-peace-support-operations.html"
+  },
+  {
+    "course_name": "Revenue & Hospitality Performance (MSc)",
+    "degree_level": "Master's",
+    "faculty": "Shannon College of Hotel Management",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, full-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/revenue-hospitality-performance.html"
+  },
+  {
+    "course_name": "Transitional Justice, Human Rights and Conflict (LLM)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20540,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time; 90 ECTS; delivered by the Irish Centre for Human Rights",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/llm-transitional-justice-human-rightsconflict.html"
+  },
+  {
+    "course_name": "Master of Business Administration (MBA)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16405,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18405,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time; 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/executive-master-business-management.html"
+  },
+  {
+    "course_name": "Commerce/Business (MComm)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5890,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 14640,
+        "period": "year"
+      }
+    },
+    "duration": "not listed on page (research master's; full-time and part-time options available)",
+    "source_url": "https://www.universityofgalway.ie/courses/research-postgraduate-programmes/structured-phd/commerce-business.html"
+  },
+  {
+    "course_name": "Business Information Systems (MSc by Research)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5890,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 14640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time; research master's, ECTS not stated on page",
+    "source_url": "https://www.universityofgalway.ie/business-public-policy-law/cairnes/courses/research/business-information-systems.html"
+  },
+  {
+    "course_name": "Marketing (MSc by Research)",
+    "degree_level": "Master's",
+    "faculty": "J.E. Cairnes School of Business & Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5890,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 14640,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time; thesis due within 9 semesters of registration; research master's, ECTS not stated on page",
+    "source_url": "https://www.universityofgalway.ie/business-public-policy-law/cairnes/courses/research/msc-(marketing)-by-research/marketing.html"
+  },
+  {
+    "course_name": "Medicine (MB, BCh, BAO)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 55000,
+        "period": "year"
+      }
+    },
+    "duration": "5-year direct-entry stream, or 6-year stream (1 Foundation year + 5 years) for non-direct-entry applicants, GY501; integrated Bachelor of Medicine/Bachelor of Surgery/Bachelor of Obstetrics; Medical Council of Ireland accredited",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/surgery-obstetrics.html"
+  },
+  {
+    "course_name": "Occupational Therapy",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Allied and Community Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8208,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28340,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS, GY502",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/occupational-therapy.html"
+  },
+  {
+    "course_name": "Speech and Language Therapy",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Allied and Community Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8208,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28340,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS, GY503",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/speech-and-language-therapy.html"
+  },
+  {
+    "course_name": "Podiatric Medicine",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Allied and Community Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8208,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28340,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS, GY504",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/podiatry.html"
+  },
+  {
+    "course_name": "Pharmacy (MPharm)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Pharmacy and Medical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "5 years total (4-year BSc Pharmacy + 1-year MPharm professional year), GY505; own page states no places currently available to non-EU students",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/pharmacy.html"
+  },
+  {
+    "course_name": "Nursing Science (General)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing, Midwifery and Evidence Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7246,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28140,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS, GY515; delivered across University of Galway and Portiuncula University Hospital",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/nursing-science-general.html"
+  },
+  {
+    "course_name": "Nursing Science (Mental Health)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing, Midwifery and Evidence Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7246,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28140,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS, GY516",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/mental-health-nursing.html"
+  },
+  {
+    "course_name": "Midwifery Science",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing, Midwifery and Evidence Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7246,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28140,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS, GY517",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/midwifery-science.html"
+  },
+  {
+    "course_name": "Advanced Practice Midwifery",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing, Midwifery and Evidence Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 14440,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 6140,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, 110 ECTS; leads to eligibility to register as Registered Advanced Midwife Practitioner (RAMP) with NMBI",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/advanced-practice-midwifery.html"
+  },
+  {
+    "course_name": "Advanced Practice Nursing",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing, Midwifery and Evidence Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 14940,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 6140,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, 110 ECTS; leads to eligibility to register as Registered Advanced Nurse Practitioner (RANP) with NMBI",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/advanced-practice-nursing.html"
+  },
+  {
+    "course_name": "Nursing: Acute Medicine",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing, Midwifery and Evidence Science",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 26340,
+        "year_2": 21620
+      },
+      "non_eu_students": {
+        "year_1": 8040,
+        "year_2": 3620
+      }
+    },
+    "duration": "2 years full-time (Year 1: Postgraduate Diploma exit option, 60 ECTS; Year 2: MHSc, 90 ECTS total)",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/nursing-acute-medicine.html"
+  },
+  {
+    "course_name": "Cancer Care",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing, Midwifery and Evidence Science",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 26340,
+        "year_2": 21620
+      },
+      "non_eu_students": {
+        "year_1": 8040,
+        "year_2": 3620
+      }
+    },
+    "duration": "2 years full-time (Year 1: Postgraduate Diploma exit option, 60 ECTS; Year 2: MHSc, 90 ECTS total)",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/cancer-care.html"
+  },
+  {
+    "course_name": "Nursing: Emergency Care",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing, Midwifery and Evidence Science",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 26340,
+        "year_2": 21620
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years full-time (Year 1: Postgraduate Diploma exit option, 60 ECTS; Year 2: MHSc, 90 ECTS total); own page states it does not accept students from outside the EU",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/nursing-emergency-care.html"
+  },
+  {
+    "course_name": "Nursing: Gerontology",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing, Midwifery and Evidence Science",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 26340,
+        "year_2": 21620
+      },
+      "non_eu_students": {
+        "year_1": 8040,
+        "year_2": 3620
+      }
+    },
+    "duration": "2 years full-time (Year 1: Postgraduate Diploma exit option, 60 ECTS; Year 2: MHSc, 90 ECTS total)",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/nursing-gerontology.html"
+  },
+  {
+    "course_name": "Nursing: Intensive Care",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing, Midwifery and Evidence Science",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 26340,
+        "year_2": 21620
+      },
+      "non_eu_students": {
+        "year_1": 8040,
+        "year_2": 3620
+      }
+    },
+    "duration": "2 years full-time (Year 1: Postgraduate Diploma exit option, 60 ECTS; Year 2: MHSc, 90 ECTS total)",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/nursing-intensive-care.html"
+  },
+  {
+    "course_name": "Perioperative",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing, Midwifery and Evidence Science",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 26340,
+        "year_2": 21620
+      },
+      "non_eu_students": {
+        "year_1": 8040,
+        "year_2": 3620
+      }
+    },
+    "duration": "2 years full-time (Year 1: Postgraduate Diploma exit option, 60 ECTS; Year 2: MHSc with 30-ECTS research dissertation, 90 ECTS total)",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/nursing-perioperative.html"
+  },
+  {
+    "course_name": "Evidence-Based Future Healthcare",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing, Midwifery and Evidence Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 28640,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28920,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time; fully online; Stage 2 Category Approval from NMBI",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/evidence-based-future-healthcare.html"
+  },
+  {
+    "course_name": "Nursing Education",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing, Midwifery and Evidence Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7755,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18405,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, 90 ECTS (MHSc; separate 1-year Postgraduate Diploma exit-only variant also offered)",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/nursing-midwifery-education.html"
+  },
+  {
+    "course_name": "Clinical Education",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 16690,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16830,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 60 ECTS (MHSc); delivered wholly online; Postgraduate Diploma exit option also available (1 year FT or 2 years PT)",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/clinical-education.html"
+  },
+  {
+    "course_name": "Clinical Research",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9540,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20040,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time, 90 ECTS; blended learning",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/clinical-research.html"
+  },
+  {
+    "course_name": "Healthcare Simulation and Patient Safety",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5990,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 9890,
+        "period": "year"
+      }
+    },
+    "duration": "24 months full-time, 120 ECTS (MSc); 12-month Postgraduate Diploma in Science exit option (60 ECTS); online/distance with two on-campus workshops",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/medical-healthcare-patient-safety.html"
+  },
+  {
+    "course_name": "Interventional Cardiovascular Medicine",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11340,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 90 ECTS; delivered fully online",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/interventional-cardiovascular-medicine.html"
+  },
+  {
+    "course_name": "Multidisciplinary Radiology",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 18940,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18940,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time, 90 ECTS (MSc); Postgraduate Diploma exit option also available (60 ECTS)",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/multidisciplinary-radiology.html"
+  },
+  {
+    "course_name": "Surgery (MCh)",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17440,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time, 90 ECTS; delivered online; for medical graduates and practising surgeons",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/masters-surgery.html"
+  },
+  {
+    "course_name": "Cellular Manufacturing & Therapy",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9390,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/cellular-Manufacturing-therapy.html"
+  },
+  {
+    "course_name": "Regenerative Medicine",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9390,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/regenerative-medicine.html"
+  },
+  {
+    "course_name": "Applied Clinical Data Analytics",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 33290,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24140,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time, 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/applied-clinical-data-analytics.html"
+  },
+  {
+    "course_name": "Health Promotion",
+    "degree_level": "Master's",
+    "faculty": "School of Allied and Community Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7540,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15940,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 90 ECTS (MA); Postgraduate Diploma exit option also available; includes 12-day supervised work placement",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/health-promotion.html"
+  },
+  {
+    "course_name": "Podiatric Medicine (Pre-Registration)",
+    "degree_level": "Master's",
+    "faculty": "School of Allied and Community Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 37590,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 37730,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time, 180 ECTS (90/year); graduate-entry route into podiatric medicine for holders of a cognate primary degree, distinct from the undergraduate GY504 route; CORU-accredited",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/podiatric-medicine.html"
+  },
+  {
+    "course_name": "Applied Multilingualism",
+    "degree_level": "Master's",
+    "faculty": "School of Allied and Community Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 26340,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 26480,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time, 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/applied-multilingualism.html"
+  },
+  {
+    "course_name": "Neuropharmacology",
+    "degree_level": "Master's",
+    "faculty": "School of Pharmacy and Medical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/neuropharmacology.html"
+  },
+  {
+    "course_name": "Toxicology",
+    "degree_level": "Master's",
+    "faculty": "School of Pharmacy and Medical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/toxicology.html"
+  },
+  {
+    "course_name": "Exercise Physiology and Its Application in Therapy",
+    "degree_level": "Master's",
+    "faculty": "School of Pharmacy and Medical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9540,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18940,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time, 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/exercise-physiology.html"
+  },
+  {
+    "course_name": "Exercise Physiology and Rehabilitation",
+    "degree_level": "Master's",
+    "faculty": "School of Pharmacy and Medical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9540,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18940,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 90 ECTS; approved education provider of REPS Ireland; genuinely separate programme from Exercise Physiology and Its Application in Therapy",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/exercise-physiology-rehabilitation.html"
+  },
+  {
+    "course_name": "Bachelor of Science",
+    "degree_level": "Bachelor's",
+    "faculty": "College of Science and Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS. Common-entry route into 16 subject areas (Chemistry, Physics, Biology, Mathematics, Computing, Earth Sciences, etc.) spanning several Schools of the College; students choose their specialisation from Year 2 onward, so no single owning School is named on the programme's own page. CAO code GY301.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/science-undenominated.html"
+  },
+  {
+    "course_name": "Bachelor of Science (Biomedical Science)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Biological and Chemical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS. CAO code GY303. Owning School not explicitly named on the programme's own page (only \"College of Science and Engineering\" stated); attributed here to School of Biological and Chemical Sciences by analogy with the postgraduate MSc Biomedical Science, which is explicitly confirmed as that School's programme — treat as an inference, not a confirmed fact.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/biomedical-science.html"
+  },
+  {
+    "course_name": "Bachelor of Science (Biotechnology)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Biological and Chemical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS. CAO code GY304.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/biotechnology.html"
+  },
+  {
+    "course_name": "Bachelor of Science (Environmental Science)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS. CAO code GY308.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/environmental-science.html"
+  },
+  {
+    "course_name": "Bachelor of Science (Financial Mathematics and Economics)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Mathematical and Statistical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS. CAO code GY309.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/financial-mathematics-and-economics.html"
+  },
+  {
+    "course_name": "Bachelor of Science (Marine Science)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS (assumed Bologna default; page did not restate ECTS total). CAO code GY310.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/marine-science.html"
+  },
+  {
+    "course_name": "Bachelor of Science (Occupational Health and Safety Management)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS. CAO code GY313. Owning School confirmed via programme contact (Dr Marie Coggins, Senior Lecturer in Exposure Science, Physics, School of Natural Sciences).",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/environmental-health-and-safety.html"
+  },
+  {
+    "course_name": "Bachelor of Science (Earth and Ocean Sciences)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS. CAO code GY314.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/earth-and-ocean-sciences.html"
+  },
+  {
+    "course_name": "Bachelor of Science (Biopharmaceutical Chemistry)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Biological and Chemical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS. CAO code GY318. Owning School not explicitly named on the programme's own page (only \"College of Science and Engineering\" stated); attributed to School of Biological and Chemical Sciences based on subject matter (Chemistry) and Programme Director's field.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/biopharmaceutical-chemistry.html"
+  },
+  {
+    "course_name": "Bachelor of Science (Mathematical Science)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Mathematical and Statistical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS. CAO code GY319.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/mathematical-science.html"
+  },
+  {
+    "course_name": "Bachelor of Science (Physics)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS. CAO code GY320.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/physics-with-options.html"
+  },
+  {
+    "course_name": "Bachelor of Science (Genetics and Genomics)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Biological and Chemical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS. CAO code GY321.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/genetics-and-genomics.html"
+  },
+  {
+    "course_name": "Bachelor of Science (Agricultural Science)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Biological and Chemical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS. CAO code GY322.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/agricultural-science.html"
+  },
+  {
+    "course_name": "Bachelor of Science (Zoology)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS. CAO code GY323.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/Zoology.html"
+  },
+  {
+    "course_name": "Bachelor of Science (Computer Science and Information Technology)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Computer Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS, including an 8-month industrial placement (Jan-Aug) after Year 3. CAO code GY350.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/computer-science-and-information-technology.html"
+  },
+  {
+    "course_name": "Bachelor and Master of Engineering (Undenominated)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "1-year common-entry Year 1 (Level 8/9) shared by all School of Engineering streams; after Year 1 exams students transfer into Year 2 of a named 5-year integrated Bachelor and Master of Engineering programme (Biomedical, Civil, Electrical & Electronic, Electronic & Computer, Energy Systems, or Mechanical) or a related BSc. CAO code GY401.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/engineering-undenominated.html"
+  },
+  {
+    "course_name": "Bachelor and Master of Engineering (Civil)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "5 years integrated (4-year Bachelor of Engineering, Level 8, + 1-year Master of Engineering, Level 9); a 4-year BE-only exit option is also available. CAO code GY402.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/civil-engineering.html"
+  },
+  {
+    "course_name": "Bachelor and Master of Engineering (Mechanical)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "5 years integrated (4-year Bachelor of Engineering, Level 8, + 1-year Master of Engineering, Level 9), 300 ECTS total (240 ECTS for the BE). CAO code GY405.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/mechanical-engineering.html"
+  },
+  {
+    "course_name": "Bachelor and Master of Engineering (Electronic & Computer)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years BEng (Level 8) or 5 years integrated Bachelor and Master of Engineering (Level 8/9). CAO code GY406.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/electronic-and-computers.html"
+  },
+  {
+    "course_name": "Bachelor and Master of Engineering (Biomedical)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "5 years integrated (4-year Bachelor of Engineering, Level 8, + 1-year Master of Engineering, Level 9), including an 8-month paid work placement in Year 4. CAO code GY408.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/biomedicalengineering.html"
+  },
+  {
+    "course_name": "Bachelor of Science (Project and Construction Management)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS, including a paid industry work placement in Year 3. CAO code GY410.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/project-and-construction-management.html"
+  },
+  {
+    "course_name": "Bachelor and Master of Engineering (Energy Systems)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "5 years integrated (4-year Bachelor of Engineering, Level 8, + 1-year Master of Engineering, Level 9). CAO code GY413.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/energy-systems-engineering.html"
+  },
+  {
+    "course_name": "Bachelor and Master of Engineering (Electrical & Electronic)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years BEng (Level 8) or 5 years integrated Bachelor and Master of Engineering (Level 8/9). CAO code GY414.",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/electrical-and-electronic-engineering.html"
+  },
+  {
+    "course_name": "Computer Science - Artificial Intelligence (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Computer Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/computer-science-artificial-intelligence.html"
+  },
+  {
+    "course_name": "Computer Science - Artificial Intelligence (Online) (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Computer Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4770,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4770,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, fully online, 90 ECTS, Level 9. Fee schedule shows an identical flat per-year rate for EU and non-EU students on this online-delivery variant.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/online-artificial-intelligence.html"
+  },
+  {
+    "course_name": "Computer Science - Data Analytics (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Computer Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/msc-in-computer-science-data-analytics.html"
+  },
+  {
+    "course_name": "Computer Science - Adaptive Cybersecurity (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Computer Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/computer-science-adaptive-cybersecurity.html"
+  },
+  {
+    "course_name": "Software Design & Development (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Computer Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6740,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18440,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time, 120 ECTS (60 ECTS/yr), Level 9, for candidates with little/no software development experience. Same page also offers a 1-year 60-ECTS Higher Diploma exit award (identical fees) and a separate 1-year 60-ECTS \"MSc External\" capstone stream for applicants who already hold a postgraduate computing qualification (EU €7,390/yr, non-EU €18,140/yr) — recorded here as the primary MSc, not duplicated.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/software-design-development.html"
+  },
+  {
+    "course_name": "Biomedical Engineering (ME)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6740,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 60 ECTS, Level 9 (typically the +1 year of an accredited 4+1 BE/ME pathway).",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/biomedical-engineering-me.html"
+  },
+  {
+    "course_name": "Biomedical Engineering (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9. Two streams: General and Medical Electronics.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/biomedical-engineering-msc.html"
+  },
+  {
+    "course_name": "Civil Engineering (ME)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6740,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 60 ECTS, Level 9 (typically the +1 year of an accredited 4+1 BE/ME pathway).",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/civil-engineering.html"
+  },
+  {
+    "course_name": "Civil Engineering (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9, with specialisation options in sustainable environmental systems, digital construction, and geotechnical engineering.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/civilengineeringmsc/"
+  },
+  {
+    "course_name": "Construction Innovation (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time (blended learning), 90 ECTS, Level 9. Part-time EU fee €4,640/yr; non-EU part-time fee not separately confirmed.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/Construction-Innovation.html"
+  },
+  {
+    "course_name": "Electronic and Computer Engineering (ME)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6740,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "9 months, full-time, 60 ECTS, Level 9 (typically the +1 year of an accredited 4+1 BE/ME pathway).",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/%20electronic-computer-engineering.html"
+  },
+  {
+    "course_name": "Electrical and Electronic Engineering (ME)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6740,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "9 months, full-time, 60 ECTS, Level 9 (typically the +1 year of an accredited 4+1 BE/ME pathway).",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/electrical-electronic-engineering.html"
+  },
+  {
+    "course_name": "Energy Systems Engineering (ME)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6740,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 60 ECTS, Level 9 (standalone or as the +1 year of an accredited 4+1 BE/ME pathway).",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/energy-systems-engineering.html"
+  },
+  {
+    "course_name": "Energy Systems Engineering (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/energysystemsengineeringmsc.html"
+  },
+  {
+    "course_name": "Engineering Management (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9. Programme's own page states it \"will not run in 2026\" — first intake is September 2027; its fees table exists but has no populated figures.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/engineeringmanagementmsc/"
+  },
+  {
+    "course_name": "Intelligent Robotics (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/intelligent-robotics.html"
+  },
+  {
+    "course_name": "Mechanical Engineering (ME)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6740,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 60 ECTS, Level 9 (typically the +1 year of an accredited 4+1 BE/ME pathway).",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/mechanical-engineering.html"
+  },
+  {
+    "course_name": "Mechanical Engineering (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/mechanical-engineering-msc.html"
+  },
+  {
+    "course_name": "Medical Electronics and Digital Health (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/medical-electronics-digital-health.html"
+  },
+  {
+    "course_name": "Wind Energy Engineering (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/wind-energy-engineering-msc.html"
+  },
+  {
+    "course_name": "AgInnovation: Agricultural Innovation & Entrepreneurship (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8060,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, part-time (blended: Thursday evenings online + monthly Saturday on-campus), 90 ECTS, Level 9.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/aginnovation.html"
+  },
+  {
+    "course_name": "TechInnovation (Distance Education) (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, part-time (blended: Thursday evenings online + monthly Saturday on-campus), 90 ECTS, Level 9. Owning School confirmed only indirectly, via Programme Director Prof John G Breslin's stated affiliation (\"Personal Professor in Electronic Engineering, School of Engineering\") on the page's contact section — not listed on School of Engineering's or School of Computer Science's own official taught-programme lists.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/msc-techinnovation.html"
+  },
+  {
+    "course_name": "Climate Change, Agriculture & Food Security (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Biological and Chemical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9.",
+    "source_url": "https://www.universityofgalway.ie/science-engineering/postgraduateprogrammes/taught-postgraduate-courses/ccafs/"
+  },
+  {
+    "course_name": "AgriFood Sustainability and Technology (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Biological and Chemical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/agrifood-sustainability-and-technology.html"
+  },
+  {
+    "course_name": "Biomedical Science (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Biological and Chemical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (or 2 years with an optional industry placement), 90 ECTS, Level 9.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/biomedical-science.html"
+  },
+  {
+    "course_name": "Biotechnology (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Biological and Chemical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9, with an optional industry placement of up to 12 months.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/biotechnology.html"
+  },
+  {
+    "course_name": "Medical Technology Regulatory Affairs (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Biological and Chemical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time, online (distance-learning with optional face-to-face workshops), 90 ECTS, Level 9. Fees table present on the page but not populated with figures; PGCert/PGDip exit awards available after 6/12 modules.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/medical-technology-regulatory-affairs.html"
+  },
+  {
+    "course_name": "Health Data Science (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Mathematical and Statistical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9290,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/health-data-science.html"
+  },
+  {
+    "course_name": "Biomedical Genomics (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Mathematical and Statistical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/biomedical-genomics.html"
+  },
+  {
+    "course_name": "Genomics Data Science (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Mathematical and Statistical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9.",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/genomics-data-science.html"
+  },
+  {
+    "course_name": "Biodiversity & Land-Use Planning (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 9040,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time (blended learning for working professionals), 90 ECTS (PGDip 60, PGCert 30), Level 9. Fee schedule shows an identical rate for EU and non-EU students on this programme.",
+    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/biodiversity-land-use-planning.html"
+  },
+  {
+    "course_name": "Environmental Leadership (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9.",
+    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/environmental-leadership.html"
+  },
+  {
+    "course_name": "Marine and Freshwater Resources: Management (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9.",
+    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/msc-marine-freshwater.html"
+  },
+  {
+    "course_name": "Medical Physics (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 34640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9, CAMPEP-accredited, includes clinical experience at University Hospital Galway.",
+    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/medical-physics.html"
+  },
+  {
+    "course_name": "Occupational and Environmental Health & Safety (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time (EU part-time rate approx. €4,605/yr, flat for EU and non-EU), 90 ECTS, Level 9; a 60-ECTS Higher Diploma (Level 8) exit award is also offered on the same page.",
+    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/occupational-environmental-health-safety.html"
+  },
+  {
+    "course_name": "Occupational Health & Safety Top-Up (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, full-time, 30 ECTS (research thesis only), Level 9. Restricted intake — open only to University of Galway graduates of the Higher Diploma in Occupational Health and Safety or Higher Diploma in Occupational Health, Safety and Hygiene; fees table on the page has no populated figures.",
+    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/occupational-health-safety.html"
+  },
+  {
+    "course_name": "Sustainable Environments (MSc)",
+    "degree_level": "Master's",
+    "faculty": "School of Natural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 28640,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, 90 ECTS, Level 9.",
+    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/sustainable-environments.html"
+  },
+  {
+    "course_name": "Psychology",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19890,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS (NFQ Level 8); CAO GY104",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/science-psychology.html"
+  },
+  {
+    "course_name": "Arts Education (Computer Science and Mathematical Studies)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6216,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20890,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS; CAO GY133; jointly taught with School of Mathematical and Statistical Sciences and School of Computer Science, administratively led by School of Education",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/education-computer-science-mathematical.html"
+  },
+  {
+    "course_name": "Mathematics and Education",
+    "degree_level": "Bachelor's",
+    "faculty": "College of Arts, Social Sciences & Celtic Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS; CAO GY109; jointly delivered (Mathematics + Education), no single owning School stated on the course's own page, accredited by the Teaching Council of Ireland",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/arts-mathematics-and-education.html"
+  },
+  {
+    "course_name": "Children's Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS; CAO GY110 ACS",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/children_and_studies_acs.html"
+  },
+  {
+    "course_name": "Arts with Children's Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS; CAO GY110 AWC; combines the Children's Studies discipline with one other Arts subject",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/children_and_studies_awc.html"
+  },
+  {
+    "course_name": "Child, Youth and Family: Policy and Practice",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Political Science & Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS; CAO GY137",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/youth-and-family-studies.html"
+  },
+  {
+    "course_name": "Social Sciences and Sustainability",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Political Science & Sociology; School of Geography, Archaeology and Irish Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS; CAO GY123; jointly delivered by both Schools",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/social-sciences.html"
+  },
+  {
+    "course_name": "Government (Politics, Economics and Law)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Political Science & Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6216,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20890,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS; CAO GY132",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/Government-Politics-Economics-Law.html"
+  },
+  {
+    "course_name": "Geography and Geosystems",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Geography, Archaeology and Irish Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7408,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 26640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS; CAO GY134; specialisation pathways from Year 2 in Coastal/Marine Sciences, Ecosystem Sciences, Environmental Planning/Policy, or Palaeo-Sciences; course's own page identifies it as part of the 'Discipline of Geography'",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/geography-and-geosystems.html"
+  },
+  {
+    "course_name": "Arts (Joint-Honours)",
+    "degree_level": "Bachelor's",
+    "faculty": "College of Arts, Social Sciences & Celtic Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (two non-language subjects) or 4 years (European language/Gaeilge), 180 ECTS; CAO GY101; college-wide joint-honours degree spanning 23 subjects across 7 groups (incl. Psychology, Sociological & Political Studies, Archaeology, Geography/Climate/Sustainability among many others outside this college), no single owning School",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/arts.html"
+  },
+  {
+    "course_name": "Arts (Global Experience)",
+    "degree_level": "Bachelor's",
+    "faculty": "College of Arts, Social Sciences & Celtic Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS; CAO GY129; college-wide programme choosing 3 of 23 subjects across 7 groups in Year 1, Year 3 abroad at a partner institution; no single owning School",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/global-experience.html"
+  },
+  {
+    "course_name": "Adolescent Health",
+    "degree_level": "Master's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8290,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20040,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (90 ECTS) or 2 years part-time (90 ECTS); MSc",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/adolescent-health.html"
+  },
+  {
+    "course_name": "Applied Behaviour Analysis",
+    "degree_level": "Master's",
+    "faculty": "School of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20540,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time, 150 ECTS; MSc; Verified Course Sequence approved by ABAI, accredited by the Psychological Society of Ireland",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/applied-behaviour-analysis.html"
+  },
+  {
+    "course_name": "Child, Youth and Community",
+    "degree_level": "Master's",
+    "faculty": "School of Political Science & Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19440,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (90 ECTS) or 2 years part-time (90 ECTS); MA; PGDip exit award available (60 ECTS)",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/child-youth-and-community.html"
+  },
+  {
+    "course_name": "Clinical Neuroscience",
+    "degree_level": "Master's",
+    "faculty": "School of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20540,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 90 ECTS (NFQ Level 9); MSc",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/clinical-neuroscience.html"
+  },
+  {
+    "course_name": "Coastal & Marine Environments: Physical Processes, Policy & Practice",
+    "degree_level": "Master's",
+    "faculty": "School of Geography, Archaeology and Irish Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8290,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19440,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (90 ECTS) or 2 years part-time (90 ECTS); MSc; field-intensive, includes research vessel time and residential fieldwork",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/coastal-marine-environments.html"
+  },
+  {
+    "course_name": "Education (Professional Master)",
+    "degree_level": "Master's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6740,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18940,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time, 120 ECTS; Professional Master of Education (PME), Initial Teacher Education accredited by the Teaching Council of Ireland, post-primary (ages 12-18)",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/education-professional-master.html"
+  },
+  {
+    "course_name": "Family Support Studies",
+    "degree_level": "Master's",
+    "faculty": "School of Political Science & Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2405,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time only (90 ECTS) - no full-time option; MA; PDip exit award available (1 year part-time, 60 ECTS); attends university two days every second week",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/family-support-studies.html"
+  },
+  {
+    "course_name": "Gender, Globalisation and Rights",
+    "degree_level": "Master's",
+    "faculty": "School of Political Science & Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20540,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (90 ECTS) or 2 years part-time (90 ECTS MA / 60 ECTS PDip); MA",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/gender-globalisation-rights.html"
+  },
+  {
+    "course_name": "Health Psychology",
+    "degree_level": "Master's",
+    "faculty": "School of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20540,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (90 ECTS) or 2 years part-time; MSc; accredited by the Psychological Society of Ireland",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/health-psychology.html"
+  },
+  {
+    "course_name": "International Development",
+    "degree_level": "Master's",
+    "faculty": "School of Geography, Archaeology and Irish Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8290,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20040,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (90 ECTS) or 2 years part-time (90 ECTS); MA",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/internationaldevelopmentma/"
+  },
+  {
+    "course_name": "Oideachas (Máistir Gairmiúil)",
+    "degree_level": "Master's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6740,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18940,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time, 120 ECTS; Máistir Gairmiúil san Oideachas (MGO), Irish-medium Initial Teacher Education for post-primary level, delivered entirely through Irish",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/oideachas-irish.html"
+  },
+  {
+    "course_name": "Planning and Development",
+    "degree_level": "Master's",
+    "faculty": "School of Geography, Archaeology and Irish Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19440,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (90 ECTS) or 2 years part-time (90 ECTS); MA; professionally accredited by the Society of Chartered Surveyors Ireland (SCSI)",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/planning-and-development.html"
+  },
+  {
+    "course_name": "Public Policy",
+    "degree_level": "Master's",
+    "faculty": "School of Political Science & Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8790,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20040,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (90 ECTS) or 2 years part-time; MA; optional Brussels field trip",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/public-policy-ma-pdip.html"
+  },
+  {
+    "course_name": "Social Work",
+    "degree_level": "Master's",
+    "faculty": "School of Political Science & Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20040,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time, 120 ECTS; MA; CORU accredited, two supervised practice placements, requires ~480 hours relevant work experience and minimum Level 8 2.2 honours degree",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/social-work.html"
+  },
+  {
+    "course_name": "English and Creative Writing",
+    "degree_level": "Bachelor's",
+    "faculty": "School of English, Media and Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20890,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS (CAO GY111)",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/english-and-creative-writing.html"
+  },
+  {
+    "course_name": "Drama, Theatre, and Performance Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "School of English, Media and Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20890,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS (CAO GY118)",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/drama-theatre-performance-studies.html"
+  },
+  {
+    "course_name": "Film & Digital Media",
+    "degree_level": "Bachelor's",
+    "faculty": "School of English, Media and Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6216,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20890,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS (Bologna default; CAO GY127); delivered by the Huston School of Film & Digital Media within the School",
+    "source_url": "https://www.universityofgalway.ie/artsfilmdigital/"
+  },
+  {
+    "course_name": "Global Media",
+    "degree_level": "Bachelor's",
+    "faculty": "School of English, Media and Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6416,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20890,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS (Bologna default; CAO GY135); delivered by the Journalism discipline within the School",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/global-media.html"
+  },
+  {
+    "course_name": "Journalism",
+    "degree_level": "Bachelor's",
+    "faculty": "School of English, Media and Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20890,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS (Bologna default; CAO GY119)",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/journalism.html"
+  },
+  {
+    "course_name": "Music",
+    "degree_level": "Bachelor's",
+    "faculty": "School of English, Media and Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6416,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21640,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS (CAO GY130); students combine Music with one other Arts subject to final year",
+    "source_url": "https://www.universityofgalway.ie/artsmusic/"
+  },
+  {
+    "course_name": "History",
+    "degree_level": "Bachelor's",
+    "faculty": "School of History and Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS (Bologna default; CAO GY105)",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/arts-history.html"
+  },
+  {
+    "course_name": "Global Languages",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Languages, Literatures, & Cultures",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6216,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20890,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS (CAO GY128); students study up to 3 of French, German, Gaeilge, Italian, Spanish",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/arts-global-languages.html"
+  },
+  {
+    "course_name": "Gaeilge agus Léann an Aistriúcháin (Irish and Translation Studies)",
+    "degree_level": "Bachelor's",
+    "faculty": "Acadamh na hOllscolaíochta Gaeilge",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS (CAO GY136)",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/Gaeilge-agus-L%C3%A9ann-an-Aistri%C3%BAch%C3%A1in.html"
+  },
+  {
+    "course_name": "Cumarsáid agus Gaeilge (Communications and Irish)",
+    "degree_level": "Bachelor's",
+    "faculty": "Acadamh na hOllscolaíochta Gaeilge",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS (CAO GY122); Semester 1 of Year 3 based at the Gaeltacht campus in An Cheathrú Rua with media-industry internships (TG4, RTÉ, Raidió na Gaeltachta)",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/arts-cumarsaid.html"
+  },
+  {
+    "course_name": "English",
+    "degree_level": "Master's",
+    "faculty": "School of English, Media and Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19440,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 2 years part-time, 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/english.html"
+  },
+  {
+    "course_name": "Journalism",
+    "degree_level": "Master's",
+    "faculty": "School of English, Media and Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20890,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/journalism.html"
+  },
+  {
+    "course_name": "Drama and Theatre Studies",
+    "degree_level": "Master's",
+    "faculty": "School of English, Media and Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20040,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 2 years part-time, 90 ECTS; PDip exit award available",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/drama-theatre.html"
+  },
+  {
+    "course_name": "Film Studies: Theory and Practice",
+    "degree_level": "Master's",
+    "faculty": "School of English, Media and Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8290,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20040,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 2 years part-time, 90 ECTS; PDip exit award available",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/film-studies.html"
+  },
+  {
+    "course_name": "Global Media and Communication",
+    "degree_level": "Master's",
+    "faculty": "School of English, Media and Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10840,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20890,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time only, 90 ECTS; includes an international field trip to Brussels",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/global-media-and-communication.html"
+  },
+  {
+    "course_name": "Literature and Publishing",
+    "degree_level": "Master's",
+    "faculty": "School of English, Media and Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8290,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20040,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time only, 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/literature-publishing.html"
+  },
+  {
+    "course_name": "Writing",
+    "degree_level": "Master's",
+    "faculty": "School of English, Media and Creative Arts",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8290,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20040,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time only, 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/writing.html"
+  },
+  {
+    "course_name": "History",
+    "degree_level": "Master's",
+    "faculty": "School of History and Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19440,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 2 years part-time, 90 ECTS; PDip exit award available",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/history.html"
+  },
+  {
+    "course_name": "Philosophy",
+    "degree_level": "Master's",
+    "faculty": "School of History and Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20040,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 2 years part-time, 90 ECTS (30-35 ECTS taught + 55-60 ECTS dissertation); Structured MA, focus on Public/Applied Philosophy and Post-Kantian European Philosophy; listed under the university's Research Postgraduate Programmes pages rather than the standard Taught Postgraduate Courses index, but is a taught Master's, not a research degree",
+    "source_url": "https://www.universityofgalway.ie/courses/research-postgraduate-programmes/structured-phd/philosophy-research-masters.html"
+  },
+  {
+    "course_name": "International Contemporary Literatures and Media",
+    "degree_level": "Master's",
+    "faculty": "School of Languages, Literatures, & Cultures",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19440,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 2 years part-time, 90 ECTS",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/international-contemporary-literatures-media.html"
+  },
+  {
+    "course_name": "Translation Studies",
+    "degree_level": "Master's",
+    "faculty": "School of Languages, Literatures, & Cultures",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18940,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time only, 90 ECTS; core modules delivered online from 2026/27, optional face-to-face electives on campus",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/translation-studies.html"
+  },
+  {
+    "course_name": "Conference Interpreting",
+    "degree_level": "Master's",
+    "faculty": "Acadamh na hOllscolaíochta Gaeilge",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19440,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 90 ECTS; EMCI-affiliated (European Masters in Conference Interpreting network), working languages include Irish, English, French, Spanish, Italian and German; also listed on the university site under its Irish name, Ateangaireacht Chomhdhála (MA/Dioplóma) — same programme, recorded once",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/conference-interpreting.html"
+  },
+  {
+    "course_name": "Léann Teanga (Language Studies)",
+    "degree_level": "Master's",
+    "faculty": "Acadamh na hOllscolaíochta Gaeilge",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19440,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, blended/part-time delivery, 90 ECTS; specialization tracks in Aistriúchán (Translation) or Pleanáil Teanga (Language Planning); MA or Dioplóma Iarchéime exit award",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/leann-teanga.html"
+  },
+  {
+    "course_name": "Léann an Aistriúcháin (Translation Studies, Irish-medium)",
+    "degree_level": "Master's",
+    "faculty": "Acadamh na hOllscolaíochta Gaeilge",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4190,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18440,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time or part-time, 90 ECTS, blended learning; distinct from the English-medium Translation Studies MA run by the School of Languages, Literatures, & Cultures",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/leann-aistriuchain-ma.html"
+  },
+  {
+    "course_name": "Cleachtas Gairmiúil sna Meáin (Professional Practice in Media)",
+    "degree_level": "Master's",
+    "faculty": "Acadamh na hOllscolaíochta Gaeilge",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8040,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20040,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time, 2 years part-time, 90 ECTS; delivered in partnership with RTÉ's Irish-language units; C1-level Irish proficiency required; MA or Dioplóma Iarchéime exit award",
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/cleachtas-gairmiuil-sna-meain.html"
+  },
+  {
+    "course_name": "Bachelor of Arts with Human Rights",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5738,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19390,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, 240 ECTS (60 ECTS/year); CAO GY113; delivered through the Irish Centre for Human Rights, part of the School of Law",
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/arts-with-human-rights.html"
+  }
+]

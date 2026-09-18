@@ -1,0 +1,376 @@
+[
+  {
+    "course_name": "Acoustics: Sound and Vibration",
+    "degree_level": "Master's",
+    "faculty": "Department of Architecture and Civil Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Engineering Acoustics; Audio and Music Technology. Confirmed on the Department of Architecture and Civil Engineering's own 'Master's programmes in architecture and civil engineering' listing. Standard (non-Architecture/Industrial-Design) fee band. Chalmers' standard fee rises to SEK 380,000 total from academic year 2027/2028 per its own fee-schedule page — this record uses the current 2026/27 rate.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/acoustics-sound-and-vibration-msc/"
+  },
+  {
+    "course_name": "Architectural Design",
+    "degree_level": "Master's",
+    "faculty": "Department of Architecture and Civil Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 420000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Confirmed on the Department of Architecture and Civil Engineering's own programme listing. Priced under Chalmers' higher 'Industrial Design Engineering and Architecture' fee band (SEK 105,000/semester) rather than the standard band, confirmed via the educational-area match on Chalmers' own fee-schedule page. Rises to SEK 540,000 total from academic year 2027/2028.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/architectural-design-msc/"
+  },
+  {
+    "course_name": "Artificial Intelligence",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer Science and Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Foundations of Machine Learning; AI for Language and Cognition; AI for Science and Health. Confirmed on the Department of Computer Science and Engineering's own 'we are responsible for seven master's programmes' listing (4 taught at Chalmers, 3 at University of Gothenburg via the same jointly-run department — only the Chalmers-taught ones are recorded here).",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/artificial-intelligence-msc/"
+  },
+  {
+    "course_name": "Biomedical Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Electrical Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Neuroengineering and Sensor Technology; AI in Healthcare; Clinical Innovation and Implementation. Confirmed on the Department of Electrical Engineering's own master's-programmes listing.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/biomedical-engineering-msc/"
+  },
+  {
+    "course_name": "Biotechnology",
+    "degree_level": "Master's",
+    "faculty": "Department of Chemistry and Chemical Engineering; Department of Life Sciences",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Confirmed as genuinely jointly delivered: this programme appears on both the Department of Chemistry and Chemical Engineering's and the Department of Life Sciences' own 'Master's programmes' listings (identical 3-programme list on both), with no lead department distinguished on either page.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/biotechnology-msc/"
+  },
+  {
+    "course_name": "Building Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Architecture and Civil Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Energy and Indoor Climate Systems; Building Performance and Climate Adaptation; Sustainability-Informed Design. Confirmed on the Department of Architecture and Civil Engineering's own programme listing.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/building-engineering-msc/"
+  },
+  {
+    "course_name": "Complex Adaptive Systems",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics and Astronomy; Department of Mechanical Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Dynamics of Physical Systems; Intelligent and Embodied Systems; Machine Learning; Biological and Evolutionary Systems; Classical and Quantum Algorithms. Genuinely jointly listed on both the Department of Physics and Astronomy's and the Department of Mechanical Engineering's own 'Master's programmes' pages, with no lead department distinguished on either.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/complex-adaptive-systems-msc/"
+  },
+  {
+    "course_name": "Computational Mechanics",
+    "degree_level": "Master's",
+    "faculty": "Department of Mechanical Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Dynamics and Control; Solid and Structural Mechanics; Fluid Mechanics. Confirmed on the Department of Mechanical Engineering's own programme listing.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/computational-mechanics-msc/"
+  },
+  {
+    "course_name": "Computer Science",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer Science and Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Security and Privacy Foundations; Programming Language Technology; Logic, Formal Methods and Type Theory; Algorithms and Complexity. This is the Chalmers-taught 'Computer Science, MSc' — a separate, differently-specialised 'Computer Science, MSc' also exists at University of Gothenburg via the same jointly-run department, out of scope here (not a Chalmers programme).",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/computer-science-msc/"
+  },
+  {
+    "course_name": "Computing Systems",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer Science and Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: High-Performance Computing; Distributed Systems and Networks; Cybersecurity. Confirmed on the Department of Computer Science and Engineering's own programme listing.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/computing-systems-msc/"
+  },
+  {
+    "course_name": "Design and Construction Management",
+    "degree_level": "Master's",
+    "faculty": "Department of Architecture and Civil Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisation: Digital Construction. Confirmed on the Department of Architecture and Civil Engineering's own programme listing.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/design-and-construction-management-msc/"
+  },
+  {
+    "course_name": "Electric Power Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Electrical Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Electromobility and Power Electronics; Electric Power Systems. Confirmed on the Department of Electrical Engineering's own programme listing.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/electric-power-engineering-msc/"
+  },
+  {
+    "course_name": "Electrical and Electronics Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Electrical Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Microwave and Photonics; Integrated Circuit Design; Systems and Signals; Semiconductor Devices and Technology. Confirmed on the Department of Electrical Engineering's own programme listing; the Department of Microtechnology and Nanoscience (MC2) also delivers course content into this programme but is not its administering department (MC2's own page frames this as 'courses you can study', not ownership).",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/electrical-and-electronics-engineering-msc/"
+  },
+  {
+    "course_name": "Energy Systems",
+    "degree_level": "Master's",
+    "faculty": "Department of Environmental and Energy Sciences",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Industrial Process Energy Engineering; Systems Modelling and Planning; Enabling Technologies for the Energy Transition. Attribution note: the department's own education page (titled 'Space, Earth and Environment' on-page despite the department's registered name 'Environmental and Energy Sciences') lists this under 'the department teaches in the following master's programmes' phrasing rather than an explicit ownership statement — no better-supported department was found, so this is the best-available attribution, not independently confirmed as sole owner.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/energy-systems-msc/"
+  },
+  {
+    "course_name": "Entrepreneurship and Business Design",
+    "degree_level": "Master's",
+    "faculty": "Department of Technology Management and Economics",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Confirmed on the Department of Technology Management and Economics' own education page, which explicitly lists it among the international master's programmes the department 'accounts for most of the content in.'",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/entrepreneurship-and-business-design-msc/"
+  },
+  {
+    "course_name": "Environmental and Infrastructure Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Architecture and Civil Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Transport Engineering; Water and Environmental Engineering; Fluid Mechanics and Water Systems; Geotechnics and Engineering Geology. Confirmed via the Department of Architecture and Civil Engineering's own education page, which names 'Infrastructure and environmental engineering' among its named master's-programme directorships (matching this programme by name).",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/environmental-and-infrastructure-engineering-msc/"
+  },
+  {
+    "course_name": "Human-Centred Design and Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer Science and Engineering; Department of Mechanical Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Ergonomics and Human Factors; Game Design and Development; Interaction Design; Integrated Product Design; Strategic and Sustainable Design. No single department is named on the programme's own official page — its own 'Research' section names Computer Science research (game design, HCI, interaction design) explicitly, and its entry requirements list Mechanical Engineering as an accepted prior degree alongside Industrial Design; attributed here to both as an inference, not an explicit ownership statement. Fee-category note, unresolved: Chalmers' central fee-schedule page names a higher-priced 'Industrial Design Engineering and Architecture' field (SEK 420,000 total), and this programme's 'Integrated Product Design' specialisation is the likely present-day successor to Chalmers' former standalone 'Industrial Design Engineering' programme — but the programme's current 'Educational area' tag is 'Industrial and Interaction Design', not 'Industrial Design Engineering', and no page explicitly confirms which fee band applies. Recorded at the standard rate as the safer default; needs manual re-verification against Chalmers' own admissions/fee office before trusting either figure as settled.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/human-centred-design-and-engineering-msc/"
+  },
+  {
+    "course_name": "Industrial Ecology",
+    "degree_level": "Master's",
+    "faculty": "Department of Environmental and Energy Sciences",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Governance of Sustainability Transitions; Sustainability Modelling and Analytics; Sustainable Technological and Industrial Systems. Same attribution caveat as 'Energy Systems' above — named on the department's own 'teaches in' list, not an explicit ownership statement, but the best-supported candidate found.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/industrial-ecology-msc/"
+  },
+  {
+    "course_name": "Innovative and Sustainable Chemical Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Chemistry and Chemical Engineering; Department of Life Sciences",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Same genuinely-joint attribution as 'Biotechnology' above — appears identically on both departments' own programme listings.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/innovative-and-sustainable-chemical-engineering-msc/"
+  },
+  {
+    "course_name": "Maritime Management",
+    "degree_level": "Master's",
+    "faculty": "Chalmers School of Maritime Studies",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Confirmed on Chalmers School of Maritime Studies' own education page as one of its 2 master's programmes for students already holding a bachelor's degree. Its sibling programme, 'Maritime engineering, masterprogram,' is Swedish-medium (the Swedish word 'masterprogram' in its own name, and its absence from Chalmers' official English-taught master's-programme finder, both indicate this) and is excluded, consistent with the language bar used throughout this project's Swedish files.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/maritime-management-msc/"
+  },
+  {
+    "course_name": "Materials Chemistry",
+    "degree_level": "Master's",
+    "faculty": "Department of Chemistry and Chemical Engineering; Department of Life Sciences",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Same genuinely-joint attribution as 'Biotechnology' above — appears identically on both departments' own programme listings.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/materials-chemistry-msc/"
+  },
+  {
+    "course_name": "Materials Science and Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Mechanical Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Soft Materials; Nanomaterials and Nanotechnology; Metallic Materials. Confirmed on the Department of Mechanical Engineering's own programme listing.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/materials-science-and-engineering-msc/"
+  },
+  {
+    "course_name": "Mathematics, Statistics and Data Science",
+    "degree_level": "Master's",
+    "faculty": "Department of Mathematical Sciences",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Foundations of Machine Learning and AI; Mathematical Statistics; Mathematical Finance; Computational Biology; Engineering and Computational Mathematics; Theoretical Mathematics and Mathematical Physics. Confirmed as the Chalmers-taught programme on the (Chalmers/University of Gothenburg jointly-run) Department of Mathematical Sciences' own education page, distinct from a separate Gothenburg-only 'Mathematical Sciences, Master's programme' at the same joint department, which is out of scope here.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/mathematics-statistics-and-data-science-msc/"
+  },
+  {
+    "course_name": "Mobility Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Mechanical Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Automotive Engineering; Railway Technology; Naval Architecture and Ocean Engineering; Aerospace Engineering. Confirmed on the Department of Mechanical Engineering's own programme listing.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/mobility-engineering-msc/"
+  },
+  {
+    "course_name": "NewSpace Systems Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics and Astronomy",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Space Propulsion; Space Structures and Materials; Space Electronics and Materials; Space Geodesy and Remote Sensing. Genuinely multi-department: named on Department of Physics and Astronomy's own 'Master's programmes' listing (the strongest ownership signal), while Department of Environmental and Energy Sciences ('teaches in') and Department of Technology Management and Economics ('accounts for most of the content in') both also contribute — attributed primarily to Physics and Astronomy as the only one using an explicit-ownership framing.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/newspace-systems-engineering-msc/"
+  },
+  {
+    "course_name": "Operations Management",
+    "degree_level": "Master's",
+    "faculty": "Department of Technology Management and Economics",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Supply Chain Logistics; Operations Excellence; Healthcare Systems Management and Improvement; Industrial Marketing and Purchasing. Confirmed on the Department of Technology Management and Economics' own education page.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/operations-management-msc/"
+  },
+  {
+    "course_name": "Physics",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics and Astronomy",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Theoretical and Computational Physics; Quantum Technology; Astrophysics and Cosmology; Materials Science and Photonics; Radiation Science and Nuclear Technology. Confirmed on the Department of Physics and Astronomy's own programme listing.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/physics-msc/"
+  },
+  {
+    "course_name": "Product Development",
+    "degree_level": "Master's",
+    "faculty": "Department of Mechanical Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Digital Engineering in Product Development; Sustainable and Resilient Product Development; Product and Service Innovation Management. Confirmed on the Department of Mechanical Engineering's own programme listing; Department of Technology Management and Economics also contributes course content but is not the administering department per its own page.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/product-development-msc/"
+  },
+  {
+    "course_name": "Production Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Mechanical Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Digitalised Production Systems; Manufacturing Processes; Quality and Production Management. Confirmed on the Department of Mechanical Engineering's own programme listing; Department of Technology Management and Economics also contributes course content but is not the administering department per its own page.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/production-engineering-msc/"
+  },
+  {
+    "course_name": "Software Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer Science and Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Software Technology; Human Aspects of Software Development; Software Research and Innovation; Human-Computer Interaction; AI Engineering. This is the Chalmers-taught 'Software Engineering, MSc' — a separate, similarly-named 'Software Engineering and Management, MSc' also exists at University of Gothenburg via the same jointly-run department, out of scope here.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/software-engineering-msc/"
+  },
+  {
+    "course_name": "Structural and Geotechnical Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Architecture and Civil Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Design and Assessment of Structures; Geostructures; Solids and Structural Mechanics. Confirmed on the Department of Architecture and Civil Engineering's own programme listing.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/structural-and-geotechnical-engineering-msc/"
+  },
+  {
+    "course_name": "Systems, Learning and Control",
+    "degree_level": "Master's",
+    "faculty": "Department of Electrical Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Intelligent Automation; Decision and Control; Electromobility; Robot Learning; Mechatronics; Communication and Sensing; Vehicle Dynamics Control. Not named on the Department of Electrical Engineering's own /education/ programme list (which shows only 3 programmes), but the department's main page confirms 'Systems and Control' as one of its 5 named research divisions, matching this programme closely and consistent with its own page's 'electrical engineering, automation' tags — attributed here on that basis rather than an explicit ownership statement.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/systems-learning-and-control-msc/"
+  },
+  {
+    "course_name": "Technology and Innovation Management",
+    "degree_level": "Master's",
+    "faculty": "Department of Technology Management and Economics",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 320000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Specialisations: Technology Strategy and Intellectual Property; Technological Change and Sustainability Transitions; Organising and Leading Innovation and Strategic Change; Technology Purchasing and Marketing. Confirmed on the Department of Technology Management and Economics' own education page.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/technology-and-innovation-management-msc/"
+  },
+  {
+    "course_name": "Urban Design",
+    "degree_level": "Master's",
+    "faculty": "Department of Architecture and Civil Engineering",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "SEK", "period": "year" },
+      "non_eu_students": { "amount": 420000, "currency": "SEK", "period": "total" }
+    },
+    "duration": "2 years, 120 ECTS credits. Confirmed on the Department of Architecture and Civil Engineering's own programme listing. Priced under Chalmers' higher 'Industrial Design Engineering and Architecture' fee band, same as 'Architectural Design' above. Rises to SEK 540,000 total from academic year 2027/2028.",
+    "source_url": "https://www.chalmers.se/en/education/find-masters-programme/urban-design-msc/"
+  }
+]

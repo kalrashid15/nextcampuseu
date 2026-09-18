@@ -1,0 +1,1808 @@
+[
+  {
+    "course_name": "European Economic Law (LL.M.)",
+    "degree_level": "Master's",
+    "faculty": "Department of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 90000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "1 year, 60 ECTS credits (LL.M.); autumn intake",
+    "source_url": "https://www.su.se/english/search-courses-and-programmes/jee1m-1.762178"
+  },
+  {
+    "course_name": "European Intellectual Property Law (LL.M.)",
+    "degree_level": "Master's",
+    "faculty": "Department of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 90000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "1 year, 60 ECTS credits (LL.M.); autumn intake",
+    "source_url": "https://www.su.se/english/search-courses-and-programmes/jip1m-1.762179"
+  },
+  {
+    "course_name": "Environmental Law (LL.M.)",
+    "degree_level": "Master's",
+    "faculty": "Department of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 90000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "1 year, 60 ECTS credits (LL.M.); autumn intake",
+    "source_url": "https://www.su.se/english/search-courses-and-programmes/jel1m-1.762177"
+  },
+  {
+    "course_name": "International Commercial Arbitration (LL.M.)",
+    "degree_level": "Master's",
+    "faculty": "Department of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 90000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "1 year, 60 ECTS credits (LL.M.); autumn intake; scholarships covering tuition typically available for non-EU/EEA admits",
+    "source_url": "https://www.su.se/english/search-courses-and-programmes/jic1m-1.762181"
+  },
+  {
+    "course_name": "Public International Law (LL.M.)",
+    "degree_level": "Master's",
+    "faculty": "Department of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 90000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "1 year, 60 ECTS credits (LL.M.); autumn intake",
+    "source_url": "https://www.su.se/english/search-courses-and-programmes/jil1m-1.762180"
+  },
+  {
+    "course_name": "Health Informatics (Joint Master's Programme with Karolinska Institutet)",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer and Systems Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; joint degree with Karolinska Institutet, applications processed via KI; autumn intake",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sh/shino"
+  },
+  {
+    "course_name": "Information Security (Master's Programme)",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer and Systems Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; autumn intake, first admission round only",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sm/smino"
+  },
+  {
+    "course_name": "Open eGovernment (Master's Programme)",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer and Systems Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; delivered as distance courses; autumn intake, first admission round only",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sm/smefo"
+  },
+  {
+    "course_name": "Computer and Systems Sciences (Master's Programme)",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer and Systems Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; autumn intake",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sc/scsso"
+  },
+  {
+    "course_name": "AI for Health (Master's Programme)",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer and Systems Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; autumn intake",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sa/saiho"
+  },
+  {
+    "course_name": "Data Science, Statistics and Decision Analysis (Master's Programme)",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer and Systems Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; run jointly with the Department of Statistics; autumn intake",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sd/sdsbo"
+  },
+  {
+    "course_name": "Interaction Design for Artificial Realities (Master's Programme)",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer and Systems Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; autumn intake, first admission round only",
+    "source_url": "https://www.su.se/english/education/course-catalogue/si/sidao"
+  },
+  {
+    "course_name": "Strategic Information Systems Management (Master's Programme)",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer and Systems Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; two curriculum alternatives depending on prior CS background; autumn intake, first admission round only",
+    "source_url": "https://www.su.se/english/education/course-catalogue/ss/sslio"
+  },
+  {
+    "course_name": "IT Project Management (One Year Master's Programme)",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer and Systems Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "60 ECTS credits studied half-time over 2 years, fully online/distance",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sp/sprom"
+  },
+  {
+    "course_name": "Political Science and Regional Studies (International Bachelor's Programme)",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Political Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 90000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "3 years, 180 ECTS credits (Kandidatexamen); all courses given in English; combines political science with regional specialization in East Asia, the Middle East and North Africa, or Latin America",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sp/spock"
+  },
+  {
+    "course_name": "Political Science",
+    "degree_level": "Master's",
+    "faculty": "Department of Political Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 90000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); International Master's Programme in Political Science",
+    "source_url": "https://www.su.se/english/search-courses-and-programmes/stveo-1.411459"
+  },
+  {
+    "course_name": "Environmental Social Science",
+    "degree_level": "Master's",
+    "faculty": "Department of Political Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 90000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); International Master's Programme in Environmental Social Science, jointly delivered with specialization tracks in Political Science, Human Geography, or Social Anthropology, administered by the Department of Political Science",
+    "source_url": "https://www.su.se/english/search-courses-and-programmes/smsmo-1.520517"
+  },
+  {
+    "course_name": "Political Science with Specialization in Global Asian Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Political Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 90000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); International Master's Programme in Political Science with Specialization in Global Asian Studies",
+    "source_url": "https://www.su.se/english/search-courses-and-programmes/stvas-1.482778"
+  },
+  {
+    "course_name": "Business, Ethics and Sustainability",
+    "degree_level": "Bachelor's",
+    "faculty": "Stockholm Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 90000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "3 years, 180 credits. A collaboration between Stockholm Business School, the Stockholm Resilience Centre, and the Department of Philosophy, but administered/hosted by Stockholm Business School. Non-EU fee follows Stockholm University's standard published Humanities/Social Sciences/Law rate (SEK 90,000/year, confirmed on the university's central fees page); this programme's own catalogue page links out to that same fees page without restating a programme-specific number.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sf/sfehk"
+  },
+  {
+    "course_name": "International Business and Politics",
+    "degree_level": "Bachelor's",
+    "faculty": "Stockholm Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 90000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "3 years, 180 credits. All courses in English. Year 1 given entirely by Stockholm Business School; Year 2 split between the Department of Economic History (and International Relations) and the Department of Political Science; recorded under Stockholm Business School since its own catalogue page names SBS as the administering unit of this joint programme. Non-EU fee follows Stockholm University's standard published Humanities/Social Sciences/Law rate (SEK 90,000/year); no programme-specific figure is published on its own page.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/si/sifpk"
+  },
+  {
+    "course_name": "Accounting and Management Control",
+    "degree_level": "Master's",
+    "faculty": "Stockholm Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 90000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (4 semesters). Non-EU fee (SEK 90,000/year, SEK 180,000 total) confirmed directly on Stockholm Business School's own 'How to apply - Master's programmes' page as the standard rate applying to all its Master's programmes except Marketing Communication.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sr/sreko"
+  },
+  {
+    "course_name": "Banking and Finance",
+    "degree_level": "Master's",
+    "faculty": "Stockholm Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 90000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (4 semesters). Jointly delivered by Stockholm Business School and the Department of Economics; recorded under Stockholm Business School, whose own course-catalogue page administers it. Non-EU fee of SEK 90,000/year confirmed directly on this programme's own catalogue page.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sb/sbofo"
+  },
+  {
+    "course_name": "Management, Organization and Society",
+    "degree_level": "Master's",
+    "faculty": "Stockholm Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 90000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (4 semesters). Non-EU fee (SEK 90,000/year) confirmed via Stockholm Business School's own 'How to apply - Master's programmes' page as the standard rate for all its Master's programmes except Marketing Communication.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sm/smoso"
+  },
+  {
+    "course_name": "Marketing",
+    "degree_level": "Master's",
+    "faculty": "Stockholm Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 90000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (4 semesters), including a 15,000-word master's dissertation. Non-EU fee (SEK 90,000/year) confirmed via Stockholm Business School's own 'How to apply - Master's programmes' page as the standard rate for all its Master's programmes except Marketing Communication.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sm/smafo"
+  },
+  {
+    "course_name": "Marketing Communication",
+    "degree_level": "Master's",
+    "faculty": "Stockholm Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 125000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (4 semesters). Degree awarded: Master of Science, main field Advertising and PR. Confirmed exception to Stockholm Business School's standard 90,000 SEK/year Master's fee: this programme is explicitly priced at SEK 125,000/year (SEK 250,000 total) on the school's own 'How to apply - Master's programmes' page.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sm/smako"
+  },
+  {
+    "course_name": "Operations Management and Control",
+    "degree_level": "Master's",
+    "faculty": "Stockholm Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 90000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (4 semesters). Non-EU fee (SEK 90,000/year) confirmed via Stockholm Business School's own 'How to apply - Master's programmes' page as the standard rate for all its Master's programmes except Marketing Communication.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sv/svoso"
+  },
+  {
+    "course_name": "Economics",
+    "degree_level": "Master's",
+    "faculty": "Department of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 90000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 credits, entirely in English; optional internship in semester 3. Courses also taught by researchers at the Institute for International Economic Studies (IIES) and the Swedish Institute for Social Research (SOFI), though the programme itself is administered solely by the Department of Economics. Non-EU fee follows Stockholm University's standard published Humanities/Social Sciences/Law rate (SEK 90,000/year); its own catalogue page links out to the university's central fees page without restating a programme-specific figure.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sn/sneko"
+  },
+  {
+    "course_name": "Global Political Economy",
+    "degree_level": "Master's",
+    "faculty": "Department of Economic History and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 90000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 credits, entirely in English. Year 2 offers two specialization tracks: 'Economic History with specialization in Global Political Economy' or 'International Relations with specialization in Global Political Economy'. Non-EU fee (SEK 90,000/year; SEK 45,000 first instalment, SEK 180,000 total) confirmed via Stockholm University's official course-search listing for this programme.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/eh/eh800"
+  },
+  {
+    "course_name": "International Relations",
+    "degree_level": "Master's",
+    "faculty": "Department of Economic History and International Relations",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 90000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 credits, entirely in English (on-campus in Stockholm; some elective courses online-only). Non-EU fee follows Stockholm University's standard published Humanities/Social Sciences/Law rate (SEK 90,000/year); no programme-specific figure is published on its own page.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sa/sairo"
+  },
+  {
+    "course_name": "Human Geography",
+    "degree_level": "Master's",
+    "faculty": "Department of Human Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 180000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits; students specialize in fields such as landscape studies, population geography, migration, economic geography and urban processes; non-EU fee billed in instalments (first instalment SEK 45,000) toward the SEK 180,000 whole-programme total, not an annual figure.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sk/skulo"
+  },
+  {
+    "course_name": "Urban and Regional Planning",
+    "degree_level": "Master's",
+    "faculty": "Department of Human Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 240000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits; multidisciplinary programme drawing on Human Geography, Economics, Sociology, Statistics, Political Science, Economic History and Archaeology; non-EU fee billed in instalments (first instalment SEK 60,000) toward the SEK 240,000 whole-programme total, not an annual figure.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sm/smamo"
+  },
+  {
+    "course_name": "Globalization, Environment and Social Change",
+    "degree_level": "Master's",
+    "faculty": "Department of Human Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 180000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits; hosted by the Department of Human Geography and run in cooperation with the Department of Physical Geography (a Faculty of Science department outside this project's assigned scope); students may choose a thesis advisor from either department; non-EU fee billed in instalments (first instalment SEK 45,000) toward the SEK 180,000 whole-programme total, not an annual figure.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sg/sgmfo"
+  },
+  {
+    "course_name": "Social Anthropology",
+    "degree_level": "Master's",
+    "faculty": "Department of Social Anthropology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 180000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits; includes 10 weeks of fieldwork (in Sweden or abroad) and a master's thesis; cohort typically 20-25 students; non-EU fee billed in instalments (first instalment SEK 45,000) toward the SEK 180,000 whole-programme total, not an annual figure.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/so/soano"
+  },
+  {
+    "course_name": "Sociology",
+    "degree_level": "Master's",
+    "faculty": "Department of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 180000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (45 compulsory + 45 elective + 30-credit master's thesis); non-EU fee billed in instalments (first instalment SEK 45,000) toward the SEK 180,000 whole-programme total, not an annual figure.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/ss/ssoco"
+  },
+  {
+    "course_name": "Applied Social Research",
+    "degree_level": "Master's",
+    "faculty": "Department of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 180000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits; research-oriented, combines sociological theory with quantitative empirical methods (surveys, forecasts, evaluations, network analysis, regression); 4th semester is an independent research project reported as a master's thesis in sociology; non-EU fee billed in instalments (first instalment SEK 45,000) toward the SEK 180,000 whole-programme total, not an annual figure.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sa/samlo"
+  },
+  {
+    "course_name": "Demography",
+    "degree_level": "Master's",
+    "faculty": "Department of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 90000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "1 year, 60 credits; delivered by the Stockholm University Demography Unit (SUDA) within the Department of Sociology; non-EU fee billed in instalments (first instalment SEK 45,000) toward the SEK 90,000 whole-programme total, not an annual figure.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sd/sdemo"
+  },
+  {
+    "course_name": "Multidisciplinary Demography",
+    "degree_level": "Master's",
+    "faculty": "Department of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 180000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits; official programme name \"Multidisciplinary Master's Programme in Demography\"; delivered by the Stockholm University Demography Unit (SUDA) within the Department of Sociology; programme code changed to SMMDO for the current (autumn 2026) version, replacing the discontinued SMODD code used by the prior version of this programme (last admitted autumn 2025); non-EU fee billed in instalments (first instalment SEK 45,000) toward the SEK 180,000 whole-programme total, not an annual figure.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sm/smmdo"
+  },
+  {
+    "course_name": "International Two-Year Master's Programme in Psychology",
+    "degree_level": "Master's",
+    "faculty": "Department of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 288000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits. Entirely theoretical/research-oriented programme (not a clinical psychology qualification - the only route to licensed psychologist in Sweden is the separate 300-credit Psychologists programme, which is Swedish-taught and out of scope). Non-EU fee billed as 4 instalments of SEK 72,000 each, confirmed on the programme's own official page. Programme code SIPSO.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/si/sipso"
+  },
+  {
+    "course_name": "Master's Programme in Public Health Sciences: Societal and Individual Perspectives",
+    "degree_level": "Master's",
+    "faculty": "Department of Public Health Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 243000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits, organised into 8 blocks (A-H). Comprises two tracks chosen partway through, both under the same admission code: Societal Perspectives on Public Health (PHSAN-PSOC) and Individual Perspectives on Public Health (PHSAN-PIND). Non-EU fee billed as 4 instalments of SEK 60,750 each, confirmed on the programme's own official page. Programme code PHSAN.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/ph/phsan"
+  },
+  {
+    "course_name": "Master's Programme in Education with International and Comparative Specialisation",
+    "degree_level": "Master's",
+    "faculty": "Department of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 180000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits. Transdisciplinary/comparative focus on educational policy, planning, globalisation and educational research methods, culminating in a Master's thesis. Non-EU fee billed as 4 instalments of SEK 45,000 each, confirmed on the programme's own official page. Programme code SPIJO. The only other programme the Department of Education teaches in English is its PhD Programme in Education (doctoral level, out of this schema's scope) - most of the department's Bachelor's/other Master's-level teaching is Swedish-medium teacher training.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sp/spijo"
+  },
+  {
+    "course_name": "Master's Programme in Statistics",
+    "degree_level": "Master's",
+    "faculty": "Department of Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 240000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits, including a 30-ECTS Master's thesis in the final (4th) semester. Requires a Bachelor's degree with at least 90 HECs in Statistics. Non-EU fee billed as 4 instalments of SEK 60,000 each, confirmed on the programme's own official page. Programme code SSTAO. The department has no English-taught Bachelor's programme of its own (Swedish-medium kandidatprogram only).",
+    "source_url": "https://www.su.se/english/education/course-catalogue/ss/sstao"
+  },
+  {
+    "course_name": "Middle Eastern and North African Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Asian and Middle Eastern Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "3 years, 180 ECTS credits; programme code HMESK; interdisciplinary study of the early/modern history, religions, literature, culture, and political/economic development of the Middle East and North Africa; autumn intake. Non-EU fee not confirmed — the programme's own fee widget is JS-rendered and wasn't accessible this session (WebFetch couldn't render it, browser automation was unreliable) — needs a manual re-check against the programme's own page rather than the university-wide standard band.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/hm/hmesk"
+  },
+  {
+    "course_name": "Middle Eastern Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Asian and Middle Eastern Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; programme code HMENO; two study tracks (Arabic, for students with prior Arabic study; Area Studies, for those without) sharing one programme; autumn intake. Non-EU fee not confirmed — the programme's own fee widget is JS-rendered and wasn't accessible this session (WebFetch couldn't render it, browser automation was unreliable) — needs a manual re-check against the programme's own page.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/hm/hmeno"
+  },
+  {
+    "course_name": "Asian Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Asian and Middle Eastern Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; programme code HMASO; regionally-focused, multidisciplinary programme grounded in the Humanities, combining content courses with advanced language training in Chinese, Japanese, or Korean; designed for students with a background in Chinese/Japanese/Korean Studies; autumn intake. Non-EU fee not confirmed — the programme's own fee widget is JS-rendered and wasn't accessible this session (WebFetch couldn't render it, browser automation was unreliable) — needs a manual re-check against the programme's own page.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/hm/hmaso"
+  },
+  {
+    "course_name": "English Language and Linguistics",
+    "degree_level": "Master's",
+    "faculty": "Department of English",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; programme code HENGE; in-depth study of core areas of English linguistics (discourse analysis, phonology, pragmatics, second language acquisition, semantics, sociolinguistics, syntax, academic English) plus elective courses and a 4th-semester thesis; leads to a Master of Arts degree in English; autumn intake. Non-EU fee not confirmed — the programme's own fee widget is JS-rendered and wasn't accessible this session (WebFetch couldn't render it, browser automation was unreliable) — needs a manual re-check against the programme's own page.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/he/henge"
+  },
+  {
+    "course_name": "Archaeology (Specialisation: Environmental Humanities)",
+    "degree_level": "Master's",
+    "faculty": "Department of Archaeology and Classical Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; programme code HARLO-MILO; one of several home-department entry points into Stockholm University's cross-departmental Environmental Humanities specialisation (the same specialisation is also offered via the MA programmes in Ethnology, Gender Studies, and as a study path within History of Ideas — those are outside this department's scope and not recorded here); combines core Environmental Humanities coursework with fieldwork and seminars; requires min. 15 ECTS prior archaeology coursework; taught in both Swedish and English; autumn intake. The department's other Master's-in-Archaeology specialisation, Classical Archaeology and Ancient History, was confirmed Swedish-only on the department's own page and excluded. Non-EU fee not confirmed — the programme's own fee widget is JS-rendered and wasn't accessible this session (WebFetch couldn't render it, browser automation was unreliable) — needs a manual re-check against the programme's own page.",
+    "source_url": "https://www.su.se/english/search-courses-and-programmes/harlo-milo-1.716012"
+  },
+  {
+    "course_name": "International Master's Programme in Curating, including Art, Management and Law",
+    "degree_level": "Master's",
+    "faculty": "Department of Culture and Aesthetics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 250000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits. First and pre-eminent curatorial programme in Scandinavia (founded 2003), a collaboration between Art History, Business, and Law at Stockholm University and public exhibition partners Magasin III, Liljevalchs konsthall, and the university's own Accelerator space. Non-EU fee billed as SEK 62,500/semester (application code SU-14003).",
+    "source_url": "https://www.su.se/english/education/course-catalogue/hi/hicao"
+  },
+  {
+    "course_name": "International Master's Programme in Theatre and Performance Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Culture and Aesthetics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 180000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits. Includes internship opportunities and regular study visits to Stockholm's performing arts institutions. Non-EU fee billed as SEK 45,000/semester.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/hm/hmtvp"
+  },
+  {
+    "course_name": "Master's Programme in Art History and Cultural Heritage Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Culture and Aesthetics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits. New programme planned to start autumn semester 2026, with two alternative tracks students apply to directly: Art History or Cultural Heritage Studies. Non-EU tuition fee not yet published on the official programme page as of this pass.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/hi/hikko"
+  },
+  {
+    "course_name": "Master's Programme in Literature",
+    "degree_level": "Master's",
+    "faculty": "Department of Culture and Aesthetics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 180000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits. Jointly delivered with the Department of English, Department of Romance Studies and Classics, and Department of Slavic and Baltic Studies, Finnish, Dutch and German, but administratively owned by the Department of Culture and Aesthetics (confirmed as \"Department responsible for education\" on every specialisation's own catalogue page). Offered in 12 English-taught language specialisations, each its own application code but sharing this programme code (HMPLO) and an identical SEK 180,000 total / SEK 45,000-per-semester non-EU fee: Ancient Greek, Czech, English-language, Finnish, French-language, German-language, Italian-language, Latin, Polish, Portuguese-language, Russian, and Spanish-language Literature. A 13th specialisation, \"General and Swedish Literature\" (HMPLO-ALLM), is Swedish-taught and out of scope, so excluded here.",
+    "source_url": "https://www.su.se/department-of-culture-and-aesthetics/education/courses-and-programmes/master-s-programme-in-literature-120-credits-1.517994"
+  },
+  {
+    "course_name": "Master's Programme in AI and Language",
+    "degree_level": "Master's",
+    "faculty": "Department of Linguistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits. Interdisciplinary programme in the Faculty of Humanities combining linguistics with AI/computational methods. Non-EU fee billed as SEK 67,500/semester (application code SU-20047).",
+    "source_url": "https://www.su.se/english/education/course-catalogue/hs/hsaio"
+  },
+  {
+    "course_name": "Master's Programme in Typology and Linguistic Diversity",
+    "degree_level": "Master's",
+    "faculty": "Department of Linguistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits, including 22.5 ECTS of electives. New standalone programme planned to start autumn semester 2027, replacing the discontinued \"Master's Programme in Language Science with a Specialisation in Typology and Linguistic Diversity\" track. Non-EU tuition fee not yet published on the official programme page as of this pass.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/hl/hltdo"
+  },
+  {
+    "course_name": "Master's Programme in Fashion Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Media Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 180000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits, fully theoretical (leads to Master of Arts in Fashion Studies; does not include design/production practice). Non-EU fee billed as SEK 45,000/semester.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/hm/hmfao"
+  },
+  {
+    "course_name": "Master's Programme in Cinema Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Media Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 180000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits. Taught in Filmhuset (home of the Swedish Film Institute); theoretical/research-oriented, does not include Film Production courses. Non-EU fee billed as SEK 45,000/semester (application code SU-18007).",
+    "source_url": "https://www.su.se/english/education/course-catalogue/hm/hmovo"
+  },
+  {
+    "course_name": "Master's Programme in Global Media Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Media Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 250000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits, research-oriented. Non-EU fee billed as SEK 62,500/semester (application code SU-18006).",
+    "source_url": "https://www.su.se/english/education/course-catalogue/hm/hmkgm"
+  },
+  {
+    "course_name": "Master's Programme in Journalism Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Media Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 250000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits. Theoretical and research-oriented (not a practical journalism programme; a separate Swedish-taught \"Journalistprogrammet\" Bachelor's covers practical training). Thesis may be written in English or Swedish. Non-EU fee billed as SEK 62,500/semester (application code SU-18005).",
+    "source_url": "https://www.su.se/english/education/course-catalogue/hm/hmjoa"
+  },
+  {
+    "course_name": "Multilingualism and Second Language Acquisition",
+    "degree_level": "Master's",
+    "faculty": "Department of Swedish Language and Multilingualism",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 180000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years (4 semesters), 120 credits. Offered by the Centre for Research on Bilingualism within the Department of Swedish Language and Multilingualism. All second-cycle Bilingualism courses are taught in English; non-EU fee billed as SEK 45,000/semester (4 instalments). Programme code HFASO.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/hf/hfaso"
+  },
+  {
+    "course_name": "Latin American Studies with specialization in Spanish",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Romance Studies and Classics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "3 years (6 semesters), 180 credits. Multidisciplinary/international profile; instruction is primarily in English, with the Spanish-language courses (60 of 180 credits) conducted in Spanish. Includes option of an internship in Latin America. Non-EU fee billed as SEK 45,000/semester (6 instalments). Programme code HLASK-SPAN; the umbrella entry point (HLASK) requires choosing this specialization or the Portuguese one at application.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/sp/hlask-span"
+  },
+  {
+    "course_name": "Latin American Studies with specialization in Portuguese",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Romance Studies and Classics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "3 years (6 semesters), 180 credits. Multidisciplinary/international profile; instruction is primarily in English, with the Portuguese-language courses (60 of 180 credits) conducted in Portuguese. Includes option of an internship in Latin America. Non-EU fee billed as SEK 45,000/semester (6 instalments). Programme code HLASK-PORT; the umbrella entry point (HLASK) requires choosing this specialization or the Spanish one at application.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/hl/hlask-port"
+  },
+  {
+    "course_name": "Latin American Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Romance Studies and Classics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 180000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years (4 semesters), 120 credits, of which at least 75 credits within the main field of Latin American Studies; thesis of 30 credits in semester 4. All teaching and assessment is in English; fluency in Spanish or Portuguese is recommended but not required. Non-EU fee billed as SEK 45,000/semester (4 instalments). Programme code HLATO.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/hl/hlato"
+  },
+  {
+    "course_name": "Astronomy and Astrophysics",
+    "degree_level": "Master's",
+    "faculty": "Department of Astronomy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits. Three recommended (non-mandatory) study tracks: Planets, Galaxy evolution, Stellar physics. Offered in close collaboration with the University of Milano-Bicocca; eligible students may apply for a double Master's degree via one year of study there. Non-EU fee confirmed on the programme's own admission-round page: first instalment SEK 70,000, complete programme SEK 280,000.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/na/nasao"
+  },
+  {
+    "course_name": "Physics",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits, of which 30, 45 or 60 credits are the master thesis project. Four study tracks, each with its own application/specialization code: Particles and Cosmos (NFYSO-PACO), Quantum Matter (NFYSO-QUAN), Atomic-Molecular-Optical Physics (NFYSO-AMOP), and General Physics (NFYSO-GENP). Non-EU fee confirmed identically on the General Physics specialization's own admission-round page: first instalment SEK 70,000, complete programme SEK 280,000.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nf/nfyso"
+  },
+  {
+    "course_name": "Theoretical Physics",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits, of which 30, 45 or 60 credits are the master thesis project. Offered in collaboration with Nordita (Nordic Institute for Theoretical Physics); thesis projects up to one year long possible. Non-EU fee confirmed: first instalment SEK 70,000, complete programme SEK 280,000.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nt/ntefo"
+  },
+  {
+    "course_name": "Computational Physics",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits. Combines programming, mathematical methods and numerical analysis with physics; degree projects up to one year, in-department research groups or external companies. Non-EU fee confirmed: first instalment SEK 70,000, complete programme SEK 280,000.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nb/nbefo"
+  },
+  {
+    "course_name": "Medical Radiation Physics",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits, equivalent to the final two years of the Swedish medical-physicist track; includes hospital clinical practice in diagnostic radiology (year 1) and radiation therapy (year 2, 5 weeks clinical). Current programme code NMRPO, effective from autumn 2026, superseding the earlier NMSFO version (same content). Non-EU fee confirmed: first instalment SEK 70,000, complete programme SEK 280,000.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nm/nmrpo"
+  },
+  {
+    "course_name": "Mathematics",
+    "degree_level": "Master's",
+    "faculty": "Department of Mathematics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits, organized into a Basic Block, Profile Block, Broadening Block and a degree thesis. Joint programme with the Department of Mathematics at KTH Royal Institute of Technology, leading to a joint SU-KTH Master's degree; some courses are taken at KTH. Non-EU fee confirmed: first instalment SEK 70,000, complete programme SEK 280,000.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nm/nmklo"
+  },
+  {
+    "course_name": "Computational Mathematics",
+    "degree_level": "Master's",
+    "faculty": "Department of Mathematics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits. Two study routes depending on whether Algorithms and Complexity (or equivalent) was already completed; specialisation possible in areas such as computational biology, climate modelling, machine learning, numerical methods, and proof assistants. Non-EU fee confirmed: first instalment SEK 70,000, complete programme SEK 280,000.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nm/nmbmo"
+  },
+  {
+    "course_name": "Mathematical Statistics and Machine Learning",
+    "degree_level": "Master's",
+    "faculty": "Department of Mathematics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits: 45 credits mandatory courses, 45 credits chosen courses (specialisation), 30 credits degree project. Non-EU fee confirmed: first instalment SEK 70,000, complete programme SEK 280,000.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nm/nmsmm"
+  },
+  {
+    "course_name": "Biostatistics and Data Science",
+    "degree_level": "Master's",
+    "faculty": "Department of Mathematics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 360000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (60 mandatory). Joint programme offered by Karolinska Institutet, KTH Royal Institute of Technology and Stockholm University; courses taken across all three institutions. Non-EU fee (SEK 360,000 total) confirmed via the KTH-side fee page (fees-and-scholarships-for-biostatistics-and-data-science), since admissions/fee-setting for this joint programme is handled by KTH, not su.se.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nb/nbidm"
+  },
+  {
+    "course_name": "Atmospheric Sciences, Oceanography and Climate Physics",
+    "degree_level": "Master's",
+    "faculty": "Department of Meteorology (MISU)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; degree project 30, 45 or 60 credits. Two study courses under the same programme code NMTKO, each with its own specialization code: General focus (ALLM) and Weather Forecasting focus (PROG). First two years of the companion Bachelor's are shared with the Department of Physics; MISU-specific courses begin in year 3 of that Bachelor's. Non-EU fee confirmed on the General-focus (ALLM) admission-round page: first instalment SEK 70,000, complete programme SEK 280,000.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nm/nmtko-allm"
+  },
+  {
+    "course_name": "Organic Chemistry",
+    "degree_level": "Master's",
+    "faculty": "Department of Chemistry",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits. Non-EU fee billed as SEK 70,000/semester (first instalment) toward the SEK 280,000 whole-programme total. Confirmed via the programme's own catalogue page tuition-fee widget (browser-rendered).",
+    "source_url": "https://www.su.se/english/education/course-catalogue/no/nokeo"
+  },
+  {
+    "course_name": "Analytical Chemistry",
+    "degree_level": "Master's",
+    "faculty": "Department of Chemistry",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits. Non-EU fee billed as SEK 70,000/semester (first instalment) toward the SEK 280,000 whole-programme total.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/na/nanko"
+  },
+  {
+    "course_name": "Sustainable Chemistry",
+    "degree_level": "Master's",
+    "faculty": "Department of Chemistry",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits. Non-EU fee billed as SEK 70,000/semester (first instalment) toward the SEK 280,000 whole-programme total.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nh/nhbko"
+  },
+  {
+    "course_name": "Biochemistry with Specialization in Protein Chemistry",
+    "degree_level": "Master's",
+    "faculty": "Department of Biochemistry and Biophysics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits. Non-EU fee billed as SEK 70,000/semester (first instalment) toward the SEK 280,000 whole-programme total. Includes an optional 3rd-semester exchange abroad (e.g. University of Illinois Urbana-Champaign).",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nb/nbbko"
+  },
+  {
+    "course_name": "Neurochemistry with Molecular Neurobiology",
+    "degree_level": "Master's",
+    "faculty": "Department of Biochemistry and Biophysics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits. Non-EU fee billed as SEK 70,000/semester (first instalment) toward the SEK 280,000 whole-programme total. Programme markets itself as the only one of its kind in Europe.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nn/nneuo"
+  },
+  {
+    "course_name": "Molecular Techniques in Life Sciences",
+    "degree_level": "Master's",
+    "faculty": "Department of Biochemistry and Biophysics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 400000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits. Jointly delivered with Karolinska Institutet (KI) and KTH Royal Institute of Technology at SciLifeLab; admissions/eligibility routes to the KTH programme page. Confirmed on su.se that Department of Biochemistry and Biophysics is the department responsible for education. Non-EU fee (SEK 400,000 total) confirmed via the KTH-side fee page (fees-molecular-techniques-life-science), since fee-setting for this joint programme is handled by KTH, not su.se.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nm/nmtlo"
+  },
+  {
+    "course_name": "Molecular Life Sciences",
+    "degree_level": "Master's",
+    "faculty": "Department of Biology Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits. Non-EU fee billed as SEK 70,000/semester (first instalment) toward the SEK 280,000 whole-programme total. Confirmed \"Department responsible for education: Department of Biology Education\" on its own catalogue page, even though the Department of Molecular Biosciences, The Wenner-Gren Institute (MBW) also markets this programme prominently on its own department pages as one of 'its' two master's programmes (the other being Microbiology, recorded separately below) - recorded here under BIG per this project's rule that the official \"Department responsible for education\" field governs attribution; joint MBW delivery noted here for traceability.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nm/nmlso"
+  },
+  {
+    "course_name": "Microbiology",
+    "degree_level": "Master's",
+    "faculty": "Department of Biology Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits. Non-EU fee billed as SEK 70,000/semester (first instalment) toward the SEK 280,000 whole-programme total. Confirmed \"Department responsible for education: Department of Biology Education\" on its own catalogue page, even though the Department of Molecular Biosciences, The Wenner-Gren Institute (MBW) also markets this programme on its own department pages as one of 'its' two master's programmes - recorded here under BIG per the official field; joint MBW delivery noted here for traceability.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nm/nmiro"
+  },
+  {
+    "course_name": "Biology",
+    "degree_level": "Master's",
+    "faculty": "Department of Biology Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits. Non-EU fee billed as SEK 70,000/semester (first instalment) toward the SEK 280,000 whole-programme total. A flexible, self-designed generalist programme spanning biology broadly (not tied to one subject department); confirmed BIG-administered on its own catalogue page.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nb/nbiio"
+  },
+  {
+    "course_name": "Animal Behaviour",
+    "degree_level": "Master's",
+    "faculty": "Department of Biology Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits. Non-EU fee billed as SEK 70,000/semester (first instalment) toward the SEK 280,000 whole-programme total. Confirmed BIG-administered on its own catalogue page.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/na/nanbo"
+  },
+  {
+    "course_name": "Biodiversity and Systematics (Nordic Master's Programme)",
+    "degree_level": "Master's",
+    "faculty": "Department of Biology Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits. Non-EU fee billed as SEK 70,000/semester (first instalment) toward the SEK 280,000 whole-programme total. A Nordic collaboration between five universities with distance learning combined with intensive field/lab sessions across countries. Confirmed BIG-administered on its own catalogue page.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nb/nbbso"
+  },
+  {
+    "course_name": "Ecology and Biodiversity",
+    "degree_level": "Master's",
+    "faculty": "Department of Biology Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits. Non-EU fee billed as SEK 70,000/semester (first instalment) toward the SEK 280,000 whole-programme total. Own page states close connections to research at the (out-of-scope) Department of Zoology and Department of Ecology, Environment and Plant Sciences, but confirmed \"Department responsible for education: Department of Biology Education\" - recorded here per the project's BIG-coordination rule.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/ne/nebdo"
+  },
+  {
+    "course_name": "Evolutionary Genomics",
+    "degree_level": "Master's",
+    "faculty": "Department of Biology Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits. Non-EU fee billed as SEK 70,000/semester (first instalment) toward the SEK 280,000 whole-programme total. Confirmed BIG-administered on its own catalogue page.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/ne/nevgo"
+  },
+  {
+    "course_name": "Marine Biology",
+    "degree_level": "Master's",
+    "faculty": "Department of Biology Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits. Non-EU fee billed as SEK 70,000/semester (first instalment) toward the SEK 280,000 whole-programme total. Uses the Askö and Tjärnö field stations. Confirmed BIG-administered on its own catalogue page.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nm/nmabo"
+  },
+  {
+    "course_name": "Social-Ecological Resilience for Sustainable Development",
+    "degree_level": "Master's",
+    "faculty": "Department of Biology Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits. Non-EU fee billed as SEK 70,000/semester (first instalment) toward the SEK 280,000 whole-programme total. A transdisciplinary programme on coupled social-ecological systems; confirmed BIG-administered on its own catalogue page.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/ns/nsrho"
+  },
+  {
+    "course_name": "Environmental Science – Atmosphere, Biogeochemistry and Climate",
+    "degree_level": "Master's",
+    "faculty": "Department of Environmental Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits. Non-EU fee billed as a SEK 70,000 first instalment toward the SEK 280,000 whole-programme total.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/na/nabco"
+  },
+  {
+    "course_name": "Environmental Science – Environmental Toxicology and Chemistry",
+    "degree_level": "Master's",
+    "faculty": "Department of Environmental Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits. Non-EU fee billed as a SEK 70,000 first instalment toward the SEK 280,000 whole-programme total.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/ne/netco"
+  },
+  {
+    "course_name": "Transdisciplinary Studies of Climate, Environment and Energy (TRACEE)",
+    "degree_level": "Master's",
+    "faculty": "Department of Environmental Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "4 semesters, 120 ECTS credits. Joint CIVIS European University Alliance programme, administratively based at the Department of Environmental Science (confirmed on its own course-catalogue page): Semester 1 (30 ECTS) foundation at Stockholm University, Semesters 2-3 (60 ECTS) specialisation on one of 9 named study tracks each co-delivered with specific CIVIS partner universities (e.g. Environmental Social Sciences with Glasgow/Bucharest; Energy and Matter with Madrid/Stockholm; Environmental Chemistry and Toxicology with Tubingen; Climate Change Science with Athens/Tubingen; Environmental Risks and Mitigation with Lausanne/Rome; Global Change Biology with Rome/Aix-en-Provence, etc.), Semester 4 (30 ECTS) thesis at one of the CIVIS partner universities of the chosen track, leading to a joint or multiple degree. Non-EU fee genuinely varies by study track and is not published as one figure on the base programme page (e.g. the Environmental Social Sciences track's own page confirms SEK 196,000 total, SEK 49,000 first instalment) — recorded as null per project rule rather than guessing a single figure for the whole programme.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nc/nceeo"
+  },
+  {
+    "course_name": "Earth Science, Distance Learning",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Geological Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 420000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "3 years, 180 ECTS credits. At least 75% (135 credits) delivered as self-paced distance-learning courses with no mandatory meetings; includes 3 obligatory on-campus intensive practical geoscience courses (laboratory and field studies, roughly one week each) plus an independent research project. Non-EU fee billed as a SEK 70,000 first instalment toward the SEK 420,000 whole-programme total.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/ng/ngdjk"
+  },
+  {
+    "course_name": "Geological Sciences",
+    "degree_level": "Master's",
+    "faculty": "Department of Geological Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits. Two specializations: Geology, and Marine Geology. Non-EU fee billed as a SEK 70,000 first instalment toward the SEK 280,000 whole-programme total.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nm/nmgeo"
+  },
+  {
+    "course_name": "Geochemistry",
+    "degree_level": "Master's",
+    "faculty": "Department of Geological Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits. Non-EU fee billed as a SEK 70,000 first instalment toward the SEK 280,000 whole-programme total.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nm/nmgko"
+  },
+  {
+    "course_name": "Landscape Ecology",
+    "degree_level": "Master's",
+    "faculty": "Department of Physical Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits. Non-EU fee billed as a SEK 70,000 first instalment toward the SEK 280,000 whole-programme total.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nl/nlako"
+  },
+  {
+    "course_name": "Geomatics with Remote Sensing and GIS",
+    "degree_level": "Master's",
+    "faculty": "Department of Physical Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits. Non-EU fee billed as a SEK 70,000 first instalment toward the SEK 280,000 whole-programme total.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/ng/ngfog"
+  },
+  {
+    "course_name": "Water Resources",
+    "degree_level": "Master's",
+    "faculty": "Department of Physical Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits. Non-EU fee billed as a SEK 70,000 first instalment toward the SEK 280,000 whole-programme total.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nv/nvato"
+  },
+  {
+    "course_name": "Environmental Management and Physical Planning",
+    "degree_level": "Master's",
+    "faculty": "Department of Physical Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (normal structure: 4 compulsory courses plus up to 30 optional credits). Its own course-catalogue page states the programme is CANCELLED for academic year 2026-2027 due to unforeseen circumstances, with no replacement information published yet; no tuition-fee figure is currently rendered on the page as a result. Kept as a real, named, currently-listed programme (not discontinued) per this project's precedent for temporarily-not-running programmes elsewhere in this project; non-EU fee needs a manual re-check once the programme resumes.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/nm/nmifo"
+  },
+  {
+    "course_name": "Polar Landscapes and Quaternary Climate",
+    "degree_level": "Master's",
+    "faculty": "Department of Physical Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 280000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits. Begins with a field excursion to northern Scandinavia. Non-EU fee billed as a SEK 70,000 first instalment toward the SEK 280,000 whole-programme total.",
+    "source_url": "https://www.su.se/english/education/course-catalogue/np/npolo"
+  }
+]

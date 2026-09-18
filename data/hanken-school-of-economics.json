@@ -1,0 +1,112 @@
+[
+  {
+    "course_name": "Bachelor in Science (Economics and Business Administration)",
+    "degree_level": "Bachelor's",
+    "faculty": "Hanken School of Economics",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "EUR", "period": "year" },
+      "non_eu_students": { "amount": 12000, "currency": "EUR", "period": "year" }
+    },
+    "duration": "3 years, 180 ECTS; Helsinki campus (the separate Swedish-taught Bachelor's is also offered at Vaasa, not this English-taught one, per its own page); single common admission — after mandatory first-year foundation courses, students choose 1 of 5 majors: Marketing, Accounting, Finance, Economics, or Management and Entrepreneurship (Finance major has additional entry requirements); majors are not separately admitted/coded; admission to this Bachelor's automatically includes the integrated pathway into Hanken's 2-year Master's without a separate Master's application; 25% early-commitment discount (to ~€9,000/yr) available if admission is accepted and paid within 21 days",
+    "source_url": "https://www.hanken.fi/en/apply/programmes/bachelors-degree-studies/bachelor-programme-english"
+  },
+  {
+    "course_name": "Accounting",
+    "degree_level": "Master's",
+    "faculty": "Department of Accounting and Commercial Law",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "EUR", "period": "year" },
+      "non_eu_students": { "amount": 15000, "currency": "EUR", "period": "year" }
+    },
+    "duration": "2 years, 120 ECTS; Helsinki campus; 25% early-commitment discount (to ~€11,250/yr) available if admission is accepted (within 21 days) and paid within 21 days",
+    "source_url": "https://www.hanken.fi/en/departments-centres/department-accounting-and-commercial-law/subject-accounting/masters-degree"
+  },
+  {
+    "course_name": "Economics",
+    "degree_level": "Master's",
+    "faculty": "Department of Finance and Economics",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "EUR", "period": "year" },
+      "non_eu_students": { "amount": 15000, "currency": "EUR", "period": "year" }
+    },
+    "duration": "2 years, 120 ECTS; delivered jointly through Helsinki GSE (Helsinki Graduate School of Economics) with Aalto University and the University of Helsinki; one single Master's programme with two tracks — applicants are admitted by default to the General study track (gMSc), and can additionally apply through a separate internal application process for the Research track (rMSc); 25% early-commitment discount (to ~€11,250/yr) available if admission is accepted and paid within 21 days",
+    "source_url": "https://www.hanken.fi/en/departments-centres/department-finance-and-economics/economics/masters-degree-studies"
+  },
+  {
+    "course_name": "Finance",
+    "degree_level": "Master's",
+    "faculty": "Department of Finance and Economics",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "EUR", "period": "year" },
+      "non_eu_students": { "amount": 15000, "currency": "EUR", "period": "year" }
+    },
+    "duration": "2 years, 120 ECTS; Helsinki campus; 25% early-commitment discount (to ~€11,250/yr) available if admission is accepted and paid within 21 days",
+    "source_url": "https://www.hanken.fi/en/node/19311"
+  },
+  {
+    "course_name": "Intellectual Property and Business Law",
+    "degree_level": "Master's",
+    "faculty": "Department of Accounting and Commercial Law",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "EUR", "period": "year" },
+      "non_eu_students": { "amount": 15000, "currency": "EUR", "period": "year" }
+    },
+    "duration": "2 years, 120 ECTS (incl. 30 ECTS thesis, research seminar, research methodology, business ethics); Helsinki campus; 2 specializations: Intellectual Property Law, or Business Law; 25% early-commitment discount (to ~€11,250/yr) available if admission is accepted and paid within 21 days",
+    "source_url": "https://www.hanken.fi/en/node/2538833"
+  },
+  {
+    "course_name": "International Strategy and Sustainability",
+    "degree_level": "Master's",
+    "faculty": "Department of Management and Organisation",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "EUR", "period": "year" },
+      "non_eu_students": { "amount": 15000, "currency": "EUR", "period": "year" }
+    },
+    "duration": "2 years, 120 ECTS; Helsinki campus; leads to Master of Science (Economics and Business Administration); this is the English-taught Management and Organisation Master's offered at the Helsinki campus (the department's separate 'Entrepreneurship, Management and Organisation' Master's is Swedish-taught only, confirmed on its own page, and is out of scope); 25% early-commitment discount (to ~€11,250/yr) available if admission is accepted and paid within 21 days",
+    "source_url": "https://www.hanken.fi/en/departments-centres/department-management-and-organisation/management-and-organisation/masters"
+  },
+  {
+    "course_name": "Marketing",
+    "degree_level": "Master's",
+    "faculty": "Department of Marketing",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "EUR", "period": "year" },
+      "non_eu_students": { "amount": 15000, "currency": "EUR", "period": "year" }
+    },
+    "duration": "2 years, 120 ECTS (90 ECTS programme-tied studies in Marketing, plus language requirements and electives); offered at both Helsinki and Vaasa campuses, each with a different course offering; 25% early-commitment discount (to ~€11,250/yr) available if admission is accepted and paid within 21 days",
+    "source_url": "https://www.hanken.fi/en/departments-centres/department-marketing/subject-marketing/masters-studies"
+  },
+  {
+    "course_name": "Supply Chain Management",
+    "degree_level": "Master's",
+    "faculty": "Department of Marketing",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "EUR", "period": "year" },
+      "non_eu_students": { "amount": 15000, "currency": "EUR", "period": "year" }
+    },
+    "duration": "2 years, 120 ECTS; Helsinki campus; 2 specializations: Humanitarian Logistics, or Sustainable Supply Chain Management; includes a Project Course with industry partners; 25% early-commitment discount (to ~€11,250/yr) available if admission is accepted and paid within 21 days",
+    "source_url": "https://www.hanken.fi/en/departments-centres/department-marketing/subject-scm-and-social-responsibility/masters-studies"
+  },
+  {
+    "course_name": "Marketing and Management",
+    "degree_level": "Master's",
+    "faculty": "Department of Management and Organisation",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "EUR", "period": "year" },
+      "non_eu_students": { "amount": 15000, "currency": "EUR", "period": "year" }
+    },
+    "duration": "2 years, 120 ECTS; Vaasa campus; leads to Master of Science (Economics and Business Administration); the English-taught Management and Organisation Master's option based at Vaasa (Helsinki's English-taught equivalent is 'International Strategy and Sustainability'); 25% early-commitment discount (to ~€11,250/yr) available if admission is accepted and paid within 21 days",
+    "source_url": "https://www.hanken.fi/en/departments-centres/department-management-and-organisation/management-and-organisation/masters"
+  },
+  {
+    "course_name": "Sustainability Reporting and Financial Analysis",
+    "degree_level": "Master's",
+    "faculty": "Department of Accounting and Commercial Law",
+    "tuition_fee": {
+      "eu_students": { "amount": 0, "currency": "EUR", "period": "year" },
+      "non_eu_students": { "amount": null, "currency": "EUR", "period": "year" }
+    },
+    "duration": "1 year, 60 ECTS; double degree with Umeå School of Business, Economics and Statistics (USBE), Sweden — Semester 1 at Umeå, Semester 2 at Hanken's Vaasa campus, thesis completed at Hanken; graduates receive degrees from both universities; marketed as the first one-year Master's by a university/business school in Finland; applications go through the Swedish universityadmissions.se portal; Hanken's own tuition-fees page explicitly excludes Double Degree programme participants from the 25% early-commitment discount (implying a real non-EU fee applies) but no confirmed per-programme fee figure is published on any hanken.fi page — recorded as not listed rather than assumed pro-rata from the standard €15,000/yr 120-ECTS Master's rate",
+    "source_url": "https://www.hanken.fi/en/departments-centres/department-accounting-and-commercial-law/subject-accounting/masters-double"
+  }
+]

@@ -1,0 +1,2389 @@
+[
+  {
+    "course_name": "Accounting and Finance",
+    "degree_level": "Bachelor's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "3 years, full-time (DC115)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/business-school/accounting-and-finance"
+  },
+  {
+    "course_name": "Bachelor of Business Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "3 or 4 years, full-time (DC111; optional 3rd-year work placement/study abroad; final-year specialisation in HR Management, Business Economics, Finance, Marketing, Operations Management, or Business Analytics)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/business-school/business-studies"
+  },
+  {
+    "course_name": "Business Studies International",
+    "degree_level": "Bachelor's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (DC110; combines business with French, German, Spanish, Chinese or Japanese; Year 3 abroad at a partner institution)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/business-school/business-studies-international"
+  },
+  {
+    "course_name": "Digital Business and Innovation",
+    "degree_level": "Bachelor's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (DC241; Year 3 full-year paid INTRA work placement)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/business-school/digital-business-and-innovation"
+  },
+  {
+    "course_name": "Marketing, Innovation and Technology",
+    "degree_level": "Bachelor's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (DC240; Year 3 paid INTRA work placement or optional study-abroad year)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/business-school/marketing-innovation-and-technology"
+  },
+  {
+    "course_name": "Aviation Management",
+    "degree_level": "Bachelor's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (DC117, common-entry; shared curriculum through Year 3, then diverges into Aviation Management, Aviation Management with Pilot Studies, or Aviation Management with Air Traffic Controller Studies streams in Year 4; Pilot Studies stream involves separate, non-tuition flight-training costs of approx. €75,000–€100,000)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/business-school/aviation-managementaviation-management-pilot-studiesaviation-management"
+  },
+  {
+    "course_name": "Global Business (Canada)",
+    "degree_level": "Bachelor's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (DC119; dual-award with Brock University, Ontario — Years 1-2 at DCU with Irish placement, Years 3-4 at Brock with Canadian placement; option to remain at DCU for Year 4)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/business-school/global-business-canada"
+  },
+  {
+    "course_name": "Global Business (France)",
+    "degree_level": "Bachelor's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (DC112; dual-award with Neoma Business School, France — Years 1-2 at DCU with Irish placement, Years 3-4 at Neoma with French placement)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/business-school/global-business-france"
+  },
+  {
+    "course_name": "Global Business (Germany)",
+    "degree_level": "Bachelor's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (DC113; dual-award with European School of Business, Reutlingen, Germany — Years 1-2 at DCU, Years 3-4 in Germany)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/business-school/global-business-germany"
+  },
+  {
+    "course_name": "Global Business (Spain)",
+    "degree_level": "Bachelor's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (DC114; dual-award with ICADE, Universidad Pontificia Comillas, Madrid — Years 1-2 at DCU, Years 3-4 in Spain)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/business-school/global-business-spain"
+  },
+  {
+    "course_name": "Global Business (USA)",
+    "degree_level": "Bachelor's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (DC116; dual-award with University of Massachusetts — Years 1-2 at DCU with Irish placement, Years 3-4 at UMass with US internship)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/business-school/global-business-usa"
+  },
+  {
+    "course_name": "Accounting",
+    "degree_level": "Master's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23000,
+        "period": "year"
+      }
+    },
+    "duration": "12 months, full-time (DC501)",
+    "source_url": "https://business.dcu.ie/course/msc-in-accounting/"
+  },
+  {
+    "course_name": "Business Analytics and Artificial Intelligence",
+    "degree_level": "Master's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23000,
+        "period": "year"
+      }
+    },
+    "duration": "12 months, full-time (DC538 September intake / DC560 January intake; programme renamed from \"MSc in Business Analytics\")",
+    "source_url": "https://business.dcu.ie/course/msc-in-business-analytics/"
+  },
+  {
+    "course_name": "Digital Marketing",
+    "degree_level": "Master's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23000,
+        "period": "year"
+      }
+    },
+    "duration": "12 months, full-time (DC516)",
+    "source_url": "https://business.dcu.ie/course/msc-in-digital-marketing/"
+  },
+  {
+    "course_name": "Finance",
+    "degree_level": "Master's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23000,
+        "period": "year"
+      }
+    },
+    "duration": "12 months, full-time (DC511; September & January intakes)",
+    "source_url": "https://business.dcu.ie/course/finance/"
+  },
+  {
+    "course_name": "Global Management (Digital Disruption)",
+    "degree_level": "Master's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23000,
+        "period": "year"
+      }
+    },
+    "duration": "12 months, full-time (DC527; fee is for the DCU-only pathway with no study abroad — double-degree pathway priced separately)",
+    "source_url": "https://business.dcu.ie/course/msc-global-management/"
+  },
+  {
+    "course_name": "Human Resource Management",
+    "degree_level": "Master's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23000,
+        "period": "year"
+      }
+    },
+    "duration": "12 months, full-time (DC632)",
+    "source_url": "https://business.dcu.ie/course/human-resource-management/"
+  },
+  {
+    "course_name": "International Accounting and Business",
+    "degree_level": "Master's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23000,
+        "period": "year"
+      }
+    },
+    "duration": "12 months, full-time (DC526)",
+    "source_url": "https://business.dcu.ie/course/msc-in-international-accounting-and-business/"
+  },
+  {
+    "course_name": "Management (Business)",
+    "degree_level": "Master's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23000,
+        "period": "year"
+      }
+    },
+    "duration": "12 months, full-time (DC510; for graduates of non-business disciplines; includes 20,000-word dissertation)",
+    "source_url": "https://business.dcu.ie/course/management-business/"
+  },
+  {
+    "course_name": "Management (Operations and Supply Chain)",
+    "degree_level": "Master's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23000,
+        "period": "year"
+      }
+    },
+    "duration": "12 months, full-time (DC537)",
+    "source_url": "https://business.dcu.ie/course/msc-in-management-operations-and-supply-chain/"
+  },
+  {
+    "course_name": "Management (Strategy)",
+    "degree_level": "Master's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23000,
+        "period": "year"
+      }
+    },
+    "duration": "12 months, full-time (DC514; January & September intakes)",
+    "source_url": "https://business.dcu.ie/course/management-strategy/"
+  },
+  {
+    "course_name": "Quantitative Economics for Business and Management",
+    "degree_level": "Master's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23000,
+        "period": "year"
+      }
+    },
+    "duration": "12 months, full-time (DC540, QuEB)",
+    "source_url": "https://business.dcu.ie/course/quantitative-economics/"
+  },
+  {
+    "course_name": "Quantitative Economics for International Business and Management",
+    "degree_level": "Master's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 15900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 30700,
+        "period": "year"
+      }
+    },
+    "duration": "18 months, full-time (DC541, QuEBIT)",
+    "source_url": "https://business.dcu.ie/course/quantitative-economics-ib/"
+  },
+  {
+    "course_name": "Executive MBA",
+    "degree_level": "Master's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 14000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 27100,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time (DC951; blended delivery, Thursdays 2-9pm plus ~3 Saturdays per semester)",
+    "source_url": "https://business.dcu.ie/course/executive-mba/"
+  },
+  {
+    "course_name": "Business Administration",
+    "degree_level": "Master's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 11900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23000,
+        "period": "year"
+      }
+    },
+    "duration": "4 semesters (2 years), full-time (DC521)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/business-school/msc-business-administration"
+  },
+  {
+    "course_name": "Emergency Management",
+    "degree_level": "Master's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time, block release (DC956; ~2 consecutive days per month; not eligible for non-EU applicants requiring a study visa, as visas are only granted for full-time programmes)",
+    "source_url": "https://business.dcu.ie/course/emergency-management/"
+  },
+  {
+    "course_name": "Work and Organisational Psychology",
+    "degree_level": "Master's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time, one evening per week (DC508; CIPD- and PSI-accredited stream for psychology graduates; not eligible for non-EU applicants requiring a study visa, as visas are only granted for full-time programmes)",
+    "source_url": "https://business.dcu.ie/course/work-and-organisational-psychology-behaviour/"
+  },
+  {
+    "course_name": "Work and Organisational Behaviour",
+    "degree_level": "Master's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time, one evening per week (DC957; CIPD-accredited stream open to graduates of any discipline; not eligible for non-EU applicants requiring a study visa, as visas are only granted for full-time programmes)",
+    "source_url": "https://business.dcu.ie/course/work-and-organisational-psychology-behaviour/"
+  },
+  {
+    "course_name": "Strategic Learning and Development",
+    "degree_level": "Master's",
+    "faculty": "DCU Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 14900,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, mostly online with 2-3 in-person days per semester (DC534; delivered with the Learning & Development Institute)",
+    "source_url": "https://business.dcu.ie/course/msc-in-strategic-learning-and-development/"
+  },
+  {
+    "course_name": "Bachelor of Education in Early Childhood",
+    "degree_level": "Bachelor's",
+    "faculty": "DCU Institute of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/institute-education/early-childhood-education"
+  },
+  {
+    "course_name": "Bachelor of Education (Primary Teaching)",
+    "degree_level": "Bachelor's",
+    "faculty": "DCU Institute of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time. Also admitted via restricted-entry alternate pathways with identical curriculum/fees: Gaeltacht Applicants Pathway (DC003), Church of Ireland/Reformed Christian Pathway (DC004); the Irish Sign Language Pathway (DC005) had no entry route in 2026",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/institute-education/bachelor-education-primary-teaching"
+  },
+  {
+    "course_name": "Bachelor of Religious Education and English",
+    "degree_level": "Bachelor's",
+    "faculty": "DCU Institute of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/institute-education/religious-education-and-english"
+  },
+  {
+    "course_name": "Bachelor of Religious Education and History",
+    "degree_level": "Bachelor's",
+    "faculty": "DCU Institute of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/institute-education/religious-education-and-history"
+  },
+  {
+    "course_name": "Bachelor of Religious Education and Music",
+    "degree_level": "Bachelor's",
+    "faculty": "DCU Institute of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (restricted entry: H4 in Music or equivalent, plus aural/performance tests)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/institute-education/religious-education-and-music"
+  },
+  {
+    "course_name": "Bachelor of Education in Gaeilge and French or German or Spanish",
+    "degree_level": "Bachelor's",
+    "faculty": "DCU Institute of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time, including a Gaeltacht internship and a placement in a French/German/Spanish-speaking country",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/institute-education/bachelor-education-gaeilge-and-french-or-german-or"
+  },
+  {
+    "course_name": "Bachelor of Education in Technology, Engineering and Graphics",
+    "degree_level": "Bachelor's",
+    "faculty": "DCU Institute of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time. Delivered in partnership with Technological University of the Shannon (TUS): years 1-2 at TUS Athlone, years 3-4 at DCU Institute of Education, St Patrick's Campus",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/institute-education/bachelor-education-technology-engineering-and-graphics"
+  },
+  {
+    "course_name": "Bachelor of Science in Science and Mathematics Education",
+    "degree_level": "Bachelor's",
+    "faculty": "DCU Institute of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (specialisation combines Mathematics with Physics or Chemistry)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/institute-education/bachelor-science-science-and-mathematics-education"
+  },
+  {
+    "course_name": "Bachelor of Science in Education and Training",
+    "degree_level": "Bachelor's",
+    "faculty": "DCU Institute of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (Level 8 Honours); an optional 4th year is available leading to the honours BSc in Education and Training (Further, Adult and Continuing Education), which enables Teaching Council of Ireland registration as a Further Education Teacher",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/institute-education/bachelor-science-education-and-training"
+  },
+  {
+    "course_name": "Master of Education",
+    "degree_level": "Master's",
+    "faculty": "DCU Institute of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 8700,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time. Students choose a specialisation pathway: Educational Leadership or STEM Education",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/institute-education/master-education"
+  },
+  {
+    "course_name": "Master of Education (MEd) in Special Educational Needs",
+    "degree_level": "Master's",
+    "faculty": "School of Inclusive and Special Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 8000,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/institute-education/master-education-med-special-educational-needs"
+  },
+  {
+    "course_name": "Master of Education in Early Childhood Education",
+    "degree_level": "Master's",
+    "faculty": "DCU Institute of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 9500,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/institute-education/master-education-early-childhood-education"
+  },
+  {
+    "course_name": "Master of Education in Literacy Professional Practice",
+    "degree_level": "Master's",
+    "faculty": "DCU Institute of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 8700,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, blended online and on-campus delivery, for classroom teachers",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/institute-education/master-education-literacy"
+  },
+  {
+    "course_name": "MEd in Specific Learning Difficulties (Dyslexia)",
+    "degree_level": "Master's",
+    "faculty": "DCU Institute of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "year_1": 8900,
+        "year_2": 9900
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/institute-education/med-specific-learning-difficulties-dyslexia"
+  },
+  {
+    "course_name": "MSc in Education and Training Management (eLearning)",
+    "degree_level": "Master's",
+    "faculty": "DCU Institute of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 8700,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/institute-education/msc-education-and-training-management-elearning"
+  },
+  {
+    "course_name": "MSc in Education and Training Management (Leadership)",
+    "degree_level": "Master's",
+    "faculty": "DCU Institute of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4500,
+        "year_2": 5800
+      },
+      "non_eu_students": {
+        "year_1": 8700,
+        "year_2": 9900
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/institute-education/msc-education-and-training-management-leadership"
+  },
+  {
+    "course_name": "MSc in Guidance Counselling",
+    "degree_level": "Master's",
+    "faculty": "DCU Institute of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 9900,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/institute-education/msc-guidance-counselling"
+  },
+  {
+    "course_name": "MA in Chaplaincy Studies and Pastoral Work",
+    "degree_level": "Master's",
+    "faculty": "DCU Institute of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15800,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (part-time option over 2 years also available: EU 4,200/yr, Non-EU 8,700/yr)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/institute-education/ma-chaplaincy-studies-and-pastoral-work"
+  },
+  {
+    "course_name": "Professional Master of Education (Post-Primary Education)",
+    "degree_level": "Master's",
+    "faculty": "DCU Institute of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4900,
+        "year_2": 5500
+      },
+      "non_eu_students": {
+        "amount": 9900,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/institute-education/professional-master-education-post-primary-education"
+  },
+  {
+    "course_name": "Professional Master of Education (Primary Teaching)",
+    "degree_level": "Master's",
+    "faculty": "DCU Institute of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, full-time",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/institute-education/professional-master-education-primary-teaching"
+  },
+  {
+    "course_name": "Computer Science",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Computing",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (DC121)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-computing/computer-science"
+  },
+  {
+    "course_name": "Computing for Business",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Computing",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (DC120)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-computing/computing-business"
+  },
+  {
+    "course_name": "Data Science and Artificial Intelligence",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Computing",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (DC123)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-computing/data-science"
+  },
+  {
+    "course_name": "Common Entry into Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "Faculty of Engineering and Computing",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2543,
+        "year_2": 6800
+      },
+      "non_eu_students": {
+        "year_1": 17900,
+        "year_2": 19400
+      }
+    },
+    "duration": "4 years (DC200); common first year, then transfer in Year 2 into one of: Mechanical and Manufacturing Engineering, Electronic and Computer Engineering, Biomedical Engineering, Mechatronic Engineering, or Mechanical and Sustainability Engineering; optional 5th year integrated Master's available on the chosen stream (Years 1-4 charged at the standard EU Student Contribution rate shown as year_1 above; Year 5, the integrated Master's year, is not covered by Free Fees and is charged at the higher EU Status Fee rate shown as year_2)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-electronic-engineering/common-entry-engineering"
+  },
+  {
+    "course_name": "Electronic and Computer Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Electronic Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2543,
+        "year_2": 6800
+      },
+      "non_eu_students": {
+        "year_1": 17900,
+        "year_2": 19400
+      }
+    },
+    "duration": "4 years (DC190), BEng; optional 5th year integrated Master's (Level 9) available, fourth-year specialisms: Systems and Devices, High-Speed Networks, Digital Interaction, or Internet of Things",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-electronic-engineering/electronic-and-computer-engineering"
+  },
+  {
+    "course_name": "Mechatronic Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Mechanical and Manufacturing Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2543,
+        "year_2": 6800
+      },
+      "non_eu_students": {
+        "year_1": 16400,
+        "year_2": 19400
+      }
+    },
+    "duration": "4 years (DC193), BEng; optional 5th year integrated Master's (Level 9) available",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-mechanical-and-manufacturing-engineering/mechatronic-engineering"
+  },
+  {
+    "course_name": "Mechanical and Manufacturing Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Mechanical and Manufacturing Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2543,
+        "year_2": 6800
+      },
+      "non_eu_students": {
+        "year_1": 17900,
+        "year_2": 19400
+      }
+    },
+    "duration": "4 years (DC195), BEng; optional 5th year integrated Master's (Level 9) available",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-mechanical-and-manufacturing-engineering/mechanical-and-manufacturing"
+  },
+  {
+    "course_name": "Mechanical and Sustainability Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Mechanical and Manufacturing Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2543,
+        "year_2": 6800
+      },
+      "non_eu_students": {
+        "year_1": 17900,
+        "year_2": 19400
+      }
+    },
+    "duration": "4 years (DC194), BEng; optional 5th year integrated Master's (Level 9) available",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-mechanical-and-manufacturing-engineering/Sustainability-Engineering"
+  },
+  {
+    "course_name": "Biomedical Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Mechanical and Manufacturing Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 2543,
+        "year_2": 6800
+      },
+      "non_eu_students": {
+        "year_1": 17900,
+        "year_2": 19400
+      }
+    },
+    "duration": "4 years (DC197), BEng; optional 5th year integrated Master's in Mechanical and Manufacturing Engineering (Biomedical Major) available",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-mechanical-and-manufacturing-engineering/biomedical-engineering"
+  },
+  {
+    "course_name": "Computing",
+    "degree_level": "Master's",
+    "faculty": "School of Computing",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 25000,
+        "period": "year"
+      }
+    },
+    "duration": "Full-time: 1 year (2 years if starting January intake); part-time: 2 years (DC836). Majors: Artificial Intelligence, Artificial Intelligence with Natural Language Processing, Data Analytics, Cybersecurity. Non-EU International Scholarship available reducing fee by €5,000",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-computing/msc-computing-major-options"
+  },
+  {
+    "course_name": "Electronic and Computer Engineering",
+    "degree_level": "Master's",
+    "faculty": "School of Electronic Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 25000,
+        "period": "year"
+      }
+    },
+    "duration": "Full-time: 1 year; part-time: 2-4 years (DC883), MEng. Optional specialisms: Physical AI, Internet of Things Devices, Semiconductor Engineering & IC Design, Photonic Systems, Data and Telecommunications Networks. Non-EU International Scholarship available reducing fee by €5,000",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-electronic-engineering/meng-electronic-and-computer-engineering"
+  },
+  {
+    "course_name": "Electronic and Computer Technology",
+    "degree_level": "Master's",
+    "faculty": "School of Electronic Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 25000,
+        "period": "year"
+      }
+    },
+    "duration": "Full-time: 1 year (September intake) or 18 months (January intake); part-time: 2-4 years (DC877), MSc. Majors: general, IoT Systems, Edge & IoT Security. Non-EU International Scholarship available reducing fee by €5,000",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-electronic-engineering/msc-electronic-computer-technology"
+  },
+  {
+    "course_name": "Mechanical and Manufacturing Engineering",
+    "degree_level": "Master's",
+    "faculty": "School of Mechanical and Manufacturing Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 25000,
+        "period": "year"
+      }
+    },
+    "duration": "Full-time: 1 year; part-time: 2-4 years (DC814), MEng. Specialisation pathways: Simulation-driven Design, Advanced Manufacturing, Sustainable Systems and Energy, or Biomedical Engineering",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-mechanical-and-manufacturing-engineering/meng-mechanical-and"
+  },
+  {
+    "course_name": "Applied Language and Translation Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Applied Language and Intercultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17300,
+        "period": "year"
+      }
+    },
+    "duration": "3 or 4 years (optional Year 4 for study abroad or paid internship)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/salis/applied-language-and-translation-studies"
+  },
+  {
+    "course_name": "Arts: Joint Honours (Humanities)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Communications",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17300,
+        "period": "year"
+      }
+    },
+    "duration": "3 or 4 years (4-year option includes a year abroad, graduating as BA Joint Honours International); subject streams: English, Gaeilge, Human Development, Philosophy, History, Music, Geography, World Religions and Theology",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-communications/arts-joint-honours-humanities"
+  },
+  {
+    "course_name": "Arts: Joint Honours (International Languages)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Applied Language and Intercultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17300,
+        "period": "year"
+      }
+    },
+    "duration": "3 or 4 years (optional 4th year with year abroad); language streams: French, German, Spanish",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/salis/arts-joint-honours-international-languages"
+  },
+  {
+    "course_name": "Arts: Joint Honours (Law)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law and Government",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17300,
+        "period": "year"
+      }
+    },
+    "duration": "3 or 4 years (optional 4th year for study abroad or INTRA placement)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-law-and-government/arts-joint-honours-law"
+  },
+  {
+    "course_name": "Arts: Joint Honours (Media Studies)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Communications",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17300,
+        "period": "year"
+      }
+    },
+    "duration": "3 or 4 years (optional 4th year international component)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-communications/arts-joint-honours-media-studies"
+  },
+  {
+    "course_name": "Arts: Joint Honours (Politics)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law and Government",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17300,
+        "period": "year"
+      }
+    },
+    "duration": "3 or 4 years (optional 4th year international/study abroad option)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-law-and-government/arts-joint-honours-politics"
+  },
+  {
+    "course_name": "Bachelor of Civil Law (BCL)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law and Government",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17300,
+        "period": "year"
+      }
+    },
+    "duration": "3 years (optional 4th year for study abroad or INTRA placement)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-law-and-government/bachelor-civil-law-bcl"
+  },
+  {
+    "course_name": "Climate and Environmental Sustainability",
+    "degree_level": "Bachelor's",
+    "faculty": "School of History and Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17300,
+        "period": "year"
+      }
+    },
+    "duration": "3 or 4 years (optional 4th year for study abroad or INTRA placement)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-history-and-geography/climate-and-environmental-sustainability"
+  },
+  {
+    "course_name": "Communication Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Communications",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17300,
+        "period": "year"
+      }
+    },
+    "duration": "3 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-communications/communication-studies"
+  },
+  {
+    "course_name": "Economics, Politics and Law",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law and Government",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17300,
+        "period": "year"
+      }
+    },
+    "duration": "3 or 4 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-law-and-government/economics-politics-and-law"
+  },
+  {
+    "course_name": "Gnó agus Gaeilge",
+    "degree_level": "Bachelor's",
+    "faculty": "Fiontar agus Scoil na Gaeilge",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17300,
+        "period": "year"
+      }
+    },
+    "duration": "3 or 4 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/fiontar-scoil-na-gaeilge/gno-agus-gaeilge"
+  },
+  {
+    "course_name": "International Relations",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law and Government",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17300,
+        "period": "year"
+      }
+    },
+    "duration": "3 or 4 years (optional year abroad or INTRA placement)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-law-and-government/international-relations"
+  },
+  {
+    "course_name": "Jazz and Contemporary Music Performance",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Theology, Philosophy and Music",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17300,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-theology-philosophy-and-music/jazz-and-contemporary-music-performance"
+  },
+  {
+    "course_name": "Journalism",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Communications",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17300,
+        "period": "year"
+      }
+    },
+    "duration": "3 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-communications/journalism"
+  },
+  {
+    "course_name": "Multimedia",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Communications",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17300,
+        "period": "year"
+      }
+    },
+    "duration": "3 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-communications/multimedia"
+  },
+  {
+    "course_name": "Social Sciences and Cultural Innovation",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Applied Language and Intercultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17300,
+        "period": "year"
+      }
+    },
+    "duration": "3 or 4 years (optional 4th year for study abroad or INTRA placement)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/salis/social-sciences-and-cultural-innovation"
+  },
+  {
+    "course_name": "Theology and Religious Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Theology, Philosophy and Music",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 or 5 years, part-time modular programme (fees priced per 7.5-credit module: EUR 420 EU / EUR 847.50 Non-EU, plus a EUR 130 registration charge and EUR 40 levy; no standard annual figure published on page)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-theology-philosophy-and-music/theology-and-religious-studies"
+  },
+  {
+    "course_name": "MSc sa Bhainistíocht agus Gnó Digiteach",
+    "degree_level": "Master's",
+    "faculty": "Fiontar agus Scoil na Gaeilge",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 8500,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time only (taught two Saturdays per month); no full-time option",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/fiontar-scoil-na-gaeilge/msc-sa-bhainistiocht-agus-gno-digiteach"
+  },
+  {
+    "course_name": "Children's and Young Adult Literature",
+    "degree_level": "Master's",
+    "faculty": "School of English",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-english/ma-childrens-and-young-adult-literature"
+  },
+  {
+    "course_name": "Climate Change: Policy, Media and Society",
+    "degree_level": "Master's",
+    "faculty": "School of Law and Government",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-law-and-government/msc-climate-change-policy-media-and-society"
+  },
+  {
+    "course_name": "Creative Music Performance",
+    "degree_level": "Master's",
+    "faculty": "School of Theology, Philosophy and Music",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; no part-time option",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-theology-philosophy-and-music/ma-creative-music-performance"
+  },
+  {
+    "course_name": "Creative Writing",
+    "degree_level": "Master's",
+    "faculty": "School of English",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-english/ma-creative-writing"
+  },
+  {
+    "course_name": "Documentary Practice",
+    "degree_level": "Master's",
+    "faculty": "School of Communications",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; no part-time option",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-communications/ma-documentary-practice"
+  },
+  {
+    "course_name": "Emerging Media",
+    "degree_level": "Master's",
+    "faculty": "School of Communications",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; no part-time option",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-communications/msc-emerging-media"
+  },
+  {
+    "course_name": "Ethics",
+    "degree_level": "Master's",
+    "faculty": "School of Theology, Philosophy and Music",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 8500,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time only; no full-time option (six taught modules plus a minor thesis)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-theology-philosophy-and-music/ma-ethics"
+  },
+  {
+    "course_name": "Gender and Sexuality Studies",
+    "degree_level": "Master's",
+    "faculty": "School of Applied Language and Intercultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time); delivered collaboratively by multiple Schools across the Faculty of Humanities and Social Sciences",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/salis/ma-gender-and-sexuality-studies"
+  },
+  {
+    "course_name": "History",
+    "degree_level": "Master's",
+    "faculty": "School of History and Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-history-and-geography/ma-history"
+  },
+  {
+    "course_name": "International Relations",
+    "degree_level": "Master's",
+    "faculty": "School of Law and Government",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-law-and-government/ma-international-relations"
+  },
+  {
+    "course_name": "International Security and Conflict Studies",
+    "degree_level": "Master's",
+    "faculty": "School of Law and Government",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-law-and-government/ma-international-security-and-conflict-studies"
+  },
+  {
+    "course_name": "Journalism",
+    "degree_level": "Master's",
+    "faculty": "School of Communications",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; no part-time option",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-communications/ma-journalism"
+  },
+  {
+    "course_name": "European Master in Law, Data and Artificial Intelligence",
+    "degree_level": "Master's",
+    "faculty": "School of Law and Government",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10424,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20919,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time (120 ECTS); joint European Master delivered with EU partner universities",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-law-and-government/european-master-law-data-and-artificial-intelligence"
+  },
+  {
+    "course_name": "Léann na Gaeilge",
+    "degree_level": "Master's",
+    "faculty": "Fiontar agus Scoil na Gaeilge",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16800,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/fiontar-scoil-na-gaeilge/ma-i-leann-na-gaeilge"
+  },
+  {
+    "course_name": "Laws (LLM)",
+    "degree_level": "Master's",
+    "faculty": "School of Law and Government",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time); six pathways: General, European Law, International Human Rights Law, Public Law, Policing/Crime and Security, Business and Trade Law and Market Regulation",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-law-and-government/llm"
+  },
+  {
+    "course_name": "Music, Sound, Culture and Media",
+    "degree_level": "Master's",
+    "faculty": "School of Theology, Philosophy and Music",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time); jointly delivered by School of Communications and School of Theology, Philosophy and Music, hybrid format with mandatory in-person summer school",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-theology-philosophy-and-music/ma-music-sound-culture-and-media"
+  },
+  {
+    "course_name": "Political Communication",
+    "degree_level": "Master's",
+    "faculty": "School of Communications",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-communications/ma-political-communication"
+  },
+  {
+    "course_name": "Public Policy",
+    "degree_level": "Master's",
+    "faculty": "School of Law and Government",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-law-and-government/msc-public-policy"
+  },
+  {
+    "course_name": "Public Relations and Strategic Communications",
+    "degree_level": "Master's",
+    "faculty": "School of Communications",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (54 weeks, includes a three-month supervised work placement); no part-time option",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-communications/msc-public-relations-and-strategic-communications"
+  },
+  {
+    "course_name": "Refugee Integration",
+    "degree_level": "Master's",
+    "faculty": "School of Applied Language and Intercultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/salis/ma-refugee-integration"
+  },
+  {
+    "course_name": "Science and Health Communication",
+    "degree_level": "Master's",
+    "faculty": "School of Communications",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-communications/msc-science-and-health-communication"
+  },
+  {
+    "course_name": "Security, Intelligence and Strategic Studies: International Master",
+    "degree_level": "Master's",
+    "faculty": "School of Law and Government",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years full-time; Erasmus Mundus joint international master (IMSISS), fees are set by the international consortium and not published on dcu.ie",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-law-and-government/international-master-security-intelligence-and"
+  },
+  {
+    "course_name": "Social Media Communications",
+    "degree_level": "Master's",
+    "faculty": "School of Communications",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-communications/ma-social-media-communications"
+  },
+  {
+    "course_name": "Theology and World Religions",
+    "degree_level": "Master's",
+    "faculty": "School of Theology, Philosophy and Music",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-theology-philosophy-and-music/ma-theology-and-world-religions"
+  },
+  {
+    "course_name": "Translation Studies",
+    "degree_level": "Master's",
+    "faculty": "School of Applied Language and Intercultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; no part-time option",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/salis/ma-translation-studies"
+  },
+  {
+    "course_name": "Translation Technology",
+    "degree_level": "Master's",
+    "faculty": "School of Applied Language and Intercultural Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time; no part-time option",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/salis/msc-translation-technology"
+  },
+  {
+    "course_name": "Actuarial Mathematics",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Mathematical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-mathematical-sciences/actuarial-mathematics"
+  },
+  {
+    "course_name": "Common Entry into Actuarial and Financial Mathematics",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Mathematical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (2+2: common first two years, then specialise into Actuarial Mathematics or Financial Mathematics for years 3-4; Financial Mathematics has no separate CAO code and is only reachable via this route)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-mathematical-sciences/common-entry-actuarial-and-financial-mathematics"
+  },
+  {
+    "course_name": "Chemical Sciences General Entry",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Chemical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (1+3: common first year, then choose Analytical Science, Chemical and Pharmaceutical Sciences, or Chemistry with Artificial Intelligence for years 2-4)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-chemical-sciences/chemical-sciences-general-entry"
+  },
+  {
+    "course_name": "Analytical Science",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Chemical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-chemical-sciences/analytical-science"
+  },
+  {
+    "course_name": "Chemical and Pharmaceutical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Chemical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-chemical-sciences/chemical-and-pharmaceutical-sciences"
+  },
+  {
+    "course_name": "Chemistry with Artificial Intelligence",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Chemical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-chemical-sciences/chemistry-artificial-intelligence"
+  },
+  {
+    "course_name": "Environmental Science and Technology",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Chemical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 15900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-chemical-sciences/environmental-science-and-technology"
+  },
+  {
+    "course_name": "Biological Sciences General Entry",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Biotechnology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (1+3: common first year, then choose a specialisation for years 2-4; Bioprocessing has no separate CAO code and is only reachable via this route, while Biotechnology and Genetics and Cell Biology also have their own direct CAO entry)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-biotechnology/biological-sciences-general-entry"
+  },
+  {
+    "course_name": "Biotechnology",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Biotechnology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-biotechnology/biotechnology"
+  },
+  {
+    "course_name": "Genetics and Cell Biology",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Biotechnology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-biotechnology/genetics-and-cell-biology"
+  },
+  {
+    "course_name": "Physics General Entry",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Physical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (1+3: common first year, then choose Applied Physics, Physics with Astronomy, Physics with Biomedical Sciences, or Physics with Data Analytics for years 2-4; none of these four streams currently has its own separate CAO code, all entry is via this General Entry route)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-physical-sciences/physics-general-entry"
+  },
+  {
+    "course_name": "Athletic Therapy and Training",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Health and Human Performance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20100,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (BSc Hons); optional 5th year leads to an integrated MSc in Athletic Therapy and Strength and Conditioning, conditional on achieving H2.2 or higher in Years 1-2 (Year 5 fees differ: EU Student Contribution stays €2,543, Non-EU €17,200)",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-health-and-human-performance/athletic-therapy-and-training-athletic"
+  },
+  {
+    "course_name": "Physical Education with Biology",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Health and Human Performance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-health-and-human-performance/physical-education-biology"
+  },
+  {
+    "course_name": "Physical Education with Mathematics",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Health and Human Performance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-health-and-human-performance/physical-education-mathematics"
+  },
+  {
+    "course_name": "Sport Science and Health",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Health and Human Performance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-health-and-human-performance/sport-science-and-health"
+  },
+  {
+    "course_name": "Health and Society",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing, Psychotherapy and Community Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "3 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-nursing-psychotherapy-and-community-health/health-and-society"
+  },
+  {
+    "course_name": "Nursing (Children's and General Integrated)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing, Psychotherapy and Community Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23000,
+        "period": "year"
+      }
+    },
+    "duration": "4.5 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-nursing-psychotherapy-and-community-health/nursing-childrens-and"
+  },
+  {
+    "course_name": "Nursing (General)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing, Psychotherapy and Community Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-nursing-psychotherapy-and-community-health/nursing-general"
+  },
+  {
+    "course_name": "Nursing (Intellectual Disability)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing, Psychotherapy and Community Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-nursing-psychotherapy-and-community-health/nursing-intellectual"
+  },
+  {
+    "course_name": "Nursing (Mental Health)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing, Psychotherapy and Community Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23000,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-nursing-psychotherapy-and-community-health/nursing-mental-health"
+  },
+  {
+    "course_name": "Psychology",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-psychology/psychology"
+  },
+  {
+    "course_name": "Psychology and Disruptive Technologies",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-psychology/psychology-and-disruptive-technologies"
+  },
+  {
+    "course_name": "Psychology and Mathematics",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 2543,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-psychology/psychology-and-mathematics"
+  },
+  {
+    "course_name": "Bachelor of Arts in Psychology",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4-8 years, part-time/modular, fully online (min. 4 years); charged per module rather than annually: EU €1,110/module, Non-EU €1,650/module, plus a fixed €130 registration charge and €40 levy",
+    "source_url": "https://www.dcu.ie/courses/undergraduate/school-psychology/bachelor-arts-psychology"
+  },
+  {
+    "course_name": "MSc in Bioprocess Engineering",
+    "degree_level": "Master's",
+    "faculty": "School of Biotechnology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (part-time option also available, minimum 1 year continuous, typically completed over 2 years)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-biotechnology/msc-bioprocess-engineering"
+  },
+  {
+    "course_name": "MSc in Biotherapeutics",
+    "degree_level": "Master's",
+    "faculty": "School of Biotechnology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time option also available)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-biotechnology/msc-biotherapeutics"
+  },
+  {
+    "course_name": "MSc in Diagnostics and Precision Medicine",
+    "degree_level": "Master's",
+    "faculty": "School of Biotechnology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 23000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2-4 years part-time option also available)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-biotechnology/msc-diagnostics-and-precision-medicine"
+  },
+  {
+    "course_name": "MSc in Elite Sport Performance",
+    "degree_level": "Master's",
+    "faculty": "School of Health and Human Performance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 9400,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, blended delivery",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-health-and-human-performance/msc-elite-sport-performance"
+  },
+  {
+    "course_name": "MSc in Physiotherapy",
+    "degree_level": "Master's",
+    "faculty": "School of Health and Human Performance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 13000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 25900,
+        "period": "year"
+      }
+    },
+    "duration": "2 years full-time (90 ECTS/year across 3 semesters, incl. 1000 hours supervised clinical practice)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-health-and-human-performance/msc-physiotherapy"
+  },
+  {
+    "course_name": "MSc in Financial Mathematics",
+    "degree_level": "Master's",
+    "faculty": "School of Mathematical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6700,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17700,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time option also available)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-mathematical-sciences/msc-financial-mathematics"
+  },
+  {
+    "course_name": "MSc in Health and Social Inclusion",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing, Psychotherapy and Community Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 9400,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time only (no full-time option)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-nursing-psychotherapy-and-community-health/msc-health-and-social"
+  },
+  {
+    "course_name": "MSc in Psychotherapy",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing, Psychotherapy and Community Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 13600,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, part-time professional training programme (NFQ Level 9, 120 credits)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-nursing-psychotherapy-and-community-health/msc-psychotherapy"
+  },
+  {
+    "course_name": "MSc in Specialist Nursing",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing, Psychotherapy and Community Health",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 4900,
+        "year_2": 2300
+      },
+      "non_eu_students": {
+        "amount": 9400,
+        "period": "year"
+      }
+    },
+    "duration": "2 years part-time, blended learning; two strands to choose from (same fee for both): Chronic Disease Management, Women's Health",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-nursing-psychotherapy-and-community-health/msc-specialist-nursing"
+  },
+  {
+    "course_name": "MSc in Psychology and Wellbeing",
+    "degree_level": "Master's",
+    "faculty": "School of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16800,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time option also available: EU €4,900/yr, Non-EU €8,500/yr)",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-psychology/msc-psychology-and-wellbeing"
+  },
+  {
+    "course_name": "MSc in Psychology (Conversion)",
+    "degree_level": "Master's",
+    "faculty": "School of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16800,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, accredited by the Psychological Society of Ireland",
+    "source_url": "https://www.dcu.ie/courses/postgraduate/school-psychology/msc-psychology-conversion"
+  }
+]

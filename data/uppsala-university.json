@@ -1,0 +1,2320 @@
+[
+  {
+    "course_name": "Archaeology",
+    "degree_level": "Master's",
+    "faculty": "Department of Archaeology, Ancient History and Conservation",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with Archaeology as main field; 60-credit/1-year exit option available; offered at Uppsala or Campus Gotland; source quotes SEK 57,000/semester (first instalment), SEK 228,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-archaeology"
+  },
+  {
+    "course_name": "Egyptology",
+    "degree_level": "Master's",
+    "faculty": "Department of Archaeology, Ancient History and Conservation",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with Egyptology as main field; 60-credit/1-year exit option available; source quotes SEK 57,000/semester (first instalment), SEK 228,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-egyptology"
+  },
+  {
+    "course_name": "Egyptology",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Archaeology, Ancient History and Conservation",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 297000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "3 years, 180 credits, Bachelor of Arts with Egyptology as main field; source quotes SEK 49,500/semester (first instalment), SEK 297,000 programme total over 3 years",
+    "source_url": "https://www.uu.se/en/study/programme/bachelors-programme-egyptology"
+  },
+  {
+    "course_name": "Classical Archaeology and Ancient History",
+    "degree_level": "Master's",
+    "faculty": "Department of Archaeology, Ancient History and Conservation",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with Classical Archaeology and Ancient History as main field; 60-credit/1-year exit option available; source quotes SEK 57,000/semester (first instalment), SEK 228,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-classical-archaeology-and-ancient-history"
+  },
+  {
+    "course_name": "Cultural Heritage and Sustainability",
+    "degree_level": "Master's",
+    "faculty": "Department of Archaeology, Ancient History and Conservation",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with Conservation as main field; 60-credit/1-year exit option available; delivered at Campus Gotland (Visby), jointly with the Department of Art History; source quotes SEK 57,000/semester (first instalment), SEK 228,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-cultural-heritage-and-sustainability"
+  },
+  {
+    "course_name": "Global Environmental History",
+    "degree_level": "Master's",
+    "faculty": "Department of Archaeology, Ancient History and Conservation",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with Global Environmental History as main field; jointly delivered with the Departments of Art History, Economic History, Human Geography, CEMUS, and SLU, examined at Archaeology, Ancient History and Conservation; source quotes SEK 57,000/semester (first instalment), SEK 228,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-global-environmental-history"
+  },
+  {
+    "course_name": "Cultural Anthropology",
+    "degree_level": "Master's",
+    "faculty": "Department of Cultural Anthropology and Ethnology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with Cultural Anthropology as main field; 60-credit/1-year exit option available; source quotes SEK 57,000/semester (first instalment), SEK 228,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-cultural-anthropology"
+  },
+  {
+    "course_name": "Ethnology and Folkloristics",
+    "degree_level": "Master's",
+    "faculty": "Department of Cultural Anthropology and Ethnology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with Ethnology as main field; 60-credit/1-year exit option available; source quotes SEK 57,000/semester (first instalment), SEK 228,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-ethnology-and-folkloristics"
+  },
+  {
+    "course_name": "Game Design and Graphics",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Game Design",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 378000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "3 years, 180 credits, Bachelor of Arts with Game Design as main field; Campus Gotland (Visby); source quotes SEK 63,000/semester (first instalment), SEK 378,000 programme total over 3 years",
+    "source_url": "https://www.uu.se/en/study/programme/bachelors-programme-game-design-and-graphics"
+  },
+  {
+    "course_name": "Game Design and Level Design",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Game Design",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 378000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "3 years, 180 credits, Bachelor of Arts with Game Design as main field; Campus Gotland (Visby); source quotes SEK 63,000/semester (first instalment), SEK 378,000 programme total over 3 years",
+    "source_url": "https://www.uu.se/en/study/programme/bachelors-programme-game-design-and-level-design"
+  },
+  {
+    "course_name": "Game Design and Programming",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Game Design",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 378000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "3 years, 180 credits, Bachelor of Arts with Game Design as main field; Campus Gotland (Visby); source quotes SEK 63,000/semester (first instalment), SEK 378,000 programme total over 3 years",
+    "source_url": "https://www.uu.se/en/study/programme/bachelors-programme-game-design-and-programming"
+  },
+  {
+    "course_name": "Game Design and Project Management",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Game Design",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 378000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "3 years, 180 credits, Bachelor of Arts with Game Design as main field; Campus Gotland (Visby); source quotes SEK 63,000/semester (first instalment), SEK 378,000 programme total over 3 years",
+    "source_url": "https://www.uu.se/en/study/programme/bachelors-programme-game-design-and-project-management"
+  },
+  {
+    "course_name": "Game Design",
+    "degree_level": "Master's",
+    "faculty": "Department of Game Design",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 276000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with Game Design as main field; Campus Gotland (Visby); source quotes SEK 69,000/semester (first instalment), SEK 276,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-game-design"
+  },
+  {
+    "course_name": "Experimental Game Design and Development",
+    "degree_level": "Master's",
+    "faculty": "Department of Game Design",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 138000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "1 year, 60 credits (Magisterexamen), Master of Arts with Game Design as main field; Campus Gotland (Visby); new programme; source quotes SEK 69,000/semester (first instalment), SEK 138,000 programme total over 1 year",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-experimental-game-design-and-development"
+  },
+  {
+    "course_name": "Transformative Game Design",
+    "degree_level": "Master's",
+    "faculty": "Department of Game Design",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 138000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "60 credits (Magisterexamen), Master of Arts with Game Design as main field; delivered fully online at half-time pace over 2 academic years (not annualized due to part-time delivery); non-EU fee is a whole-programme total (SEK 69,000 first instalment)",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-transformative-game-design"
+  },
+  {
+    "course_name": "Holocaust and Genocide Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 297000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "3 years, 180 credits, Bachelor of Arts with Holocaust and Genocide Studies as main field; source quotes SEK 49,500/semester (first instalment), SEK 297,000 programme total over 3 years",
+    "source_url": "https://www.uu.se/en/study/programme/bachelors-programme-holocaust-and-genocide-studies"
+  },
+  {
+    "course_name": "Holocaust and Genocide Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with Holocaust and Genocide Studies as main field; source quotes SEK 57,000/semester (first instalment), SEK 228,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-holocaust-and-genocide-studies"
+  },
+  {
+    "course_name": "Early Modern History",
+    "degree_level": "Master's",
+    "faculty": "Department of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with History as main field, covering roughly 1350-1850; 60-credit/1-year exit option available; programme's own page states it will not accept applications for autumn 2027 (still active for autumn 2026); no tuition fee figure published on the official page",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-early-modern-history"
+  },
+  {
+    "course_name": "Modern History",
+    "degree_level": "Master's",
+    "faculty": "Department of History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with History as main field; 60-credit/1-year exit option available; programme's own page states it will not accept applications for autumn 2027 (still active for autumn 2026); no tuition fee figure published on the official page",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-modern-history"
+  },
+  {
+    "course_name": "Musicology",
+    "degree_level": "Master's",
+    "faculty": "Department of Musicology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with Musicology as main field; 60-credit/1-year exit option available; source quotes SEK 57,000/semester (first instalment), SEK 228,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-musicology"
+  },
+  {
+    "course_name": "Aesthetics",
+    "degree_level": "Master's",
+    "faculty": "Department of Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with Aesthetics as main field; 60-credit/1-year exit option available; source quotes SEK 57,000/semester (first instalment), SEK 228,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-aesthetics"
+  },
+  {
+    "course_name": "Philosophy",
+    "degree_level": "Master's",
+    "faculty": "Department of Philosophy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with specialisation in Theoretical or Practical Philosophy; 60-credit/1-year exit option available; source quotes SEK 57,000/semester (first instalment), SEK 228,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-philosophy"
+  },
+  {
+    "course_name": "Gender Studies",
+    "degree_level": "Master's",
+    "faculty": "Centre for Gender Research",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with Gender Research as main field; 60-credit/1-year exit option available; mandatory courses taught in English, thesis may be written in English, Swedish or another Scandinavian language; source quotes SEK 57,000/semester (first instalment), SEK 228,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-gender-studies"
+  },
+  {
+    "course_name": "English – American Literature and Culture",
+    "degree_level": "Master's",
+    "faculty": "Department of English",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with English as main field; 60-credit/1-year exit option available; source quotes SEK 57,000/semester (first instalment), SEK 228,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-english-american-literature-and-culture"
+  },
+  {
+    "course_name": "English – English Literature",
+    "degree_level": "Master's",
+    "faculty": "Department of English",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with English as main field; 60-credit/1-year exit option available; source quotes SEK 57,000/semester (first instalment), SEK 228,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-english-english-literature"
+  },
+  {
+    "course_name": "English – English Linguistics",
+    "degree_level": "Master's",
+    "faculty": "Department of English",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with English as main field; 60-credit/1-year exit option available; source quotes SEK 57,000/semester (first instalment), SEK 228,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-english-english-linguistics"
+  },
+  {
+    "course_name": "Languages – General Linguistics",
+    "degree_level": "Master's",
+    "faculty": "Department of Linguistics and Philology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with General Linguistics as main field, one of 8 specialisations within the Master's Programme in Languages (only General Linguistics, German and Turkic Languages are taught in English; the others are Swedish-taught); 60-credit/1-year exit option available; source quotes SEK 57,000/semester (first instalment), SEK 228,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-languages-general-linguistics"
+  },
+  {
+    "course_name": "Languages – Turkic Languages",
+    "degree_level": "Master's",
+    "faculty": "Department of Linguistics and Philology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with Turkic Languages as main field, one of 8 specialisations within the Master's Programme in Languages; 60-credit/1-year exit option available; source quotes SEK 57,000/semester (first instalment), SEK 228,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-languages-turkic-languages"
+  },
+  {
+    "course_name": "Turkic Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Linguistics and Philology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with Turkic Languages as main field; double-degree programme with Johannes Gutenberg University Mainz (Germany) — Year 1 at Uppsala, Year 2 at Mainz, graduating with degrees from both institutions; source quotes SEK 57,000/semester (approx. SEK 228,000 programme total over 2 years)",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-turkic-studies"
+  },
+  {
+    "course_name": "Language Technology",
+    "degree_level": "Master's",
+    "faculty": "Department of Linguistics and Philology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 276000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with Language Technology as main field; source quotes SEK 69,000/semester (first instalment), SEK 276,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-language-technology"
+  },
+  {
+    "course_name": "Languages – German",
+    "degree_level": "Master's",
+    "faculty": "Department of Modern Languages",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts with German as main field, one of 8 specialisations within the Master's Programme in Languages; instruction in German and English; 60-credit/1-year exit option available; source quotes SEK 57,000/semester (first instalment), SEK 228,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-languages-german"
+  },
+  {
+    "course_name": "Religion and European Public Life",
+    "degree_level": "Master's",
+    "faculty": "Department of Theology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 114000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "1 year, 60 credits (Magisterexamen), Master of Theology with Religion and European Public Life as main field; new programme; source quotes SEK 57,000/semester (first instalment), SEK 114,000 programme total over 1 year",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-religion-and-european-public-life"
+  },
+  {
+    "course_name": "Religion in Peace and Conflict",
+    "degree_level": "Master's",
+    "faculty": "Department of Theology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts in Theology with Religious Studies as main field; delivered online/distance with one mandatory on-campus week in Uppsala per year (semesters 1 and 3); 60-credit/1-year exit option available; source quotes SEK 57,000/semester (first instalment), SEK 228,000 programme total over 2 years",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-religion-peace-conflict"
+  },
+  {
+    "course_name": "International Humanitarian Action",
+    "degree_level": "Master's",
+    "faculty": "Department of Theology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts in Theology; Erasmus Mundus Joint Master's delivered via the NOHA network (Network on Humanitarian Action) across at least two of 8 core European partner universities, at least one semester spent outside Sweden; taught in English at Uppsala (French/Spanish used at some partner universities); EXCEPTION to Sweden's normal EU=0 rule — the programme's own page states 'all students (including citizens of an EU/EEA country or Switzerland) are required to pay tuition fees,' but does not publish the fee amount on uu.se (see external NOHA/consortium site for figures)",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-international-humanitarian-action"
+  },
+  {
+    "course_name": "Humanitarian Action and Conflict",
+    "degree_level": "Master's",
+    "faculty": "Department of Theology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 114000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "1 year, 60 credits (Magisterexamen), Master of Arts in Theology with International Humanitarian Action as main field; source quotes SEK 57,000/semester (first instalment), SEK 114,000 programme total over 1 year",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-humanitarian-action-and-conflict"
+  },
+  {
+    "course_name": "Euroculture",
+    "degree_level": "Master's",
+    "faculty": "Department of Theology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 credits (Masterexamen), Master of Arts in Theology with Euroculture as main field; Erasmus Mundus Joint Master's ('Euroculture: Society, Politics and Culture in a Global Context') across 6 European partner institutions, minimum one semester studied outside Sweden; taught in English; EXCEPTION to Sweden's normal EU=0 rule — the programme's own page states 'all students (including citizens of an EU/EEA country or Switzerland) are required to pay tuition fees,' but does not publish the fee amount on uu.se (see external Euroculture consortium site for figures)",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-euroculture"
+  },
+  {
+    "course_name": "Accounting, Governance and Financial Analysis",
+    "degree_level": "Master's",
+    "faculty": "Department of Business Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Science in Business and Economics with Business Studies as the main field of study; part of the Master's Programme in Accounting and Financial Management; non-EU fee is a whole-programme total billed in 4 semester instalments of SEK 57,000, no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-accounting-and-financial-management-accounting-governance-and-financial-analysis"
+  },
+  {
+    "course_name": "Strategic Management Control",
+    "degree_level": "Master's",
+    "faculty": "Department of Business Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Science in Business and Economics with Business Studies as the main field of study; part of the Master's Programme in Accounting and Financial Management; non-EU fee is a whole-programme total billed in 4 semester instalments of SEK 57,000, no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-accounting-and-financial-management-strategic-management-control"
+  },
+  {
+    "course_name": "Business and Management - Entrepreneurship",
+    "degree_level": "Master's",
+    "faculty": "Department of Business Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Science in Business and Economics with Business Studies as the main field of study; specialisation track within the Master's Programme in Business and Management; non-EU fee is a whole-programme total billed in 4 semester instalments of SEK 57,000, no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-business-and-management-entrepreneurship"
+  },
+  {
+    "course_name": "Business and Management - International Business",
+    "degree_level": "Master's",
+    "faculty": "Department of Business Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Science in Business and Economics with Business Studies as the main field of study; specialisation track within the Master's Programme in Business and Management; non-EU fee is a whole-programme total billed in 4 semester instalments of SEK 57,000, no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-business-and-management-international-business"
+  },
+  {
+    "course_name": "Business and Management - Marketing",
+    "degree_level": "Master's",
+    "faculty": "Department of Business Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Science in Business and Economics with Business Studies as the main field of study; specialisation track within the Master's Programme in Business and Management; non-EU fee is a whole-programme total billed in 4 semester instalments of SEK 57,000, no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-business-and-management-marketing"
+  },
+  {
+    "course_name": "Business and Management - Organisation",
+    "degree_level": "Master's",
+    "faculty": "Department of Business Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Science in Business and Economics with Business Studies as the main field of study; specialisation track within the Master's Programme in Business and Management; non-EU fee is a whole-programme total billed in 4 semester instalments of SEK 57,000, no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-business-and-management-organisation"
+  },
+  {
+    "course_name": "Sustainable Management",
+    "degree_level": "Master's",
+    "faculty": "Department of Business Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 114000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "1 year, 60 ECTS credits (Magisterexamen); degree awarded is Master of Science in Business and Economics with Business Studies as the main field of study; taught on Campus Gotland; non-EU fee is a whole-programme total billed in 2 semester instalments of SEK 57,000, no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-sustainable-management"
+  },
+  {
+    "course_name": "Global Markets, Local Creativities (GLOCAL)",
+    "degree_level": "Master's",
+    "faculty": "Department of Economic History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Social Science with Economic History as the main field of study; EXCEPTION to the standard Uppsala fee rule - the programme's own page states 'all students (including citizens of an EU/EEA country or Switzerland) are required to pay tuition fees' for this programme, but no specific SEK amount is published on the page for either EU/EEA or non-EU students",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-global-markets-local-creativities"
+  },
+  {
+    "course_name": "Economics",
+    "degree_level": "Master's",
+    "faculty": "Department of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Social Science with Economics as the main field of study; non-EU fee is a whole-programme total billed in 4 semester instalments of SEK 57,000, no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-economics"
+  },
+  {
+    "course_name": "Political Science",
+    "degree_level": "Master's",
+    "faculty": "Department of Government",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Science in Political Sciences, with Political Science or Development Studies as the main field of study; the department's own Bachelor's Programme in Political Sciences is confirmed taught in Swedish, so no Bachelor's record exists for this department; non-EU fee is a whole-programme total billed in 4 semester instalments of SEK 57,000, no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-political-science"
+  },
+  {
+    "course_name": "Human Geography",
+    "degree_level": "Master's",
+    "faculty": "Department of Human Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Social Science with Human Geography as the main field of study; non-EU fee is a whole-programme total billed in 4 semester instalments of SEK 57,000, no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/masters-studies/master%E2%80%99s-programme-human-geography"
+  },
+  {
+    "course_name": "Digital Media and Society",
+    "degree_level": "Master's",
+    "faculty": "Department of Informatics and Media",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Social Science with Media and Communication Studies as the main field of study; non-EU fee is a whole-programme total billed in 4 semester instalments of SEK 57,000, no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/master-programme-in-digital-media-and-society"
+  },
+  {
+    "course_name": "Human-Computer Interaction",
+    "degree_level": "Master's",
+    "faculty": "Department of Informatics and Media",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 276000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Social Science with Human-Computer Interaction as the main field of study; non-EU fee is a whole-programme total billed in 4 semester instalments of SEK 69,000, no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-human-computer-interaction"
+  },
+  {
+    "course_name": "Information Systems",
+    "degree_level": "Master's",
+    "faculty": "Department of Informatics and Media",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 276000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Social Science with Information Systems as the main field of study; non-EU fee is a whole-programme total billed in 4 semester instalments of SEK 69,000, no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-information-systems"
+  },
+  {
+    "course_name": "Peace and Conflict Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Peace and Conflict Research",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Social Science with Peace and Conflict Studies as the main field of study; the department also runs a Bachelor Programme in Peace and Development Studies, but that programme's own official page states its language of instruction is Swedish and requires knowledge of Swedish, so it was excluded despite the department's own study-listing page loosely describing the department as English-medium; non-EU fee is a whole-programme total billed in 4 semester instalments of SEK 57,000, no annual breakdown published",
+    "source_url": "https://www.uu.se/en/department/peace-and-conflict-research/study/master-programme-in-peace-and-conflict-studies"
+  },
+  {
+    "course_name": "Psychology",
+    "degree_level": "Master's",
+    "faculty": "Department of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 276000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen), with the option to exit after 1 year/60 credits; degree awarded is Master of Science with Psychology as the main field of study; non-EU fee is a whole-programme total billed in 4 semester instalments of SEK 69,000, no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/masters-studies/masters-programme-psychology"
+  },
+  {
+    "course_name": "Sociology",
+    "degree_level": "Master's",
+    "faculty": "Department of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Social Science with Sociology as the main field of study; non-EU fee is a whole-programme total billed in 4 semester instalments of SEK 57,000, no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-sociology"
+  },
+  {
+    "course_name": "Statistics and Data Science",
+    "degree_level": "Master's",
+    "faculty": "Department of Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 276000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Social Science with Statistics as the main field of study; the department has no standalone Bachelor's programme of its own, statistics is only a major subject within other bachelor's programmes; non-EU fee is a whole-programme total billed in 4 semester instalments of SEK 69,000, no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-statistics-and-data-science"
+  },
+  {
+    "course_name": "Russian and Eurasian Studies",
+    "degree_level": "Master's",
+    "faculty": "Institute for Russian and Eurasian Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Social Science with Eurasian Studies as the main field of study; run by the Institute for Russian and Eurasian Studies (IRES) in cooperation with the Department of Informatics and Media and the Department of Modern Languages; non-EU fee is a whole-programme total billed in 4 semester instalments of SEK 57,000, no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masterprogram-rysslands-och-eurasienstudier"
+  },
+  {
+    "course_name": "Sociology of Education",
+    "degree_level": "Master's",
+    "faculty": "Department of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 228000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Arts with Sociology of Education as the main field of study; this is the only English-taught programme found for the Department of Education - no English-taught Bachelor's exists here; non-EU fee is a whole-programme total billed in 4 semester instalments of SEK 57,000, no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/masters-studies/master-s-programme-in-sociology-of-education"
+  },
+  {
+    "course_name": "Investment Treaty Arbitration",
+    "degree_level": "Master's",
+    "faculty": "Department of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 114000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "1 year, 60 ECTS credits (LLM/Magisterexamen); degree awarded is Master of Laws (LLM) with Legal Science as the main field of study; non-EU fee is a whole-programme total billed in 2 semester instalments of SEK 57,000, no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-investment-treaty-arbitration"
+  },
+  {
+    "course_name": "Environmental Law (NOMPEL)",
+    "degree_level": "Master's",
+    "faculty": "Department of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; Joint Nordic Master's Programme in Environmental Law (NOMPEL) with University of Eastern Finland and UiT The Arctic University of Norway - degree awarded is Master of Legal Science (Uppsala University), Master of International and Comparative Law (Univ. of Eastern Finland), or Master of Laws (UiT); confirmed non-EU fee for only the first semester spent at Uppsala is SEK 57,000 (per semester); fees for the remaining semesters are set independently by the partner universities in Finland and Norway and are not published on Uppsala's own page, so no whole-programme total could be confirmed",
+    "source_url": "https://www.uu.se/en/study/programme/joint-nordic-masters-programme-environmental-law"
+  },
+  {
+    "course_name": "Forensic Science",
+    "degree_level": "Master's",
+    "faculty": "Department of Immunology, Genetics and Pathology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Medical Science with Forensic Science as the main field of study; non-EU fee is a whole-programme total (first instalment SEK 82,500), no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-forensic-science"
+  },
+  {
+    "course_name": "Medical Nuclide Techniques",
+    "degree_level": "Master's",
+    "faculty": "Department of Immunology, Genetics and Pathology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Medical Science with Medical Nuclide Techniques as the main field of study; option to exit with a 60-credit degree after year 1; non-EU fee is a whole-programme total (first instalment SEK 82,500), no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-medical-nuclide-techniques"
+  },
+  {
+    "course_name": "Molecular Medicine",
+    "degree_level": "Master's",
+    "faculty": "Department of Immunology, Genetics and Pathology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Medical Science with Molecular Medicine as the main field of study; non-EU fee is a whole-programme total (first instalment SEK 82,500), no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-molecular-medicine"
+  },
+  {
+    "course_name": "Precision Medicine",
+    "degree_level": "Master's",
+    "faculty": "Department of Immunology, Genetics and Pathology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Medical Science with Precision Medicine as the main field of study; non-EU fee is a whole-programme total (first instalment SEK 82,500), no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-precision-medicine"
+  },
+  {
+    "course_name": "Innovative Medicine",
+    "degree_level": "Master's",
+    "faculty": "Department of Immunology, Genetics and Pathology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); International Master's Programme in Innovative Medicine (IMIM), a joint programme with the University of Groningen, Heidelberg University, and the University of Tartu; year 1 at any partner university, year 2 at Groningen, Uppsala, or Tartu; leads to Master of Medical Science plus an equivalent degree from the partner university (double degree); EXCEPTION to Sweden's normal EU/EEA/Swiss fee-free rule -- the programme's own page states 'all students (including citizens of a EU/EEA country or Switzerland) are required to pay tuition fees', but no SEK amount is published on uu.se, which instead directs applicants to the external consortium site innovativemedicine.eu for figures",
+    "source_url": "https://www.uu.se/en/study/programme/international-masters-programme-innovative-medicine"
+  },
+  {
+    "course_name": "Infection Biology",
+    "degree_level": "Master's",
+    "faculty": "Department of Medical Biochemistry and Microbiology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Medical Science with Infection Biology as the main field of study; non-EU fee is a whole-programme total (first instalment SEK 82,500), no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-infection-biology"
+  },
+  {
+    "course_name": "Medical Research",
+    "degree_level": "Master's",
+    "faculty": "Department of Medical Biochemistry and Microbiology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Medical Science with Medical Science as the main field of study; students complete an independent research project in year 2 at a university, biomedical company, or government agency in Sweden or abroad; non-EU fee is a whole-programme total (first instalment SEK 82,500), no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-medical-research"
+  },
+  {
+    "course_name": "Biomedicine",
+    "degree_level": "Master's",
+    "faculty": "Department of Medical Cell Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Medical Science with Biomedicine as the main field of study; non-EU fee is a whole-programme total (first instalment SEK 82,500), no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-biomedicine"
+  },
+  {
+    "course_name": "Global Health",
+    "degree_level": "Master's",
+    "faculty": "Department of Women's and Children's Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Medical Science with Global Health as the main field of study; non-EU fee is a whole-programme total (first instalment SEK 82,500), no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-global-health"
+  },
+  {
+    "course_name": "Implementation, Transformative Learning and Sustainability",
+    "degree_level": "Master's",
+    "faculty": "Department of Women's and Children's Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years full-time (100% pace) or 4 years part-time (50% pace), 120 ECTS credits (Masterexamen); degree awarded is Master of Medical Science with Learning for Sustainable Development and Global Health as the main field of study; delivered online except for a mandatory on-campus introductory week in Uppsala; run via the department's Centre for Health and Sustainability; non-EU fee is a whole-programme total (first instalment SEK 82,500), no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-implementation-transformative-learning-and-sustainability"
+  },
+  {
+    "course_name": "Biopharmaceuticals",
+    "degree_level": "Master's",
+    "faculty": "Department of Pharmacy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Pharmaceutical Science with Biopharmaceuticals as the main field of study; non-EU fee is a whole-programme total (first instalment SEK 82,500), no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-biopharmaceuticals"
+  },
+  {
+    "course_name": "Drug Discovery and Development",
+    "degree_level": "Master's",
+    "faculty": "Department of Pharmacy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); degree awarded is Master of Pharmaceutical Science with Drug Discovery and Development as the main field of study; non-EU fee is a whole-programme total (first instalment SEK 82,500), no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-drug-discovery-and-development"
+  },
+  {
+    "course_name": "Pharmaceutical Modelling",
+    "degree_level": "Master's",
+    "faculty": "Department of Pharmacy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years (4 semesters), 120 ECTS credits (Masterexamen); degree awarded is Master of Pharmaceutical Science with Drug Discovery and Development as the main field of study (per the programme's own stated degree text, despite the programme being separately named Pharmaceutical Modelling); programme coordination contact uses the Department of Medicinal Chemistry's email domain (ilk.uu.se), but the Department of Pharmacy's own official study page lists this programme as its own, so it is attributed there; non-EU fee is a whole-programme total (first instalment SEK 82,500), no annual breakdown published",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-pharmaceutical-modelling"
+  },
+  {
+    "course_name": "Bioinformatics - Biology Background",
+    "degree_level": "Master's",
+    "faculty": "Biology Education Centre",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 360000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); one-year exit option available at 60 ECTS; non-EU fee billed as SEK 90,000/semester (4 instalments totalling SEK 360,000)",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-bioinformatics-biology-background"
+  },
+  {
+    "course_name": "Bioinformatics - Computer Science Background",
+    "degree_level": "Master's",
+    "faculty": "Biology Education Centre",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 360000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); one-year exit option available at 60 ECTS; non-EU fee billed as SEK 90,000/semester (4 instalments totalling SEK 360,000)",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-bioinformatics-computer-science-background"
+  },
+  {
+    "course_name": "Biology - Cell and Molecular Biology",
+    "degree_level": "Master's",
+    "faculty": "Biology Education Centre",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 360000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); one-year exit option available at 60 ECTS (Magisterexamen); non-EU fee billed as SEK 90,000/semester (4 instalments totalling SEK 360,000)",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-biology-cell-and-molecular-biology"
+  },
+  {
+    "course_name": "Biology - Ecology and Conservation",
+    "degree_level": "Master's",
+    "faculty": "Biology Education Centre",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 360000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); one-year exit option available at 60 ECTS (Magisterexamen); non-EU fee billed as SEK 90,000/semester (4 instalments totalling SEK 360,000)",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-biology-ecology-and-conservation"
+  },
+  {
+    "course_name": "Biology - Ecosystems and Aquatic Ecology",
+    "degree_level": "Master's",
+    "faculty": "Biology Education Centre",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 360000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); one-year exit option available at 60 ECTS (Magisterexamen); non-EU fee billed as SEK 90,000/semester (4 instalments totalling SEK 360,000)",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-biology-ecosystems-and-aquatic-ecology"
+  },
+  {
+    "course_name": "Biology - Environmental Toxicology",
+    "degree_level": "Master's",
+    "faculty": "Biology Education Centre",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 360000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); one-year exit option available at 60 ECTS (Magisterexamen); non-EU fee billed as SEK 90,000/semester (4 instalments totalling SEK 360,000)",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-biology-environmental-toxicology"
+  },
+  {
+    "course_name": "Biology - Evolutionary Biology",
+    "degree_level": "Master's",
+    "faculty": "Biology Education Centre",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 360000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); one-year exit option available at 60 ECTS (Magisterexamen); non-EU fee billed as SEK 90,000/semester (4 instalments totalling SEK 360,000)",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-biology-evolutionary-biology"
+  },
+  {
+    "course_name": "Biology - Immunology and Microbiology",
+    "degree_level": "Master's",
+    "faculty": "Biology Education Centre",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 360000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); one-year exit option available at 60 ECTS (Magisterexamen); non-EU fee billed as SEK 90,000/semester (4 instalments totalling SEK 360,000)",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-biology-immunology-and-microbiology"
+  },
+  {
+    "course_name": "Biology - NABiS - Nordic Master in Biodiversity and Systematics",
+    "degree_level": "Master's",
+    "faculty": "Biology Education Centre",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 360000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); Nordic Master jointly hosted by Uppsala, University of Gothenburg, Stockholm University, Lund University, University of Oslo and NTNU; one-year exit option available at 60 ECTS; NABiS students not eligible for Uppsala University scholarships; non-EU fee billed as SEK 90,000/semester (4 instalments totalling SEK 360,000)",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-biology-nabis-nordic-master-biodiversity-and-systematics"
+  },
+  {
+    "course_name": "Evolutionary Biology - MEME",
+    "degree_level": "Master's",
+    "faculty": "Biology Education Centre",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 360000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); Erasmus Mundus joint programme with University of Groningen, Ludwig Maximilian University of Munich and University of Montpellier (plus exchange options at Harvard University/University of Lausanne); EU/EEA/Swiss citizens admitted as non-paying students; non-EU fee billed as SEK 90,000/semester (4 instalments totalling SEK 360,000)",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-evolutionary-biology-meme"
+  },
+  {
+    "course_name": "Physics – Astronomy and Space Physics",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics and Astronomy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; delivered jointly with the Division of Astronomy and Space Physics and the Institute of Space Research (IRF); non-EU fee billed as SEK 82,500/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-physics-astronomy-and-space-physics"
+  },
+  {
+    "course_name": "Physics – Geophysics",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics and Astronomy; Department of Earth Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; jointly listed by both the Department of Physics and Astronomy and the Department of Earth Sciences on their own official programme pages; non-EU fee billed as SEK 82,500/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-physics-geophysics"
+  },
+  {
+    "course_name": "Physics – Meteorology and Climate Physics",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics and Astronomy; Department of Earth Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; jointly listed by both the Department of Physics and Astronomy and the Department of Earth Sciences on their own official programme pages; non-EU fee billed as SEK 82,500/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-physics-meteorology-climate-physics"
+  },
+  {
+    "course_name": "Physics – Nuclear and Particle Physics",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics and Astronomy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; non-EU fee billed as SEK 82,500/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-physics-nuclear-and-particle-physics"
+  },
+  {
+    "course_name": "Physics – Physics of Sustainable Energy and Complex Systems",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics and Astronomy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; non-EU fee billed as SEK 82,500/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-physics-sustainable-energy"
+  },
+  {
+    "course_name": "Physics – Theoretical Physics: Quantum Fields and Strings",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics and Astronomy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; non-EU fee billed as SEK 82,500/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-physics-theoretical-physics"
+  },
+  {
+    "course_name": "Physics – Mathematical Physics",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics and Astronomy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; non-EU fee billed as SEK 82,500/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-physics-mathematical-physics"
+  },
+  {
+    "course_name": "Biophysics",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics and Astronomy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); own official page carries no tuition-fee info box for the current cycle and states the programme will not accept applications for autumn 2027 — non-EU fee not listed on page",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-biophysics"
+  },
+  {
+    "course_name": "Quantum Technology",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics and Astronomy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 82,500/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-quantum-technology"
+  },
+  {
+    "course_name": "Materials Science",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics and Astronomy; Department of Chemistry - Ångström Laboratory; Department of Materials Science and Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); own page states it is jointly hosted by the Department of Physics and Astronomy, the Department of Chemistry, and the Department of Materials Science and Engineering (the chemistry side attributed here to the Ångström Laboratory department as the materials-adjacent chemistry unit); non-EU fee billed as SEK 82,500/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-materials-science"
+  },
+  {
+    "course_name": "Additive Manufacturing",
+    "degree_level": "Master's",
+    "faculty": "Department of Materials Science and Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits, leading to a Master of Science with Materials Engineering as the main field of study; own official page carries no tuition-fee info box — non-EU fee not listed on page",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-additive-manufacturing"
+  },
+  {
+    "course_name": "Analytical Chemistry – EACH",
+    "degree_level": "Master's",
+    "faculty": "Department of Chemistry for Life Sciences; Department of Chemistry - Ångström Laboratory",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "Erasmus Mundus joint Master's (Uppsala with Tartu, Lyon 1, and Åbo Akademi); Year 1 in Tartu, Estonia, Year 2 at Uppsala; 2 years, 120 ECTS credits total. Uppsala's own page states all students, including EU/EEA/Swiss citizens, are required to pay tuition fees, but publishes no amount and routes applicants to the external EACH consortium site instead — not used per uu.se-only sourcing rule",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-analytical-chemistry-each"
+  },
+  {
+    "course_name": "Battery Technology and Energy Storage",
+    "degree_level": "Master's",
+    "faculty": "Department of Chemistry for Life Sciences; Department of Chemistry - Ångström Laboratory",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 360000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; non-EU fee billed as SEK 90,000/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-battery-technology-and-energy-storage"
+  },
+  {
+    "course_name": "Chemistry – Analytical Chemistry",
+    "degree_level": "Master's",
+    "faculty": "Department of Chemistry for Life Sciences; Department of Chemistry - Ångström Laboratory",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 360000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; non-EU fee billed as SEK 90,000/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-chemistry-analytical-chemistry"
+  },
+  {
+    "course_name": "Chemistry – Bio and Nano Materials",
+    "degree_level": "Master's",
+    "faculty": "Department of Chemistry for Life Sciences; Department of Chemistry - Ångström Laboratory",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 360000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; non-EU fee billed as SEK 90,000/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-chemistry-bio-and-nano-materials"
+  },
+  {
+    "course_name": "Chemistry – Biochemistry",
+    "degree_level": "Master's",
+    "faculty": "Department of Chemistry for Life Sciences; Department of Chemistry - Ångström Laboratory",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 360000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; non-EU fee billed as SEK 90,000/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-chemistry-biochemistry"
+  },
+  {
+    "course_name": "Chemistry – Chemical Biology",
+    "degree_level": "Master's",
+    "faculty": "Department of Chemistry for Life Sciences; Department of Chemistry - Ångström Laboratory",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 360000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; non-EU fee billed as SEK 90,000/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-chemistry-chemical-biology"
+  },
+  {
+    "course_name": "Chemistry – Chemistry for Renewable Energy",
+    "degree_level": "Master's",
+    "faculty": "Department of Chemistry for Life Sciences; Department of Chemistry - Ångström Laboratory",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 360000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; non-EU fee billed as SEK 90,000/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-chemistry-chemistry-for-renewable-energy"
+  },
+  {
+    "course_name": "Chemistry – Organic Chemistry",
+    "degree_level": "Master's",
+    "faculty": "Department of Chemistry for Life Sciences; Department of Chemistry - Ångström Laboratory",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 360000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; non-EU fee billed as SEK 90,000/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-chemistry-organic-chemistry"
+  },
+  {
+    "course_name": "Chemistry – Physical and Computational Chemistry",
+    "degree_level": "Master's",
+    "faculty": "Department of Chemistry for Life Sciences; Department of Chemistry - Ångström Laboratory",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 360000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; new programme; non-EU fee billed as SEK 90,000/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-chemistry-physical-and-computational-chemistry"
+  },
+  {
+    "course_name": "Energy Transition – Sustainability and Leadership",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Earth Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 495000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "3 years, 180 ECTS credits (Kandidatexamen); taught at Campus Gotland, Visby; non-EU fee billed as SEK 82,500/semester",
+    "source_url": "https://www.uu.se/en/study/programme/bachelors-programme-energy-transition-sustainability-and-leadership"
+  },
+  {
+    "course_name": "Earth Science – Geology",
+    "degree_level": "Master's",
+    "faculty": "Department of Earth Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; non-EU fee billed as SEK 82,500/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-earth-science-geology"
+  },
+  {
+    "course_name": "Earth Science – Hydrology/Hydrogeology",
+    "degree_level": "Master's",
+    "faculty": "Department of Earth Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; non-EU fee billed as SEK 82,500/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-earth-science-hydrology-hydrogeology"
+  },
+  {
+    "course_name": "Earth Science – Physical Geography",
+    "degree_level": "Master's",
+    "faculty": "Department of Earth Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; non-EU fee billed as SEK 82,500/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-earth-science-physical-geography"
+  },
+  {
+    "course_name": "Earth Science – Palaeobiology",
+    "degree_level": "Master's",
+    "faculty": "Department of Earth Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; non-EU fee billed as SEK 82,500/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-earth-science-palaeobiology"
+  },
+  {
+    "course_name": "Palaeobiology – PANGEA",
+    "degree_level": "Master's",
+    "faculty": "Department of Earth Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "Joint PANGEA Erasmus Mundus-style Master's in Palaeobiology (partner: University of Lille, France, plus other consortium members); first semester at Lille, remaining semesters distributed across the consortium; 2 years, 120 ECTS credits total. Uppsala's own page states only its own portion — SEK 82,500/semester while at Uppsala — and publishes no single whole-programme total, so none is computed here per sourcing rule",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-palaeobiology-pangea"
+  },
+  {
+    "course_name": "Sustainable Development",
+    "degree_level": "Master's",
+    "faculty": "Department of Earth Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; jointly offered by Uppsala University and the Swedish University of Agricultural Sciences (SLU), administered via the Department of Earth Sciences; non-EU fee billed as SEK 82,500/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-sustainable-development"
+  },
+  {
+    "course_name": "Wind Power Project Management (One-Year, 60 credits)",
+    "degree_level": "Master's",
+    "faculty": "Department of Earth Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 165000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "1 year, 60 ECTS credits (Magisterexamen); taught at Campus Gotland, Visby; non-EU fee billed as SEK 82,500/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-wind-power-project-management-60"
+  },
+  {
+    "course_name": "Wind Power Project Management (Two-Year, 120 credits)",
+    "degree_level": "Master's",
+    "faculty": "Department of Earth Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 60-credit exit degree available after year 1; taught at Campus Gotland, Visby; non-EU fee billed as SEK 82,500/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-wind-power-project-management-120"
+  },
+  {
+    "course_name": "Sustainable Development of Coastal Areas",
+    "degree_level": "Master's",
+    "faculty": "Department of Earth Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 82,500/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-sustainable-development-of-costal-areas"
+  },
+  {
+    "course_name": "Sustainable and Innovative Natural Resource Management (SINReM)",
+    "degree_level": "Master's",
+    "faculty": "Department of Earth Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "Erasmus Mundus joint Master's in Sustainable and Innovative Natural Resource Management (mineral resources / sustainable resource management), delivered with consortium partner universities across Europe; 2 years, 120 ECTS credits. Uppsala's own page states all students, including EU/EEA/Swiss citizens, are required to pay tuition fees, but publishes no amount and routes applicants to the external SINReM consortium site (sinrem.eu) instead — not used per uu.se-only sourcing rule",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-sustainable-and-innovative-natural-resource-management-sinrem"
+  },
+  {
+    "course_name": "Leadership – Quality Management – Improvement",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Civil and Industrial Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 450000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "3 years, 180 ECTS credits (Kandidatexamen); main field of study Industrial Engineering and Management; taught at Campus Gotland (Visby); non-EU fee billed as SEK 75,000/semester",
+    "source_url": "https://www.uu.se/en/study/programme/bachelors-programme-leadership-quality-management-improvement"
+  },
+  {
+    "course_name": "Industrial Management and Innovation",
+    "degree_level": "Master's",
+    "faculty": "Department of Civil and Industrial Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 300000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 75,000/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-industrial-management-and-innovation"
+  },
+  {
+    "course_name": "All-Electric Propulsion Systems",
+    "degree_level": "Master's",
+    "faculty": "Department of Electrical Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen), option to exit with a 60-credit Magisterexamen after year 1; run jointly with the Department of Chemistry, Chalmers University of Technology and industry partners; non-EU fee billed as SEK 82,500/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-all-electric-propulsion-systems"
+  },
+  {
+    "course_name": "Renewable Electricity Production",
+    "degree_level": "Master's",
+    "faculty": "Department of Electrical Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 330000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen), option to exit with a 60-credit Magisterexamen after year 1; non-EU fee billed as SEK 82,500/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-renewable-electricity-production"
+  },
+  {
+    "course_name": "Computer Science",
+    "degree_level": "Master's",
+    "faculty": "Department of Information Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 300000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 75,000/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-computer-science"
+  },
+  {
+    "course_name": "Embedded Systems",
+    "degree_level": "Master's",
+    "faculty": "Department of Information Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 300000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen), option to exit with a 60-credit degree after year 1; non-EU fee billed as SEK 75,000/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-embedded-systems"
+  },
+  {
+    "course_name": "Data Science – Data Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Information Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 300000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 75,000/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-data-science-data-engineering"
+  },
+  {
+    "course_name": "Data Science – Image Analysis and Machine Learning",
+    "degree_level": "Master's",
+    "faculty": "Department of Information Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 300000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); new specialisation of the Master's Programme in Data Science that replaces the standalone Master's Programme in Image Analysis and Machine Learning (TBA2M) from autumn 2026; non-EU fee billed as SEK 75,000/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-data-science-image-analysis-and-machine-learning"
+  },
+  {
+    "course_name": "Data Science – Machine Learning and Statistics",
+    "degree_level": "Master's",
+    "faculty": "Department of Information Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 300000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen), four semesters; non-EU fee billed as SEK 75,000/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-data-science-machine-learning-and-statistics"
+  },
+  {
+    "course_name": "Computational Science",
+    "degree_level": "Master's",
+    "faculty": "Department of Information Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); four recommended specialisations: Numerical and Mathematical Modeling, Computational Physics/Chemistry, Computational Finance, Data Engineering; programme code TBV2M; non-EU tuition fee not listed on an official current programme page as of this research pass (only legacy syllabus/outline pages found, no fee figure stated)",
+    "source_url": "https://www.uu.se/en/study/programme?query=TBV2M"
+  },
+  {
+    "course_name": "Mathematics",
+    "degree_level": "Master's",
+    "faculty": "Department of Mathematics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 300000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen), option to exit with a 60-credit degree after year 1; three tracks: Theoretical Mathematics, Applied Mathematics and Statistics, Financial Mathematics; non-EU fee billed as SEK 75,000/semester",
+    "source_url": "https://www.uu.se/en/study/programme/masters-programme-mathematics"
+  }
+]

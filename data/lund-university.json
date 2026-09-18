@@ -1,0 +1,2476 @@
+[
+  {
+    "course_name": "English Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "Centre for Languages and Literature",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "3 years, 180 credits (Kandidatexamen). Confirmed English-medium on its own page (\"Language of instruction: English\"), but general entry requirements include \"Swedish 3\" and the programme is administered through Sweden's national antagning.se admissions system (redirects to lu.se/studera/... Swedish study pages), not through the international universityadmissions.se/LUBAS track used by Lund's other English-taught programmes — no international non-EU tuition fee page could be found, suggesting this programme is not realistically open to a typical international applicant without Swedish qualifications.",
+    "source_url": "https://www.sol.lu.se/en/education/bachelors-programmes/english-studies/"
+  },
+  {
+    "course_name": "European Studies",
+    "degree_level": "Master's",
+    "faculty": "Centre for Languages and Literature",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.sol.lu.se/en/education/masters-programmes/european-studies/"
+  },
+  {
+    "course_name": "East and Central European Studies",
+    "degree_level": "Master's",
+    "faculty": "Centre for Languages and Literature",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.sol.lu.se/en/education/masters-programmes/east-and-central-european-studies/"
+  },
+  {
+    "course_name": "Language and Linguistics, English",
+    "degree_level": "Master's",
+    "faculty": "Centre for Languages and Literature",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); one of 7 specialisations within the single Language and Linguistics programme; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-HASPV-ENGE"
+  },
+  {
+    "course_name": "Language and Linguistics, Linguistics",
+    "degree_level": "Master's",
+    "faculty": "Centre for Languages and Literature",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); one of 7 specialisations within the single Language and Linguistics programme; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-HASPV-LING"
+  },
+  {
+    "course_name": "Language and Linguistics, Cognitive Semiotics",
+    "degree_level": "Master's",
+    "faculty": "Centre for Languages and Literature",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); one of 7 specialisations within the single Language and Linguistics programme; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-HASPV-KOSE"
+  },
+  {
+    "course_name": "Language and Linguistics, Classical Languages",
+    "degree_level": "Master's",
+    "faculty": "Centre for Languages and Literature",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); one of 7 specialisations within the single Language and Linguistics programme (Latin or Ancient Greek); non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-HASPV-KLAS"
+  },
+  {
+    "course_name": "Language and Linguistics, Modern Languages",
+    "degree_level": "Master's",
+    "faculty": "Centre for Languages and Literature",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); one of 7 specialisations within the single Language and Linguistics programme (French, Italian, Spanish, Japanese, or Modern Greek depending on admission round); non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-HASPV-MODE"
+  },
+  {
+    "course_name": "Language and Linguistics, Swedish as a Second Language",
+    "degree_level": "Master's",
+    "faculty": "Centre for Languages and Literature",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); one of 7 specialisations within the single Language and Linguistics programme; taught in English despite the Swedish-language subject matter; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-HASPV-SVAN"
+  },
+  {
+    "course_name": "Language and Linguistics, Swedish/Scandinavian Languages",
+    "degree_level": "Master's",
+    "faculty": "Centre for Languages and Literature",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); one of 7 specialisations within the single Language and Linguistics programme; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-HASPV-SVNO"
+  },
+  {
+    "course_name": "Literature - Culture - Media, English Literature",
+    "degree_level": "Master's",
+    "faculty": "Centre for Languages and Literature",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen), 1-year option also available; one of 9 specialisations within the single Literature - Culture - Media programme; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-HALKM-ENGE"
+  },
+  {
+    "course_name": "Literature - Culture - Media, General Literature",
+    "degree_level": "Master's",
+    "faculty": "Centre for Languages and Literature",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); one of 9 specialisations within the single Literature - Culture - Media programme; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-HALKM-LITV"
+  },
+  {
+    "course_name": "Literature - Culture - Media, Scandinavian Studies",
+    "degree_level": "Master's",
+    "faculty": "Centre for Languages and Literature",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen), 1-year option also available; one of 9 specialisations within the single Literature - Culture - Media programme; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-HALKM-SKAN"
+  },
+  {
+    "course_name": "Literature - Culture - Media, Children's and Adolescent Literature",
+    "degree_level": "Master's",
+    "faculty": "Centre for Languages and Literature",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); one of 9 specialisations within the single Literature - Culture - Media programme; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-HALKM-BARN"
+  },
+  {
+    "course_name": "Literature - Culture - Media, German Literature",
+    "degree_level": "Master's",
+    "faculty": "Centre for Languages and Literature",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen), 1-year option also available; one of 9 specialisations within the single Literature - Culture - Media programme; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-HALKM-TYSK"
+  },
+  {
+    "course_name": "Literature - Culture - Media, Russian Literature",
+    "degree_level": "Master's",
+    "faculty": "Centre for Languages and Literature",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen), 1-year option also available; one of 9 specialisations within the single Literature - Culture - Media programme; applications for the next round were listed as closed at time of writing, but this is a live, continuing specialisation, not discontinued; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-HALKM-RYSK"
+  },
+  {
+    "course_name": "Literature - Culture - Media, Spanish Literature",
+    "degree_level": "Master's",
+    "faculty": "Centre for Languages and Literature",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen), 1-year option also available; one of 9 specialisations within the single Literature - Culture - Media programme; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-HALKM-SPAN"
+  },
+  {
+    "course_name": "Literature - Culture - Media, Yiddish Literature",
+    "degree_level": "Master's",
+    "faculty": "Centre for Languages and Literature",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen), 1-year option also available; one of 9 specialisations within the single Literature - Culture - Media programme; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-HALKM-JIDD"
+  },
+  {
+    "course_name": "Applied Cultural Analysis",
+    "degree_level": "Master's",
+    "faculty": "Department of Arts and Cultural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/applied-cultural-analysis-masters-programme-HATKA"
+  },
+  {
+    "course_name": "Visual Culture",
+    "degree_level": "Master's",
+    "faculty": "Department of Arts and Cultural Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/visual-culture-masters-programme-HAVIC"
+  },
+  {
+    "course_name": "Archaeology - Theory and Practice",
+    "degree_level": "Master's",
+    "faculty": "Department of Archaeology and Ancient History",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); lectures and literature are in English throughout, except one work-placement course which may be conducted in Swedish; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/archaeology-theory-and-practice-masters-programme-HAAAH"
+  },
+  {
+    "course_name": "Religious Roots of Europe",
+    "degree_level": "Master's",
+    "faculty": "Centre for Theology and Religious Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); jointly offered with the University of Copenhagen and University of Oslo, with compact seminars held at partner universities and abroad (estimated ~€3,500 in student-borne travel costs where funding isn't available); non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/religious-roots-of-europe-masters-programme-HARRE"
+  },
+  {
+    "course_name": "Human Rights Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of History, Division of Human Rights Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/human-rights-studies-masters-programme-HAMRS"
+  },
+  {
+    "course_name": "Fine Arts (BFA)",
+    "degree_level": "Bachelor's",
+    "faculty": "Malmö Art Academy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 200000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "3 years, 180 credits (Bachelor of Fine Arts); non-EU fee is SEK 200,000/year, SEK 600,000 total over 3 years; max 12 students admitted annually; no IELTS/TOEFL required",
+    "source_url": "https://www.khm.lu.se/en/education/programmes-fine-arts/bachelors-programme-fine-arts-bfa-180-credits"
+  },
+  {
+    "course_name": "Fine Arts (MFA)",
+    "degree_level": "Master's",
+    "faculty": "Malmö Art Academy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 200000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 credits (Master of Fine Arts); non-EU fee is SEK 200,000/year, SEK 400,000 total over 2 years; no IELTS/TOEFL required",
+    "source_url": "https://www.khm.lu.se/en/education/programmes-fine-arts/masters-programme-fine-arts-mfa-120-credits"
+  },
+  {
+    "course_name": "Performing Arts as Critical Practice",
+    "degree_level": "Master's",
+    "faculty": "Malmö Theatre Academy",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 400000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "2 years (4 semesters), 120 ECTS credits; non-EU fee stated directly as SEK 400,000/academic year, SEK 800,000 total over 2 years",
+    "source_url": "https://www.thm.lu.se/en/education/master-programme-performing-arts-critical-practice"
+  },
+  {
+    "course_name": "Asian Studies",
+    "degree_level": "Master's",
+    "faculty": "Centre for East and South-East Asian Studies (ACE)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); Centre for East and South-East Asian Studies (ACE) confirmed to belong to the Joint Faculties of Humanities and Theology, but was not among the 7 departments identified via Lund's LUCAT staff/org catalog during this build - likely the genuine 8th HT-faculty department a partial early lead referenced; flagged here rather than silently folded into the Humanities/Theology scratch file. No tuition fee figure published on the programme's own official page.",
+    "source_url": "https://www.ace.lu.se/education/about-masters-programme-asian-studies"
+  },
+  {
+    "course_name": "European Economic Law",
+    "degree_level": "Master's",
+    "faculty": "Faculty of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 310000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (LL.M.); non-EU fee billed as SEK 77,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/european-economic-law-masters-programme-JAEER"
+  },
+  {
+    "course_name": "International Human Rights Law",
+    "degree_level": "Master's",
+    "faculty": "Faculty of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 310000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (LL.M.); jointly offered with the Raoul Wallenberg Institute of Human Rights and Humanitarian Law; non-EU fee billed as SEK 77,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/international-human-rights-law-master-programme-JAMRÄ"
+  },
+  {
+    "course_name": "Economy and Society",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Economic History (School of Economics and Management, LUSEM)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 390000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "3 years, 180 ECTS credits; non-EU fee billed as SEK 65,000/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/economy-and-society-bachelors-programme-EGESO"
+  },
+  {
+    "course_name": "International Business",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Economics and Management (LUSEM)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 390000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "3 years, 180 ECTS credits; non-EU fee billed as SEK 65,000/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/international-business-bachelors-programme-EGIBU"
+  },
+  {
+    "course_name": "Accounting and Finance",
+    "degree_level": "Master's",
+    "faculty": "School of Economics and Management (LUSEM)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 150000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "1 year (Magisterexamen), 60 ECTS credits; non-EU fee billed as SEK 75,000/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/accounting-and-finance-masters-programme-one-year-EAGAF"
+  },
+  {
+    "course_name": "Data Analytics and Business Economics",
+    "degree_level": "Master's",
+    "faculty": "School of Economics and Management (LUSEM)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 150000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "1 year (Magisterexamen), 60 ECTS credits; non-EU fee billed as SEK 75,000/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/data-analytics-and-business-economics-masters-programme-EAGDA"
+  },
+  {
+    "course_name": "Economic Development and Growth",
+    "degree_level": "Master's",
+    "faculty": "Department of Economic History (School of Economics and Management, LUSEM)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); jointly delivered with Universidad Carlos III de Madrid and University of Groningen, first year taken at a partner institution; tuition fee not published on Lund's own programme page",
+    "source_url": "https://www.lunduniversity.lu.se/study/economic-development-and-growth-masters-programme-two-years-EAEUT"
+  },
+  {
+    "course_name": "Economics",
+    "degree_level": "Master's",
+    "faculty": "Department of Economics (School of Economics and Management, LUSEM)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 300000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years (Masterexamen), 120 ECTS credits; non-EU fee billed as SEK 75,000/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/economics-masters-programme-two-years-EAECO"
+  },
+  {
+    "course_name": "Entrepreneurship and Innovation",
+    "degree_level": "Master's",
+    "faculty": "School of Economics and Management (LUSEM)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 150000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "1 year (Magisterexamen), 60 ECTS credits; non-EU fee billed as SEK 75,000/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/entrepreneurship-and-innovation-masters-programme-one-year-EAGEI"
+  },
+  {
+    "course_name": "European and International Trade and Tax Law",
+    "degree_level": "Master's",
+    "faculty": "Department of Business Law (School of Economics and Management, LUSEM)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 150000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "1 year (Magisterexamen), 60 ECTS credits; jointly affiliated with the Faculty of Law; non-EU fee billed as SEK 75,000/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/european-and-international-trade-and-tax-law-masters-programme-EAEIT"
+  },
+  {
+    "course_name": "Finance",
+    "degree_level": "Master's",
+    "faculty": "School of Economics and Management (LUSEM)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 160000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "1 year (Magisterexamen), 60 ECTS credits; non-EU fee billed as SEK 80,000/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/finance-masters-programme-one-year-EAGFN"
+  },
+  {
+    "course_name": "Global Development, Population and Economic Change",
+    "degree_level": "Master's",
+    "faculty": "Department of Economic History (School of Economics and Management, LUSEM)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 300000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (a 1-year, 60-credit option is also available); non-EU fee billed as SEK 75,000/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/global-development-population-and-economic-change-masters-programme-two-years-EAEGD"
+  },
+  {
+    "course_name": "Information Systems",
+    "degree_level": "Master's",
+    "faculty": "Department of Informatics (School of Economics and Management, LUSEM)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 150000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "1 year (Magisterexamen), 60 ECTS credits; non-EU fee billed as SEK 75,000/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/information-systems-masters-programme-one-year-EAGSY"
+  },
+  {
+    "course_name": "International Marketing & Brand Management",
+    "degree_level": "Master's",
+    "faculty": "School of Economics and Management (LUSEM)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 150000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "1 year (Magisterexamen), 60 ECTS credits; non-EU fee billed as SEK 75,000/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/international-marketing-brand-management-masters-programme-one-year-EAGIB"
+  },
+  {
+    "course_name": "International Strategic Management",
+    "degree_level": "Master's",
+    "faculty": "School of Economics and Management (LUSEM)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 160000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "1 year (Magisterexamen), 60 ECTS credits; non-EU fee billed as SEK 80,000/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/international-strategic-management-masters-programme-one-year-EAGIS"
+  },
+  {
+    "course_name": "Management",
+    "degree_level": "Master's",
+    "faculty": "School of Economics and Management (LUSEM)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 160000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "1 year (Magisterexamen), 60 ECTS credits; non-EU fee billed as SEK 80,000/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/management-masters-programme-one-year-EAGMA"
+  },
+  {
+    "course_name": "Managing People, Knowledge & Change",
+    "degree_level": "Master's",
+    "faculty": "School of Economics and Management (LUSEM)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 150000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "1 year (Magisterexamen), 60 ECTS credits; non-EU fee billed as SEK 75,000/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/managing-people-knowledge-change-masters-programme-one-year-EAGMP"
+  },
+  {
+    "course_name": "Development Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "Faculty of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 375000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "3 years, 180 ECTS credits (Bachelor's Programme in Development Studies, BIDS); jointly delivered by the Department of Political Science, Department of Human Geography and Department of Economic History; non-EU fee billed as SEK 62,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/development-studies-bachelor-of-science-programme-SGUTV"
+  },
+  {
+    "course_name": "Cultural Criminology",
+    "degree_level": "Master's",
+    "faculty": "Department of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/cultural-criminology-master-of-science-programme-SACCR"
+  },
+  {
+    "course_name": "Sociology",
+    "degree_level": "Master's",
+    "faculty": "Department of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/sociology-master-of-science-programme-SASCO"
+  },
+  {
+    "course_name": "Social Anthropology",
+    "degree_level": "Master's",
+    "faculty": "Department of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/social-anthropology-master-of-science-programme-SASAN"
+  },
+  {
+    "course_name": "Human Resources",
+    "degree_level": "Master's",
+    "faculty": "Department of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/human-resources-master-of-science-programme-SAHUR"
+  },
+  {
+    "course_name": "European Affairs",
+    "degree_level": "Master's",
+    "faculty": "Department of Political Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/european-affairs-master-of-science-programme-SAMEA"
+  },
+  {
+    "course_name": "Welfare Policies and Management",
+    "degree_level": "Master's",
+    "faculty": "Department of Political Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; interdisciplinary programme delivered jointly with the School of Social Work; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/welfare-policies-and-management-master-of-science-programme-SAWEM"
+  },
+  {
+    "course_name": "Development Studies",
+    "degree_level": "Master's",
+    "faculty": "Faculty of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; administered by the Faculty's Graduate School rather than a single named department; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/development-studies-master-of-science-programme-SADVS"
+  },
+  {
+    "course_name": "Human Geography",
+    "degree_level": "Master's",
+    "faculty": "Department of Human Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/human-geography-master-of-science-programme-SASGE"
+  },
+  {
+    "course_name": "Human Ecology: Culture, Power and Sustainability",
+    "degree_level": "Master's",
+    "faculty": "Department of Human Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/human-ecology-culture-power-and-sustainability-master-of-science-programme-SAHEK"
+  },
+  {
+    "course_name": "International Development and Management",
+    "degree_level": "Master's",
+    "faculty": "Department of Human Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (LUMID); non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/international-development-and-management-master-of-science-programme-SAMDE"
+  },
+  {
+    "course_name": "Psychology",
+    "degree_level": "Master's",
+    "faculty": "Department of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; no English-taught Bachelor's exists in Psychology at Lund (undergraduate Psykologprogrammet is Swedish-medium only); non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/psychology-master-of-science-programme-SAMPS"
+  },
+  {
+    "course_name": "Media and Communication Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; undergraduate courses in this subject are Swedish-medium only, so no Bachelor's record exists; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/media-and-communication-studies-master-of-science-programme-SAMKV"
+  },
+  {
+    "course_name": "Strategic Communication",
+    "degree_level": "Master's",
+    "faculty": "Department of Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; the department also runs a Bachelor's in Strategic Communication but it is not listed on Lund's central English-programme finder and its own page did not confirm English as the medium of instruction, so no Bachelor's record was added; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/strategic-communication-master-of-science-programme-SASKO"
+  },
+  {
+    "course_name": "Sociology of Law",
+    "degree_level": "Master's",
+    "faculty": "Sociology of Law Department",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "1-2 years, 120 ECTS credits; the department's own page notes Lund is the only university in Scandinavia offering training in Sociology of Law from undergraduate through professional level, but confirms English-medium teaching only at Master's level; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/sociology-of-law-master-of-science-programme-SASOL"
+  },
+  {
+    "course_name": "Climate Change and Society",
+    "degree_level": "Master's",
+    "faculty": "LUCSUS (Lund University Centre for Sustainability Studies)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 300000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; non-EU fee billed as SEK 75,000/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/climate-change-and-society-master-of-science-programme-SAKFS"
+  },
+  {
+    "course_name": "Environmental Studies and Sustainability Science",
+    "degree_level": "Master's",
+    "faculty": "LUCSUS (Lund University Centre for Sustainability Studies)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 300000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (LUMES); non-EU fee billed as SEK 75,000/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/environmental-studies-and-sustainability-science-master-of-science-programme-SAESS"
+  },
+  {
+    "course_name": "Global Studies",
+    "degree_level": "Master's",
+    "faculty": "Faculty of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; administered by the Faculty's Graduate School rather than a single named department; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/global-studies-master-of-science-programme-SAGLS"
+  },
+  {
+    "course_name": "Innovation and Societal Change",
+    "degree_level": "Master's",
+    "faculty": "Faculty of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 135000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "1 year, 60 ECTS credits; administered by the Faculty's Graduate School rather than a single named department; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/innovation-and-societal-change-master-of-science-programme-SAINS"
+  },
+  {
+    "course_name": "Societal Resilience and Comprehensive Defence",
+    "degree_level": "Master's",
+    "faculty": "Faculty of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "1 year, 60 ECTS credits; linked to the cross-faculty Centre for Preparedness and Resilience (LUPREP), administered via the Faculty's Graduate School; non-EU tuition fee not published on the programme's own page",
+    "source_url": "https://www.lunduniversity.lu.se/study/master-of-science-programme-one-year-in-societal-resilience-and-comprehensive-defence-SASTO"
+  },
+  {
+    "course_name": "Politics and Society of the Contemporary Middle East",
+    "degree_level": "Master's",
+    "faculty": "Centre for Advanced Middle Eastern Studies (CMES)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/politics-and-society-of-the-contemporary-middle-east-master-of-science-programme-SAMSE"
+  },
+  {
+    "course_name": "Social Scientific Data Analysis",
+    "degree_level": "Master's",
+    "faculty": "Faculty of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; administered by the Faculty's Graduate School rather than a single named department; non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/social-scientific-data-analysis-master-of-science-programme-SASDA"
+  },
+  {
+    "course_name": "Social Studies of Gender",
+    "degree_level": "Master's",
+    "faculty": "Faculty of Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 270000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits; administered by the Faculty's Graduate School rather than a single named department (not listed among the Department of Sociology's own 3 named Master's programmes); non-EU fee billed as SEK 67,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/social-studies-of-gender-master-of-science-programme-SASSG"
+  },
+  {
+    "course_name": "Environmental Management and Policy (EMP)",
+    "degree_level": "Master's",
+    "faculty": "IIIEE (International Institute for Industrial Environmental Economics)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (30 ECTS/semester); IIIEE is an independent Lund University institute with no single stated parent Faculty on its own pages (originally excluded from every round-one agent's scope for exactly this reason) - recorded here under the institute's own name per this project's precedent for independent institutes with no clear single-faculty attribution. No tuition fee figure published on the programme's own official page; applicants directed to Lund's central admissions contact instead.",
+    "source_url": "https://www.iiiee.lu.se/masters-programme-environmental-management-and-policy-emp/masters-programme-environmental-management-and-policy-emp"
+  },
+  {
+    "course_name": "Environmental Sciences, Policy and Management (MESPOM)",
+    "degree_level": "Master's",
+    "faculty": "IIIEE (International Institute for Industrial Environmental Economics)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years; Erasmus Mundus Joint Master Degree, delivered across multiple European partner universities per the mespom.eu consortium; Lund's own iiiee.lu.se page states no fee information at all (unlike several Uppsala Erasmus Mundus programmes, it does not explicitly state EU/EEA/Swiss students must pay, so the standard Sweden EU=0 assumption is kept rather than treated as a confirmed exception) and routes all fee/admission detail to the external mespom.eu site, which was not used per the official-source-only sourcing rule.",
+    "source_url": "https://www.iiiee.lu.se/masters-programme-environmental-management-and-policy-emp/european-joint-masters-programme-environmental-sciences-policy-and-management-mespom"
+  },
+  {
+    "course_name": "Biomedicine",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Experimental Medical Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 615000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "3 years, 180 ECTS credits (Kandidatexamen); non-EU fee billed as SEK 102,500/semester; taught mainly in Biomedical Centre (BMC) research environments. Faculty of Medicine's own department pages show Department of Laboratory Medicine and Department of Translational Medicine also contribute to biomedicine education, and no single owning department is explicitly named on the programme's own page - Department of Experimental Medical Science recorded as the best-supported attribution, flagged here as not fully confirmed.",
+    "source_url": "https://www.lunduniversity.lu.se/study/biomedicine-bachelors-programme-MGBIM"
+  },
+  {
+    "course_name": "Biomedicine",
+    "degree_level": "Master's",
+    "faculty": "Department of Experimental Medical Science",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 410000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); Master of Medical Science, major in Biomedicine, specialisation in academic or industrial biomedical research; non-EU fee billed as SEK 102,500/semester; same department-attribution caveat as the Bachelor's Biomedicine record (multiple departments contribute, no single owner stated on the programme's own page).",
+    "source_url": "https://www.lunduniversity.lu.se/study/biomedicine-masters-programme-VABME"
+  },
+  {
+    "course_name": "Public Health",
+    "degree_level": "Master's",
+    "faculty": "Department of Clinical Sciences, Malmö",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 410000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 102,500/semester; department's own page states it has 'a prominent role in ... the international Master's programme in public health'.",
+    "source_url": "https://www.lunduniversity.lu.se/study/public-health-masters-programme-VAPHE"
+  },
+  {
+    "course_name": "Sciences, Mathematics",
+    "degree_level": "Bachelor's",
+    "faculty": "Centre for Mathematical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 555000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "3 years, 180 ECTS credits (Kandidatexamen); non-EU fee billed as SEK 92,500/semester. Confirmed as a Faculty of Science degree (not an LTH engineering degree) on its own page; Centre for Mathematical Sciences is administratively shared with Faculty of Engineering (LTH) but this Bachelor's is listed on Faculty of Science's own subject-area page.",
+    "source_url": "https://www.lunduniversity.lu.se/study/sciences-mathematics-NGNAT-ENMA"
+  },
+  {
+    "course_name": "Sciences, Physical Geography and Ecosystem Science",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Earth and Environmental Sciences (MGeo)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 555000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "3 years, 180 ECTS credits (Kandidatexamen); non-EU fee billed as SEK 92,500/semester.",
+    "source_url": "https://www.lunduniversity.lu.se/study/sciences-physical-geography-and-ecosystem-science-NGNAT-INES"
+  },
+  {
+    "course_name": "Sciences, Physics",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 555000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "3 years, 180 ECTS credits (Kandidatexamen); non-EU fee billed as SEK 92,500/semester. Confirmed as a Faculty of Science degree, not an LTH engineering degree, on its own page.",
+    "source_url": "https://www.lunduniversity.lu.se/study/sciences-physics-NGNAT-ENFY"
+  },
+  {
+    "course_name": "Applied Computational Science, Biology",
+    "degree_level": "Master's",
+    "faculty": "Centre for Mathematical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 170000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen), Major Applied Computational Science with specialisation in Biology; non-EU fee (SEK 170,000/year) confirmed via Lund's official 2024 programme fact sheet - the current live programme page has no fee section published. Centre for Mathematical Sciences is administratively shared between Faculty of Science and Faculty of Engineering (LTH); this specific track is listed on Faculty of Science's own subject-area page and its fact sheet confirms Faculty of Science administration ('Mathematics (Faculty of Science)' division).",
+    "source_url": "https://www.lunduniversity.lu.se/study/applied-computational-science-biology-master-programme-NATBV-TBBO"
+  },
+  {
+    "course_name": "Applied Computational Science, Chemistry",
+    "degree_level": "Master's",
+    "faculty": "Centre for Mathematical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 170000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee (SEK 170,000/year) confirmed via Lund's official 2024 programme fact sheet, current live page has no fee section published. Same Faculty of Science / shared-centre note as the Applied Computational Science, Biology record.",
+    "source_url": "https://www.lunduniversity.lu.se/study/applied-computational-science-chemistry-master-programme-NATBV-TAKM"
+  },
+  {
+    "course_name": "Applied Computational Science, Earth and Environmental Science",
+    "degree_level": "Master's",
+    "faculty": "Centre for Mathematical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 170000,
+        "currency": "SEK",
+        "period": "year"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee (SEK 170,000/year) confirmed via Lund's 2024 fact sheet for this programme family (that fact sheet used the older name 'Applied Computational Science, Geology' - current live page uses 'Earth and Environmental Science'). Same Faculty of Science / shared-centre note as the Applied Computational Science, Biology record.",
+    "source_url": "https://www.lunduniversity.lu.se/study/applied-computational-science-earth-and-environmental-science-master-programme-NATBV-TBMG"
+  },
+  {
+    "course_name": "Astrophysics",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester.",
+    "source_url": "https://www.lunduniversity.lu.se/study/astrophysics-master-programme-NAAFY"
+  },
+  {
+    "course_name": "Bioinformatics",
+    "degree_level": "Master's",
+    "faculty": "Department of Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester.",
+    "source_url": "https://www.lunduniversity.lu.se/study/bioinformatics-master-programme-NABIN"
+  },
+  {
+    "course_name": "Biology, Animal Ecology",
+    "degree_level": "Master's",
+    "faculty": "Department of Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester.",
+    "source_url": "https://www.lunduniversity.lu.se/study/biology-animal-ecology-master-programme-NABIO-EKZO"
+  },
+  {
+    "course_name": "Biology, Aquatic Ecology",
+    "degree_level": "Master's",
+    "faculty": "Department of Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester.",
+    "source_url": "https://www.lunduniversity.lu.se/study/biology-aquatic-ecology-master-programme-NABIO-EKLI"
+  },
+  {
+    "course_name": "Biology, Conservation Biology",
+    "degree_level": "Master's",
+    "faculty": "Department of Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester; taught in English except individual elective species-knowledge courses.",
+    "source_url": "https://www.lunduniversity.lu.se/study/biology-conservation-biology-master-programme-NABIO-EKNA"
+  },
+  {
+    "course_name": "Biology, Evolutionary Biology",
+    "degree_level": "Master's",
+    "faculty": "Department of Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester.",
+    "source_url": "https://www.lunduniversity.lu.se/study/biology-evolutionary-biology-master-programme-NABIO-EVBI"
+  },
+  {
+    "course_name": "Biology, General",
+    "degree_level": "Master's",
+    "faculty": "Department of Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); personal study route from ~30 second-cycle biology courses; non-EU fee billed as SEK 92,500/semester; taught in English, with a few elective courses offered in Swedish.",
+    "source_url": "https://www.lunduniversity.lu.se/study/biology-general-master-programme-NABIO-ALLM"
+  },
+  {
+    "course_name": "Chemistry, Biochemistry",
+    "degree_level": "Master's",
+    "faculty": "Department of Chemistry",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester. Confirmed Faculty of Science.",
+    "source_url": "https://www.lunduniversity.lu.se/study/chemistry-biochemistry-master-programme-NAKEM-BIKE"
+  },
+  {
+    "course_name": "Chemistry, Physical Chemistry",
+    "degree_level": "Master's",
+    "faculty": "Department of Chemistry",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester. Confirmed Faculty of Science.",
+    "source_url": "https://www.lunduniversity.lu.se/study/chemistry-physical-chemistry-master-programme-NAKEM-FYKE"
+  },
+  {
+    "course_name": "Chemistry, Synthetic and Analytical Chemistry",
+    "degree_level": "Master's",
+    "faculty": "Department of Chemistry",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester. Confirmed Faculty of Science.",
+    "source_url": "https://www.lunduniversity.lu.se/study/chemistry-synthetic-and-analytical-chemistry-master-programme-NAKEM-SAKE"
+  },
+  {
+    "course_name": "Computational Science, Geoscience",
+    "degree_level": "Master's",
+    "faculty": "Centre for Mathematical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester. Distinct programme family from 'Applied Computational Science' (different fee, different course code prefix NABER vs NATBV) though both are based at Matematikcentrum. Faculty of Science per Science's own subject-area listing; Centre for Mathematical Sciences is administratively shared with LTH.",
+    "source_url": "https://www.lunduniversity.lu.se/study/computational-science-geoscience-master-programme-NABER-BEGE"
+  },
+  {
+    "course_name": "Computational Science, Life Sciences",
+    "degree_level": "Master's",
+    "faculty": "Centre for Mathematical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester. Same Faculty of Science / shared-centre note as Computational Science, Geoscience.",
+    "source_url": "https://www.lunduniversity.lu.se/study/computational-science-life-sciences-master-programme-NABER-BELI"
+  },
+  {
+    "course_name": "Computational Science, Physics",
+    "degree_level": "Master's",
+    "faculty": "Centre for Mathematical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester. Same Faculty of Science / shared-centre note as Computational Science, Geoscience.",
+    "source_url": "https://www.lunduniversity.lu.se/study/computational-science-physics-master-programme-NABER-BEFY"
+  },
+  {
+    "course_name": "Computational Science, Scientific Computing",
+    "degree_level": "Master's",
+    "faculty": "Centre for Mathematical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester. Same Faculty of Science / shared-centre note as Computational Science, Geoscience.",
+    "source_url": "https://www.lunduniversity.lu.se/study/computational-science-scientific-computing-master-programme-NABER-BEMA"
+  },
+  {
+    "course_name": "Geographical Information Science",
+    "degree_level": "Master's",
+    "faculty": "Department of Earth and Environmental Sciences (MGeo)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 290000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); delivered fully online/distance, can be studied full-time or part-time; non-EU fee billed as SEK 36,250/semester (4 semesters, lower than the standard on-campus Science Master's rate).",
+    "source_url": "https://www.lunduniversity.lu.se/study/geographical-information-science-masters-programme-NAGIV"
+  },
+  {
+    "course_name": "Geology",
+    "degree_level": "Master's",
+    "faculty": "Department of Earth and Environmental Sciences (MGeo)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester.",
+    "source_url": "https://www.lunduniversity.lu.se/study/geology-master-programme-NAGEL"
+  },
+  {
+    "course_name": "GIS and Remote Sensing",
+    "degree_level": "Master's",
+    "faculty": "Department of Earth and Environmental Sciences (MGeo)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester.",
+    "source_url": "https://www.lunduniversity.lu.se/study/gis-and-remote-sensing-master-programme-NAGIS"
+  },
+  {
+    "course_name": "Mathematical Statistics",
+    "degree_level": "Master's",
+    "faculty": "Centre for Mathematical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester. Faculty of Science per Science's own subject-area listing; Centre for Mathematical Sciences is administratively shared with LTH (this Master's belongs to the Centre's Mathematical Statistics division).",
+    "source_url": "https://www.lunduniversity.lu.se/study/mathematical-statistics-master-programme-NAMAS"
+  },
+  {
+    "course_name": "Mathematics",
+    "degree_level": "Master's",
+    "faculty": "Centre for Mathematical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); specialisations in pure mathematics or numerical analysis; non-EU fee billed as SEK 92,500/semester. Faculty of Science per Science's own subject-area listing; Centre for Mathematical Sciences is administratively shared with LTH (this Master's belongs to the Centre's Mathematics division, Faculty of Science, per the Centre's own fact-sheet description).",
+    "source_url": "https://www.lunduniversity.lu.se/study/mathematics-master-programme-NAMAT"
+  },
+  {
+    "course_name": "Molecular Biology, General",
+    "degree_level": "Master's",
+    "faculty": "Department of Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); personal study path across microbiology, molecular genetics, biotechnology, sensory biology, neurobiology and immunology; non-EU fee billed as SEK 92,500/semester.",
+    "source_url": "https://www.lunduniversity.lu.se/study/molecular-biology-general-master-programme-NAMOB-ALLM"
+  },
+  {
+    "course_name": "Molecular Biology, Immunology and Infection Biology",
+    "degree_level": "Master's",
+    "faculty": "Department of Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester.",
+    "source_url": "https://www.lunduniversity.lu.se/study/molecular-biology-immunology-and-infection-biology-master-programme-NAMOB-IMIN"
+  },
+  {
+    "course_name": "Molecular Biology, Microbiology and Biotechnology",
+    "degree_level": "Master's",
+    "faculty": "Department of Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester.",
+    "source_url": "https://www.lunduniversity.lu.se/study/molecular-biology-microbiology-and-biotechnology-master-programme-NAMOB-MIBT"
+  },
+  {
+    "course_name": "Molecular Biology, Molecular Genetics and Biotechnology",
+    "degree_level": "Master's",
+    "faculty": "Department of Biology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester.",
+    "source_url": "https://www.lunduniversity.lu.se/study/molecular-biology-molecular-genetics-and-biotechnology-master-programme-NAMOB-MGBI"
+  },
+  {
+    "course_name": "Physical Geography and Ecosystem Science, General",
+    "degree_level": "Master's",
+    "faculty": "Department of Earth and Environmental Sciences (MGeo)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester.",
+    "source_url": "https://www.lunduniversity.lu.se/study/physical-geography-and-ecosystem-science-general-master-programme-NANEV-INES"
+  },
+  {
+    "course_name": "Physics, Experimental Particle and Nuclear Physics",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester. Confirmed Faculty of Science.",
+    "source_url": "https://www.lunduniversity.lu.se/study/physics-experimental-particle-and-nuclear-physics-master-programme-NAFYK-EXPK"
+  },
+  {
+    "course_name": "Physics, General",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); 'design your own physics degree', specialisations in atomic/nuclear/particle/nano/solid-state physics; non-EU fee billed as SEK 92,500/semester.",
+    "source_url": "https://www.lunduniversity.lu.se/study/physics-general-master-programme-NAFYK-ALLM"
+  },
+  {
+    "course_name": "Physics, Materials Science",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester. Confirmed Faculty of Science.",
+    "source_url": "https://www.lunduniversity.lu.se/study/physics-materials-science-master-programme-NAFYK-MAVE"
+  },
+  {
+    "course_name": "Physics, Quantum Science and Technology",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester.",
+    "source_url": "https://www.lunduniversity.lu.se/study/physics-quantum-science-and-technology-master-programme-NAFYK-KVAN"
+  },
+  {
+    "course_name": "Physics, Theoretical Physics",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester. Confirmed Faculty of Science.",
+    "source_url": "https://www.lunduniversity.lu.se/study/physics-theoretical-physics-master-programme-NAFYK-TEFY"
+  },
+  {
+    "course_name": "Physics, X-ray and Neutron Science",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); non-EU fee billed as SEK 92,500/semester. Confirmed Faculty of Science.",
+    "source_url": "https://www.lunduniversity.lu.se/study/physics-x-ray-and-neutron-science-master-programme-NAFYK-XRAY"
+  },
+  {
+    "course_name": "Architecture",
+    "degree_level": "Master's",
+    "faculty": "Department of Architecture and Built Environment",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 540000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Master's programme); non-EU fee billed as SEK 135,000/semester across 4 semesters",
+    "source_url": "https://www.lunduniversity.lu.se/study/architecture-masters-programme-TAMAR"
+  },
+  {
+    "course_name": "Digital Architecture and Emergent Futures",
+    "degree_level": "Master's",
+    "faculty": "Department of Architecture and Built Environment",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 540000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Master's programme); non-EU fee billed as SEK 135,000/semester across 4 semesters",
+    "source_url": "https://www.lunduniversity.lu.se/study/digital-architecture-and-emergent-futures-masters-programme-TAAEF"
+  },
+  {
+    "course_name": "Sustainable Urban Design",
+    "degree_level": "Master's",
+    "faculty": "Department of Architecture and Built Environment",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 540000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Master's programme); non-EU fee billed as SEK 135,000/semester across 4 semesters",
+    "source_url": "https://www.lunduniversity.lu.se/study/sustainable-urban-design-masters-programme-TASUD"
+  },
+  {
+    "course_name": "Disaster Risk Management and Climate Change Adaptation",
+    "degree_level": "Master's",
+    "faculty": "Department of Building and Environmental Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Master's programme); non-EU fee billed as SEK 92,500/semester across 4 semesters",
+    "source_url": "https://www.lunduniversity.lu.se/study/disaster-risk-management-and-climate-change-adaptation-masters-programme-TAKAK"
+  },
+  {
+    "course_name": "Energy-Efficient and Environmental Building Design",
+    "degree_level": "Master's",
+    "faculty": "Department of Building and Environmental Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Master's programme); non-EU fee billed as SEK 92,500/semester across 4 semesters",
+    "source_url": "https://www.lunduniversity.lu.se/study/energy-efficient-and-environmental-building-design-masters-programme-TAEMB"
+  },
+  {
+    "course_name": "Water Resources Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Building and Environmental Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Master's programme); non-EU fee billed as SEK 92,500/semester across 4 semesters",
+    "source_url": "https://www.lunduniversity.lu.se/study/water-resources-engineering-masters-programme-TAWRE"
+  },
+  {
+    "course_name": "Industrial Design",
+    "degree_level": "Master's",
+    "faculty": "Department of Design Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 540000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits, MFA (Master of Fine Arts in Industrial Design); non-EU fee billed as SEK 135,000/semester across 4 semesters. A separate 3-year Bachelor of Arts in Industrial Design exists at LTH but is taught in Swedish (confirmed \"Sprak: Svenska\" on its own page) and is out of scope",
+    "source_url": "https://www.lunduniversity.lu.se/study/industrial-design-masters-programme-TAIDE"
+  },
+  {
+    "course_name": "Embedded Electronics Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Electrical and Information Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); digital and analogue IC-design tracks with electives in programming, AI, signal processing and nano devices; confirmed hosted by the Department of Electrical and Information Technology (eit.lth.se) as one of its two international Master's programmes; non-EU fee billed as SEK 92,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/embedded-electronics-engineering-masters-programme-TAEEE"
+  },
+  {
+    "course_name": "Wireless Communications",
+    "degree_level": "Master's",
+    "faculty": "Department of Electrical and Information Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen) — 8 mandatory and 4 elective courses over 3 semesters, thesis project in the final semester; confirmed hosted by the Department of Electrical and Information Technology (eit.lth.se) as one of its two international Master's programmes; non-EU fee billed as SEK 92,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/wireless-communications-masters-programme-TAWIR"
+  },
+  {
+    "course_name": "Machine Learning, Systems and Control",
+    "degree_level": "Master's",
+    "faculty": "Department of Automatic Control; Department of Computer Science; Department of Electrical and Information Technology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); genuinely jointly delivered by four departments per both the programme's own page and the Department of Automatic Control's own education page (control.lth.se) — Mathematics, Automatic Control, Computer Science and Electrical and Information Technology; recorded once with a joint faculty string for the three departments in this file's scope, Mathematics (out of scope) noted here for completeness; non-EU fee billed as SEK 92,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/machine-learning-systems-and-control-masters-programme-TAMSR"
+  },
+  {
+    "course_name": "Sustainable Energy Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Energy Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); confirmed as the Department of Energy Sciences' own Master's programme (energy.lth.se links it directly); non-EU fee billed as SEK 92,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/sustainable-energy-engineering-masters-programme-TAHET"
+  },
+  {
+    "course_name": "Production and Materials Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Industrial and Mechanical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); confirmed on the Department of Industrial and Mechanical Sciences' own education page (ims.lth.se), delivered via its Production and Materials Engineering division; non-EU fee billed as SEK 92,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/production-and-materials-engineering-masters-programme-TAPRR"
+  },
+  {
+    "course_name": "Logistics and Supply Chain Management",
+    "degree_level": "Master's",
+    "faculty": "Department of Industrial and Mechanical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen); confirmed on the Department of Industrial and Mechanical Sciences' own education page (ims.lth.se), delivered via its Engineering Logistics division; non-EU fee billed as SEK 92,500/semester",
+    "source_url": "https://www.lunduniversity.lu.se/study/logistics-and-supply-chain-management-masters-programme-TALSF"
+  },
+  {
+    "course_name": "Biomedical Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Biomedical Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen). Newly developed LTH programme, first intake autumn 2027; applications currently closed and entry requirements/fees not yet published on Lund's own site as of this research pass (2026-09) — re-check once autumn 2026 admissions info is released.",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TABMT"
+  },
+  {
+    "course_name": "Nanoscience",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen). Confirmed LTH (Faculty of Engineering) programme via the Department of Physics' own education page, which lists Nanoscience and Photonics as its two LTH master's (all its other master's — Astrophysics, General Physics, Materials Science, Theoretical Physics, X-ray and Neutron Science, Quantum Science and Technology, Experimental Particle and Nuclear Physics — are Faculty of Science and out of scope here). Non-EU fee billed as SEK 92,500/semester.",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TANAV"
+  },
+  {
+    "course_name": "Photonics",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen). Confirmed LTH programme via the Department of Physics' own education page (see Nanoscience record for the full LTH-vs-Faculty-of-Science split). Closely affiliated with the Lund Laser Centre. Non-EU fee billed as SEK 92,500/semester.",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TAFOT"
+  },
+  {
+    "course_name": "Biotechnology",
+    "degree_level": "Master's",
+    "faculty": "Department of Process and Life Science Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen). Confirmed LTH programme, listed on the Department of Process and Life Science Engineering's own education page. Non-EU fee billed as SEK 92,500/semester.",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TABIT"
+  },
+  {
+    "course_name": "Food Technology and Nutrition",
+    "degree_level": "Master's",
+    "faculty": "Department of Process and Life Science Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen). Confirmed LTH programme, listed on the Department of Process and Life Science Engineering's own education page. Non-EU fee billed as SEK 92,500/semester.",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TALIV"
+  },
+  {
+    "course_name": "Pharmaceutical Technology: Discovery, Development and Production",
+    "degree_level": "Master's",
+    "faculty": "Department of Process and Life Science Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 0,
+        "currency": "SEK",
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 370000,
+        "currency": "SEK",
+        "period": "total"
+      }
+    },
+    "duration": "2 years, 120 ECTS credits (Masterexamen). Confirmed LTH programme, listed on the Department of Process and Life Science Engineering's own education page (programme director Jenny Schelin, contact msc.pharma@lth.lu.se). Non-EU fee billed as SEK 92,500/semester.",
+    "source_url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TALAK"
+  },
+  {
+    "course_name": "EIT Master's in Food Systems",
+    "degree_level": "Master's",
+    "faculty": "Department of Process and Life Science Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, full-time, 120 ECTS (Master of Science in Food Systems). European Institute of Innovation & Technology (EIT) joint programme; students study across multiple partner universities (Lund, Reading, Hohenheim, Turin, Warsaw, Aarhus), not solely at Lund. Lund's own LTH page for this programme does not publish a fee figure and instead directs applicants to EIT Food's own tuition/scholarships page — standard Swedish EU=0 tuition may not straightforwardly apply given the multi-country consortium structure; flagged as ambiguous rather than guessed. First intake autumn 2026.",
+    "source_url": "https://www.lth.se/english/master-programme-structure/eit/"
+  },
+  {
+    "course_name": "Membrane Engineering for Sustainable Development (MESD)",
+    "degree_level": "Master's",
+    "faculty": "Department of Process and Life Science Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, 4 semesters, 120 ECTS total (30 ECTS/semester), study required in at least 3 different partner countries. Erasmus Mundus joint master's; Lund's own department page (Process and Life Science Engineering) and Lund's central joint-master's-programmes listing both confirm Lund is a delivering partner (Faculty of Engineering, LTH), but neither publishes a fee figure — the programme's own primary site is hosted outside Lund's domain (consortium-run, University of Montpellier) and states no tuition figures either. Fee left null rather than guessed; ambiguous whether standard Swedish EU=0 tuition applies to this consortium-run degree.",
+    "source_url": "http://www.ple.lth.se/en/education/"
+  },
+  {
+    "course_name": "Food Innovation and Product Design (FIPDES)",
+    "degree_level": "Master's",
+    "faculty": "Department of Process and Life Science Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years (1st year, 2nd year, plus master thesis). Joint European master's; Lund's own department page (Process and Life Science Engineering) and Lund's central joint-master's-programmes listing both confirm Lund/LTH as a delivering partner, but no fee figure is published on any Lund domain — primary programme site is hosted outside Lund's domain (AgroParisTech-led consortium). Fee left null rather than guessed, same ambiguity as the MESD record.",
+    "source_url": "http://www.ple.lth.se/en/education/"
+  },
+  {
+    "course_name": "European Master's Degree in Food Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Process and Life Science Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      },
+      "non_eu_students": {
+        "amount": null,
+        "currency": "SEK"
+      }
+    },
+    "duration": "2 years, full-time; starts August 2026. Joint European master's (4-university consortium); Lund's own Department of Process and Life Science Engineering education page lists this as one of its master's programmes, confirming Lund/LTH participation, but no fee figure is published on any Lund domain — primary programme site is hosted outside Lund's domain. Fee left null rather than guessed, same ambiguity as the MESD/FIPDES records; worth re-confirming this listing is still current if the file is extended later.",
+    "source_url": "http://www.ple.lth.se/en/education/"
+  }
+]

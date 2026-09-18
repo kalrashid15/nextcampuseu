@@ -1,0 +1,3219 @@
+[
+  {
+    "course_name": "Business Studies (BBS)",
+    "degree_level": "Bachelor's",
+    "faculty": "Kemmy Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3058,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17396,
+        "period": "year"
+      }
+    },
+    "duration": "4 years. Common-entry honours degree (course code LM050); after Year 1 students choose a major (Accounting and Finance, Economics and Finance, Human Resource Management, Marketing, or Risk Management and Insurance). Language stream options combining a major with integrated language study throughout all 4 years share the same core award and fee: French (LM052), German (LM053), Spanish (LM054, Beginners or Advanced), Japanese (LM055, Beginners) - not separate degrees.",
+    "source_url": "https://www.ul.ie/study/undergraduate/business-studies-bbs"
+  },
+  {
+    "course_name": "International Business",
+    "degree_level": "Bachelor's",
+    "faculty": "Kemmy Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3058,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17396,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (course code LM056)",
+    "source_url": "https://www.ul.ie/study/undergraduate/international-business-ba"
+  },
+  {
+    "course_name": "Law and Accounting",
+    "degree_level": "Bachelor's",
+    "faculty": "Kemmy Business School (jointly with UL School of Law)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3058,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17396,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (course code LM020), including an 8-month cooperative education work placement in semester 2 of Year 3",
+    "source_url": "https://www.ul.ie/study/undergraduate/law-and-accounting-ba"
+  },
+  {
+    "course_name": "Management Practice",
+    "degree_level": "Bachelor's",
+    "faculty": "Kemmy Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4950,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 6950,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, part-time (course code LM224); delivered via live interactive online evening sessions for experienced management professionals",
+    "source_url": "https://www.ul.ie/study/postgraduate/management-practice-ba"
+  },
+  {
+    "course_name": "Human Resource Management and the Future of Work",
+    "degree_level": "Bachelor's",
+    "faculty": "Kemmy Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5430,
+        "period": "year"
+      }
+    },
+    "duration": "1-2 years, part-time, blended learning; CIPD-approved",
+    "source_url": "https://www.ul.ie/study/postgraduate/human-resource-management-and-the-future-of-work-ba"
+  },
+  {
+    "course_name": "Supply Chain Management",
+    "degree_level": "Bachelor's",
+    "faculty": "Kemmy Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time, fully online; also available as an apprenticeship route with potential funding through SOLAS & HEA",
+    "source_url": "https://www.ul.ie/study/postgraduate/supply-chain-management-bsc"
+  },
+  {
+    "course_name": "Accounting",
+    "degree_level": "Master's",
+    "faculty": "Department of Accounting and Finance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/accounting-msc"
+  },
+  {
+    "course_name": "Finance",
+    "degree_level": "Master's",
+    "faculty": "Department of Accounting and Finance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/finance-msc"
+  },
+  {
+    "course_name": "Taxation",
+    "degree_level": "Master's",
+    "faculty": "Department of Accounting and Finance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; 10 taught modules over two semesters plus a research dissertation in the summer semester. Developed with the Irish Tax Institute.",
+    "source_url": "https://www.ul.ie/gps/course/taxation-masters"
+  },
+  {
+    "course_name": "Insurance and Risk Management",
+    "degree_level": "Master's",
+    "faculty": "Department of Accounting and Finance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (delivered across three semesters with hybrid elements)",
+    "source_url": "https://www.ul.ie/study/postgraduate/insurance-and-risk-management-msc"
+  },
+  {
+    "course_name": "Economics and Policy Analysis",
+    "degree_level": "Master's",
+    "faculty": "Department of Economics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/economics-and-policy-analysis-msc"
+  },
+  {
+    "course_name": "Management",
+    "degree_level": "Master's",
+    "faculty": "Department of Management and Marketing",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; conversion masters for non-business graduates (marketed historically as \"MA in Business Management\", current official page title \"Management - MSc\")",
+    "source_url": "https://www.ul.ie/study/postgraduate/management-msc"
+  },
+  {
+    "course_name": "International Entrepreneurship Management",
+    "degree_level": "Master's",
+    "faculty": "Department of Management and Marketing",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (assumed)",
+    "source_url": "https://www.ul.ie/gps/international-entrepreneurship-management-masters"
+  },
+  {
+    "course_name": "International Management & Global Business",
+    "degree_level": "Master's",
+    "faculty": "Department of Management and Marketing",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/international-management-msc"
+  },
+  {
+    "course_name": "Marketing, Consumption & Society",
+    "degree_level": "Master's",
+    "faculty": "Department of Management and Marketing",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; dual-degree option available with partner French business schools",
+    "source_url": "https://www.ul.ie/study/postgraduate/marketing-consumption-and-society-msc"
+  },
+  {
+    "course_name": "Business Analytics",
+    "degree_level": "Master's",
+    "faculty": "Kemmy Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/business-analytics-msc"
+  },
+  {
+    "course_name": "International Tourism",
+    "degree_level": "Master's",
+    "faculty": "Kemmy Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (2 years part-time option); includes an international field trip",
+    "source_url": "https://www.ul.ie/gps/course/international-tourism-ma"
+  },
+  {
+    "course_name": "Business Administration (Executive MBA)",
+    "degree_level": "Master's",
+    "faculty": "Kemmy Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 15300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17000,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time; delivered in eight 3-day on-campus blocks per year across two semesters",
+    "source_url": "https://www.ul.ie/study/postgraduate/business-administration-executive-mba"
+  },
+  {
+    "course_name": "Human Resource Management",
+    "degree_level": "Master's",
+    "faculty": "Department of Work and Employment Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year (full-time) or 2 years (part-time); CIPD-accredited. Part-time EU fee is charged as approx. €5,500 in Year 1 and €5,670 in Year 2 (AY 25/26); optional dual-degree second year at a partner French university.",
+    "source_url": "https://www.ul.ie/study/postgraduate/human-resource-management-msc"
+  },
+  {
+    "course_name": "Human Resource Management (International)",
+    "degree_level": "Master's",
+    "faculty": "Department of Work and Employment Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; dual degree with one semester at Universidad Carlos III de Madrid, Spain",
+    "source_url": "https://www.ul.ie/study/postgraduate/human-resource-management-international-msc"
+  },
+  {
+    "course_name": "Work and Organisational Behaviour",
+    "degree_level": "Master's",
+    "faculty": "Department of Work and Employment Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year (full-time) or 2 years (part-time); CIPD-accredited. Part-time EU fee is charged as approx. €5,500 in Year 1 and €5,670 in Year 2 (AY 25/26).",
+    "source_url": "https://www.ul.ie/study/postgraduate/work-and-organisational-psychology/work-and-organisational-behaviour-msc"
+  },
+  {
+    "course_name": "Work and Organisational Psychology",
+    "degree_level": "Master's",
+    "faculty": "Department of Work and Employment Studies",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year (full-time) or 2 years (part-time); CIPD- and Psychological Society of Ireland-accredited. Part-time EU fee is charged as approx. €5,500 in Year 1 and €5,670 in Year 2 (AY 25/26).",
+    "source_url": "https://www.ul.ie/study/postgraduate/work-and-organisational-psychology/work-and-organisational-behaviour-msc"
+  },
+  {
+    "course_name": "Project Management",
+    "degree_level": "Master's",
+    "faculty": "Centre for Project Management, Kemmy Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 10200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; PMI Global Accreditation Center certified; dual-degree pathway available with partner French business schools",
+    "source_url": "https://www.ul.ie/study/postgraduate/project-management-msc"
+  },
+  {
+    "course_name": "Project and Programme Management (Online)",
+    "degree_level": "Master's",
+    "faculty": "Centre for Project Management, Kemmy Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8925,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 10710,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, fully online; PMI Global Accreditation Center certified. Distinct programme from the full-time on-campus MSc in Project Management.",
+    "source_url": "https://www.ul.ie/study/postgraduate/project-and-programme-management-msc-online"
+  },
+  {
+    "course_name": "Machine Learning for Finance (Online)",
+    "degree_level": "Master's",
+    "faculty": "Kemmy Business School (jointly with the Faculty of Science and Engineering)",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 10600,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, fully online; combines KBS finance postgraduate content with UL's MSc in Artificial Intelligence",
+    "source_url": "https://www.ul.ie/study/postgraduate/machine-learning-for-finance-msc-online"
+  },
+  {
+    "course_name": "Supply Chain Operations (Online)",
+    "degree_level": "Master's",
+    "faculty": "Kemmy Business School",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 5250,
+        "year_2": 8750
+      },
+      "non_eu_students": {
+        "year_1": 5250,
+        "year_2": 8750
+      }
+    },
+    "duration": "2 years, part-time, fully online; also available via an Executive Apprenticeship route with potential funding coverage through SOLAS & HEA",
+    "source_url": "https://www.ul.ie/study/postgraduate/supply-chain-operations-msc-online"
+  },
+  {
+    "course_name": "Bachelor of Arts in Irish Music",
+    "degree_level": "Bachelor's",
+    "faculty": "Irish World Academy of Music and Dance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7364,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ul.ie/courses/bachelor-of-arts-in-irish-music"
+  },
+  {
+    "course_name": "Bachelor of Arts in Irish Dance",
+    "degree_level": "Bachelor's",
+    "faculty": "Irish World Academy of Music and Dance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7364,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ul.ie/study/undergraduate/irish-dance-ba"
+  },
+  {
+    "course_name": "Bachelor of Arts in Contemporary Dance",
+    "degree_level": "Bachelor's",
+    "faculty": "Irish World Academy of Music and Dance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7364,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ul.ie/study/undergraduate/contemporary-dance-ba"
+  },
+  {
+    "course_name": "Bachelor of Arts in Voice",
+    "degree_level": "Bachelor's",
+    "faculty": "Irish World Academy of Music and Dance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7364,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ul.ie/study/undergraduate/voice-ba"
+  },
+  {
+    "course_name": "Bachelor of Arts in Music",
+    "degree_level": "Bachelor's",
+    "faculty": "Irish World Academy of Music and Dance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7364,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ul.ie/study/undergraduate/music-ba"
+  },
+  {
+    "course_name": "Bachelor of Science in Music, Media & Performance Technology",
+    "degree_level": "Bachelor's",
+    "faculty": "Irish World Academy of Music and Dance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7364,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 21900,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, includes an 8-month co-operative education work term",
+    "source_url": "https://www.ul.ie/study/undergraduate/music-media-and-performance-technology-bsc"
+  },
+  {
+    "course_name": "Master of Arts in Composition and Creative Music Practice",
+    "degree_level": "Master's",
+    "faculty": "Irish World Academy of Music and Dance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (also offered part-time over 2 years)",
+    "source_url": "https://www.ul.ie/study/postgraduate/composition-and-creative-music-practice-ma"
+  },
+  {
+    "course_name": "Master of Arts in Community Music",
+    "degree_level": "Master's",
+    "faculty": "Irish World Academy of Music and Dance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/community-music-ma"
+  },
+  {
+    "course_name": "Master of Arts in Classical String Performance",
+    "degree_level": "Master's",
+    "faculty": "Irish World Academy of Music and Dance",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 7600,
+        "year_2": 7270
+      },
+      "non_eu_students": {
+        "year_1": 12900,
+        "year_2": 12500
+      }
+    },
+    "duration": "2 years, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/classical-string-performance-ma"
+  },
+  {
+    "course_name": "Master of Arts in Dance Performance",
+    "degree_level": "Master's",
+    "faculty": "Irish World Academy of Music and Dance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/dance-performance-ma"
+  },
+  {
+    "course_name": "Master of Arts in Irish Dance Studies",
+    "degree_level": "Master's",
+    "faculty": "Irish World Academy of Music and Dance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/dance-studies-ma"
+  },
+  {
+    "course_name": "Master of Arts in Ethnochoreology",
+    "degree_level": "Master's",
+    "faculty": "Irish World Academy of Music and Dance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/ethnochoreology-ma"
+  },
+  {
+    "course_name": "Master of Arts in Ethnomusicology",
+    "degree_level": "Master's",
+    "faculty": "Irish World Academy of Music and Dance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/ethnomusicology-ma"
+  },
+  {
+    "course_name": "Master of Arts in Irish Music Studies",
+    "degree_level": "Master's",
+    "faculty": "Irish World Academy of Music and Dance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (stackable from Postgraduate Certificate, 30 ECTS, through Postgraduate Diploma, 60 ECTS, to MA, 90 ECTS)",
+    "source_url": "https://www.ul.ie/study/postgraduate/irish-music-studies-postgraduate-certificate-or-postgraduate-diploma-or-ma"
+  },
+  {
+    "course_name": "Master of Arts in Irish Traditional Music Performance",
+    "degree_level": "Master's",
+    "faculty": "Irish World Academy of Music and Dance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/irish-traditional-music-performance-ma"
+  },
+  {
+    "course_name": "Master of Arts in Music Therapy",
+    "degree_level": "Master's",
+    "faculty": "Irish World Academy of Music and Dance",
+    "tuition_fee": {
+      "eu_students": {
+        "year_1": 7600,
+        "year_2": 7720
+      },
+      "non_eu_students": {
+        "year_1": 17400,
+        "year_2": 16900
+      }
+    },
+    "duration": "2 years, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/music-therapy-ma"
+  },
+  {
+    "course_name": "Master of Arts in Ritual Chant and Song",
+    "degree_level": "Master's",
+    "faculty": "Irish World Academy of Music and Dance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/ritual-chant-and-song-ma"
+  },
+  {
+    "course_name": "Master of Arts in Songwriting",
+    "degree_level": "Master's",
+    "faculty": "Irish World Academy of Music and Dance",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/songwriting-ma"
+  },
+  {
+    "course_name": "Arts",
+    "degree_level": "Bachelor's",
+    "faculty": "Faculty of Arts, Humanities and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3058,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17396,
+        "period": "year"
+      }
+    },
+    "duration": "4 years; common-entry degree (LM002) — students choose 4 subjects in Year 1, narrowing to 2 from Year 2 onward, among: Digital Culture and Communications, Economics, English, French, Gaeilge, Geography, German, History, Japanese, Linguistics with TESOL, Mathematics, Music and Dance, Politics and International Relations, Psychology, Public Administration and Leadership, Sociology, Spanish. Includes a work placement and a mandatory study-abroad semester.",
+    "source_url": "https://www.ul.ie/study/undergraduate/arts-ba"
+  },
+  {
+    "course_name": "Social Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "Faculty of Arts, Humanities and Social Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3058,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17396,
+        "period": "year"
+      }
+    },
+    "duration": "4 years; common-entry degree (LM019) — students choose 3 disciplines from: Digital Culture and Communications, Economics, Geography, History, Linguistics with TESOL, Politics and International Relations, Psychology, Public Administration and Leadership, Sociology.",
+    "source_url": "https://www.ul.ie/study/undergraduate/social-sciences-bsc"
+  },
+  {
+    "course_name": "Applied Languages",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Modern Languages and Applied Linguistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3058,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17396,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ul.ie/study/undergraduate/applied-languages-ba"
+  },
+  {
+    "course_name": "European Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Modern Languages and Applied Linguistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3058,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17396,
+        "period": "year"
+      }
+    },
+    "duration": "4 years; language options French, German, Irish/Gaeilge, Spanish, plus options in European History, Sociology, Politics, Economics/Marketing, Law and European Literature & Film; includes a Study Abroad semester (Year 2 spring) and a Cooperative Education semester (Year 3 autumn). Jointly delivered by the School of Modern Languages and Applied Linguistics and the Department of Politics and Public Administration.",
+    "source_url": "https://www.ul.ie/study/undergraduate/european-studies-ba"
+  },
+  {
+    "course_name": "Journalism and Digital Communication",
+    "degree_level": "Bachelor's",
+    "faculty": "School of English, Irish and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3058,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17396,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ul.ie/study/undergraduate/journalism-and-digital-communication-ba"
+  },
+  {
+    "course_name": "Global Politics",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Politics and Public Administration",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3058,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17396,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ul.ie/study/undergraduate/global-politics-ba"
+  },
+  {
+    "course_name": "Common and Civil Law",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3058,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17396,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ul.ie/study/undergraduate/common-and-civil-law-llb"
+  },
+  {
+    "course_name": "Law Plus",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3058,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17396,
+        "period": "year"
+      }
+    },
+    "duration": "4 years; flexible electives, practical legal skills, built-in work placement, optional Erasmus/Exchange",
+    "source_url": "https://www.ul.ie/study/undergraduate/law-plus-llb"
+  },
+  {
+    "course_name": "Criminal Justice",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3058,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17396,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ul.ie/study/undergraduate/criminal-justice-ba"
+  },
+  {
+    "course_name": "Law and Cyber Security",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years; jointly delivered by the School of Law and the Department of Electronic and Computer Engineering",
+    "source_url": "https://www.ul.ie/study/undergraduate/law-and-cyber-security-llb"
+  },
+  {
+    "course_name": "Law (Graduate Entry)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5662,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17500,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time; graduate-entry route to the LLB for holders of a primary degree",
+    "source_url": "https://www.ul.ie/study/postgraduate/law-graduate-entry-llb"
+  },
+  {
+    "course_name": "History",
+    "degree_level": "Master's",
+    "faculty": "School of History and Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/history-ma"
+  },
+  {
+    "course_name": "History of the Family",
+    "degree_level": "Master's",
+    "faculty": "School of History and Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time (part-time fee: EU €4,500/yr, non-EU €9,900/yr)",
+    "source_url": "https://www.ul.ie/study/postgraduate/history-of-family-ma"
+  },
+  {
+    "course_name": "History of the Family (Online)",
+    "degree_level": "Master's",
+    "faculty": "School of History and Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18100,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (online) or 2 years part-time (online) (part-time fee: EU €4,300/yr, non-EU €9,500/yr)",
+    "source_url": "https://www.ul.ie/study/postgraduate/history-of-family-online-ma"
+  },
+  {
+    "course_name": "Irish and Global Conflict History",
+    "degree_level": "Master's",
+    "faculty": "School of History and Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/irish-and-global-conflict-history-ma"
+  },
+  {
+    "course_name": "Local History",
+    "degree_level": "Master's",
+    "faculty": "School of History and Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 9900,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time only (no full-time option offered)",
+    "source_url": "https://www.ul.ie/study/postgraduate/local-history-ma"
+  },
+  {
+    "course_name": "Public History and Cultural Heritage",
+    "degree_level": "Master's",
+    "faculty": "School of History and Geography",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time (part-time fee: EU €4,500/yr, non-EU €9,900/yr)",
+    "source_url": "https://www.ul.ie/study/postgraduate/public-history-and-cultural-heritage-ma"
+  },
+  {
+    "course_name": "European Politics and Governance",
+    "degree_level": "Master's",
+    "faculty": "Department of Politics and Public Administration",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/european-politics-and-governance-ma"
+  },
+  {
+    "course_name": "European Studies (Double Degree)",
+    "degree_level": "Master's",
+    "faculty": "Department of Politics and Public Administration",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "2 years; double degree delivered jointly with Europa-Universität Flensburg, Germany",
+    "source_url": "https://www.ul.ie/study/postgraduate/european-studies-double-degree-ma"
+  },
+  {
+    "course_name": "Politics",
+    "degree_level": "Master's",
+    "faculty": "Department of Politics and Public Administration",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/politics-ma"
+  },
+  {
+    "course_name": "Public Administration",
+    "degree_level": "Master's",
+    "faculty": "Department of Politics and Public Administration",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time (part-time fee: EU €4,500/yr, non-EU €9,900/yr); Graduate Diploma exit award also available",
+    "source_url": "https://www.ul.ie/study/postgraduate/public-administration-graduate-diploma-or-ma"
+  },
+  {
+    "course_name": "International Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Politics and Public Administration",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/international-studies-ma"
+  },
+  {
+    "course_name": "Community Research",
+    "degree_level": "Master's",
+    "faculty": "Department of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/community-research-ma"
+  },
+  {
+    "course_name": "Migration Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/migration-studies-ma"
+  },
+  {
+    "course_name": "Peace and Development Studies",
+    "degree_level": "Master's",
+    "faculty": "Department of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time (part-time fee: EU €4,500/yr, non-EU €9,900/yr); Graduate Diploma exit award available after taught modules",
+    "source_url": "https://www.ul.ie/study/postgraduate/peace-and-development-studies-ma"
+  },
+  {
+    "course_name": "Sociology (Youth, Community and Social Regeneration)",
+    "degree_level": "Master's",
+    "faculty": "Department of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time (part-time fee: EU €4,500/yr, non-EU €9,900/yr)",
+    "source_url": "https://www.ul.ie/study/postgraduate/sociology-youth-community-and-social-regeneration-ma"
+  },
+  {
+    "course_name": "Sociology and Data Analytics",
+    "degree_level": "Master's",
+    "faculty": "Department of Sociology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time (part-time fee: EU €4,500/yr, non-EU €9,900/yr)",
+    "source_url": "https://www.ul.ie/study/postgraduate/sociology-and-data-analytics-msc"
+  },
+  {
+    "course_name": "Creative Writing",
+    "degree_level": "Master's",
+    "faculty": "School of English, Irish and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8700,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time (part-time fee: EU €4,500/yr, non-EU €10,300/yr)",
+    "source_url": "https://www.ul.ie/study/postgraduate/creative-writing-ma"
+  },
+  {
+    "course_name": "English",
+    "degree_level": "Master's",
+    "faculty": "School of English, Irish and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time (part-time fee: EU €4,500/yr, non-EU €9,900/yr)",
+    "source_url": "https://www.ul.ie/study/postgraduate/english-ma"
+  },
+  {
+    "course_name": "Gaeilge",
+    "degree_level": "Master's",
+    "faculty": "School of English, Irish and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time (part-time fee not published on official fee page — listed as TBC)",
+    "source_url": "https://www.ul.ie/study/postgraduate/gaeilge-ma"
+  },
+  {
+    "course_name": "Journalism and Digital Communication",
+    "degree_level": "Master's",
+    "faculty": "School of English, Irish and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time (part-time fee: EU €4,500/yr, non-EU €9,900/yr); News or Sports specialization pathways",
+    "source_url": "https://www.ul.ie/study/postgraduate/journalism-and-digital-communication-ma"
+  },
+  {
+    "course_name": "Technical Communication and E-Learning",
+    "degree_level": "Master's",
+    "faculty": "School of English, Irish and Communication",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time (part-time fee: EU €4,500/yr, non-EU €9,900/yr)",
+    "source_url": "https://www.ul.ie/study/postgraduate/technical-communication-and-e-learning-ma"
+  },
+  {
+    "course_name": "Applied Linguistics (International)",
+    "degree_level": "Master's",
+    "faculty": "School of Modern Languages and Applied Linguistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/applied-linguistics-international-ma"
+  },
+  {
+    "course_name": "Teaching English to Speakers of Other Languages",
+    "degree_level": "Master's",
+    "faculty": "School of Modern Languages and Applied Linguistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/teaching-english-to-speakers-of-other-languages-ma"
+  },
+  {
+    "course_name": "Teaching Foreign Languages in a Multicultural Environment (TELME)",
+    "degree_level": "Master's",
+    "faculty": "School of Modern Languages and Applied Linguistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 6500,
+        "period": "year"
+      }
+    },
+    "duration": "2 years",
+    "source_url": "https://www.ul.ie/study/postgraduate/teaching-foreign-languages-in-a-multicultural-environment-telme-ma"
+  },
+  {
+    "course_name": "Translation",
+    "degree_level": "Master's",
+    "faculty": "School of Modern Languages and Applied Linguistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time (part-time fee: EU €4,500/yr, non-EU €9,900/yr)",
+    "source_url": "https://www.ul.ie/study/postgraduate/translation-ma"
+  },
+  {
+    "course_name": "International Commercial Law (LLM)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/international-commercial-law-llm"
+  },
+  {
+    "course_name": "Law (General) (LLM)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time (part-time fee: EU €4,500/yr, non-EU €9,900/yr)",
+    "source_url": "https://www.ul.ie/study/postgraduate/law-general-llm"
+  },
+  {
+    "course_name": "Human Rights in Criminal Justice (LLM or MA)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7995,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time or 2 years part-time (part-time fee: EU €4,500/yr, non-EU €9,900/yr); awarded as LLM to applicants with a law degree, or MA to applicants from related disciplines (e.g. politics, sociology)",
+    "source_url": "https://www.ul.ie/study/postgraduate/law-human-rights-in-criminal-justice-llm-or-ma"
+  },
+  {
+    "course_name": "Human Rights in Criminal Justice (Online) (LLM or MA)",
+    "degree_level": "Master's",
+    "faculty": "School of Law",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 9500,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, online delivery; awarded as LLM or MA depending on entry qualification",
+    "source_url": "https://www.ul.ie/study/postgraduate/law-human-rights-in-criminal-justice-online-llm-or-ma"
+  },
+  {
+    "course_name": "Medicine (Graduate Entry)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 15820,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 56496,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, graduate-entry (GAMSAT required); awarded as BM BS",
+    "source_url": "https://www.ul.ie/study/undergraduate/medicine-graduate-entry"
+  },
+  {
+    "course_name": "Medicine (Undergraduate Entry)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6350,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "6 years, direct entry (HPAT required); awarded as BMBS; not currently open to non-EU applicants for 2026/27",
+    "source_url": "https://www.ul.ie/study/undergraduate/undergraduate-entry-medicine-bmbs"
+  },
+  {
+    "course_name": "Biomedical Science",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ul.ie/study/undergraduate/biomedical-science-bsc"
+  },
+  {
+    "course_name": "Paramedic Studies",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4757,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 years; not currently open to non-EU applicants",
+    "source_url": "https://www.ul.ie/study/undergraduate/paramedic-studies-bsc"
+  },
+  {
+    "course_name": "Paramedic Studies (Practitioner Entry)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, practitioner entry for practising paramedics, blended learning (one week on-campus per semester); not currently open to non-EU applicants",
+    "source_url": "https://www.ul.ie/study/undergraduate/paramedic-studies-bsc-practitioner-entry"
+  },
+  {
+    "course_name": "Occupational Therapy",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Allied Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5866,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 26196,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ul.ie/study/undergraduate/occupational-therapy-bsc"
+  },
+  {
+    "course_name": "Physiotherapy",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Allied Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5866,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 26196,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ul.ie/study/undergraduate/physiotherapy-bsc"
+  },
+  {
+    "course_name": "Speech and Language Therapy",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Allied Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8350,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 26198,
+        "period": "year"
+      }
+    },
+    "duration": "4 years; new programme for 2026 entry, CORU accreditation and IASLT recognition pending",
+    "source_url": "https://www.ul.ie/study/undergraduate/speech-and-language-therapy-bsc"
+  },
+  {
+    "course_name": "Health Professions Education",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 9500,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, blended/in-person delivery (a distance-learning mode is also offered at a lower fee: EU €6,900/yr, non-EU €7,000/yr)",
+    "source_url": "https://www.ul.ie/study/postgraduate/health-professions-education-msc"
+  },
+  {
+    "course_name": "Public Health",
+    "degree_level": "Master's",
+    "faculty": "School of Medicine",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8100,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time also offered, EU €5,200/yr, non-EU €9,400/yr)",
+    "source_url": "https://www.ul.ie/study/postgraduate/public-health-msc"
+  },
+  {
+    "course_name": "Advanced Healthcare Practice",
+    "degree_level": "Master's",
+    "faculty": "School of Allied Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year full-time (2 years part-time also offered, EU €3,900/yr); not open to non-EU students due to visa/immigration requirements",
+    "source_url": "https://www.ul.ie/study/postgraduate/advanced-healthcare-practice-msc"
+  },
+  {
+    "course_name": "Human Nutrition and Dietetics",
+    "degree_level": "Master's",
+    "faculty": "School of Allied Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 14200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 26300,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time, graduate-entry",
+    "source_url": "https://www.ul.ie/study/postgraduate/human-nutrition-and-dietetics-msc"
+  },
+  {
+    "course_name": "Occupational Therapy (Professional Qualification)",
+    "degree_level": "Master's",
+    "faculty": "School of Allied Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 13300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 26700,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/occupational-therapy-professional-qualification-msc"
+  },
+  {
+    "course_name": "Physiotherapy (Professional Qualification)",
+    "degree_level": "Master's",
+    "faculty": "School of Allied Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 13300,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 26700,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/physiotherapy-professional-qualification-msc"
+  },
+  {
+    "course_name": "Speech and Language Therapy (Professional Qualification)",
+    "degree_level": "Master's",
+    "faculty": "School of Allied Health",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 12400,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 24800,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/speech-and-language-therapy-professional-qualification-msc"
+  },
+  {
+    "course_name": "Languages",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (LM091; concurrent teacher education)",
+    "source_url": "https://www.ul.ie/study/undergraduate/languages-bed"
+  },
+  {
+    "course_name": "Graphics and Construction Technology",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (LM094; concurrent teacher education, six semesters on campus plus two semesters school placement)",
+    "source_url": "https://www.ul.ie/study/undergraduate/graphics-and-construction-technology-bed"
+  },
+  {
+    "course_name": "Graphics, Engineering and Technology",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (LM095; concurrent teacher education)",
+    "source_url": "https://www.ul.ie/study/undergraduate/graphics-engineering-and-technology-bed"
+  },
+  {
+    "course_name": "Biology with Physics or Chemistry or Agricultural Science (Education)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (LM092; concurrent teacher education, co-delivered with Faculty of Science and Engineering; elective of Chemistry, Physics or Agricultural Science)",
+    "source_url": "https://www.ul.ie/courses/bachelor-of-science-education-in-biology-with-physics-or-chemistry-or-agricultural-science"
+  },
+  {
+    "course_name": "Physical Science with Chemistry and Physics (Education)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (LM096; concurrent teacher education, co-delivered with Faculty of Science and Engineering)",
+    "source_url": "https://www.ul.ie/study/undergraduate/physical-science-with-chemistry-and-physics-bsc"
+  },
+  {
+    "course_name": "Mathematics and Computer Science (Education)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (LM097; concurrent teacher education)",
+    "source_url": "https://www.ul.ie/courses/bachelor-science-education-mathematics-and-computer-science"
+  },
+  {
+    "course_name": "Nursing (General)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4606,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 years, full-time (LM150; delivered with the HSE West; official fee page lists non-EU tuition as €0, indicating this HSE-linked CAO route has no genuine non-EU intake channel)",
+    "source_url": "https://www.ul.ie/study/undergraduate/nursing-general-bsc"
+  },
+  {
+    "course_name": "Nursing (Intellectual Disability)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4606,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 years, full-time (LM154; delivered with the HSE; official fee page lists non-EU tuition as €0, indicating this HSE-linked CAO route has no genuine non-EU intake channel)",
+    "source_url": "https://www.ul.ie/study/undergraduate/nursing-intellectual-disability-bsc"
+  },
+  {
+    "course_name": "Nursing (Mental Health)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4606,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 years, full-time (LM152; delivered with the HSE; official fee page lists non-EU tuition as €0, indicating this HSE-linked CAO route has no genuine non-EU intake channel)",
+    "source_url": "https://www.ul.ie/study/undergraduate/nursing-mental-health-bsc"
+  },
+  {
+    "course_name": "Midwifery",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4606,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "4 years, full-time (LM156; delivered with the HSE; official fee page lists non-EU tuition as €0, indicating this HSE-linked CAO route has no genuine non-EU intake channel)",
+    "source_url": "https://www.ul.ie/study/undergraduate/midwifery-bsc"
+  },
+  {
+    "course_name": "Psychology",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (LM102; single-honours direct entry, accredited by the Psychological Society of Ireland)",
+    "source_url": "https://www.ul.ie/study/undergraduate/psychology-bsc"
+  },
+  {
+    "course_name": "Physical Education",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Physical Education and Sport Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (LM090; concurrent teacher education, PE paired with a second subject: English, Gaeilge, Geography or Mathematics; co-delivered with School of Education)",
+    "source_url": "https://www.ul.ie/study/undergraduate/physical-education-bsc"
+  },
+  {
+    "course_name": "Sport and Exercise Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Physical Education and Sport Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (LM089)",
+    "source_url": "https://www.ul.ie/study/undergraduate/sport-and-exercise-sciences-bsc"
+  },
+  {
+    "course_name": "Exercise and Health Fitness Management",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Physical Education and Sport Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, full-time (LM105)",
+    "source_url": "https://www.ul.ie/study/undergraduate/exercise-and-health-fitness-management-bsc"
+  },
+  {
+    "course_name": "Professional Master of Education",
+    "degree_level": "Master's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5800,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 10500,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time, blended delivery. Seven subject pathways: Business, Languages, Mathematics, Music, Physical Education, Science, Technological Education",
+    "source_url": "https://www.ul.ie/study/postgraduate/professional-master-of-education-pme"
+  },
+  {
+    "course_name": "Education (School Leadership)",
+    "degree_level": "Master's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4060,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 4000,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, part-time, blended delivery, starting in January",
+    "source_url": "https://www.ul.ie/study/postgraduate/education-school-leadership-med"
+  },
+  {
+    "course_name": "Educational Leadership (International)",
+    "degree_level": "Master's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 13200,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, online delivery",
+    "source_url": "https://www.ul.ie/study/postgraduate/educational-leadership-international-med"
+  },
+  {
+    "course_name": "Guidance Counselling and Lifespan Development",
+    "degree_level": "Master's",
+    "faculty": "School of Education",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 14500,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time; includes professional placement in year two",
+    "source_url": "https://www.ul.ie/study/postgraduate/guidance-counselling-lifespan-development-ma"
+  },
+  {
+    "course_name": "Advanced Practice (Midwifery)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 6000,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, blended learning; for experienced registered midwives",
+    "source_url": "https://www.ul.ie/study/postgraduate/advanced-practice-midwifery-msc"
+  },
+  {
+    "course_name": "Advanced Practice (Nursing)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 6000,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, blended learning; for registered nurses",
+    "source_url": "https://www.ul.ie/study/postgraduate/advanced-practice-nursing-msc"
+  },
+  {
+    "course_name": "Nursing (Dementia Care)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7700,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7700,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time, blended (on-campus, online and workplace learning); for registered nurses",
+    "source_url": "https://www.ul.ie/study/postgraduate/nursing-dementia-care-msc"
+  },
+  {
+    "course_name": "Nursing (Older Person)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7700,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7700,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time, blended delivery; for registered nurses",
+    "source_url": "https://www.ul.ie/study/postgraduate/nursing-older-person-msc"
+  },
+  {
+    "course_name": "Nursing (Palliative Care)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7700,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7700,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time; for registered nurses",
+    "source_url": "https://www.ul.ie/study/postgraduate/nursing-palliative-care-msc"
+  },
+  {
+    "course_name": "Nursing (Perioperative Care)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7700,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7700,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time; for registered nurses",
+    "source_url": "https://www.ul.ie/study/postgraduate/nursing-perioperative-care-msc"
+  },
+  {
+    "course_name": "Nursing (Psychosocial Interventions in Mental Health Care)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7700,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7700,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time, blended; for registered nurses",
+    "source_url": "https://www.ul.ie/study/postgraduate/nursing-psychosocial-interventions-in-mental-health-care-msc"
+  },
+  {
+    "course_name": "Nursing (Respiratory Care)",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7700,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7700,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time; 500 clinical practice hours required; for registered nurses",
+    "source_url": "https://www.ul.ie/study/postgraduate/nursing-respiratory-care-msc"
+  },
+  {
+    "course_name": "Nursing",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7700,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7700,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time, blended delivery; for registered nurses",
+    "source_url": "https://www.ul.ie/study/postgraduate/nursing-msc"
+  },
+  {
+    "course_name": "Perinatal Mental Health",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7700,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7700,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time; for healthcare professionals",
+    "source_url": "https://www.ul.ie/study/postgraduate/perinatal-mental-health-msc"
+  },
+  {
+    "course_name": "Infection Prevention and Control Leadership",
+    "degree_level": "Master's",
+    "faculty": "School of Nursing and Midwifery",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7700,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 7700,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, blended delivery; for healthcare professionals",
+    "source_url": "https://www.ul.ie/study/postgraduate/infection-prevention-and-control-leadership-msc"
+  },
+  {
+    "course_name": "Clinical and Community Psychology",
+    "degree_level": "Master's",
+    "faculty": "Department of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 9000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 18000,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/clinical-and-community-psychology-msc"
+  },
+  {
+    "course_name": "Psychological Science",
+    "degree_level": "Master's",
+    "faculty": "Department of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7600,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time, on-campus (online delivery also offered: EU €6,600/yr, non-EU €14,000/yr)",
+    "source_url": "https://www.ul.ie/study/postgraduate/psychological-science-msc-psychology"
+  },
+  {
+    "course_name": "Psychology (Conversion)",
+    "degree_level": "Master's",
+    "faculty": "Department of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 16600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; accredited by the Psychological Society of Ireland",
+    "source_url": "https://www.ul.ie/study/postgraduate/psychology-ma-conversion"
+  },
+  {
+    "course_name": "Psychology of Global Mobility, Inclusion and Diversity in Society (Global-MINDS)",
+    "degree_level": "Master's",
+    "faculty": "Department of Psychology",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 9000,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time; Erasmus Mundus joint programme delivered with ISCTE-University Institute of Lisbon, University of Oslo and SWPS University",
+    "source_url": "https://www.ul.ie/study/postgraduate/psychology-of-global-mobility-inclusion-and-diversity-in-society-erasmus-mundus-msc"
+  },
+  {
+    "course_name": "Applied Sports Coaching",
+    "degree_level": "Master's",
+    "faculty": "Department of Physical Education and Sport Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4000,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 9100,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/applied-sports-coaching-msc"
+  },
+  {
+    "course_name": "Mental Skills and Mental Health in Sports and Exercise",
+    "degree_level": "Master's",
+    "faculty": "Department of Physical Education and Sport Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 14600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time programme taken on a part-time/flexible basis",
+    "source_url": "https://www.ul.ie/study/postgraduate/mental-skills-and-mental-health-in-sports-and-exercise-msc"
+  },
+  {
+    "course_name": "Sport, Exercise and Performance Psychology",
+    "degree_level": "Master's",
+    "faculty": "Department of Physical Education and Sport Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 14600,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time; seeking accreditation from the Psychological Society of Ireland",
+    "source_url": "https://www.ul.ie/study/postgraduate/sport-exercise-and-performance-psychology-msc"
+  },
+  {
+    "course_name": "Sports Performance",
+    "degree_level": "Master's",
+    "faculty": "Department of Physical Education and Sport Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6704,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 12854,
+        "period": "year"
+      }
+    },
+    "duration": "1 to 2 years, full-time or part-time (part-time: EU €4,504/yr, non-EU €10,504/yr; year 2 part-time fees subject to change; non-EU visa sponsorship only available for full-time route)",
+    "source_url": "https://www.ul.ie/study/postgraduate/sports-performance-msc"
+  },
+  {
+    "course_name": "Architecture",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Architecture and Product Design",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "5 years, fully accredited by the Royal Institute of Architects of Ireland (RIAI)",
+    "source_url": "https://www.ul.ie/study/undergraduate/architecture-barch"
+  },
+  {
+    "course_name": "Product Design and Technology",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Architecture and Product Design",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, accredited by the Institution of Engineering Designers (UK), includes Year 3 industrial placement",
+    "source_url": "https://www.ul.ie/study/undergraduate/product-design-and-technology-bsc"
+  },
+  {
+    "course_name": "Interaction Design",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Computer Science and Information Systems",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ul.ie/study/undergraduate/interaction-design-bsc"
+  },
+  {
+    "course_name": "Computer Science (Common Entry)",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Computer Science and Information Systems",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years; common first-year entry (LM121), students choose a pathway in the Year 1 spring semester into Computer Systems, Cyber Security and IT Forensics, or Computer Games Development (each an additional three years)",
+    "source_url": "https://www.ul.ie/study/undergraduate/computer-science-common-entry"
+  },
+  {
+    "course_name": "Artificial Intelligence and Machine Learning",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Computer Science and Information Systems",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (BSc), option to continue to a 5th integrated MSc year",
+    "source_url": "https://www.ul.ie/study/undergraduate/artificial-intelligence-and-machine-learning-bsc-or-msc"
+  },
+  {
+    "course_name": "Immersive Software Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Computer Science and Information Systems",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, integrated BSc/MSc award",
+    "source_url": "https://www.ul.ie/study/undergraduate/immersive-software-engineering-bsc-or-msc"
+  },
+  {
+    "course_name": "Cybersecurity Practitioner (Apprenticeship)",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Electronic and Computer Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": null
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "3 years, part-time work-based apprenticeship, developed in partnership with LIT; fees not published (employer/State co-funded route)",
+    "source_url": "https://www.ul.ie/study/undergraduate/cybersecurity-practitioner-bsc-apprenticeship"
+  },
+  {
+    "course_name": "Electrical Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Electronic and Computer Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (BE), option to continue to 5-year ME",
+    "source_url": "https://www.ul.ie/study/undergraduate/electrical-engineering-be-or-me"
+  },
+  {
+    "course_name": "Electronic and Computer Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Electronic and Computer Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (BE), option to continue to 5-year ME",
+    "source_url": "https://www.ul.ie/study/undergraduate/electronic-and-computer-engineering-be-or-me"
+  },
+  {
+    "course_name": "Mathematical Sciences",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Mathematics and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years; common-entry route (LM124), students specialize in Mathematics or Statistical Data Science after Year 2",
+    "source_url": "https://www.ul.ie/study/undergraduate/mathematical-sciences-bsc"
+  },
+  {
+    "course_name": "Financial Mathematics",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Mathematics and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ul.ie/study/undergraduate/financial-mathematics-bsc"
+  },
+  {
+    "course_name": "Economics and Mathematics",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Mathematics and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years; entry via Mathematics Common Entry, delivered jointly with the Department of Economics",
+    "source_url": "https://www.ul.ie/study/undergraduate/economics-and-mathematics-bsc"
+  },
+  {
+    "course_name": "Mathematics",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Mathematics and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 3058,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 17396,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (BA), concurrent teacher-education route aligned with Teaching Council requirements",
+    "source_url": "https://www.ul.ie/study/undergraduate/mathematics"
+  },
+  {
+    "course_name": "Mathematics and Physics",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Mathematics and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years; enter via Mathematics or Physics Common Entry, joint with Department of Physics",
+    "source_url": "https://www.ul.ie/study/undergraduate/mathematics-and-physics-bsc"
+  },
+  {
+    "course_name": "Applied Physics",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years; common-entry route (LM125, Physics Common Entry)",
+    "source_url": "https://www.ul.ie/study/undergraduate/applied-physics-bsc"
+  },
+  {
+    "course_name": "Biological and Chemical Sciences (Common Entry)",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Biological Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years; common first year (LM123), exit streams: BSc Bioscience, BSc Environmental Science, BSc Industrial Biochemistry, BSc Pharmaceutical and Industrial Chemistry, and BSc Biomedical Science (first 3 years Bioscience, final year with the School of Medicine)",
+    "source_url": "https://www.ul.ie/study/undergraduate/biological-and-chemical-sciences-common-entry"
+  },
+  {
+    "course_name": "Environmental Science",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Chemical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, direct-entry route (LM066); also reachable via Biological and Chemical Sciences Common Entry (LM123) as a Year 1 exit choice",
+    "source_url": "https://www.ul.ie/study/undergraduate/environmental-science-bsc-direct-entry"
+  },
+  {
+    "course_name": "Equine Science",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Biological Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 6210,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ul.ie/study/undergraduate/equine-science-bsc"
+  },
+  {
+    "course_name": "Food Science and Health",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Biological Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ul.ie/study/undergraduate/food-science-and-health-bsc"
+  },
+  {
+    "course_name": "Immersive Bioscience and Biotherapeutics",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Biological Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years, integrated award (BSc after Year 3, MSc after Year 4)",
+    "source_url": "https://www.ul.ie/study/undergraduate/immersive-bioscience-and-biotherapeutics-bsc-or-msc"
+  },
+  {
+    "course_name": "Engineering (Common Entry)",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (BE), option to continue to 5-year ME; common first year (LM116), students choose a discipline after Year 1 from Biomedical Engineering, Mechanical Engineering, Civil Engineering, Design and Manufacturing Engineering, or Digital Mechatronic Engineering",
+    "source_url": "https://www.ul.ie/study/undergraduate/engineering-common-entry"
+  },
+  {
+    "course_name": "Aeronautical Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (BE), option to continue to 5-year ME",
+    "source_url": "https://www.ul.ie/study/undergraduate/aeronautical-engineering-be-or-me"
+  },
+  {
+    "course_name": "Chemical and Biochemical Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "Department of Chemical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years (BE), option to continue to 5-year ME; includes co-operative education placement",
+    "source_url": "https://www.ul.ie/study/undergraduate/chemical-and-biochemical-engineering-be-or-me"
+  },
+  {
+    "course_name": "Construction Management and Engineering",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ul.ie/study/undergraduate/construction-management-and-engineering-bsc"
+  },
+  {
+    "course_name": "Technology Management",
+    "degree_level": "Bachelor's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 4762,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 22596,
+        "period": "year"
+      }
+    },
+    "duration": "4 years",
+    "source_url": "https://www.ul.ie/study/undergraduate/technology-management-bsc"
+  },
+  {
+    "course_name": "Artificial Intelligence and Machine Learning",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer Science and Information Systems",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20800,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/artificial-intelligence-and-machine-learning-msc"
+  },
+  {
+    "course_name": "Health Informatics",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer Science and Information Systems",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "1 year, full-time; not open to non-EU applicants due to visa/immigration requirements",
+    "source_url": "https://www.ul.ie/study/postgraduate/health-informatics-msc"
+  },
+  {
+    "course_name": "Software Development: International Systems",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer Science and Information Systems",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20800,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time, intensive conversion programme",
+    "source_url": "https://www.ul.ie/study/postgraduate/software-development-international-systems-msc"
+  },
+  {
+    "course_name": "Software Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Computer Science and Information Systems",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20800,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/software-engineering-msc"
+  },
+  {
+    "course_name": "Computer Vision and Artificial Intelligence",
+    "degree_level": "Master's",
+    "faculty": "Department of Electronic and Computer Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (MEng)",
+    "source_url": "https://www.ul.ie/study/postgraduate/computer-vision-and-artificial-intelligence-meng"
+  },
+  {
+    "course_name": "Cyber Security",
+    "degree_level": "Master's",
+    "faculty": "Department of Electronic and Computer Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (MEng)",
+    "source_url": "https://www.ul.ie/study/postgraduate/cyber-security-meng"
+  },
+  {
+    "course_name": "Edge Computing",
+    "degree_level": "Master's",
+    "faculty": "Department of Electronic and Computer Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20400,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (MEng)",
+    "source_url": "https://www.ul.ie/study/postgraduate/edge-computing-meng"
+  },
+  {
+    "course_name": "Artificial Intelligence (Online)",
+    "degree_level": "Master's",
+    "faculty": "Department of Electronic and Computer Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5940,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 8820,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, part-time, online; may qualify for subsidised fees via Technology Ireland ICT Skillnet",
+    "source_url": "https://www.ul.ie/study/postgraduate/artificial-intelligence-msc-online"
+  },
+  {
+    "course_name": "Data Science and Statistical Learning",
+    "degree_level": "Master's",
+    "faculty": "Department of Mathematics and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20800,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/data-science-and-statistical-learning-msc"
+  },
+  {
+    "course_name": "Mathematical Modelling",
+    "degree_level": "Master's",
+    "faculty": "Department of Mathematics and Statistics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20800,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/mathematical-modelling-msc"
+  },
+  {
+    "course_name": "Applied Physics",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20800,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time: EU €4,900/yr, non-EU €12,100/yr)",
+    "source_url": "https://www.ul.ie/study/postgraduate/applied-physics-msc"
+  },
+  {
+    "course_name": "Energy Science and Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Physics",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20800,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/energy-science-and-engineering-msc"
+  },
+  {
+    "course_name": "Biomolecular Science (Online)",
+    "degree_level": "Master's",
+    "faculty": "Department of Biological Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time: EU €4,900/yr, non-EU €12,100/yr), online",
+    "source_url": "https://www.ul.ie/study/postgraduate/biomolecular-science-msc-online"
+  },
+  {
+    "course_name": "Functional Foods and Product Development",
+    "degree_level": "Master's",
+    "faculty": "Department of Biological Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time: EU €4,900/yr, non-EU €11,900/yr); modular exit points after autumn/spring semesters",
+    "source_url": "https://www.ul.ie/study/postgraduate/functional-foods-and-product-development-msc"
+  },
+  {
+    "course_name": "Molecular and Analytical Biosciences",
+    "degree_level": "Master's",
+    "faculty": "Department of Biological Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20800,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/molecular-and-analytical-biosciences-msc"
+  },
+  {
+    "course_name": "Chemical and Biochemical Engineering",
+    "degree_level": "Master's",
+    "faculty": "Department of Chemical Sciences",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20800,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/chemical-and-biochemical-engineering-msc"
+  },
+  {
+    "course_name": "Aeronautical Engineering",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20800,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/aeronautical-engineering-msc"
+  },
+  {
+    "course_name": "Biomedical Device Materials",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20800,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/biomedical-device-materials-msc"
+  },
+  {
+    "course_name": "Bioprocessing (Online)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 7200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 19500,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time: EU €4,900/yr, non-EU €12,100/yr), online",
+    "source_url": "https://www.ul.ie/study/postgraduate/bioprocessing-msc-online"
+  },
+  {
+    "course_name": "Civil Engineering",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20800,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/civil-engineering-msc"
+  },
+  {
+    "course_name": "Engineering Practice",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 5200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5200,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, part-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/engineering-practice-msc"
+  },
+  {
+    "course_name": "Equipment Systems Engineer (Apprenticeship)",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 900,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": null
+      }
+    },
+    "duration": "2 years, part-time, work-based apprenticeship (MEng)",
+    "source_url": "https://www.ul.ie/study/postgraduate/equipment-systems-engineer-meng-apprenticeship"
+  },
+  {
+    "course_name": "Mechanical Engineering",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20800,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time",
+    "source_url": "https://www.ul.ie/study/postgraduate/mechanical-engineering-msc"
+  },
+  {
+    "course_name": "Mechatronics",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20800,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (MEng)",
+    "source_url": "https://www.ul.ie/study/postgraduate/mechatronics-meng"
+  },
+  {
+    "course_name": "Strategic Quality Management, Lean Sigma Systems",
+    "degree_level": "Master's",
+    "faculty": "School of Engineering",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 14000,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 14000,
+        "period": "total"
+      }
+    },
+    "duration": "2 years, part-time, online; direct entry to Year 2 €8,750, Year 2 thesis/EIP-only €3,500; Executive Apprenticeship route may have up to 80% of fees paid by SOLAS & HEA",
+    "source_url": "https://www.ul.ie/study/postgraduate/strategic-quality-management-lean-sigma-systems-msc"
+  },
+  {
+    "course_name": "Landscape Architecture",
+    "degree_level": "Master's",
+    "faculty": "School of Architecture and Product Design",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20800,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time (MLA); professionally accredited by the International Federation of Landscape Architects",
+    "source_url": "https://www.ul.ie/gps/courses/landscape-architecture-masters"
+  },
+  {
+    "course_name": "Design for Health and Wellbeing",
+    "degree_level": "Master's",
+    "faculty": "School of Architecture and Product Design",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20800,
+        "period": "year"
+      }
+    },
+    "duration": "1 year full-time (2 years part-time: EU €5,200/yr, non-EU €12,100/yr); Graduate Diploma exit route after taught modules",
+    "source_url": "https://www.ul.ie/gps/course/design-health-and-wellbeing-msc"
+  },
+  {
+    "course_name": "Urban Design and Climate Resilience",
+    "degree_level": "Master's",
+    "faculty": "School of Architecture and Product Design",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20800,
+        "period": "year"
+      }
+    },
+    "duration": "2 years, full-time, studio-based across four semesters, optional placement in final semester",
+    "source_url": "https://www.ul.ie/gps/courses/urban-design-and-climate-resilience-masters"
+  },
+  {
+    "course_name": "Interaction and Experience Design",
+    "degree_level": "Master's",
+    "faculty": "School of Architecture and Product Design",
+    "tuition_fee": {
+      "eu_students": {
+        "amount": 8200,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 20800,
+        "period": "year"
+      }
+    },
+    "duration": "1 year, full-time (MA or MSc); delivered jointly with the Department of Computer Science and Information Systems' Interaction Design Centre",
+    "source_url": "https://www.ul.ie/study/postgraduate/interaction-and-experience-design-ma-or-msc"
+  }
+]
