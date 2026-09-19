@@ -16,7 +16,9 @@
       }
     },
     "duration": "3 years Bachelor's (180 ECTS) + 2 years Master's (120 ECTS), integrated 3+2 track; graduates automatically continue into the Master's Programme in Computer Science and Engineering; 33 study places annually; non-EU fee reduced by a 30% tuition-fee waiver from the 2nd year of study; SAT test required for applicants without a Finnish matriculation/IB/EB/DIA-RP qualification",
-    "source_url": "https://www.oulu.fi/en/apply/bachelors-computer-science-and-engineering"
+    "source_url": "https://www.oulu.fi/en/apply/bachelors-computer-science-and-engineering",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Electronics and Communications Engineering",
@@ -35,7 +37,9 @@
       }
     },
     "duration": "3 years Bachelor's (180 ECTS) + 2 years Master's (120 ECTS), integrated 3+2 track; page states graduates continue to a Master's in EITHER Electronics OR Wireless Communications Engineering (a genuine either/or choice, not one fixed continuation programme) - quote: \"continue their education further to a master's in either Electronics or Wireless Communications Engineering\"; non-EU fee reduced by a 30% tuition-fee waiver from the 2nd year of study",
-    "source_url": "https://www.oulu.fi/en/apply/bachelors-electronics-and-communications-engineering"
+    "source_url": "https://www.oulu.fi/en/apply/bachelors-electronics-and-communications-engineering",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Software Engineering and Information Systems",
@@ -54,7 +58,9 @@
       }
     },
     "duration": "3 years Bachelor's (180 ECTS) + 2 years Master's (120 ECTS), integrated 3+2 track; graduates automatically continue into the Master's Programme in Software Engineering and Information Systems; non-EU fee reduced by a 30% tuition-fee waiver from the 2nd year of study",
-    "source_url": "https://www.oulu.fi/en/apply/bachelors-software-engineering-and-information-systems"
+    "source_url": "https://www.oulu.fi/en/apply/bachelors-software-engineering-and-information-systems",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Computer Science and Engineering",
@@ -73,7 +79,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; four combinable study options: Applied Computing, Artificial Intelligence, Computer Engineering, Cyber Security; based on research from four groups within the CSE unit (Biomimetics and Intelligent Systems Group, Center for Machine Vision and Signal Analysis, Center for Ubiquitous Computing, Centre for Atmospheric Research); non-EU fee reduced by a 30% tuition-fee waiver from the 2nd year of study",
-    "source_url": "https://www.oulu.fi/en/apply/masters-computer-science-and-engineering"
+    "source_url": "https://www.oulu.fi/en/apply/masters-computer-science-and-engineering",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Electronics",
@@ -92,7 +100,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; 60 study places; EUR-ACE accredited; three study tracks (Electronics Design; Electronics Materials and Components; Future Electronics and Measurement Techniques) taught by the Circuits and Systems (CAS), Microelectronics (MIC) and Opto-Electronics and Measurement Techniques (OPEM) research units - these three units together make up the Advanced Electronics Centre (AEC) per the faculty's own structure page, so AEC attribution is inferred from the named sub-units rather than an explicit \"AEC administers this programme\" statement; non-EU fee reduced by a 30% tuition-fee waiver from the 2nd year of study",
-    "source_url": "https://www.oulu.fi/en/apply/masters-electronics"
+    "source_url": "https://www.oulu.fi/en/apply/masters-electronics",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Software Engineering and Information Systems",
@@ -111,7 +121,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; two combinable tracks (Software Engineering; Information Systems); non-EU fee reduced by a 30% tuition-fee waiver from the 2nd year of study",
-    "source_url": "https://www.oulu.fi/en/apply/masters-software-engineering-and-information-systems"
+    "source_url": "https://www.oulu.fi/en/apply/masters-software-engineering-and-information-systems",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Sustainable and Autonomous Systems",
@@ -130,7 +142,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; a coordinated academic collaboration between University of Oulu and University of Vaasa (\"not a joint degree\") - students apply to one university and take cross-university courses, building a study path combining courses from both; no unit more specific than the Faculty stated on the programme's own page; non-EU fee reduced by a 30% tuition-fee waiver from the 2nd year of study",
-    "source_url": "https://www.oulu.fi/en/apply/masters-sustainable-autonomous-systems"
+    "source_url": "https://www.oulu.fi/en/apply/masters-sustainable-autonomous-systems",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Wireless Communications Engineering",
@@ -149,7 +163,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; EUR-ACE accredited; run in tight collaboration with the 6G Flagship research programme; two study options (Radio Access and Networks / WCE-RAN; RF Engineering / WCE-RF), final track selection considers academic background and possibly an interview; CWC attribution is well-established (the programme's own materials are hosted on CWC's oulu.fi/cwc subdomain, and independent sources quote CWC as \"in charge of the programme\") but a direct fetch of the CWC-hosted page itself was blocked (403/certificate mismatch), so treat as strongly likely rather than independently page-confirmed by this pass; non-EU fee reduced by a 30% tuition-fee waiver from the 2nd year of study",
-    "source_url": "https://www.oulu.fi/en/apply/masters-wireless-communications-engineering"
+    "source_url": "https://www.oulu.fi/en/apply/masters-wireless-communications-engineering",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Biomedical Engineering",
@@ -168,7 +184,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; jointly organized by the Faculty of Information Technology and Electrical Engineering and the Faculty of Medicine (page-stated); three specialisation modules (names not detailed on the programme's own page); 50 study places annually; non-EU fee reduced by a 30% tuition-fee waiver from the 2nd year of study",
-    "source_url": "https://www.oulu.fi/en/apply/masters-biomedical-engineering"
+    "source_url": "https://www.oulu.fi/en/apply/masters-biomedical-engineering",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Environmental Engineering",
@@ -187,7 +205,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; four study options (Hydrology and Water Management, Industrial Environmental Engineering, Sustainable Energy Systems, Indoor Environmental Engineering); ~20 study places; 40% tuition-fee waiver available for 2nd year of study; next application period 7-21 Jan 2027 for autumn 2027 intake. Owning unit: the programme's own oulu.fi page names only 'Faculty of Technology,' no specific unit; attribution to Environmental and Chemical Engineering (ECE) is inferred via programme director Satu Pitkäaho's own University of Oulu staff profile, which lists her as a University Lecturer/Docent in ECE — a well-supported but not page-explicit attribution.",
-    "source_url": "https://www.oulu.fi/en/apply/masters-environmental-engineering"
+    "source_url": "https://www.oulu.fi/en/apply/masters-environmental-engineering",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Interdisciplinary Product Innovation and Creation",
@@ -206,7 +226,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; ASIIN and EUR-ACE accredited Industrial Engineering and Management degree programme; project-based curriculum run in collaboration with industry partners; 40% tuition-fee waiver available for 2nd year of study; next application period 7-21 Jan 2027 for autumn 2027 intake. Owning unit explicitly confirmed on Industrial Engineering and Management's own oulu.fi page, which states the unit offers this Master's programme.",
-    "source_url": "https://www.oulu.fi/en/apply/masters-interdisciplinary-product-innovation-and-creation"
+    "source_url": "https://www.oulu.fi/en/apply/masters-interdisciplinary-product-innovation-and-creation",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Mining Engineering, Mineral Processing and Geophysics",
@@ -225,7 +247,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; three study tracks (Mining Engineering, Mineral Processing, Geophysics); admission expects engineering or natural-science background (preferably geophysics, geosciences, physics or chemistry) plus completed coursework in Calculus, Differential Equations and Matrix Algebra; 40% tuition-fee waiver available for 2nd year of study; next application period 7-21 Jan 2027 for autumn 2027 intake. Owning unit explicitly stated on the programme's own oulu.fi page.",
-    "source_url": "https://www.oulu.fi/en/apply/masters-mining-engineering-mineral-processing-and-geophysics"
+    "source_url": "https://www.oulu.fi/en/apply/masters-mining-engineering-mineral-processing-and-geophysics",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Chemistry of Sustainable Processes and Materials",
@@ -244,7 +268,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; advanced studies across analytical, applied, inorganic, physical and/or organic chemistry, plus compulsory laboratory work and optional studies from other Faculty of Technology programmes; requires a Bachelor's degree in chemistry or a closely related field (e.g. Chemical Technology, Chemical Engineering); partly co-delivered with the Kokkola University Consortium Chydenius's Unit for Applied Chemistry per that consortium's own page; 40% tuition-fee waiver available for 2nd year of study; next application period 7-21 Jan 2027 for autumn 2027 intake. Owning unit: the programme's own oulu.fi page confirms only 'Faculty of Technology,' no specific unit; attribution to Sustainable Chemistry is inferred via programme director Matti Niemelä's own staff profile, which lists him as director of this degree programme and a lecturer in the Sustainable Chemistry research unit — a well-supported but not page-explicit attribution.",
-    "source_url": "https://www.oulu.fi/en/apply/masters-chemistry-sustainable-processes-and-materials"
+    "source_url": "https://www.oulu.fi/en/apply/masters-chemistry-sustainable-processes-and-materials",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Geosciences, Mineral Resources and Sustainable Mining",
@@ -263,7 +289,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; covers the technological, geological, financial, environmental and social aspects of sustainable mining across the whole mining value chain from exploration to mining, concentration, refining and closure; requires background of 60 ECTS in geology plus basic petrographic microscopy skills; fieldwork and lab work at the Oulu Mining School Research Center; 40% tuition-fee waiver available for 2nd year of study; next application period 7-21 Jan 2027 for autumn 2027 intake. Owning unit explicitly stated on the programme's own oulu.fi page.",
-    "source_url": "https://www.oulu.fi/en/apply/masters-geosciences-mineral-resources-and-sustainable-mining"
+    "source_url": "https://www.oulu.fi/en/apply/masters-geosciences-mineral-resources-and-sustainable-mining",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Architecture",
@@ -282,7 +310,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; design-oriented programme at the northernmost architecture school in Europe; degree awarded is Master of Science (Architecture), a professional architect's qualification recognised in Finland and across the EU; 40% tuition-fee waiver available for 2nd year of study; next application period 7-21 Jan 2027 for autumn 2027 intake. Owning unit explicitly stated on the programme's own oulu.fi page.",
-    "source_url": "https://www.oulu.fi/en/apply/masters-architecture"
+    "source_url": "https://www.oulu.fi/en/apply/masters-architecture",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Erasmus Mundus Joint Master's: Redesigning the Post-Industrial City (RePIC)",
@@ -301,7 +331,9 @@
       }
     },
     "duration": "2 years, 120 ECTS (4 semesters x 30 ECTS), an Erasmus Mundus Joint Master (EMJM) delivered across 8 UNIC-alliance partner universities (University of Oulu, Ruhr-Universitat Bochum, Erasmus University Rotterdam, Koc University, University of Liege, University College Cork, University of Deusto, University of Zagreb); mandatory mobility, minimum one full semester at 2+ partner universities, common core curriculum in semester 1 at Ruhr-Universitat Bochum; AQAS-accredited. oulu.fi's own International Programmes page lists this only under 'Joint European Programmes' and links out to the consortium's own site (unic.eu/en/repic) rather than publishing a fee itself; that external page states ALL students, including EU/EEA/Swiss citizens, pay tuition (EUR 9,000 total for EU/EFTA, EUR 18,000 total for non-EU/EFTA, billed per semester) -- a genuine 'everyone pays' Erasmus Mundus exception -- but since oulu.fi itself never states this figure, both fee sides are recorded null per this project's sourcing rule rather than using the off-domain unic.eu figure. Owning unit inferred via programme director Prof. Helka-Liisa Hentila (Urban Design and Planning, Oulu School of Architecture)'s own University of Oulu staff profile, which names her as the RePIC/Faculty UNIC coordinator/director -- oulu.fi has no single dedicated programme page separate from its International Programmes listing and news coverage, so this is a director-profile inference rather than an explicit on-page 'delivered by' statement. Next application period 7-21 Jan 2027 for autumn 2027 intake, applications made via Ruhr University.",
-    "source_url": "https://www.oulu.fi/en/apply/international-programmes"
+    "source_url": "https://www.oulu.fi/en/apply/international-programmes",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "International Business Management",
@@ -320,7 +352,9 @@
       }
     },
     "duration": "3+2 year integrated Bachelor's+Master's track: 3-year Bachelor's (180 ECTS, Bachelor of Science in Economics and Business Administration), with an automatic continuation option into the 2-year Master's in International Business Management (120 ECTS) at Oulu Business School; a 20% tuition-fee waiver applies from the 2nd year of study for students meeting study-progress conditions",
-    "source_url": "https://www.oulu.fi/en/apply/bachelors-international-business-management"
+    "source_url": "https://www.oulu.fi/en/apply/bachelors-international-business-management",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Business Analytics",
@@ -339,7 +373,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; jointly run by Oulu Business School and Faculty of Information Technology and Electrical Engineering, leading to one of three possible degree titles (Master of Science in Economics and Business Administration, Master of Science in Technology, or Master of Science) depending on applied study track; common courses year 1, business- or technical-focused specialisation year 2",
-    "source_url": "https://www.oulu.fi/en/apply/masters-business-analytics"
+    "source_url": "https://www.oulu.fi/en/apply/masters-business-analytics",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Finance",
@@ -358,7 +394,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Master of Science (Economics and Business Administration)",
-    "source_url": "https://www.oulu.fi/en/apply/masters-finance"
+    "source_url": "https://www.oulu.fi/en/apply/masters-finance",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Financial and Management Accounting",
@@ -377,7 +415,9 @@
       }
     },
     "duration": "2 years, 120 ECTS",
-    "source_url": "https://www.oulu.fi/en/apply/masters-financial-and-management-accounting"
+    "source_url": "https://www.oulu.fi/en/apply/masters-financial-and-management-accounting",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "International Business Management",
@@ -396,7 +436,9 @@
       }
     },
     "duration": "2 years, 120 ECTS",
-    "source_url": "https://www.oulu.fi/en/apply/masters-international-business-management"
+    "source_url": "https://www.oulu.fi/en/apply/masters-international-business-management",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Responsible Economics and Finance",
@@ -415,7 +457,9 @@
       }
     },
     "duration": "2 years, 120 ECTS",
-    "source_url": "https://www.oulu.fi/en/apply/masters-responsible-economics-and-finance"
+    "source_url": "https://www.oulu.fi/en/apply/masters-responsible-economics-and-finance",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Sustainable Marketing",
@@ -434,7 +478,9 @@
       }
     },
     "duration": "2 years, 120 ECTS",
-    "source_url": "https://www.oulu.fi/en/apply/masters-sustainable-marketing"
+    "source_url": "https://www.oulu.fi/en/apply/masters-sustainable-marketing",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Biochemistry",
@@ -453,7 +499,9 @@
       }
     },
     "duration": "2 years, 120 ECTS",
-    "source_url": "https://www.oulu.fi/en/apply/masters-biochemistry"
+    "source_url": "https://www.oulu.fi/en/apply/masters-biochemistry",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Epidemiology and Biomedical Data Science",
@@ -472,7 +520,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Master of Health Sciences; hosted within the Faculty of Medicine's epidemiology/data-science research community (Research Unit of Population Health contributes teaching but no page states it as the sole owning unit, so recorded at the bare Faculty level per this project's convention)",
-    "source_url": "https://www.oulu.fi/en/apply/masters-epidemiology-and-biomedical-data-science"
+    "source_url": "https://www.oulu.fi/en/apply/masters-epidemiology-and-biomedical-data-science",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Education for Global Futures and Leadership",
@@ -491,7 +541,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Master of Arts; delivered jointly with Tallinn University (Estonia); a 10% tuition-fee waiver applies for the 2nd year of study; NOTE - the programme's own page states the non-EU fee as a flat \"8,500 EUR\" without the explicit \"per year\" wording used on every sibling Oulu programme page, and it is absent entirely from Oulu's own central all-programmes tuition-fee table (which lists every other confirmed-current international programme) - both are consistent with the programme having paused intake for the 2026-2027 academic year to invest in redevelopment, with the next application period listed as 7-21 January 2027 (for autumn 2027 intake); kept as a real, currently-existing programme per this project's seasonal-pause-is-not-discontinuation precedent, but the fee figure/shape should be re-confirmed once the programme resumes normal admissions and reappears in the central fee table",
-    "source_url": "https://www.oulu.fi/en/apply/masters-education-for-global-futures-and-leadership"
+    "source_url": "https://www.oulu.fi/en/apply/masters-education-for-global-futures-and-leadership",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Learning, Education and Technology",
@@ -510,6 +562,8 @@
       }
     },
     "duration": "2 years, 120 ECTS; Master of Arts; students major in Educational Sciences with a compulsory minor in Digital Technologies in Teaching and Learning",
-    "source_url": "https://www.oulu.fi/en/apply/masters-learning-education-and-technology"
+    "source_url": "https://www.oulu.fi/en/apply/masters-learning-education-and-technology",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   }
 ]

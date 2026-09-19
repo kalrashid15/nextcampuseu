@@ -4,65 +4,113 @@
     "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
     "faculty": "Faculty of Economics (FEP)",
     "tuition_fee": {
-      "eu_students": { "amount": 697, "period": "year" },
-      "non_eu_students": { "amount": 3500, "period": "year" }
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
     },
     "duration": "6 semesters (3 years), 180 ECTS",
-    "source_url": "https://www.up.pt/portal/en/study/bachelors-and-integrated-masters-degrees/courses/fep/37902/"
+    "source_url": "https://www.up.pt/portal/en/study/bachelors-and-integrated-masters-degrees/courses/fep/37902/",
+    "last_verified": "2026-07-24",
+    "verified_by_admin": null
   },
   {
     "course_name": "First Degree in Business Administration",
     "degree_level": "Bachelor's (Licenciatura, 1st cycle)",
     "faculty": "Faculty of Economics (FEP)",
     "tuition_fee": {
-      "eu_students": { "amount": 697, "period": "year" },
-      "non_eu_students": { "amount": 3500, "period": "year" }
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 3500,
+        "period": "year"
+      }
     },
     "duration": "6 semesters (3 years), 180 ECTS",
-    "source_url": "https://www.up.pt/portal/en/study/bachelors-and-integrated-masters-degrees/courses/fep/37922/"
+    "source_url": "https://www.up.pt/portal/en/study/bachelors-and-integrated-masters-degrees/courses/fep/37922/",
+    "last_verified": "2026-07-24",
+    "verified_by_admin": null
   },
   {
     "course_name": "Master in Finance",
     "degree_level": "Master's (Mestrado, 2nd cycle)",
     "faculty": "Faculty of Economics (FEP)",
     "tuition_fee": {
-      "eu_students": { "amount": 1500, "period": "year" },
-      "non_eu_students": { "amount": 5000, "period": "year" }
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5000,
+        "period": "year"
+      }
     },
     "duration": "4 semesters (2 years), 120 ECTS",
-    "source_url": "https://www.up.pt/portal/en/study/masters-degrees/courses/fep/1084/"
+    "source_url": "https://www.up.pt/portal/en/study/masters-degrees/courses/fep/1084/",
+    "last_verified": "2026-07-24",
+    "verified_by_admin": null
   },
   {
     "course_name": "Master in Management",
     "degree_level": "Master's (Mestrado, 2nd cycle)",
     "faculty": "Faculty of Economics (FEP)",
     "tuition_fee": {
-      "eu_students": { "amount": 1500, "period": "year" },
-      "non_eu_students": { "amount": 5000, "period": "year" }
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5000,
+        "period": "year"
+      }
     },
     "duration": "4 semesters (2 years), 120 ECTS",
-    "source_url": "https://programmes.fep.up.pt/masters/management/"
+    "source_url": "https://programmes.fep.up.pt/masters/management/",
+    "last_verified": "2026-07-24",
+    "verified_by_admin": null
   },
   {
     "course_name": "Master in Economics of Business and Strategy",
     "degree_level": "Master's (Mestrado, 2nd cycle)",
     "faculty": "Faculty of Economics (FEP)",
     "tuition_fee": {
-      "eu_students": { "amount": 1500, "period": "year" },
-      "non_eu_students": { "amount": 5000, "period": "year" }
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5000,
+        "period": "year"
+      }
     },
     "duration": "4 semesters (2 years), 120 ECTS",
-    "source_url": "https://programmes.fep.up.pt/masters/economics-of-business-and-strategy/"
+    "source_url": "https://programmes.fep.up.pt/masters/economics-of-business-and-strategy/",
+    "last_verified": "2026-07-24",
+    "verified_by_admin": null
   },
   {
     "course_name": "Master in Data Analytics",
     "degree_level": "Master's (Mestrado, 2nd cycle)",
     "faculty": "Faculty of Economics (FEP)",
     "tuition_fee": {
-      "eu_students": { "amount": 1500, "period": "year" },
-      "non_eu_students": { "amount": 5000, "period": "year" }
+      "eu_students": {
+        "amount": 1500,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 5000,
+        "period": "year"
+      }
     },
     "duration": "4 semesters (2 years), 120 ECTS",
-    "source_url": "https://programmes.fep.up.pt/masters/data-analytics/"
+    "source_url": "https://programmes.fep.up.pt/masters/data-analytics/",
+    "last_verified": "2026-07-24",
+    "verified_by_admin": null
   }
 ]

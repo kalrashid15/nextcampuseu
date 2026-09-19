@@ -16,7 +16,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Confirmed via the programme's own gu.se page as the University of Gothenburg-branded programme, delivered by the Department of Computer Science and Engineering -- a department jointly run by University of Gothenburg and Chalmers University of Technology across two campuses. Distinct from the same-named Chalmers-branded 'Computer Science' MSc already recorded in chalmers-university-of-technology.json. No formal specialisation tracks; breadth across algorithms/machine learning, interaction design, distributed computing, security and privacy. Non-EU fee rises to SEK 294,000 total for Autumn 2027 intake (this record uses the Autumn 2026 rate).",
-    "source_url": "https://www.gu.se/en/study-gothenburg/computer-science-masters-programme-n2cos"
+    "source_url": "https://www.gu.se/en/study-gothenburg/computer-science-masters-programme-n2cos",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Digital Leadership",
@@ -35,7 +37,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Open to Bachelor's graduates from any background. Taught via short, intensive courses one at a time; recommended semester-3 electives (Sustainability, Work, Research Project in Information Systems) or free choice from GU/partner institutions; year 2 includes a 30-credit elective component allowing exchange at a partner university with no additional semester fee. Confirmed via the programme's own gu.se page as administered by the Department of Applied Information Technology.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/digital-leadership-masters-programme-n2dgl"
+    "source_url": "https://www.gu.se/en/study-gothenburg/digital-leadership-masters-programme-n2dgl",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Game Design and Technology",
@@ -54,7 +58,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Delivered primarily at Campus Lindholmen (the Department of Computer Science and Engineering's other campus, Johanneberg, is shared with Chalmers). Electives include interaction design methodology, computer architecture, interactive storytelling and digital movie making, an independent project, and a game internship. University of Gothenburg-branded programme. Non-EU fee rises to SEK 294,000 total for Autumn 2027 intake (this record uses the Autumn 2026 rate).",
-    "source_url": "https://www.gu.se/en/study-gothenburg/game-design-technology-masters-programme-n2gdt"
+    "source_url": "https://www.gu.se/en/study-gothenburg/game-design-technology-masters-programme-n2gdt",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Human-centered Artificial Intelligence",
@@ -73,7 +79,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. No formal specialisation tracks; breadth across human-computer interaction, information systems, cognitive science, applied IT, and data science. Open to applicants with degrees in cognitive science, information systems, interaction design, or related fields. Year 2 includes a 30-credit elective/exchange component with no additional semester fee. Confirmed via the programme's own gu.se page as administered by the Department of Applied Information Technology.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/human-centered-artificial-intelligence-masters-programme-t2hai"
+    "source_url": "https://www.gu.se/en/study-gothenburg/human-centered-artificial-intelligence-masters-programme-t2hai",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Software Engineering and Management",
@@ -92,7 +100,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Delivered by the Division of Software Engineering within the Department of Computer Science and Engineering. Entry requires a Bachelor's degree (180 credits) including a 6+-credit independent project, 12+ credits of programming (6+ object-oriented), and 6+ credits of algorithms/data structures. Electives allow specialisation within applied information technology, computer science, or information systems.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/software-engineering-and-management-masters-programme-n2sof"
+    "source_url": "https://www.gu.se/en/study-gothenburg/software-engineering-and-management-masters-programme-n2sof",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Mathematical Sciences",
@@ -111,7 +121,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Five specialisations: Mathematics; Applied Mathematics; Mathematical Statistics; Financial Mathematics; Statistical Learning and AI. Delivered by the Department of Mathematical Sciences, a department jointly run by University of Gothenburg and Chalmers University of Technology -- this is the University of Gothenburg-branded programme. Entry requires a Bachelor's degree with at least 75 credits in mathematics/mathematical statistics, 15+ at advanced level.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/mathematical-sciences-masters-programme-n2mat"
+    "source_url": "https://www.gu.se/en/study-gothenburg/mathematical-sciences-masters-programme-n2mat",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Physics",
@@ -130,7 +142,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Five optional tracks: Astronomy; Biological physics; Computational physics; High-energy physics; Materials science. Entry requires at least 90 credits of physics (incl. quantum mechanics), 30 credits of maths (incl. linear algebra and analysis), and programming, plus a Bachelor's degree (180 ECTS). Non-EU fee rises to SEK 294,000 total for Autumn 2027 intake (this record uses the Autumn 2026 rate).",
-    "source_url": "https://www.gu.se/en/study-gothenburg/physics-masters-programme-n2phy"
+    "source_url": "https://www.gu.se/en/study-gothenburg/physics-masters-programme-n2phy",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Software Engineering and Management",
@@ -149,7 +163,9 @@
       }
     },
     "duration": "3 years, 180 ECTS credits. Delivered by the Division of Software Engineering within the Department of Computer Science and Engineering. All term courses are mandatory except term five, an optional study-abroad term (Europe, Asia, or US). Prepares graduates for roles such as software developer, product owner, project manager, and software architect. Non-EU fee rises to SEK 441,000 total for Autumn 2027 intake (this record uses the Autumn 2026 rate).",
-    "source_url": "https://www.gu.se/en/study-gothenburg/software-engineering-and-management-bachelors-programme-n1sof"
+    "source_url": "https://www.gu.se/en/study-gothenburg/software-engineering-and-management-bachelors-programme-n1sof",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Computer Science and AI",
@@ -168,7 +184,9 @@
       }
     },
     "duration": "3 years, 180 ECTS credits. Two tracks: Artificial Intelligence (mathematically demanding; machine learning and statistics) and Computer Science (programming, algorithms, systems, security). The programme's own page lists only Autumn 2027/Spring 2027 intake (no Autumn 2026 intake found); the recorded fee and first-payment amount both match the Autumn-2027 rate seen on sibling GU programmes rather than the Autumn-2026 rate, consistent with that. Selection for this route is based on upper-secondary grades (66%) and the Swedish Scholastic Aptitude Test (34%) -- confirm the current international-applicant admission route if extending this record.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/bachelors-programme-in-computer-science-and-ai-n1cai"
+    "source_url": "https://www.gu.se/en/study-gothenburg/bachelors-programme-in-computer-science-and-ai-n1cai",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Biology",
@@ -187,7 +205,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits; autumn intake. Five profile options via choice of degree-project course: Evolutionary and behavioural ecology; Physiology and cell biology; Conservation biology; Biodiversity and systematics; Marine ecology. Confirmed on the programme's own official page.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/biology-masters-programme-n2bio"
+    "source_url": "https://www.gu.se/en/study-gothenburg/biology-masters-programme-n2bio",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Environmental Sciences",
@@ -206,7 +226,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits; autumn intake. Individual profile built through elective course choice; no fixed named specialisation track (contrast with the department's separately-coded Ecotoxicology and Atmosphere, Climate and Ecosystems programmes, which share this subject area but have their own application codes).",
-    "source_url": "https://www.gu.se/en/study-gothenburg/environmental-sciences-n2mvn"
+    "source_url": "https://www.gu.se/en/study-gothenburg/environmental-sciences-n2mvn",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Ecotoxicology",
@@ -225,7 +247,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits; autumn intake. Own application code (N2TOX), separate from the general Environmental Sciences programme, though the awarded degree title is 'Master of Science in Environmental Science with a specialization in Ecotoxicology'. Includes mandatory field work at marine stations and an individual thesis of roughly one year.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/ecotoxicology-masters-programme-n2tox"
+    "source_url": "https://www.gu.se/en/study-gothenburg/ecotoxicology-masters-programme-n2tox",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Biodiversity and Systematics (NABiS)",
@@ -244,7 +268,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits; autumn intake. Nordic Master's Programme distributed across seven Scandinavian universities, teaching mainly web-based with intensive field/lab sessions at partner sites. Students are admitted to and complete their thesis at the university where they enrol (here, University of Gothenburg) while also taking courses hosted by the other partner universities.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/biodiversity-and-systematics-nordic-masters-programme-n2bis"
+    "source_url": "https://www.gu.se/en/study-gothenburg/biodiversity-and-systematics-nordic-masters-programme-n2bis",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Sustainable Production and Utilization of Marine Bioresources",
@@ -263,7 +289,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits; autumn intake. Nordic Master's Programme delivered jointly by University of Gothenburg, Nord University (Norway) and Holar University (Iceland); at least 30 credits must be taken at a Nordic partner university other than the enrolling one. IMPORTANT: as of this research pass, the programme's own gu.se page states applications through University of Gothenburg are currently paused, with prospective applicants directed to apply via Nord University or Holar University instead — kept as a real, fee-confirmed GU-affiliated programme rather than excluded, but re-check application status if this file is extended.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/nordic-masters-programme-in-sustainable-production-and-utilization-of-marine-bioresources-n2mab"
+    "source_url": "https://www.gu.se/en/study-gothenburg/nordic-masters-programme-in-sustainable-production-and-utilization-of-marine-bioresources-n2mab",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Atmosphere, Climate and Ecosystems",
@@ -282,7 +310,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits; autumn and spring intakes offered. Three profile subjects (atmospheric science, climatology, ecosystems) — students may take courses from one or more.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/atmosphere-climate-and-ecosystems-masters-programme-n2ace"
+    "source_url": "https://www.gu.se/en/study-gothenburg/atmosphere-climate-and-ecosystems-masters-programme-n2ace",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Earth Sciences",
@@ -301,7 +331,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits; autumn intake. Two profile areas: Geology; Climatology/Physical Geography — students may focus on one or take courses in both, subject to eligibility.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-earth-sciences-n2gvs"
+    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-earth-sciences-n2gvs",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Geography",
@@ -320,7 +352,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits; autumn intake (application code GU-14001). Confirmed on the department's own 'Study here' page and the programme's own page as Department of Earth Sciences-owned, not Social Sciences, despite the subject name — verify again if re-auditing. Focus areas include urban sustainability, sustainable mobility, and Geographical Information Systems.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-geography-n2geo"
+    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-geography-n2geo",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Chemistry",
@@ -339,7 +373,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits; autumn intake. Customisable second-year specialisation across analytical chemistry, atmospheric science, biochemistry and structural biology, inorganic chemistry, organic chemistry, and physical chemistry, plus a predefined interdisciplinary neurobiochemistry track.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-chemistry-n2kem"
+    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-chemistry-n2kem",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Organic and Medicinal Chemistry",
@@ -358,7 +394,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits; autumn intake. Students specialise in either organic or medicinal chemistry, with a degree project in one of the department's research groups.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-organic-and-medicinal-chemistry-n2kel"
+    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-organic-and-medicinal-chemistry-n2kel",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bioinformatics",
@@ -377,7 +415,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits (31 Aug 2026 - 4 Jun 2028); autumn intake. Awarded degree title: Master of Science with a major in Molecular Biology, specialisation in Bioinformatics. No prior programming experience required per the programme's own page.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-bioinformatics-n2bin"
+    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-bioinformatics-n2bin",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Molecular Biology",
@@ -396,7 +436,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits; autumn intake. Individual profile via elective courses, including options to broaden into other natural-science subjects or fields like economics/leadership.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/molecular-biology-masters-programme-n2mbi"
+    "source_url": "https://www.gu.se/en/study-gothenburg/molecular-biology-masters-programme-n2mbi",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Marine Science",
@@ -415,7 +457,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits; autumn intake, both a main round (application code GU-15003) and a later second round (GU-15013). Depending on prior background, students choose elective themes among physical oceanography, marine biology, marine chemistry, or marine geology. Confirmed via browser fetch (JS-rendered programme page) as Department of Marine Sciences-owned, since the department's own top-level landing page returned a 404 on gu.se during this build.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/marine-science-masters-programme-n2mav"
+    "source_url": "https://www.gu.se/en/study-gothenburg/marine-science-masters-programme-n2mav",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Sea and Society",
@@ -434,7 +478,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits; autumn intake. Transdisciplinary programme: four mandatory core courses on marine governance, economics, policy and historical perspectives, plus third-semester electives (e.g. environmental economics, marine aquaculture, oceanography, remote sensing).",
-    "source_url": "https://www.gu.se/en/study-gothenburg/sea-and-society-masters-programme-n2hsh"
+    "source_url": "https://www.gu.se/en/study-gothenburg/sea-and-society-masters-programme-n2hsh",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Physical Oceanography",
@@ -453,7 +499,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits; autumn intake. Four mandatory foundational courses plus elective specialisation; degree project may be 30, 45 or 60 credits.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-physical-oceanography-n2foc"
+    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-physical-oceanography-n2foc",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Marine Biological Resources (IMBRSea)",
@@ -470,7 +518,9 @@
       }
     },
     "duration": "4 semesters, 120 ECTS credits. Erasmus Mundus Joint Master Programme (IMBRSea) organised by 11 partner universities including University of Gothenburg; students take a Fundamental Module at one of 6 universities, a Summer School at GU's Tjärnö Marine Laboratory, Specialisation Tracks at various partner universities in semester 3, and a thesis with an IMBRSea associate partner in semester 4. No department is explicitly named on the programme's own gu.se page; attributed here to Department of Marine Sciences by inference from the Tjärnö Marine Laboratory connection and subject matter, not an explicit statement — flagged as unconfirmed. FEE: gu.se's own programme page does not publish any EU/EEA or non-EU fee figure for this programme — fee-setting is routed off gu.se to the IMBRSea consortium's own site (imbrsea.eu), which this project's sourcing rules disallow using. Recorded as null per the hard no-guessing rule rather than assuming the standard GU EU=0 rule applies; this is a genuine candidate EU-fee exception (per the Erasmus Mundus caveat in this build's instructions) that could not be confirmed either way from an official gu.se page.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/international-master-of-science-in-marine-biological-resources-imbrsea"
+    "source_url": "https://www.gu.se/en/study-gothenburg/international-master-of-science-in-marine-biological-resources-imbrsea",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor's Programme in Business and Economics",
@@ -489,7 +539,9 @@
       }
     },
     "duration": "3 years, 180 ECTS credits. Autumn intake. Genuinely jointly delivered: confirmed as 'our bachelor's programme' on both the Department of Business Administration's and the Department of Economics' own 'Study here' pages, with no single lead department distinguished on either. Students take common courses (business administration, economics, statistics, commercial law) in year 1, then choose a main field in year 2 (business administration, economics, or financial economics), with further year-3 specialisation (marketing, management, accounting, industrial/financial management, corporate sustainability, international business for the Business Administration track; Development Economics, Environmental Economics, or Policy Evaluation for the Economics track). Fully English-taught, application code GU-81000/81001 (Autumn 2026 cohort, full cost SEK 288,000, first payment SEK 48,000); a later Autumn 2027 cohort is priced slightly higher at SEK 291,000 total (first payment SEK 48,500) per the same page. A separate, mostly Swedish-medium version of the same programme also exists for Swedish-eligible applicants and is not recorded here (this project covers English-taught programmes only).",
-    "source_url": "https://www.gu.se/en/study-gothenburg/bachelors-programme-in-business-and-economics-s1eka"
+    "source_url": "https://www.gu.se/en/study-gothenburg/bachelors-programme-in-business-and-economics-s1eka",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Accounting & Financial Management",
@@ -508,7 +560,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Autumn intake (application code GU-82007/82006). The programme's own quick-facts box states it is 'Offered by the Graduate school at the School of Business, Economics and Law' (the School's cross-departmental teaching unit for all its master's programmes) rather than naming a specific department directly. Faculty recorded here as Department of Business Administration by subject-matter inference (accounting and financial management; programme-specific entrance requirements are framed in business-administration/finance terms) — not an explicit per-programme department claim found on the page itself. Full education cost SEK 192,000, first payment SEK 48,000, remainder in instalments.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/master-of-science-in-accounting-and-financial-management-s2ref"
+    "source_url": "https://www.gu.se/en/study-gothenburg/master-of-science-in-accounting-and-financial-management-s2ref",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Economics",
@@ -527,7 +581,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Autumn intake (application code GU-82012/82013). Programme's own quick-facts box says 'Offered by the Graduate school at the School of Business, Economics and Law', but Department of Economics' own 'Study here' page explicitly names 'Master of Science in Economics' as one of its own programmes, confirming department ownership. Programme coordinator's email uses the @economics.gu.se domain. Note: the programme's own page states it 'will be revised for the autumn 2027 intake' (entry requirements and programme plan both changing) — this record reflects the current structure. Full education cost SEK 192,000, first payment SEK 48,000.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/master-of-science-in-economics-s2nat"
+    "source_url": "https://www.gu.se/en/study-gothenburg/master-of-science-in-economics-s2nat",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Finance",
@@ -546,7 +602,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Autumn intake (application code GU-82011/82010). Programme's own quick-facts box says 'Offered by the Graduate school at the School of Business, Economics and Law', but Department of Economics' own 'Study here' page explicitly names 'Master of Science in Finance' as one of its own programmes (Finance sits under Economics at GU, not Business Administration, confirmed directly rather than assumed from the subject name alone). Note: the programme's own page states it 'will be revised for the autumn 2027 intake' and changed to a one-year programme — this record reflects the current 2-year/120-ECTS structure. Full education cost SEK 192,000, first payment SEK 48,000.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/master-of-science-in-finance-s2fin"
+    "source_url": "https://www.gu.se/en/study-gothenburg/master-of-science-in-finance-s2fin",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "International Business and Trade",
@@ -565,7 +623,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Autumn intake (application code GU-82015/82014). Programme's own quick-facts box says 'Offered by the Graduate school at the School of Business, Economics and Law'. Faculty recorded here as Department of Business Administration by inference: programme-specific entrance requirement path A is 60 ECTS in Business Administration alone (sufficient on its own); path B is a 30/30 split between Business Administration and Economic Geography/Economics/Economic History. Checked and ruled out Department of Economy and Society (which houses Human Geography/Economic Geography) as the owner — that unit's own 'Education in Human Geography' page lists only freestanding master's-level courses, not a named degree programme, so this programme is not claimed there. Full education cost SEK 192,000, first payment SEK 48,000.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/master-of-science-in-international-business-and-trade-s2ifo"
+    "source_url": "https://www.gu.se/en/study-gothenburg/master-of-science-in-international-business-and-trade-s2ifo",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Management",
@@ -584,7 +644,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Autumn intake (application code GU-82008/82009). Programme's own quick-facts box says 'Offered by the Graduate school at the School of Business, Economics and Law'. Faculty recorded here as Department of Business Administration — that department's own 'Study here' page features a news item titled 'How film is part of teaching in the Master's in Management', a semi-confirming reference to this specific programme as its own, though not a formal itemized department claim. Full education cost SEK 192,000, first payment SEK 48,000.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/master-of-science-in-management-s2led"
+    "source_url": "https://www.gu.se/en/study-gothenburg/master-of-science-in-management-s2led",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Marketing and Consumption",
@@ -603,7 +665,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Autumn intake (application code GU-82017/82016). Programme's own quick-facts box says 'Offered by the Graduate school at the School of Business, Economics and Law', but the programme's own 'About' text explicitly states 'Marketing is an important field within business administration at the School of Business, Economics, and Law' — a direct, page-stated confirmation of Department of Business Administration ownership, stronger than the inference used for several sibling programmes in this file. Full education cost SEK 192,000, first payment SEK 48,000.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/master-of-science-in-marketing-and-consumption-s2mok"
+    "source_url": "https://www.gu.se/en/study-gothenburg/master-of-science-in-marketing-and-consumption-s2mok",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Innovation & Industrial Management",
@@ -622,7 +686,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Autumn intake (application code GU-82005/82004). IMPORTANT STRUCTURAL NOTE: confirmed via the School's own site that the School of Business, Economics and Law genuinely comprises 5 departments, not 3 (Department of Business Administration, Department of Economics, Department of Law, plus Department of Economy and Society and a research-only 'Environment of Development' unit) — this programme is explicitly named, by title, on the Department of Economy and Society's own 'Education in Innovation and Entrepreneurship' page ('The Unit for Innovation and Entrepreneurship offers two MSc. programmes... MSc. programme in Innovation and Industrial Management [and] Knowledge-based Entrepreneurship'), so it is recorded under that department rather than force-fit into Business Administration/Economics/Law. Priced at a higher fee tier (SEK 248,000 total, first payment SEK 62,000) than the other Business-and-Management master's in this file (SEK 192,000). Includes a Double Degree option with LUISS Guido Carli University, Rome.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/master-of-science-in-innovation-and-industrial-management-s2iim"
+    "source_url": "https://www.gu.se/en/study-gothenburg/master-of-science-in-innovation-and-industrial-management-s2iim",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Knowledge Based Entrepreneurship",
@@ -641,7 +707,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Autumn intake (application code GU-82003/82002). Same structural note as its sibling programme: explicitly named on the Department of Economy and Society's own 'Education in Innovation and Entrepreneurship' page as one of the two MSc programmes offered by that department's Unit for Innovation and Entrepreneurship — recorded under Department of Economy and Society, not Business Administration/Economics/Law. Priced at the same higher fee tier as Innovation & Industrial Management (SEK 248,000 total, first payment SEK 62,000), both higher than the SEK 192,000 tier used by the other Business-and-Management master's in this file. Delivered in partnership with the university's own venture-support arm, GU Ventures.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/master-of-science-in-knowledge-based-entrepreneurship-s2kbe"
+    "source_url": "https://www.gu.se/en/study-gothenburg/master-of-science-in-knowledge-based-entrepreneurship-s2kbe",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Logistics and Transport Management",
@@ -660,7 +728,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Autumn intake (application code GU-82018/82019). Programme's own quick-facts box says 'Offered by the Graduate school at the School of Business, Economics and Law'. Faculty recorded here as Department of Business Administration by subject-matter inference (logistics and transport management; programme-specific entrance requirements cite business, economics, and industrial management credits) — not an explicit per-programme department claim found on the page itself. Full education cost SEK 192,000, first payment SEK 48,000.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/master-of-science-in-logistics-and-transport-management-s2ltm"
+    "source_url": "https://www.gu.se/en/study-gothenburg/master-of-science-in-logistics-and-transport-management-s2ltm",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Archaeological Sciences",
@@ -679,7 +749,9 @@
       }
     },
     "duration": "1 year, 60 ECTS credits; autumn intake. Confirmed via the programme's own gu.se page as the only English-taught degree programme administered by the Department of Historical Studies (its Study Here page lists no other English-taught bachelor's/master's programme). Non-EU fee rises to SEK 127,000 total for Autumn 2027 intake (this record uses the Autumn 2026 rate).",
-    "source_url": "https://www.gu.se/en/study-gothenburg/master-in-archaeological-sciences-h2mas"
+    "source_url": "https://www.gu.se/en/study-gothenburg/master-in-archaeological-sciences-h2mas",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Language and Intercultural Communication",
@@ -698,7 +770,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits; autumn intake (31 Aug 2026 - 4 Jun 2028). Confirmed via the programme's own gu.se page and the department's own page as its only complete English-taught degree programme -- the department otherwise offers only freestanding language courses at bachelor's/master's level (English, French, German, Spanish, and others), no other standalone English-taught degree programme.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-language-and-intercultural-communication-h2sik"
+    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-language-and-intercultural-communication-h2sik",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Theology, Systematic Theology",
@@ -717,7 +791,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits; autumn intake. Confirmed via the department's own Study Here page as its only complete English-taught degree programme (the department also teaches Comparative Literature, History of Ideas and Science, Religious Studies, Theatre Studies, and Digital Humanities, but only as freestanding English-taught courses, not standalone degree programmes). Non-EU fee rises to SEK 198,000 total for Autumn 2027 intake (this record uses the Autumn 2026 rate).",
-    "source_url": "https://www.gu.se/en/study-gothenburg/master-of-theology-systematic-theology-h2rtm-mtst"
+    "source_url": "https://www.gu.se/en/study-gothenburg/master-of-theology-systematic-theology-h2rtm-mtst",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Language Technology",
@@ -736,7 +812,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits; autumn intake (starts 31 Aug 2026). Run jointly by the Department of Philosophy, Linguistics and Theory of Science, the Department of Swedish, Multilingualism, Language Technology, and Chalmers University of Technology's Department of Computer Science and Engineering -- confirmed directly on the programme's own gu.se page. The Department of Swedish, Multilingualism, Language Technology's own page states all of its OTHER courses/programmes are taught in Swedish; this joint programme is its sole English-taught degree involvement.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/master-in-language-technology-h2ltg"
+    "source_url": "https://www.gu.se/en/study-gothenburg/master-in-language-technology-h2ltg",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Logic",
@@ -755,7 +833,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits; autumn intake, late application round confirmed open for 2026 on the programme's own page. Confirmed via the department's own Study Here page as one of exactly two English-taught degree programmes it administers (the other being Language Technology, recorded separately above) -- the majority of the department's first-cycle (bachelor's) teaching is in Swedish, per its own page.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/logic-masters-programme-h2log"
+    "source_url": "https://www.gu.se/en/study-gothenburg/logic-masters-programme-h2log",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "International Relations",
@@ -774,7 +854,9 @@
       }
     },
     "duration": "3 years, 180 ECTS credits. Autumn intake (application period 16 Oct 2025 - 15 Jan 2026 first round; 16 Mar 2026 - 15 Apr 2026 second round). Confirmed on the programme's own page as 'Offered by the School of Global Studies at the Faculty of Social Sciences'. Full education cost SEK 288,000, first payment SEK 48,000.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/bachelors-programme-in-international-relations-s1int"
+    "source_url": "https://www.gu.se/en/study-gothenburg/bachelors-programme-in-international-relations-s1int",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "European Studies (Humanities Track)",
@@ -793,7 +875,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Autumn intake. One of four separately-admitted, separately-URLed variants of the University of Gothenburg's European Studies master's (own application code S2EUS-HUMA) alongside the Social Science Track and two double-degree tracks below -- each has its own dedicated gu.se programme page and distinct admissions text, so recorded as its own record rather than folded into one. Full education cost SEK 192,000, first payment SEK 48,000.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-european-studies-humanities-track-s2eus-huma"
+    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-european-studies-humanities-track-s2eus-huma",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "European Studies (Social Science Track)",
@@ -812,7 +896,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Autumn intake (own application code S2EUS-SOCI). Sibling track to European Studies (Humanities Track) and the two double-degree tracks below. Already-enrolled students on this track (or on International Administration and Global Governance) may additionally apply for a non-standalone Double Degree option with Fudan University, Shanghai (SIRPA) -- only 3 places/year, no independent fee/ECTS published since it is an add-on to an existing enrolment, not a separately admitted programme; not recorded as its own row per this project's convention. Full education cost SEK 192,000, first payment SEK 48,000.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-european-studies-social-science-track-s2eus-soci"
+    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-european-studies-social-science-track-s2eus-soci",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "European Studies, Double Degree (University of Konstanz)",
@@ -831,7 +917,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Autumn intake (own application code S2EUS-KONZ). Genuine double-degree pathway with its own dedicated gu.se page and admissions process, distinct from the plain European Studies tracks: year 1 at University of Konstanz (Germany), year 2 at University of Gothenburg; graduates receive degrees from both institutions. Full education cost SEK 192,000, first payment SEK 48,000.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-european-studies-double-degree-track-with-konstanz-university-s2eus-konz"
+    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-european-studies-double-degree-track-with-konstanz-university-s2eus-konz",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "European Studies, Double Degree (University of North Carolina at Chapel Hill)",
@@ -850,7 +938,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Autumn intake (own application code S2EUS-CHAP). Genuine double-degree pathway with its own dedicated gu.se page and separate parallel admissions requirement (apply to UNC-Chapel Hill by 16 Dec 2025 AND to University of Gothenburg by 15 Jan 2026): year 1 in Chapel Hill (US), year 2 in Gothenburg (Sweden); graduates receive dual degrees. Full education cost SEK 192,000, first payment SEK 48,000.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-european-studies-double-degree-university-of-north-carolina-at-chapel-hill-s2eus-chap"
+    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-european-studies-double-degree-university-of-north-carolina-at-chapel-hill-s2eus-chap",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "International Administration and Global Governance",
@@ -869,7 +959,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Autumn intake (own application code GU-76019 first round / GU-76018 second round). Confirmed via the programme's own page as Department of Political Science-owned. Also offers a Double Degree option with University of Konstanz (application code GU-76020, same page, not a separate record) and, for already-enrolled students, the same non-standalone Fudan University (Shanghai) double-degree option described under European Studies (Social Science Track) above -- neither has independently published fee/ECTS figures of its own. Full education cost SEK 192,000, first payment SEK 48,000.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-international-administration-and-global-governance-s2iag"
+    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-international-administration-and-global-governance-s2iag",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Global Studies",
@@ -888,7 +980,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Autumn intake (application code GU-72000 first round / GU-72001 second round). Confirmed via the programme's own page and the School of Global Studies' own 'Study here' page as School of Global Studies-owned. Full education cost SEK 192,000, first payment SEK 48,000.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-global-studies-s2gst"
+    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-global-studies-s2gst",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Human Rights Policy and Practice (Erasmus Mundus)",
@@ -905,7 +999,9 @@
       }
     },
     "duration": "Erasmus Mundus Joint Master's Degree, delivered jointly with partner universities in Norway, Spain and the UK. Confirmed as a School of Global Studies programme via the School's own 'Study here' page ('Master's Program in Human Rights Policy and Practice'), but gu.se publishes no dedicated programme page for it at all -- both the university-wide master's-programmes overview page and the School's own listing link straight out to the external consortium site (emhrpp.com) with zero inline duration/ECTS/fee detail on gu.se itself. FEE AND DURATION: per this project's hard no-guessing rule and the gu.se-only sourcing rule, no duration/ECTS figure and no EU or non-EU fee amount is recorded -- fee-setting (and all programme structure detail) is routed off gu.se entirely to the consortium, the same 'genuine EU-fee exception, unconfirmable either way from an official gu.se page' pattern already documented for IMBRSea in data/gu_science-tech-b.json. Do not substitute the standard GU EU=0 rate here without independently confirming it applies -- it is unconfirmed, not assumed.",
-    "source_url": "https://www.gu.se/en/globalstudies/study-here"
+    "source_url": "https://www.gu.se/en/globalstudies/study-here",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Political Science",
@@ -924,7 +1020,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Autumn intake (application codes GU-76021 Gothenburg first round, GU-76023 Gothenburg second round, GU-76022 a Konstanz-linked variant shown on the same page -- no independent fee/ECTS published for the Konstanz variant, not recorded as its own row). Full education cost SEK 192,000, first payment SEK 48,000.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-political-science-s2psc"
+    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-political-science-s2psc",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Human Resource Management and Labour Relations",
@@ -943,7 +1041,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Autumn intake (own page/application code S2HRM). Full official title is 'Master's Programme in Strategic Human Resource Management and Labour Relations'; confirmed directly on the programme's own gu.se page as Department of Sociology and Work Science-owned, delivered in cooperation with the Department of Business Administration (also confirmed on the Department of Sociology and Work Science's own 'Study here' page, which lists it as one of its two master's programmes alongside Sociology). Recorded here with real confirmed fee/duration rather than the flag noted elsewhere in this project's build. Full education cost SEK 192,000, first payment SEK 48,000.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-strategic-human-resource-management-and-labour-relations-s2hrm"
+    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-strategic-human-resource-management-and-labour-relations-s2hrm",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Psychological Science",
@@ -962,7 +1062,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Autumn intake. Confirmed via the Department of Psychology's own 'Study here' page as its sole master's programme. Full education cost SEK 192,000, first payment SEK 48,000.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-psychological-science-s2map"
+    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-psychological-science-s2map",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Sociology",
@@ -981,7 +1083,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Autumn intake (own page/application code S2SOC). Confirmed via the Department of Sociology and Work Science's own 'Study here' page as one of its two master's programmes. That same department page also mentions a Swedish-medium two-year Criminology master's ('we offer two-year master's degree programmes in sociology and criminology') -- Criminology does not appear on gu.se's English-taught master's-programmes overview page and no English-taught dedicated programme page could be found for it, so it is NOT recorded here; flagged in case it is confirmed English-taught in a future pass. Full education cost SEK 192,000, first payment SEK 48,000.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/programme-for-master-in-sociology-s2soc"
+    "source_url": "https://www.gu.se/en/study-gothenburg/programme-for-master-in-sociology-s2soc",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Social Work and Human Rights",
@@ -1000,7 +1104,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Autumn intake (own page/application code S2SWH). Confirmed via the Department of Social Work's own 'Study here' page as its sole English-taught master's programme. That department page also references a Bachelor of Science Programme in Social Work with 'one of the highest numbers of applicants in Sweden' -- not recorded here since it does not appear on gu.se's English-taught bachelor's-programmes overview page and no confirmation of English-medium delivery could be found (Swedish social-work bachelor's degrees are typically Swedish-medium professional qualifications); flagged in case it is confirmed English-taught in a future pass. Full education cost SEK 192,000, first payment SEK 48,000.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-social-work-and-human-rights-s2swh"
+    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-social-work-and-human-rights-s2swh",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Information Technology and Learning",
@@ -1019,7 +1125,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits (International Master's Programme in Information Technology and Learning; application code S2IOL, admission code GU-93003, Autumn 2026 intake). Confirmed directly on the programme's own gu.se page as offered by the Department of Education, Communication and Learning at the Faculty of Education. Third semester offers two elective courses (professional learning in digital environments; an internship option) or external electives at other departments/universities; fourth semester is the master's thesis. Leads to a Master of Science with a major in either Applied Information Technology with Specialization in Learning and Communication, or Education with Specialization in Learning, Communication and Information Technology. No fees charged to EU/EEA citizens, Swedish residence permit holders, or exchange students. Full education cost SEK 294,000, first payment SEK 73,500 (Autumn 2026 rate; a later Autumn 2027 intake round listed the identical SEK 294,000 total on the same page).",
-    "source_url": "https://www.gu.se/en/study-gothenburg/international-masters-programme-in-information-technology-and-learning-s2itl"
+    "source_url": "https://www.gu.se/en/study-gothenburg/international-masters-programme-in-information-technology-and-learning-s2itl",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Educational Research",
@@ -1038,7 +1146,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits (International Master's Programme in Educational Research, IMER; application code S2IME, admission code GU-94007, Autumn 2026 intake). Confirmed directly on the programme's own gu.se page and the department's own 'Study here' page as its one English-taught programme, offered by the Department of Education and Special Education at the Faculty of Education. Seven mandatory courses across two years (methods, theory, research practice) culminating in a 30-credit master's thesis. Entry requires a Bachelor's degree (180 credits) in Educational Sciences, Social Sciences or Humanities, or a teacher's degree of at least 180 credits. No fees charged to EU/EEA citizens, Swedish residence permit holders, or exchange students. Full education cost SEK 212,000, first payment SEK 53,000 (Autumn 2026 rate).",
-    "source_url": "https://www.gu.se/en/study-gothenburg/international-masters-programme-in-educational-research-s2ime"
+    "source_url": "https://www.gu.se/en/study-gothenburg/international-masters-programme-in-educational-research-s2ime",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Education for Sustainable Development",
@@ -1057,7 +1167,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits; entirely web-based/online delivery, full-time pace (~40 hours/week) (application code S2ESD, admission code GU-92001, Autumn 2026 intake). Confirmed directly on the programme's own gu.se page and the department's own 'Study here' page as its one English-taught programme, offered by the Department of Pedagogical, Curricular and Professional Studies at the Faculty of Education. Curriculum is jointly delivered across four University of Gothenburg departments plus one Chalmers University of Technology department, but the programme's own page names this department as the administering one. Culminates in a 15-credit master's thesis; students without a prior 15-credit thesis can qualify via the course 'Master's thesis in teaching and learning in higher education' (HPA202). No fees charged to EU/EEA citizens, Swedish residence permit holders, or exchange students. Full education cost SEK 212,000, first payment SEK 53,000 (Autumn 2026 rate).",
-    "source_url": "https://www.gu.se/en/study-gothenburg/education-for-sustainable-development-masters-programme-s2esd"
+    "source_url": "https://www.gu.se/en/study-gothenburg/education-for-sustainable-development-masters-programme-s2esd",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Communication",
@@ -1076,7 +1188,9 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Specialisations: Digital Communication; Organisational Communication, with elective/study-abroad/internship flexibility in semester 3. Flagged independently by both the Humanities and Social Sciences research batches as outside their assigned departments; confirmed directly here via its own gu.se page as Department of Applied Information Technology (Faculty of Science and Technology), not a Humanities or Social Sciences programme despite its subject-matter overlap.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/master-in-communication-n2cmn"
+    "source_url": "https://www.gu.se/en/study-gothenburg/master-in-communication-n2cmn",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   },
   {
     "course_name": "Political Communication",
@@ -1095,6 +1209,8 @@
       }
     },
     "duration": "2 years, 120 ECTS credits. Flagged independently by both the Humanities and Social Sciences research batches as outside their assigned departments; confirmed directly here via its own gu.se page as Department of Journalism, Media and Communication (JMG) — a real 6th department under Faculty of Social Sciences not included in this build's original 5-department scope for that faculty.",
-    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-political-communication-s2mkg"
+    "source_url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-political-communication-s2mkg",
+    "last_verified": "2026-09-09",
+    "verified_by_admin": null
   }
 ]

@@ -14,7 +14,9 @@
       }
     },
     "duration": "3 years, with an optional 4th year; 180-240 ECTS (assumed, Bologna default)",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Commerce (Accounting)",
@@ -31,7 +33,9 @@
       }
     },
     "duration": "3 years, with an optional 4-year Global Experience Year pathway; 180-240 ECTS (assumed, Bologna default)",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-accounting.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-accounting.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Commerce (International with French)",
@@ -48,7 +52,9 @@
       }
     },
     "duration": "4 years, 240 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-with-french.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-with-french.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Commerce (International with German)",
@@ -65,7 +71,9 @@
       }
     },
     "duration": "4 years, 240 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-with-german.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-with-german.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Commerce (International with Spanish)",
@@ -82,7 +90,9 @@
       }
     },
     "duration": "4 years, 240 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-with-spanish.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-with-spanish.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Commerce (Gaeilge)",
@@ -99,7 +109,9 @@
       }
     },
     "duration": "4 years, 240 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-with-gaeilge.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-with-gaeilge.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Commerce (Global Experience)",
@@ -116,7 +128,9 @@
       }
     },
     "duration": "4 years, 240 ECTS (assumed, Bologna default)",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-global-experience.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-global-experience.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Science (Business Information Systems)",
@@ -133,7 +147,9 @@
       }
     },
     "duration": "4 years, 240 ECTS (assumed, Bologna default)",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/business-information-systems-science.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/business-information-systems-science.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Law (BCL)",
@@ -150,7 +166,9 @@
       }
     },
     "duration": "4 years, 240 ECTS (assumed, Bologna default)",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/law.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/law.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Law (BCL) and Business",
@@ -167,7 +185,9 @@
       }
     },
     "duration": "4 years, 240 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/law-business.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/law-business.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Law (BCL) and Human Rights",
@@ -184,7 +204,9 @@
       }
     },
     "duration": "4 years, 240 ECTS (assumed, Bologna default)",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/law-human-rights.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/law-human-rights.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Law (BCL), Criminology and Criminal Justice",
@@ -201,7 +223,9 @@
       }
     },
     "duration": "4 years, 240 ECTS (assumed, Bologna default)",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/criminology-and-criminal-justice.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/criminology-and-criminal-justice.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Business Studies (International Hotel Management)",
@@ -218,7 +242,9 @@
       }
     },
     "duration": "4 years 9 months, includes a paid industry placement; 240 ECTS (assumed, Bologna default)",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/business-studies-hotel-management.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/business-studies-hotel-management.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Commerce in International Hotel Management",
@@ -235,7 +261,9 @@
       }
     },
     "duration": "4 years 9 months, includes a paid industry placement; 240 ECTS (assumed, Bologna default)",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-international-hotel-management.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/commerce-international-hotel-management.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Business Studies in Global Luxury & Experience Management",
@@ -252,7 +280,9 @@
       }
     },
     "duration": "4 years, 240 ECTS (assumed, Bologna default)",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/global-luxury-experience-management.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/global-luxury-experience-management.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Laws (LLB)",
@@ -269,7 +299,9 @@
       }
     },
     "duration": "2-3 years full-time or 4 years part-time; graduate-entry primary law degree (NFQ Level 8) requiring a prior Level 8 honours degree; 120-180 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/llb/"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/llb/",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Business Analytics (MSc)",
@@ -286,7 +318,9 @@
       }
     },
     "duration": "1 year, full-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/business-analytics.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/business-analytics.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Business and Hospitality (MSc)",
@@ -303,7 +337,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/hospitalitymanagement.html/"
+    "source_url": "https://www.universityofgalway.ie/hospitalitymanagement.html/",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Corporate Finance (MSc)",
@@ -320,7 +356,9 @@
       }
     },
     "duration": "1 year, full-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/corporate-finance.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/corporate-finance.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Criminology, Criminal Justice and Human Rights (LLM)",
@@ -337,7 +375,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time; 90 ECTS; jointly delivered with the Irish Centre for Human Rights",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/criminology-criminal-justice-human-rights.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/criminology-criminal-justice-human-rights.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Cybersecurity Risk Management (MSc)",
@@ -354,7 +394,9 @@
       }
     },
     "duration": "1 year, full-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/cybersecurity-risk-management.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/cybersecurity-risk-management.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Digital Marketing (MSc)",
@@ -371,7 +413,9 @@
       }
     },
     "duration": "1 year, full-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/digitalmarketingmsc/"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/digitalmarketingmsc/",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Fintech [Economics and Financial Technology] (MSc)",
@@ -388,7 +432,9 @@
       }
     },
     "duration": "1 year, full-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/fintech.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/fintech.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Gender and Human Rights Law and Policy (LLM)",
@@ -405,7 +451,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/llm-gender-humanrights.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/llm-gender-humanrights.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Law (General) (LLM)",
@@ -422,7 +470,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/llm-general.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/llm-general.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Global Environmental Economics (MSc)",
@@ -439,7 +489,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/global-environmental-economics.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/global-environmental-economics.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Health Economics (MSc)",
@@ -456,7 +508,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/health-economics.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/health-economics.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Hospitality Performance Revenue & Asset Management (MSc)",
@@ -473,7 +527,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/hospitality-performance.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/hospitality-performance.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Human Resource Management (MSc)",
@@ -490,7 +546,9 @@
       }
     },
     "duration": "1 year, full-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/human-resource-management.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/human-resource-management.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Information Systems Management (MSc)",
@@ -507,7 +565,9 @@
       }
     },
     "duration": "1 year, full-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/information-systems-management.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/information-systems-management.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "International Accounting and Analytics - Pathway A (MSc)",
@@ -524,7 +584,9 @@
       }
     },
     "duration": "1 year, full-time, September intake; for general business graduates specialising in Accounting & Analytics; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/internationalaccountingandanalyticspathwayamsc/"
+    "source_url": "https://www.universityofgalway.ie/internationalaccountingandanalyticspathwayamsc/",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "International Accounting and Analytics - Pathway B (MSc)",
@@ -541,7 +603,9 @@
       }
     },
     "duration": "7 months full-time or 14 months part-time, January intake; for early-mid career accountants with RPL exemptions; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/internationalaccountingandanalyticspathwaybmsc/"
+    "source_url": "https://www.universityofgalway.ie/internationalaccountingandanalyticspathwaybmsc/",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "International and Comparative Business Law (LLM)",
@@ -558,7 +622,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/llm-international-comparative-business.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/llm-international-comparative-business.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "International and Comparative Disability Law and Policy (LLM)",
@@ -575,7 +641,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/law-intl-comparative-disability-policy.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/law-intl-comparative-disability-policy.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "International Criminal Law (LLM)",
@@ -592,7 +660,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/law-international-criminal.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/law-international-criminal.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "International Finance (MEconSc)",
@@ -609,7 +679,9 @@
       }
     },
     "duration": "1 year, full-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/international-finance.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/international-finance.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "International Human Rights (LLM)",
@@ -626,7 +698,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/law-international-human-rights.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/law-international-human-rights.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "International Management (MSc)",
@@ -643,7 +717,9 @@
       }
     },
     "duration": "1 year, full-time; 90 ECTS; includes a mandatory International Seminar Week in Europe",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/international-management.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/international-management.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "International Migration and Refugee Law and Policy (LLM)",
@@ -660,7 +736,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/law-international-migration-refugee-law.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/law-international-migration-refugee-law.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Law and Digital Innovation (LLM)",
@@ -677,7 +755,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/LLM-Law-and-Digital-Innovation"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/LLM-Law-and-Digital-Innovation",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Management and Sustainability (MSc)",
@@ -694,7 +774,9 @@
       }
     },
     "duration": "1 year, full-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/management-and-sustainability.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/management-and-sustainability.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Marketing Management (MSc)",
@@ -711,7 +793,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/marketing-management.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/marketing-management.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Accounting (Master of)",
@@ -728,7 +812,9 @@
       }
     },
     "duration": "1 year, full-time; 90 ECTS; for recent accounting graduates with full/near-full CAP 1 exemptions",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/accounting.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/accounting.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Marketing Practice (MSc)",
@@ -744,7 +830,9 @@
       }
     },
     "duration": "1 year, full-time; 90 ECTS; own page states non-EU candidates cannot be accepted due to Irish work-visa regulations specific to this programme",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/marketing-practice.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/marketing-practice.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Peace Operations, Humanitarian Law and Conflict (LLM)",
@@ -761,7 +849,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/law-international-peace-support-operations.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/law-international-peace-support-operations.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Revenue & Hospitality Performance (MSc)",
@@ -776,7 +866,9 @@
       }
     },
     "duration": "1 year, full-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/revenue-hospitality-performance.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/revenue-hospitality-performance.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Transitional Justice, Human Rights and Conflict (LLM)",
@@ -793,7 +885,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time; 90 ECTS; delivered by the Irish Centre for Human Rights",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/llm-transitional-justice-human-rightsconflict.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/llm-transitional-justice-human-rightsconflict.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Master of Business Administration (MBA)",
@@ -810,7 +904,9 @@
       }
     },
     "duration": "2 years, part-time; 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/executive-master-business-management.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/executive-master-business-management.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Commerce/Business (MComm)",
@@ -827,7 +923,9 @@
       }
     },
     "duration": "not listed on page (research master's; full-time and part-time options available)",
-    "source_url": "https://www.universityofgalway.ie/courses/research-postgraduate-programmes/structured-phd/commerce-business.html"
+    "source_url": "https://www.universityofgalway.ie/courses/research-postgraduate-programmes/structured-phd/commerce-business.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Business Information Systems (MSc by Research)",
@@ -844,7 +942,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time; research master's, ECTS not stated on page",
-    "source_url": "https://www.universityofgalway.ie/business-public-policy-law/cairnes/courses/research/business-information-systems.html"
+    "source_url": "https://www.universityofgalway.ie/business-public-policy-law/cairnes/courses/research/business-information-systems.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Marketing (MSc by Research)",
@@ -861,7 +961,9 @@
       }
     },
     "duration": "2 years, part-time; thesis due within 9 semesters of registration; research master's, ECTS not stated on page",
-    "source_url": "https://www.universityofgalway.ie/business-public-policy-law/cairnes/courses/research/msc-(marketing)-by-research/marketing.html"
+    "source_url": "https://www.universityofgalway.ie/business-public-policy-law/cairnes/courses/research/msc-(marketing)-by-research/marketing.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Medicine (MB, BCh, BAO)",
@@ -878,7 +980,9 @@
       }
     },
     "duration": "5-year direct-entry stream, or 6-year stream (1 Foundation year + 5 years) for non-direct-entry applicants, GY501; integrated Bachelor of Medicine/Bachelor of Surgery/Bachelor of Obstetrics; Medical Council of Ireland accredited",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/surgery-obstetrics.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/surgery-obstetrics.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Occupational Therapy",
@@ -895,7 +999,9 @@
       }
     },
     "duration": "4 years, 240 ECTS, GY502",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/occupational-therapy.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/occupational-therapy.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Speech and Language Therapy",
@@ -912,7 +1018,9 @@
       }
     },
     "duration": "4 years, 240 ECTS, GY503",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/speech-and-language-therapy.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/speech-and-language-therapy.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Podiatric Medicine",
@@ -929,7 +1037,9 @@
       }
     },
     "duration": "4 years, 240 ECTS, GY504",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/podiatry.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/podiatry.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Pharmacy (MPharm)",
@@ -945,7 +1055,9 @@
       }
     },
     "duration": "5 years total (4-year BSc Pharmacy + 1-year MPharm professional year), GY505; own page states no places currently available to non-EU students",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/pharmacy.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/pharmacy.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing Science (General)",
@@ -962,7 +1074,9 @@
       }
     },
     "duration": "4 years, 240 ECTS, GY515; delivered across University of Galway and Portiuncula University Hospital",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/nursing-science-general.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/nursing-science-general.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing Science (Mental Health)",
@@ -979,7 +1093,9 @@
       }
     },
     "duration": "4 years, 240 ECTS, GY516",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/mental-health-nursing.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/mental-health-nursing.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Midwifery Science",
@@ -996,7 +1112,9 @@
       }
     },
     "duration": "4 years, 240 ECTS, GY517",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/midwifery-science.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/midwifery-science.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Advanced Practice Midwifery",
@@ -1013,7 +1131,9 @@
       }
     },
     "duration": "2 years, part-time, 110 ECTS; leads to eligibility to register as Registered Advanced Midwife Practitioner (RAMP) with NMBI",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/advanced-practice-midwifery.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/advanced-practice-midwifery.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Advanced Practice Nursing",
@@ -1030,7 +1150,9 @@
       }
     },
     "duration": "2 years, part-time, 110 ECTS; leads to eligibility to register as Registered Advanced Nurse Practitioner (RANP) with NMBI",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/advanced-practice-nursing.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/advanced-practice-nursing.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing: Acute Medicine",
@@ -1047,7 +1169,9 @@
       }
     },
     "duration": "2 years full-time (Year 1: Postgraduate Diploma exit option, 60 ECTS; Year 2: MHSc, 90 ECTS total)",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/nursing-acute-medicine.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/nursing-acute-medicine.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Cancer Care",
@@ -1064,7 +1188,9 @@
       }
     },
     "duration": "2 years full-time (Year 1: Postgraduate Diploma exit option, 60 ECTS; Year 2: MHSc, 90 ECTS total)",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/cancer-care.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/cancer-care.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing: Emergency Care",
@@ -1080,7 +1206,9 @@
       }
     },
     "duration": "2 years full-time (Year 1: Postgraduate Diploma exit option, 60 ECTS; Year 2: MHSc, 90 ECTS total); own page states it does not accept students from outside the EU",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/nursing-emergency-care.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/nursing-emergency-care.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing: Gerontology",
@@ -1097,7 +1225,9 @@
       }
     },
     "duration": "2 years full-time (Year 1: Postgraduate Diploma exit option, 60 ECTS; Year 2: MHSc, 90 ECTS total)",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/nursing-gerontology.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/nursing-gerontology.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing: Intensive Care",
@@ -1114,7 +1244,9 @@
       }
     },
     "duration": "2 years full-time (Year 1: Postgraduate Diploma exit option, 60 ECTS; Year 2: MHSc, 90 ECTS total)",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/nursing-intensive-care.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/nursing-intensive-care.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Perioperative",
@@ -1131,7 +1263,9 @@
       }
     },
     "duration": "2 years full-time (Year 1: Postgraduate Diploma exit option, 60 ECTS; Year 2: MHSc with 30-ECTS research dissertation, 90 ECTS total)",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/nursing-perioperative.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/nursing-perioperative.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Evidence-Based Future Healthcare",
@@ -1148,7 +1282,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time; fully online; Stage 2 Category Approval from NMBI",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/evidence-based-future-healthcare.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/evidence-based-future-healthcare.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing Education",
@@ -1165,7 +1301,9 @@
       }
     },
     "duration": "2 years, part-time, 90 ECTS (MHSc; separate 1-year Postgraduate Diploma exit-only variant also offered)",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/nursing-midwifery-education.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/nursing-midwifery-education.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Clinical Education",
@@ -1182,7 +1320,9 @@
       }
     },
     "duration": "1 year full-time, 60 ECTS (MHSc); delivered wholly online; Postgraduate Diploma exit option also available (1 year FT or 2 years PT)",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/clinical-education.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/clinical-education.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Clinical Research",
@@ -1199,7 +1339,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time, 90 ECTS; blended learning",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/clinical-research.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/clinical-research.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Healthcare Simulation and Patient Safety",
@@ -1216,7 +1358,9 @@
       }
     },
     "duration": "24 months full-time, 120 ECTS (MSc); 12-month Postgraduate Diploma in Science exit option (60 ECTS); online/distance with two on-campus workshops",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/medical-healthcare-patient-safety.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/medical-healthcare-patient-safety.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Interventional Cardiovascular Medicine",
@@ -1233,7 +1377,9 @@
       }
     },
     "duration": "1 year full-time, 90 ECTS; delivered fully online",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/interventional-cardiovascular-medicine.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/interventional-cardiovascular-medicine.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Multidisciplinary Radiology",
@@ -1250,7 +1396,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time, 90 ECTS (MSc); Postgraduate Diploma exit option also available (60 ECTS)",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/multidisciplinary-radiology.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/multidisciplinary-radiology.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Surgery (MCh)",
@@ -1267,7 +1415,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time, 90 ECTS; delivered online; for medical graduates and practising surgeons",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/masters-surgery.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/masters-surgery.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Cellular Manufacturing & Therapy",
@@ -1284,7 +1434,9 @@
       }
     },
     "duration": "1 year full-time, 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/cellular-Manufacturing-therapy.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/cellular-Manufacturing-therapy.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Regenerative Medicine",
@@ -1301,7 +1453,9 @@
       }
     },
     "duration": "1 year full-time, 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/regenerative-medicine.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/regenerative-medicine.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Applied Clinical Data Analytics",
@@ -1318,7 +1472,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time, 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/applied-clinical-data-analytics.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/applied-clinical-data-analytics.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Health Promotion",
@@ -1335,7 +1491,9 @@
       }
     },
     "duration": "1 year full-time, 90 ECTS (MA); Postgraduate Diploma exit option also available; includes 12-day supervised work placement",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/health-promotion.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/health-promotion.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Podiatric Medicine (Pre-Registration)",
@@ -1352,7 +1510,9 @@
       }
     },
     "duration": "2 years full-time, 180 ECTS (90/year); graduate-entry route into podiatric medicine for holders of a cognate primary degree, distinct from the undergraduate GY504 route; CORU-accredited",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/podiatric-medicine.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/podiatric-medicine.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Applied Multilingualism",
@@ -1369,7 +1529,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time, 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/applied-multilingualism.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/applied-multilingualism.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Neuropharmacology",
@@ -1386,7 +1548,9 @@
       }
     },
     "duration": "1 year full-time, 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/neuropharmacology.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/neuropharmacology.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Toxicology",
@@ -1403,7 +1567,9 @@
       }
     },
     "duration": "1 year full-time, 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/toxicology.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/toxicology.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Exercise Physiology and Its Application in Therapy",
@@ -1420,7 +1586,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time, 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/exercise-physiology.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/exercise-physiology.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Exercise Physiology and Rehabilitation",
@@ -1437,7 +1605,9 @@
       }
     },
     "duration": "1 year full-time, 90 ECTS; approved education provider of REPS Ireland; genuinely separate programme from Exercise Physiology and Its Application in Therapy",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/exercise-physiology-rehabilitation.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/exercise-physiology-rehabilitation.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Science",
@@ -1454,7 +1624,9 @@
       }
     },
     "duration": "4 years, 240 ECTS. Common-entry route into 16 subject areas (Chemistry, Physics, Biology, Mathematics, Computing, Earth Sciences, etc.) spanning several Schools of the College; students choose their specialisation from Year 2 onward, so no single owning School is named on the programme's own page. CAO code GY301.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/science-undenominated.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/science-undenominated.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Science (Biomedical Science)",
@@ -1471,7 +1643,9 @@
       }
     },
     "duration": "4 years, 240 ECTS. CAO code GY303. Owning School not explicitly named on the programme's own page (only \"College of Science and Engineering\" stated); attributed here to School of Biological and Chemical Sciences by analogy with the postgraduate MSc Biomedical Science, which is explicitly confirmed as that School's programme — treat as an inference, not a confirmed fact.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/biomedical-science.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/biomedical-science.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Science (Biotechnology)",
@@ -1488,7 +1662,9 @@
       }
     },
     "duration": "4 years, 240 ECTS. CAO code GY304.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/biotechnology.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/biotechnology.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Science (Environmental Science)",
@@ -1505,7 +1681,9 @@
       }
     },
     "duration": "4 years, 240 ECTS. CAO code GY308.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/environmental-science.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/environmental-science.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Science (Financial Mathematics and Economics)",
@@ -1522,7 +1700,9 @@
       }
     },
     "duration": "4 years, 240 ECTS. CAO code GY309.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/financial-mathematics-and-economics.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/financial-mathematics-and-economics.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Science (Marine Science)",
@@ -1539,7 +1719,9 @@
       }
     },
     "duration": "4 years, 240 ECTS (assumed Bologna default; page did not restate ECTS total). CAO code GY310.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/marine-science.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/marine-science.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Science (Occupational Health and Safety Management)",
@@ -1556,7 +1738,9 @@
       }
     },
     "duration": "4 years, 240 ECTS. CAO code GY313. Owning School confirmed via programme contact (Dr Marie Coggins, Senior Lecturer in Exposure Science, Physics, School of Natural Sciences).",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/environmental-health-and-safety.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/environmental-health-and-safety.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Science (Earth and Ocean Sciences)",
@@ -1573,7 +1757,9 @@
       }
     },
     "duration": "4 years, 240 ECTS. CAO code GY314.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/earth-and-ocean-sciences.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/earth-and-ocean-sciences.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Science (Biopharmaceutical Chemistry)",
@@ -1590,7 +1776,9 @@
       }
     },
     "duration": "4 years, 240 ECTS. CAO code GY318. Owning School not explicitly named on the programme's own page (only \"College of Science and Engineering\" stated); attributed to School of Biological and Chemical Sciences based on subject matter (Chemistry) and Programme Director's field.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/biopharmaceutical-chemistry.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/biopharmaceutical-chemistry.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Science (Mathematical Science)",
@@ -1607,7 +1795,9 @@
       }
     },
     "duration": "4 years, 240 ECTS. CAO code GY319.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/mathematical-science.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/mathematical-science.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Science (Physics)",
@@ -1624,7 +1814,9 @@
       }
     },
     "duration": "4 years, 240 ECTS. CAO code GY320.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/physics-with-options.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/physics-with-options.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Science (Genetics and Genomics)",
@@ -1641,7 +1833,9 @@
       }
     },
     "duration": "4 years, 240 ECTS. CAO code GY321.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/genetics-and-genomics.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/genetics-and-genomics.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Science (Agricultural Science)",
@@ -1658,7 +1852,9 @@
       }
     },
     "duration": "4 years, 240 ECTS. CAO code GY322.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/agricultural-science.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/agricultural-science.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Science (Zoology)",
@@ -1675,7 +1871,9 @@
       }
     },
     "duration": "4 years, 240 ECTS. CAO code GY323.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/Zoology.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/Zoology.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Science (Computer Science and Information Technology)",
@@ -1692,7 +1890,9 @@
       }
     },
     "duration": "4 years, 240 ECTS, including an 8-month industrial placement (Jan-Aug) after Year 3. CAO code GY350.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/computer-science-and-information-technology.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/computer-science-and-information-technology.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor and Master of Engineering (Undenominated)",
@@ -1709,7 +1909,9 @@
       }
     },
     "duration": "1-year common-entry Year 1 (Level 8/9) shared by all School of Engineering streams; after Year 1 exams students transfer into Year 2 of a named 5-year integrated Bachelor and Master of Engineering programme (Biomedical, Civil, Electrical & Electronic, Electronic & Computer, Energy Systems, or Mechanical) or a related BSc. CAO code GY401.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/engineering-undenominated.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/engineering-undenominated.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor and Master of Engineering (Civil)",
@@ -1726,7 +1928,9 @@
       }
     },
     "duration": "5 years integrated (4-year Bachelor of Engineering, Level 8, + 1-year Master of Engineering, Level 9); a 4-year BE-only exit option is also available. CAO code GY402.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/civil-engineering.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/civil-engineering.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor and Master of Engineering (Mechanical)",
@@ -1743,7 +1947,9 @@
       }
     },
     "duration": "5 years integrated (4-year Bachelor of Engineering, Level 8, + 1-year Master of Engineering, Level 9), 300 ECTS total (240 ECTS for the BE). CAO code GY405.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/mechanical-engineering.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/mechanical-engineering.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor and Master of Engineering (Electronic & Computer)",
@@ -1760,7 +1966,9 @@
       }
     },
     "duration": "4 years BEng (Level 8) or 5 years integrated Bachelor and Master of Engineering (Level 8/9). CAO code GY406.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/electronic-and-computers.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/electronic-and-computers.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor and Master of Engineering (Biomedical)",
@@ -1777,7 +1985,9 @@
       }
     },
     "duration": "5 years integrated (4-year Bachelor of Engineering, Level 8, + 1-year Master of Engineering, Level 9), including an 8-month paid work placement in Year 4. CAO code GY408.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/biomedicalengineering.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/biomedicalengineering.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Science (Project and Construction Management)",
@@ -1794,7 +2004,9 @@
       }
     },
     "duration": "4 years, 240 ECTS, including a paid industry work placement in Year 3. CAO code GY410.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/project-and-construction-management.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/project-and-construction-management.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor and Master of Engineering (Energy Systems)",
@@ -1811,7 +2023,9 @@
       }
     },
     "duration": "5 years integrated (4-year Bachelor of Engineering, Level 8, + 1-year Master of Engineering, Level 9). CAO code GY413.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/energy-systems-engineering.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/energy-systems-engineering.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor and Master of Engineering (Electrical & Electronic)",
@@ -1828,7 +2042,9 @@
       }
     },
     "duration": "4 years BEng (Level 8) or 5 years integrated Bachelor and Master of Engineering (Level 8/9). CAO code GY414.",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/electrical-and-electronic-engineering.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/electrical-and-electronic-engineering.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Computer Science - Artificial Intelligence (MSc)",
@@ -1845,7 +2061,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/computer-science-artificial-intelligence.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/computer-science-artificial-intelligence.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Computer Science - Artificial Intelligence (Online) (MSc)",
@@ -1862,7 +2080,9 @@
       }
     },
     "duration": "2 years, part-time, fully online, 90 ECTS, Level 9. Fee schedule shows an identical flat per-year rate for EU and non-EU students on this online-delivery variant.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/online-artificial-intelligence.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/online-artificial-intelligence.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Computer Science - Data Analytics (MSc)",
@@ -1879,7 +2099,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/msc-in-computer-science-data-analytics.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/msc-in-computer-science-data-analytics.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Computer Science - Adaptive Cybersecurity (MSc)",
@@ -1896,7 +2118,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/computer-science-adaptive-cybersecurity.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/computer-science-adaptive-cybersecurity.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Software Design & Development (MSc)",
@@ -1913,7 +2137,9 @@
       }
     },
     "duration": "2 years, full-time, 120 ECTS (60 ECTS/yr), Level 9, for candidates with little/no software development experience. Same page also offers a 1-year 60-ECTS Higher Diploma exit award (identical fees) and a separate 1-year 60-ECTS \"MSc External\" capstone stream for applicants who already hold a postgraduate computing qualification (EU €7,390/yr, non-EU €18,140/yr) — recorded here as the primary MSc, not duplicated.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/software-design-development.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/software-design-development.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Biomedical Engineering (ME)",
@@ -1930,7 +2156,9 @@
       }
     },
     "duration": "1 year, full-time, 60 ECTS, Level 9 (typically the +1 year of an accredited 4+1 BE/ME pathway).",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/biomedical-engineering-me.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/biomedical-engineering-me.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Biomedical Engineering (MSc)",
@@ -1947,7 +2175,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9. Two streams: General and Medical Electronics.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/biomedical-engineering-msc.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/biomedical-engineering-msc.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Civil Engineering (ME)",
@@ -1964,7 +2194,9 @@
       }
     },
     "duration": "1 year, full-time, 60 ECTS, Level 9 (typically the +1 year of an accredited 4+1 BE/ME pathway).",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/civil-engineering.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/civil-engineering.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Civil Engineering (MSc)",
@@ -1981,7 +2213,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9, with specialisation options in sustainable environmental systems, digital construction, and geotechnical engineering.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/civilengineeringmsc/"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/civilengineeringmsc/",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Construction Innovation (MSc)",
@@ -1998,7 +2232,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time (blended learning), 90 ECTS, Level 9. Part-time EU fee €4,640/yr; non-EU part-time fee not separately confirmed.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/Construction-Innovation.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/Construction-Innovation.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Electronic and Computer Engineering (ME)",
@@ -2015,7 +2251,9 @@
       }
     },
     "duration": "9 months, full-time, 60 ECTS, Level 9 (typically the +1 year of an accredited 4+1 BE/ME pathway).",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/%20electronic-computer-engineering.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/%20electronic-computer-engineering.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Electrical and Electronic Engineering (ME)",
@@ -2032,7 +2270,9 @@
       }
     },
     "duration": "9 months, full-time, 60 ECTS, Level 9 (typically the +1 year of an accredited 4+1 BE/ME pathway).",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/electrical-electronic-engineering.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/electrical-electronic-engineering.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Energy Systems Engineering (ME)",
@@ -2049,7 +2289,9 @@
       }
     },
     "duration": "1 year, full-time, 60 ECTS, Level 9 (standalone or as the +1 year of an accredited 4+1 BE/ME pathway).",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/energy-systems-engineering.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/energy-systems-engineering.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Energy Systems Engineering (MSc)",
@@ -2066,7 +2308,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/energysystemsengineeringmsc.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/energysystemsengineeringmsc.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Engineering Management (MSc)",
@@ -2081,7 +2325,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9. Programme's own page states it \"will not run in 2026\" — first intake is September 2027; its fees table exists but has no populated figures.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/engineeringmanagementmsc/"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/engineeringmanagementmsc/",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Intelligent Robotics (MSc)",
@@ -2098,7 +2344,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/intelligent-robotics.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/intelligent-robotics.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Mechanical Engineering (ME)",
@@ -2115,7 +2363,9 @@
       }
     },
     "duration": "1 year, full-time, 60 ECTS, Level 9 (typically the +1 year of an accredited 4+1 BE/ME pathway).",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/mechanical-engineering.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/mechanical-engineering.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Mechanical Engineering (MSc)",
@@ -2132,7 +2382,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/mechanical-engineering-msc.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/mechanical-engineering-msc.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Medical Electronics and Digital Health (MSc)",
@@ -2149,7 +2401,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/medical-electronics-digital-health.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/medical-electronics-digital-health.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Wind Energy Engineering (MSc)",
@@ -2166,7 +2420,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/wind-energy-engineering-msc.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/wind-energy-engineering-msc.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "AgInnovation: Agricultural Innovation & Entrepreneurship (MSc)",
@@ -2183,7 +2439,9 @@
       }
     },
     "duration": "1 year, part-time (blended: Thursday evenings online + monthly Saturday on-campus), 90 ECTS, Level 9.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/aginnovation.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/aginnovation.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "TechInnovation (Distance Education) (MSc)",
@@ -2200,7 +2458,9 @@
       }
     },
     "duration": "1 year, part-time (blended: Thursday evenings online + monthly Saturday on-campus), 90 ECTS, Level 9. Owning School confirmed only indirectly, via Programme Director Prof John G Breslin's stated affiliation (\"Personal Professor in Electronic Engineering, School of Engineering\") on the page's contact section — not listed on School of Engineering's or School of Computer Science's own official taught-programme lists.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/msc-techinnovation.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/msc-techinnovation.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Climate Change, Agriculture & Food Security (MSc)",
@@ -2217,7 +2477,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9.",
-    "source_url": "https://www.universityofgalway.ie/science-engineering/postgraduateprogrammes/taught-postgraduate-courses/ccafs/"
+    "source_url": "https://www.universityofgalway.ie/science-engineering/postgraduateprogrammes/taught-postgraduate-courses/ccafs/",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "AgriFood Sustainability and Technology (MSc)",
@@ -2234,7 +2496,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/agrifood-sustainability-and-technology.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/agrifood-sustainability-and-technology.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Biomedical Science (MSc)",
@@ -2251,7 +2515,9 @@
       }
     },
     "duration": "1 year full-time (or 2 years with an optional industry placement), 90 ECTS, Level 9.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/biomedical-science.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/biomedical-science.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Biotechnology (MSc)",
@@ -2268,7 +2534,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9, with an optional industry placement of up to 12 months.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/biotechnology.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/biotechnology.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Medical Technology Regulatory Affairs (MSc)",
@@ -2283,7 +2551,9 @@
       }
     },
     "duration": "2 years, part-time, online (distance-learning with optional face-to-face workshops), 90 ECTS, Level 9. Fees table present on the page but not populated with figures; PGCert/PGDip exit awards available after 6/12 modules.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/medical-technology-regulatory-affairs.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/medical-technology-regulatory-affairs.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Health Data Science (MSc)",
@@ -2300,7 +2570,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/health-data-science.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/health-data-science.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Biomedical Genomics (MSc)",
@@ -2317,7 +2589,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/biomedical-genomics.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/biomedical-genomics.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Genomics Data Science (MSc)",
@@ -2334,7 +2608,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9.",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/genomics-data-science.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/genomics-data-science.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Biodiversity & Land-Use Planning (MSc)",
@@ -2351,7 +2627,9 @@
       }
     },
     "duration": "2 years, part-time (blended learning for working professionals), 90 ECTS (PGDip 60, PGCert 30), Level 9. Fee schedule shows an identical rate for EU and non-EU students on this programme.",
-    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/biodiversity-land-use-planning.html"
+    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/biodiversity-land-use-planning.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Environmental Leadership (MSc)",
@@ -2368,7 +2646,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9.",
-    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/environmental-leadership.html"
+    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/environmental-leadership.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Marine and Freshwater Resources: Management (MSc)",
@@ -2385,7 +2665,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9.",
-    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/msc-marine-freshwater.html"
+    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/msc-marine-freshwater.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Medical Physics (MSc)",
@@ -2402,7 +2684,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9, CAMPEP-accredited, includes clinical experience at University Hospital Galway.",
-    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/medical-physics.html"
+    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/medical-physics.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Occupational and Environmental Health & Safety (MSc)",
@@ -2419,7 +2703,9 @@
       }
     },
     "duration": "1 year full-time or 2 years part-time (EU part-time rate approx. €4,605/yr, flat for EU and non-EU), 90 ECTS, Level 9; a 60-ECTS Higher Diploma (Level 8) exit award is also offered on the same page.",
-    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/occupational-environmental-health-safety.html"
+    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/occupational-environmental-health-safety.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Occupational Health & Safety Top-Up (MSc)",
@@ -2434,7 +2720,9 @@
       }
     },
     "duration": "1 year, full-time, 30 ECTS (research thesis only), Level 9. Restricted intake — open only to University of Galway graduates of the Higher Diploma in Occupational Health and Safety or Higher Diploma in Occupational Health, Safety and Hygiene; fees table on the page has no populated figures.",
-    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/occupational-health-safety.html"
+    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/occupational-health-safety.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Sustainable Environments (MSc)",
@@ -2451,7 +2739,9 @@
       }
     },
     "duration": "1 year, full-time, 90 ECTS, Level 9.",
-    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/sustainable-environments.html"
+    "source_url": "https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/postgraduatecourses/taughtprogrammes/sustainable-environments.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Psychology",
@@ -2468,7 +2758,9 @@
       }
     },
     "duration": "4 years, 240 ECTS (NFQ Level 8); CAO GY104",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/science-psychology.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/science-psychology.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Arts Education (Computer Science and Mathematical Studies)",
@@ -2485,7 +2777,9 @@
       }
     },
     "duration": "4 years, 240 ECTS; CAO GY133; jointly taught with School of Mathematical and Statistical Sciences and School of Computer Science, administratively led by School of Education",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/education-computer-science-mathematical.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/education-computer-science-mathematical.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Mathematics and Education",
@@ -2502,7 +2796,9 @@
       }
     },
     "duration": "4 years, 240 ECTS; CAO GY109; jointly delivered (Mathematics + Education), no single owning School stated on the course's own page, accredited by the Teaching Council of Ireland",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/arts-mathematics-and-education.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/arts-mathematics-and-education.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Children's Studies",
@@ -2519,7 +2815,9 @@
       }
     },
     "duration": "4 years, 240 ECTS; CAO GY110 ACS",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/children_and_studies_acs.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/children_and_studies_acs.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Arts with Children's Studies",
@@ -2536,7 +2834,9 @@
       }
     },
     "duration": "4 years, 240 ECTS; CAO GY110 AWC; combines the Children's Studies discipline with one other Arts subject",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/children_and_studies_awc.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/children_and_studies_awc.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Child, Youth and Family: Policy and Practice",
@@ -2553,7 +2853,9 @@
       }
     },
     "duration": "4 years, 240 ECTS; CAO GY137",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/youth-and-family-studies.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/youth-and-family-studies.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Social Sciences and Sustainability",
@@ -2570,7 +2872,9 @@
       }
     },
     "duration": "4 years, 240 ECTS; CAO GY123; jointly delivered by both Schools",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/social-sciences.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/social-sciences.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Government (Politics, Economics and Law)",
@@ -2587,7 +2891,9 @@
       }
     },
     "duration": "4 years, 240 ECTS; CAO GY132",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/Government-Politics-Economics-Law.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/Government-Politics-Economics-Law.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Geography and Geosystems",
@@ -2604,7 +2910,9 @@
       }
     },
     "duration": "4 years, 240 ECTS; CAO GY134; specialisation pathways from Year 2 in Coastal/Marine Sciences, Ecosystem Sciences, Environmental Planning/Policy, or Palaeo-Sciences; course's own page identifies it as part of the 'Discipline of Geography'",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/geography-and-geosystems.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/geography-and-geosystems.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Arts (Joint-Honours)",
@@ -2621,7 +2929,9 @@
       }
     },
     "duration": "3 years (two non-language subjects) or 4 years (European language/Gaeilge), 180 ECTS; CAO GY101; college-wide joint-honours degree spanning 23 subjects across 7 groups (incl. Psychology, Sociological & Political Studies, Archaeology, Geography/Climate/Sustainability among many others outside this college), no single owning School",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/arts.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/arts.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Arts (Global Experience)",
@@ -2638,7 +2948,9 @@
       }
     },
     "duration": "4 years, 240 ECTS; CAO GY129; college-wide programme choosing 3 of 23 subjects across 7 groups in Year 1, Year 3 abroad at a partner institution; no single owning School",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/global-experience.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/global-experience.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Adolescent Health",
@@ -2655,7 +2967,9 @@
       }
     },
     "duration": "1 year full-time (90 ECTS) or 2 years part-time (90 ECTS); MSc",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/adolescent-health.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/adolescent-health.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Applied Behaviour Analysis",
@@ -2672,7 +2986,9 @@
       }
     },
     "duration": "2 years full-time, 150 ECTS; MSc; Verified Course Sequence approved by ABAI, accredited by the Psychological Society of Ireland",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/applied-behaviour-analysis.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/applied-behaviour-analysis.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Child, Youth and Community",
@@ -2689,7 +3005,9 @@
       }
     },
     "duration": "1 year full-time (90 ECTS) or 2 years part-time (90 ECTS); MA; PGDip exit award available (60 ECTS)",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/child-youth-and-community.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/child-youth-and-community.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Clinical Neuroscience",
@@ -2706,7 +3024,9 @@
       }
     },
     "duration": "1 year full-time, 90 ECTS (NFQ Level 9); MSc",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/clinical-neuroscience.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/clinical-neuroscience.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Coastal & Marine Environments: Physical Processes, Policy & Practice",
@@ -2723,7 +3043,9 @@
       }
     },
     "duration": "1 year full-time (90 ECTS) or 2 years part-time (90 ECTS); MSc; field-intensive, includes research vessel time and residential fieldwork",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/coastal-marine-environments.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/coastal-marine-environments.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Education (Professional Master)",
@@ -2740,7 +3062,9 @@
       }
     },
     "duration": "2 years full-time, 120 ECTS; Professional Master of Education (PME), Initial Teacher Education accredited by the Teaching Council of Ireland, post-primary (ages 12-18)",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/education-professional-master.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/education-professional-master.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Family Support Studies",
@@ -2756,7 +3080,9 @@
       }
     },
     "duration": "2 years, part-time only (90 ECTS) - no full-time option; MA; PDip exit award available (1 year part-time, 60 ECTS); attends university two days every second week",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/family-support-studies.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/family-support-studies.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Gender, Globalisation and Rights",
@@ -2773,7 +3099,9 @@
       }
     },
     "duration": "1 year full-time (90 ECTS) or 2 years part-time (90 ECTS MA / 60 ECTS PDip); MA",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/gender-globalisation-rights.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/gender-globalisation-rights.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Health Psychology",
@@ -2790,7 +3118,9 @@
       }
     },
     "duration": "1 year full-time (90 ECTS) or 2 years part-time; MSc; accredited by the Psychological Society of Ireland",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/health-psychology.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/health-psychology.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "International Development",
@@ -2807,7 +3137,9 @@
       }
     },
     "duration": "1 year full-time (90 ECTS) or 2 years part-time (90 ECTS); MA",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/internationaldevelopmentma/"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/internationaldevelopmentma/",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Oideachas (Máistir Gairmiúil)",
@@ -2824,7 +3156,9 @@
       }
     },
     "duration": "2 years full-time, 120 ECTS; Máistir Gairmiúil san Oideachas (MGO), Irish-medium Initial Teacher Education for post-primary level, delivered entirely through Irish",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/oideachas-irish.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/oideachas-irish.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Planning and Development",
@@ -2841,7 +3175,9 @@
       }
     },
     "duration": "1 year full-time (90 ECTS) or 2 years part-time (90 ECTS); MA; professionally accredited by the Society of Chartered Surveyors Ireland (SCSI)",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/planning-and-development.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/planning-and-development.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Public Policy",
@@ -2858,7 +3194,9 @@
       }
     },
     "duration": "1 year full-time (90 ECTS) or 2 years part-time; MA; optional Brussels field trip",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/public-policy-ma-pdip.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/public-policy-ma-pdip.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Social Work",
@@ -2875,7 +3213,9 @@
       }
     },
     "duration": "2 years full-time, 120 ECTS; MA; CORU accredited, two supervised practice placements, requires ~480 hours relevant work experience and minimum Level 8 2.2 honours degree",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/social-work.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/social-work.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "English and Creative Writing",
@@ -2892,7 +3232,9 @@
       }
     },
     "duration": "4 years, 240 ECTS (CAO GY111)",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/english-and-creative-writing.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/english-and-creative-writing.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Drama, Theatre, and Performance Studies",
@@ -2909,7 +3251,9 @@
       }
     },
     "duration": "4 years, 240 ECTS (CAO GY118)",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/drama-theatre-performance-studies.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/drama-theatre-performance-studies.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Film & Digital Media",
@@ -2926,7 +3270,9 @@
       }
     },
     "duration": "4 years, 240 ECTS (Bologna default; CAO GY127); delivered by the Huston School of Film & Digital Media within the School",
-    "source_url": "https://www.universityofgalway.ie/artsfilmdigital/"
+    "source_url": "https://www.universityofgalway.ie/artsfilmdigital/",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Global Media",
@@ -2943,7 +3289,9 @@
       }
     },
     "duration": "4 years, 240 ECTS (Bologna default; CAO GY135); delivered by the Journalism discipline within the School",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/global-media.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/global-media.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Journalism",
@@ -2960,7 +3308,9 @@
       }
     },
     "duration": "4 years, 240 ECTS (Bologna default; CAO GY119)",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/journalism.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/journalism.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Music",
@@ -2977,7 +3327,9 @@
       }
     },
     "duration": "4 years, 240 ECTS (CAO GY130); students combine Music with one other Arts subject to final year",
-    "source_url": "https://www.universityofgalway.ie/artsmusic/"
+    "source_url": "https://www.universityofgalway.ie/artsmusic/",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "History",
@@ -2994,7 +3346,9 @@
       }
     },
     "duration": "4 years, 240 ECTS (Bologna default; CAO GY105)",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/arts-history.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/arts-history.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Global Languages",
@@ -3011,7 +3365,9 @@
       }
     },
     "duration": "4 years, 240 ECTS (CAO GY128); students study up to 3 of French, German, Gaeilge, Italian, Spanish",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/arts-global-languages.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/arts-global-languages.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Gaeilge agus Léann an Aistriúcháin (Irish and Translation Studies)",
@@ -3028,7 +3384,9 @@
       }
     },
     "duration": "4 years, 240 ECTS (CAO GY136)",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/Gaeilge-agus-L%C3%A9ann-an-Aistri%C3%BAch%C3%A1in.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/Gaeilge-agus-L%C3%A9ann-an-Aistri%C3%BAch%C3%A1in.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Cumarsáid agus Gaeilge (Communications and Irish)",
@@ -3045,7 +3403,9 @@
       }
     },
     "duration": "4 years, 240 ECTS (CAO GY122); Semester 1 of Year 3 based at the Gaeltacht campus in An Cheathrú Rua with media-industry internships (TG4, RTÉ, Raidió na Gaeltachta)",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/arts-cumarsaid.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/arts-cumarsaid.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "English",
@@ -3062,7 +3422,9 @@
       }
     },
     "duration": "1 year full-time, 2 years part-time, 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/english.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/english.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Journalism",
@@ -3079,7 +3441,9 @@
       }
     },
     "duration": "1 year full-time, 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/journalism.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/journalism.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Drama and Theatre Studies",
@@ -3096,7 +3460,9 @@
       }
     },
     "duration": "1 year full-time, 2 years part-time, 90 ECTS; PDip exit award available",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/drama-theatre.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/drama-theatre.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Film Studies: Theory and Practice",
@@ -3113,7 +3479,9 @@
       }
     },
     "duration": "1 year full-time, 2 years part-time, 90 ECTS; PDip exit award available",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/film-studies.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/film-studies.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Global Media and Communication",
@@ -3130,7 +3498,9 @@
       }
     },
     "duration": "1 year full-time only, 90 ECTS; includes an international field trip to Brussels",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/global-media-and-communication.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/global-media-and-communication.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Literature and Publishing",
@@ -3147,7 +3517,9 @@
       }
     },
     "duration": "1 year full-time only, 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/literature-publishing.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/literature-publishing.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Writing",
@@ -3164,7 +3536,9 @@
       }
     },
     "duration": "1 year full-time only, 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/writing.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/writing.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "History",
@@ -3181,7 +3555,9 @@
       }
     },
     "duration": "1 year full-time, 2 years part-time, 90 ECTS; PDip exit award available",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/history.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/history.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Philosophy",
@@ -3198,7 +3574,9 @@
       }
     },
     "duration": "1 year full-time, 2 years part-time, 90 ECTS (30-35 ECTS taught + 55-60 ECTS dissertation); Structured MA, focus on Public/Applied Philosophy and Post-Kantian European Philosophy; listed under the university's Research Postgraduate Programmes pages rather than the standard Taught Postgraduate Courses index, but is a taught Master's, not a research degree",
-    "source_url": "https://www.universityofgalway.ie/courses/research-postgraduate-programmes/structured-phd/philosophy-research-masters.html"
+    "source_url": "https://www.universityofgalway.ie/courses/research-postgraduate-programmes/structured-phd/philosophy-research-masters.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "International Contemporary Literatures and Media",
@@ -3215,7 +3593,9 @@
       }
     },
     "duration": "1 year full-time, 2 years part-time, 90 ECTS",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/international-contemporary-literatures-media.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/international-contemporary-literatures-media.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Translation Studies",
@@ -3232,7 +3612,9 @@
       }
     },
     "duration": "1 year full-time only, 90 ECTS; core modules delivered online from 2026/27, optional face-to-face electives on campus",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/translation-studies.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/translation-studies.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Conference Interpreting",
@@ -3249,7 +3631,9 @@
       }
     },
     "duration": "1 year full-time, 90 ECTS; EMCI-affiliated (European Masters in Conference Interpreting network), working languages include Irish, English, French, Spanish, Italian and German; also listed on the university site under its Irish name, Ateangaireacht Chomhdhála (MA/Dioplóma) — same programme, recorded once",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/conference-interpreting.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/conference-interpreting.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Léann Teanga (Language Studies)",
@@ -3266,7 +3650,9 @@
       }
     },
     "duration": "2 years, blended/part-time delivery, 90 ECTS; specialization tracks in Aistriúchán (Translation) or Pleanáil Teanga (Language Planning); MA or Dioplóma Iarchéime exit award",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/leann-teanga.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/leann-teanga.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Léann an Aistriúcháin (Translation Studies, Irish-medium)",
@@ -3283,7 +3669,9 @@
       }
     },
     "duration": "2 years full-time or part-time, 90 ECTS, blended learning; distinct from the English-medium Translation Studies MA run by the School of Languages, Literatures, & Cultures",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/leann-aistriuchain-ma.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/leann-aistriuchain-ma.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Cleachtas Gairmiúil sna Meáin (Professional Practice in Media)",
@@ -3300,7 +3688,9 @@
       }
     },
     "duration": "1 year full-time, 2 years part-time, 90 ECTS; delivered in partnership with RTÉ's Irish-language units; C1-level Irish proficiency required; MA or Dioplóma Iarchéime exit award",
-    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/cleachtas-gairmiuil-sna-meain.html"
+    "source_url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/cleachtas-gairmiuil-sna-meain.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bachelor of Arts with Human Rights",
@@ -3317,6 +3707,8 @@
       }
     },
     "duration": "4 years, 240 ECTS (60 ECTS/year); CAO GY113; delivered through the Irish Centre for Human Rights, part of the School of Law",
-    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/arts-with-human-rights.html"
+    "source_url": "https://www.universityofgalway.ie/courses/undergraduate-courses/arts-with-human-rights.html",
+    "last_verified": "2026-09-07",
+    "verified_by_admin": null
   }
 ]

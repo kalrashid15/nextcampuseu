@@ -14,7 +14,9 @@
       }
     },
     "duration": "4 years (CK201, BComm Hons)",
-    "source_url": "https://www.ucc.ie/en/ck201/"
+    "source_url": "https://www.ucc.ie/en/ck201/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Accounting",
@@ -31,7 +33,9 @@
       }
     },
     "duration": "4 years (CK202, BSc Hons)",
-    "source_url": "https://www.ucc.ie/en/ck202/"
+    "source_url": "https://www.ucc.ie/en/ck202/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Business Information Systems",
@@ -48,7 +52,9 @@
       }
     },
     "duration": "4 years (CK203, BSc Hons)",
-    "source_url": "https://www.ucc.ie/en/ck203/"
+    "source_url": "https://www.ucc.ie/en/ck203/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Finance",
@@ -65,7 +71,9 @@
       }
     },
     "duration": "4 years (CK204, BSc Hons)",
-    "source_url": "https://www.ucc.ie/en/ck204/"
+    "source_url": "https://www.ucc.ie/en/ck204/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Applied Economics",
@@ -82,7 +90,9 @@
       }
     },
     "duration": "4 years (CK212, BSc Hons); Year 3 is a 6-month work placement/research project or a study-abroad year, both within the 4-year structure",
-    "source_url": "https://www.ucc.ie/en/ck212/"
+    "source_url": "https://www.ucc.ie/en/ck212/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Food Marketing and Entrepreneurship",
@@ -99,7 +109,9 @@
       }
     },
     "duration": "4 years (CK213, BSc Hons)",
-    "source_url": "https://www.ucc.ie/en/ck213/"
+    "source_url": "https://www.ucc.ie/en/ck213/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "International Business with Languages",
@@ -116,7 +128,9 @@
       }
     },
     "duration": "4 years (CK215, BSc Hons), including a Year 3 year abroad at a partner institution in the student's chosen language pathway",
-    "source_url": "https://www.ucc.ie/en/ck215/"
+    "source_url": "https://www.ucc.ie/en/ck215/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Accounting (MAcc)",
@@ -133,7 +147,9 @@
       }
     },
     "duration": "1 year full-time (CKL26, Master of Accounting/MACC)",
-    "source_url": "https://www.ucc.ie/en/ckl26/"
+    "source_url": "https://www.ucc.ie/en/ckl26/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Accounting and Performance Analytics",
@@ -150,7 +166,9 @@
       }
     },
     "duration": "12 months full-time (MSc, CKL05)",
-    "source_url": "https://www.ucc.ie/en/ckl05/"
+    "source_url": "https://www.ucc.ie/en/ckl05/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Business Analytics",
@@ -167,7 +185,9 @@
       }
     },
     "duration": "12 months full-time (MSc, CKL51)",
-    "source_url": "https://www.ucc.ie/en/ckl51/"
+    "source_url": "https://www.ucc.ie/en/ckl51/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Business Economics",
@@ -184,7 +204,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,400/yr, MSc, CKL06)",
-    "source_url": "https://www.ucc.ie/en/ckl06/"
+    "source_url": "https://www.ucc.ie/en/ckl06/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Design and Development of Digital Business",
@@ -201,7 +223,9 @@
       }
     },
     "duration": "1 year full-time (MSc, CKL17)",
-    "source_url": "https://www.ucc.ie/en/ckl17/"
+    "source_url": "https://www.ucc.ie/en/ckl17/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Finance (Banking and Risk Management)",
@@ -218,7 +242,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,400/yr, MSc, CKL19; formerly MSc Financial Economics)",
-    "source_url": "https://www.ucc.ie/en/ckl19/"
+    "source_url": "https://www.ucc.ie/en/ckl19/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Finance (Corporate Finance)",
@@ -235,7 +261,9 @@
       }
     },
     "duration": "1 year full-time (MSc, CKL21)",
-    "source_url": "https://www.ucc.ie/en/ckl21/"
+    "source_url": "https://www.ucc.ie/en/ckl21/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Finance (Investment and Asset Management)",
@@ -252,7 +280,9 @@
       }
     },
     "duration": "1 year full-time (MSc, CKL40)",
-    "source_url": "https://www.ucc.ie/en/ckl40/"
+    "source_url": "https://www.ucc.ie/en/ckl40/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Food Business and Innovation",
@@ -269,7 +299,9 @@
       }
     },
     "duration": "12 months full-time (MSc, CKL02)",
-    "source_url": "https://www.ucc.ie/en/ckl02/"
+    "source_url": "https://www.ucc.ie/en/ckl02/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Human Resource Management",
@@ -286,7 +318,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,400/yr, MSc, MSCHRM)",
-    "source_url": "https://www.ucc.ie/en/study/postgrad/taughtcourses/masters/humanresourcemanagement/"
+    "source_url": "https://www.ucc.ie/en/study/postgrad/taughtcourses/masters/humanresourcemanagement/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Information Systems for Business Performance",
@@ -303,7 +337,9 @@
       }
     },
     "duration": "1 year full-time (MSc, CKL18)",
-    "source_url": "https://www.ucc.ie/en/ckl18/"
+    "source_url": "https://www.ucc.ie/en/ckl18/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "International Sustainable Business",
@@ -320,7 +356,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (MSc, CKL/MSCISU)",
-    "source_url": "https://www.ucc.ie/en/mscisu/"
+    "source_url": "https://www.ucc.ie/en/mscisu/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Management and Marketing",
@@ -337,7 +375,9 @@
       }
     },
     "duration": "1 year full-time (MSc, CKL22)",
-    "source_url": "https://www.ucc.ie/en/ckl22/"
+    "source_url": "https://www.ucc.ie/en/ckl22/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Marketing",
@@ -354,7 +394,9 @@
       }
     },
     "duration": "12 months full-time (MSc, CKL07)",
-    "source_url": "https://www.ucc.ie/en/ckl07/"
+    "source_url": "https://www.ucc.ie/en/ckl07/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Sustainable Development, Agri-Food and Co-operatives",
@@ -371,7 +413,9 @@
       }
     },
     "duration": "12 months full-time, includes a placement (MSc, MSCSAC), delivered jointly by the Department of Food Business and Development and the Department of Management and Marketing",
-    "source_url": "https://www.ucc.ie/en/mscsac/"
+    "source_url": "https://www.ucc.ie/en/mscsac/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Executive MBA",
@@ -386,7 +430,9 @@
       }
     },
     "duration": "2 years part-time, delivered as block lectures (Thursday-Saturday) across four teaching periods (CKL11)",
-    "source_url": "https://www.ucc.ie/en/ckl11/"
+    "source_url": "https://www.ucc.ie/en/ckl11/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Commerce (MSc by Research)",
@@ -401,7 +447,9 @@
       }
     },
     "duration": "12 months full-time minimum, normal maximum 24 months part-time; research topic in Accounting, Economics, Food Business and Development, Finance, Information Systems, Management or Marketing",
-    "source_url": "https://www.ucc.ie/en/business-school/programmes/msccommercebyresearch/"
+    "source_url": "https://www.ucc.ie/en/business-school/programmes/msccommercebyresearch/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Law (Pathways)",
@@ -418,7 +466,9 @@
       }
     },
     "duration": "3 years standard (CK301, BCL Hons); students may apply after Year 1 to transfer into the BCL (Clinical) or BCL (International) pathway, each of which extends the degree to 4 years",
-    "source_url": "https://www.ucc.ie/en/ck301/"
+    "source_url": "https://www.ucc.ie/en/ck301/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Law and French",
@@ -435,7 +485,9 @@
       }
     },
     "duration": "4 years (CK302, BCL Hons)",
-    "source_url": "https://www.ucc.ie/en/ck302/"
+    "source_url": "https://www.ucc.ie/en/ck302/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Law and Irish",
@@ -452,7 +504,9 @@
       }
     },
     "duration": "4 years (CK304, BCL Hons)",
-    "source_url": "https://www.ucc.ie/en/ck304/"
+    "source_url": "https://www.ucc.ie/en/ck304/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Law and Business",
@@ -469,7 +523,9 @@
       }
     },
     "duration": "4 years (CK307, BCL Hons)",
-    "source_url": "https://www.ucc.ie/en/ck307/"
+    "source_url": "https://www.ucc.ie/en/ck307/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Law LLB (Law Graduates)",
@@ -486,7 +542,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,600/yr). Graduate-entry LLB for applicants who already hold a primary law degree (code LLB, page URL ckl13)",
-    "source_url": "https://www.ucc.ie/en/ckl13/"
+    "source_url": "https://www.ucc.ie/en/ckl13/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Law LLB (Non-Law Graduates)",
@@ -503,7 +561,9 @@
       }
     },
     "duration": "2 years full-time; 4 years part-time (part-time EU fee is 3,850/yr). Graduate-entry LLB for applicants without a prior law degree, includes core and optional law modules sufficient for professional legal training (code LLB, same page as the law-graduate track)",
-    "source_url": "https://www.ucc.ie/en/ckl13/"
+    "source_url": "https://www.ucc.ie/en/ckl13/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Law LLM",
@@ -520,7 +580,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,600/yr, CKL14). A Postgraduate Diploma exit award is also offered (EU 5,000 FT / 2,500 PT, Non-EU 10,900) - not recorded separately here",
-    "source_url": "https://www.ucc.ie/en/ckl14/"
+    "source_url": "https://www.ucc.ie/en/ckl14/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Law LLM (Alternative Dispute Resolution)",
@@ -537,7 +599,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,600/yr, LLMADR)",
-    "source_url": "https://www.ucc.ie/en/llmadr/"
+    "source_url": "https://www.ucc.ie/en/llmadr/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Law LLM (International Business Law)",
@@ -554,7 +618,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,600/yr, CKL38, LLMIBL; listed as 'Law (Business Law) - LLM' on UCC's central fee schedule)",
-    "source_url": "https://www.ucc.ie/en/ckl38/"
+    "source_url": "https://www.ucc.ie/en/ckl38/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Law LLM (Children's Rights and Family Law)",
@@ -571,7 +637,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,600/yr, CKL29)",
-    "source_url": "https://www.ucc.ie/en/ckl29/"
+    "source_url": "https://www.ucc.ie/en/ckl29/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Law LLM (Environmental and Natural Resources Law)",
@@ -588,7 +656,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,600/yr, CKL48)",
-    "source_url": "https://www.ucc.ie/en/ckl48/"
+    "source_url": "https://www.ucc.ie/en/ckl48/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Law LLM (International Human Rights Law and Public Policy)",
@@ -605,7 +675,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,600/yr, CKL27)",
-    "source_url": "https://www.ucc.ie/en/ckl27/"
+    "source_url": "https://www.ucc.ie/en/ckl27/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Law LLM (Law, Technology and Innovation)",
@@ -622,7 +694,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,600/yr, CKL16, LLMLTI)",
-    "source_url": "https://www.ucc.ie/en/ckl16/"
+    "source_url": "https://www.ucc.ie/en/ckl16/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Law LLM (Marine and Maritime Law)",
@@ -639,7 +713,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,600/yr, CKL46)",
-    "source_url": "https://www.ucc.ie/en/ckl46/"
+    "source_url": "https://www.ucc.ie/en/ckl46/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Applied Psychology",
@@ -656,7 +732,9 @@
       }
     },
     "duration": "3 years (CK120, BA Hons)",
-    "source_url": "https://www.ucc.ie/en/ck120/"
+    "source_url": "https://www.ucc.ie/en/ck120/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Psychology and Computing",
@@ -673,7 +751,9 @@
       }
     },
     "duration": "3 years standard, 4 years with International Pathway/study abroad option (CK121, BA Hons; delivered jointly with Computer Science)",
-    "source_url": "https://www.ucc.ie/en/ck121/"
+    "source_url": "https://www.ucc.ie/en/ck121/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Early Years and Childhood Studies",
@@ -690,7 +770,9 @@
       }
     },
     "duration": "4 years (CK111, BA Hons); genuinely interdisciplinary, drawing on the Schools of Applied Psychology, Applied Social Studies and Education (primary academic coordinator is in the School of Education) plus input from Music/Drama/Theatre, Occupational Therapy and Physical Education",
-    "source_url": "https://www.ucc.ie/en/ck111/"
+    "source_url": "https://www.ucc.ie/en/ck111/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Social Science",
@@ -707,7 +789,9 @@
       }
     },
     "duration": "3 years standard, 4 years with International Pathway (CK102, BSocSc Hons)",
-    "source_url": "https://www.ucc.ie/en/ck102/"
+    "source_url": "https://www.ucc.ie/en/ck102/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Youth and Community Work",
@@ -724,7 +808,9 @@
       }
     },
     "duration": "3 years (CK114, BSocSc Hons)",
-    "source_url": "https://www.ucc.ie/en/ck114/"
+    "source_url": "https://www.ucc.ie/en/ck114/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Social Work",
@@ -741,7 +827,9 @@
       }
     },
     "duration": "4 years (CK115, BSW Hons)",
-    "source_url": "https://www.ucc.ie/en/ck115/"
+    "source_url": "https://www.ucc.ie/en/ck115/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Education (Gaeilge)",
@@ -758,7 +846,9 @@
       }
     },
     "duration": "4 years (CK124, BEd Hons)",
-    "source_url": "https://www.ucc.ie/en/ck124/"
+    "source_url": "https://www.ucc.ie/en/ck124/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Physical Education, Sports Studies and Arts",
@@ -775,7 +865,9 @@
       }
     },
     "duration": "4 years (CK125, BEd Hons)",
-    "source_url": "https://www.ucc.ie/en/ck125/"
+    "source_url": "https://www.ucc.ie/en/ck125/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Science Education",
@@ -791,7 +883,9 @@
       }
     },
     "duration": "4 years (CK413, BEd Hons)",
-    "source_url": "https://www.ucc.ie/en/ck413/"
+    "source_url": "https://www.ucc.ie/en/ck413/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "English",
@@ -808,7 +902,9 @@
       }
     },
     "duration": "3 years standard, 4 years with International Pathway (CK109, BA Hons)",
-    "source_url": "https://www.ucc.ie/en/ck109/"
+    "source_url": "https://www.ucc.ie/en/ck109/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Digital Humanities and Information Technology",
@@ -825,7 +921,9 @@
       }
     },
     "duration": "3 years standard, 4 years with International Pathway or Work Experience Pathway (CK118, BA Hons)",
-    "source_url": "https://www.ucc.ie/en/ck118/"
+    "source_url": "https://www.ucc.ie/en/ck118/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Applied Psychology (MA)",
@@ -842,7 +940,9 @@
       }
     },
     "duration": "1 year full-time (CKE13)",
-    "source_url": "https://www.ucc.ie/en/cke13/"
+    "source_url": "https://www.ucc.ie/en/cke13/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Applied Psychology (Mental Health) (MA)",
@@ -859,7 +959,9 @@
       }
     },
     "duration": "1 year full-time (CKD39)",
-    "source_url": "https://www.ucc.ie/en/ckd39/"
+    "source_url": "https://www.ucc.ie/en/ckd39/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Applied Psychology (Positive and Coaching Psychology) (MA)",
@@ -876,7 +978,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,700/yr, CKD02)",
-    "source_url": "https://www.ucc.ie/en/ckd02/"
+    "source_url": "https://www.ucc.ie/en/ckd02/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Work and Organisational Psychology (MA)",
@@ -893,7 +997,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (for applicants with a psychology background, MAWOP)",
-    "source_url": "https://www.ucc.ie/en/mawop/"
+    "source_url": "https://www.ucc.ie/en/mawop/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Work and Organisational Behaviour (MA)",
@@ -910,7 +1016,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (conversion equivalent of the Work and Organisational Psychology MA for applicants without a psychology background, MAWOB)",
-    "source_url": "https://www.ucc.ie/en/mawob/"
+    "source_url": "https://www.ucc.ie/en/mawob/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Social Work (MSW)",
@@ -927,7 +1035,9 @@
       }
     },
     "duration": "Full-time; a Postgraduate Diploma in Social Work Studies exit award is also offered on the same page (EU 7,200 / Non-EU 13,300) - not recorded separately here",
-    "source_url": "https://www.ucc.ie/en/appsoc/courses/masterofsocialworkmswpgdsws/"
+    "source_url": "https://www.ucc.ie/en/appsoc/courses/masterofsocialworkmswpgdsws/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Social Policy and Social Justice (Online) (MSocSc)",
@@ -944,7 +1054,9 @@
       }
     },
     "duration": "1 year full-time; 2-3 years part-time (part-time EU fee is 3,400/yr, MSOCSJ, fully online)",
-    "source_url": "https://www.ucc.ie/en/msocsj/"
+    "source_url": "https://www.ucc.ie/en/msocsj/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Professional Master of Education (PME)",
@@ -961,7 +1073,9 @@
       }
     },
     "duration": "2 years full-time (PEC01); qualifies graduates to teach at post-primary/secondary level in Ireland",
-    "source_url": "https://www.ucc.ie/en/pec01/"
+    "source_url": "https://www.ucc.ie/en/pec01/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Professional Master of Education (Art and Design) (PME)",
@@ -978,7 +1092,9 @@
       }
     },
     "duration": "2 years full-time (CKD25); offered jointly by UCC's School of Education and Munster Technological University's Crawford College of Art & Design (MTU-CCAD)",
-    "source_url": "https://www.ucc.ie/en/ckd25/"
+    "source_url": "https://www.ucc.ie/en/ckd25/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Education (M.Ed.)",
@@ -993,7 +1109,9 @@
       }
     },
     "duration": "1 to 5 years part-time, modular/stackable programme (MEDUC): builds from Postgraduate Certificate (30 credits) through Postgraduate Diploma (60 credits) to M.Ed (90 credits); priced per 15-credit module (EU 1,500/module) rather than a flat annual or total fee, so not reducible to this schema's amount fields",
-    "source_url": "https://www.ucc.ie/en/cke59/"
+    "source_url": "https://www.ucc.ie/en/cke59/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Creative Writing (MA)",
@@ -1010,7 +1128,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,600/yr, MACWE)",
-    "source_url": "https://www.ucc.ie/en/cke10/"
+    "source_url": "https://www.ucc.ie/en/cke10/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Modernities: Literature, Theory and Culture from the Romantics to the Present (MA)",
@@ -1027,7 +1147,9 @@
       }
     },
     "duration": "1 year full-time (CKE29)",
-    "source_url": "https://www.ucc.ie/en/cke29/"
+    "source_url": "https://www.ucc.ie/en/cke29/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Texts and Contexts: Medieval to Renaissance (MA)",
@@ -1044,7 +1166,9 @@
       }
     },
     "duration": "1 year full-time (CKE31, also listed on its own programme page as 'MA English (Medieval and Renaissance Literature)')",
-    "source_url": "https://www.ucc.ie/en/cke31/"
+    "source_url": "https://www.ucc.ie/en/cke31/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Digital Arts and Humanities (MA)",
@@ -1061,7 +1185,9 @@
       }
     },
     "duration": "1 year full-time (CKE09)",
-    "source_url": "https://www.ucc.ie/en/cke09/"
+    "source_url": "https://www.ucc.ie/en/cke09/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "History (MA)",
@@ -1078,7 +1204,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr)",
-    "source_url": "https://www.ucc.ie/en/history/graduatestudies/mainhistory/"
+    "source_url": "https://www.ucc.ie/en/history/graduatestudies/mainhistory/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Local History (MA)",
@@ -1094,7 +1222,9 @@
       }
     },
     "duration": "2 years, part-time only, no full-time option (CKE43)",
-    "source_url": "https://www.ucc.ie/en/history/graduatestudies/mainlocalhistory/"
+    "source_url": "https://www.ucc.ie/en/history/graduatestudies/mainlocalhistory/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "International Relations (MA)",
@@ -1111,7 +1241,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr)",
-    "source_url": "https://www.ucc.ie/en/history/graduatestudies/maininternationalrelations/"
+    "source_url": "https://www.ucc.ie/en/history/graduatestudies/maininternationalrelations/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Strategic Studies (Online) (MA)",
@@ -1128,7 +1260,9 @@
       }
     },
     "duration": "2 years, part-time only, fully online, no full-time option",
-    "source_url": "https://www.ucc.ie/en/strategicstudies/"
+    "source_url": "https://www.ucc.ie/en/strategicstudies/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Arts",
@@ -1145,7 +1279,9 @@
       }
     },
     "duration": "3 years (CK101, BA Hons); common-entry, no single owning School - students choose 4 subjects in Year 1 from 6 groups: Group 1 (Asian Studies, Computer Science, History, Portuguese), Group 2a (History of Art), Group 2b (European Studies, Folklore, Gaeilge/Irish, Greek & Roman Civilisation, Studies in Psychology), Group 3 (Archaeology, Chinese Studies, German, Latin, Mathematical Studies, Politics), Group 4 (French, Sociology, Studies in Music), Group 5 (Bealoideas, Economics, English, Greek, Religions & Global Diversity), Group 6a (Geography, Italian), Group 6b (Celtic Civilisation, Philosophy, Spanish)",
-    "source_url": "https://www.ucc.ie/en/ck101/"
+    "source_url": "https://www.ucc.ie/en/ck101/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Arts (International)",
@@ -1162,7 +1298,9 @@
       }
     },
     "duration": "4 years, includes a year abroad (CK108, BA Hons); same common-entry subject structure as CK101 Arts",
-    "source_url": "https://www.ucc.ie/en/ck108/"
+    "source_url": "https://www.ucc.ie/en/ck108/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Music",
@@ -1179,7 +1317,9 @@
       }
     },
     "duration": "3 years (CK104, BA Hons)",
-    "source_url": "https://www.ucc.ie/en/ck104/"
+    "source_url": "https://www.ucc.ie/en/ck104/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Film and Screen Media",
@@ -1196,7 +1336,9 @@
       }
     },
     "duration": "3 years (CK105, BA Hons)",
-    "source_url": "https://www.ucc.ie/en/ck105/"
+    "source_url": "https://www.ucc.ie/en/ck105/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Theatre and Performative Practices",
@@ -1213,7 +1355,9 @@
       }
     },
     "duration": "3 years (CK112, BA Hons)",
-    "source_url": "https://www.ucc.ie/en/ck112/"
+    "source_url": "https://www.ucc.ie/en/ck112/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "World Languages",
@@ -1230,7 +1374,9 @@
       }
     },
     "duration": "3 years (CK110, BA Hons)",
-    "source_url": "https://www.ucc.ie/en/ck110/"
+    "source_url": "https://www.ucc.ie/en/ck110/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Criminology",
@@ -1247,7 +1393,9 @@
       }
     },
     "duration": "3 years (CK113, BA Hons); delivered by the Department of Sociology and Criminology",
-    "source_url": "https://www.ucc.ie/en/ck113/"
+    "source_url": "https://www.ucc.ie/en/ck113/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Government and Political Science",
@@ -1264,7 +1412,9 @@
       }
     },
     "duration": "3 years (CK122, BSc Hons); delivered by the Department of Government and Politics",
-    "source_url": "https://www.ucc.ie/en/ck122/"
+    "source_url": "https://www.ucc.ie/en/ck122/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Classical Studies",
@@ -1281,7 +1431,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE40); delivered by the Department of Classics; only MA of its kind in Ireland",
-    "source_url": "https://www.ucc.ie/en/cke40/"
+    "source_url": "https://www.ucc.ie/en/cke40/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Human Osteoarchaeology",
@@ -1298,7 +1450,9 @@
       }
     },
     "duration": "1 year full-time (MA in Archaeology - Human Osteoarchaeology, CKE17); delivered by the Department of Archaeology; offered on alternating years",
-    "source_url": "https://www.ucc.ie/en/cke17/"
+    "source_url": "https://www.ucc.ie/en/cke17/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Museum Studies",
@@ -1315,7 +1469,9 @@
       }
     },
     "duration": "1 year full-time (MA, code MAMUSE/CKD09); delivered by the Department of Archaeology; includes two supervised museum work placements",
-    "source_url": "https://www.ucc.ie/en/ckd09/"
+    "source_url": "https://www.ucc.ie/en/ckd09/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Applied Coastal and Marine Management",
@@ -1332,7 +1488,9 @@
       }
     },
     "duration": "1 year full-time (MSc, CKE39); delivered by the Department of Geography with collaboration from Civil Engineering and Biology departments",
-    "source_url": "https://www.ucc.ie/en/cke39/"
+    "source_url": "https://www.ucc.ie/en/cke39/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Geoinformatics",
@@ -1349,7 +1507,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MSc, CKE33); delivered by the Department of Geography",
-    "source_url": "https://www.ucc.ie/en/cke33/"
+    "source_url": "https://www.ucc.ie/en/cke33/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Planning and Sustainable Development",
@@ -1366,7 +1526,9 @@
       }
     },
     "duration": "2 years full-time (MPlan, CKE69); professionally accredited spatial planning degree, delivered by the UCC Centre for Planning Education and Research (the Planning department within this School); PG Diploma exit award available after Year 1",
-    "source_url": "https://www.ucc.ie/en/cke69/"
+    "source_url": "https://www.ucc.ie/en/cke69/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Applied Linguistics",
@@ -1383,7 +1545,9 @@
       }
     },
     "duration": "1 year full-time (MA, CKE01)",
-    "source_url": "https://www.ucc.ie/en/cke01/"
+    "source_url": "https://www.ucc.ie/en/cke01/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Asian Studies",
@@ -1400,7 +1564,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE81)",
-    "source_url": "https://www.ucc.ie/en/cke81/"
+    "source_url": "https://www.ucc.ie/en/cke81/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Teaching Chinese to Speakers of Other Languages",
@@ -1417,7 +1583,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,800/yr, MA, CKD47)",
-    "source_url": "https://www.ucc.ie/en/ckd47/"
+    "source_url": "https://www.ucc.ie/en/ckd47/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Translation Studies",
@@ -1434,7 +1602,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE77)",
-    "source_url": "https://www.ucc.ie/en/cke77/"
+    "source_url": "https://www.ucc.ie/en/cke77/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Migration, Mobility and Culture",
@@ -1451,7 +1621,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA)",
-    "source_url": "https://www.ucc.ie/en/mammc/"
+    "source_url": "https://www.ucc.ie/en/mammc/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Modern Irish (Nua-Ghaeilge)",
@@ -1468,7 +1640,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE51); delivered by the Department of Modern Irish; teaching conducted through Irish",
-    "source_url": "https://www.ucc.ie/en/cke51/"
+    "source_url": "https://www.ucc.ie/en/cke51/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Gaelic Literature and Culture (Online)",
@@ -1485,7 +1659,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (MA, CKD13); delivered by the Department of Modern Irish; fully online, taught in English, no prior Gaelic knowledge required",
-    "source_url": "https://www.ucc.ie/en/ckd13/"
+    "source_url": "https://www.ucc.ie/en/ckd13/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Irish Language and European Law",
@@ -1502,7 +1678,9 @@
       }
     },
     "duration": "1 year full-time (MA, CKD49); run by the Department of Modern Irish in collaboration with the School of Law; includes a residential Gaeltacht course",
-    "source_url": "https://www.ucc.ie/en/ckd49/"
+    "source_url": "https://www.ucc.ie/en/ckd49/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Early and Medieval Irish",
@@ -1519,7 +1697,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE24); delivered by the Department of Early and Medieval Irish",
-    "source_url": "https://www.ucc.ie/en/cke24/"
+    "source_url": "https://www.ucc.ie/en/cke24/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Celtic Civilisation",
@@ -1536,7 +1716,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE23); delivered by the Department of Early and Medieval Irish, not the Department of Classics",
-    "source_url": "https://www.ucc.ie/en/cke23/"
+    "source_url": "https://www.ucc.ie/en/cke23/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "The Beginnings of Irish Christianity",
@@ -1553,7 +1735,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE19); delivered by the Department of Early and Medieval Irish with participation from Archaeology, Classics, Folklore and History",
-    "source_url": "https://www.ucc.ie/en/cke19/"
+    "source_url": "https://www.ucc.ie/en/cke19/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Irish Mythology and Folklore (Online)",
@@ -1570,7 +1754,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (MA); delivered jointly by the Departments of Early and Medieval Irish and Folklore & Ethnology; fully online, asynchronous",
-    "source_url": "https://www.ucc.ie/en/maimf/"
+    "source_url": "https://www.ucc.ie/en/maimf/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Film and Screen Media",
@@ -1587,7 +1773,9 @@
       }
     },
     "duration": "1 year full-time (MA, CKE02)",
-    "source_url": "https://www.ucc.ie/en/cke02/"
+    "source_url": "https://www.ucc.ie/en/cke02/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Irish Traditional Music",
@@ -1604,7 +1792,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA); plus a separate €600 bench fee not included in the tuition figure above; delivered by the Department of Music",
-    "source_url": "https://www.ucc.ie/en/maitm/"
+    "source_url": "https://www.ucc.ie/en/maitm/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Arts Management and Creative Producing",
@@ -1621,7 +1811,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 7,400/yr, MA, CKD01)",
-    "source_url": "https://www.ucc.ie/en/ckd01/"
+    "source_url": "https://www.ucc.ie/en/ckd01/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Ethnomusicology",
@@ -1638,7 +1830,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE68); delivered by the Department of Music",
-    "source_url": "https://www.ucc.ie/en/cke68/"
+    "source_url": "https://www.ucc.ie/en/cke68/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Music and Cultural History",
@@ -1655,7 +1849,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE79); delivered by the Department of Music",
-    "source_url": "https://www.ucc.ie/en/cke79/"
+    "source_url": "https://www.ucc.ie/en/cke79/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Experimental Sound Practice",
@@ -1672,7 +1868,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE78); delivered by the Department of Music",
-    "source_url": "https://www.ucc.ie/en/cke78/"
+    "source_url": "https://www.ucc.ie/en/cke78/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Sociology",
@@ -1689,7 +1887,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, code MASC); delivered by the Department of Sociology and Criminology",
-    "source_url": "https://www.ucc.ie/en/cke55/"
+    "source_url": "https://www.ucc.ie/en/cke55/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Sociology of Sustainability and Global Challenges",
@@ -1706,7 +1906,9 @@
       }
     },
     "duration": "1 year full-time (MA, CKE56); delivered by the Department of Sociology and Criminology",
-    "source_url": "https://www.ucc.ie/en/cke56/"
+    "source_url": "https://www.ucc.ie/en/cke56/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Criminology",
@@ -1723,7 +1925,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE32); delivered by the Department of Sociology and Criminology",
-    "source_url": "https://www.ucc.ie/en/cke32/"
+    "source_url": "https://www.ucc.ie/en/cke32/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "International Public Policy and Diplomacy",
@@ -1740,7 +1944,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 5,400/yr, MSc, CKD56); delivered by the Department of Government and Politics; interdisciplinary with History, Law and Food Business and Development",
-    "source_url": "https://www.ucc.ie/en/ckd56/"
+    "source_url": "https://www.ucc.ie/en/ckd56/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Philosophy",
@@ -1757,7 +1963,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKE53); covers analytic, Continental and Asian philosophical traditions",
-    "source_url": "https://www.ucc.ie/en/cke53/"
+    "source_url": "https://www.ucc.ie/en/cke53/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Health and Society",
@@ -1774,7 +1982,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, CKD10); joint programme led by the Department of Philosophy with the School of Public Health and the Department of Economics",
-    "source_url": "https://www.ucc.ie/en/ckd10/"
+    "source_url": "https://www.ucc.ie/en/ckd10/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Women's Studies",
@@ -1791,7 +2001,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee is 4,700/yr, MA, code CKE03 full-time / CKE21 part-time); interdisciplinary, delivered by the Department of Women's Studies",
-    "source_url": "https://www.ucc.ie/en/cke03/"
+    "source_url": "https://www.ucc.ie/en/cke03/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Medicine",
@@ -1808,7 +2020,9 @@
       }
     },
     "duration": "5 years (MB, BCh, BAO (Hons); CAO code CK701; non-EU fee includes a €750 clinical contribution)",
-    "source_url": "https://www.ucc.ie/en/ck701/"
+    "source_url": "https://www.ucc.ie/en/ck701/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Medicine (Graduate Entry)",
@@ -1825,7 +2039,9 @@
       }
     },
     "duration": "4 years (MB, BCh, BAO (Hons); CAO code CK791; graduate-entry via GAMSAT, not covered by the Free Fees Scheme; non-EU fee includes a €750 clinical contribution)",
-    "source_url": "https://www.ucc.ie/en/ck791/"
+    "source_url": "https://www.ucc.ie/en/ck791/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Paramedicine",
@@ -1841,7 +2057,9 @@
       }
     },
     "duration": "4 years (BSc (Hons), NFQ Level 8; CAO code CK708; international/non-EU applications were not being accepted as of this programme's early intakes)",
-    "source_url": "https://www.ucc.ie/en/ck708/"
+    "source_url": "https://www.ucc.ie/en/ck708/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Paramedic Studies (Practitioner Entry)",
@@ -1858,7 +2076,9 @@
       }
     },
     "duration": "2 years, part-time (BSc (Hons), NFQ Level 8; application code BSCPST; practitioner-entry route restricted to registered practising paramedics holding a Level 7 Diploma in Emergency Medical Science/Technology or equivalent; does not lead to PHECC registration)",
-    "source_url": "https://www.ucc.ie/en/study/undergrad/courses/paramedicstudies/"
+    "source_url": "https://www.ucc.ie/en/study/undergrad/courses/paramedicstudies/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Dentistry",
@@ -1875,7 +2095,9 @@
       }
     },
     "duration": "5 years (BDS (Hons); CAO code CK702; additional equipment/bench fees apply in years 3-5 for both EU (~€4,000 total, €1,500/€1,500/€1,000) and non-EU students)",
-    "source_url": "https://www.ucc.ie/en/ck702/"
+    "source_url": "https://www.ucc.ie/en/ck702/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Dental Hygiene",
@@ -1891,7 +2113,9 @@
       }
     },
     "duration": "2 years, full-time (Diploma in Dental Hygiene, DipDHyg, NFQ Level 7 — a sub-degree diploma rather than an honours Bachelor's award; application code DDH; currently open to EU applicants only)",
-    "source_url": "https://www.ucc.ie/en/dipdh/"
+    "source_url": "https://www.ucc.ie/en/dipdh/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Dental Nursing",
@@ -1906,7 +2130,9 @@
       }
     },
     "duration": "2 years full-time (Clinical Training pathway) or 16 months part-time (Special Purpose Award pathway) (Diploma in Dental Nursing, DipDN, NFQ Level 7 — a sub-degree diploma rather than an honours Bachelor's award; currently open to EU applicants only; 2026/27 fee not published on the fee schedule — 2025-entry figures were approx. €3,207/yr full-time and €3,000 total part-time)",
-    "source_url": "https://www.ucc.ie/en/dipdentnurs/"
+    "source_url": "https://www.ucc.ie/en/dipdentnurs/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Pharmacy",
@@ -1923,7 +2149,9 @@
       }
     },
     "duration": "5 years (MPharm, integrated Bachelor's + Master's award; CAO code CK703; EU fee of €4,840/yr applies to years 1-4, rising to a postgraduate fee of €8,000 in year 5; non-EU fee is a flat €22,200/yr across all 5 years)",
-    "source_url": "https://www.ucc.ie/en/ck703/"
+    "source_url": "https://www.ucc.ie/en/ck703/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing (General)",
@@ -1940,7 +2168,9 @@
       }
     },
     "duration": "4 years (BSc (Hons), NFQ Level 8; CAO code CK710)",
-    "source_url": "https://www.ucc.ie/en/ck710/"
+    "source_url": "https://www.ucc.ie/en/ck710/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing (Children's and General Integrated)",
@@ -1957,7 +2187,9 @@
       }
     },
     "duration": "4.5 years (BSc (Hons), NFQ Level 8; CAO code CK712)",
-    "source_url": "https://www.ucc.ie/en/ck712/"
+    "source_url": "https://www.ucc.ie/en/ck712/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing (Mental Health)",
@@ -1974,7 +2206,9 @@
       }
     },
     "duration": "4 years (BSc (Hons), NFQ Level 8; CAO code CK720; delivered in partnership with HSE South)",
-    "source_url": "https://www.ucc.ie/en/ck720/"
+    "source_url": "https://www.ucc.ie/en/ck720/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing (Intellectual Disability)",
@@ -1991,7 +2225,9 @@
       }
     },
     "duration": "4 years (BSc (Hons), NFQ Level 8; CAO code CK730)",
-    "source_url": "https://www.ucc.ie/en/ck730/"
+    "source_url": "https://www.ucc.ie/en/ck730/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Midwifery",
@@ -2008,7 +2244,9 @@
       }
     },
     "duration": "4 years (BSc (Hons), NFQ Level 8; CAO code CK740)",
-    "source_url": "https://www.ucc.ie/en/ck740/"
+    "source_url": "https://www.ucc.ie/en/ck740/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing Studies",
@@ -2025,7 +2263,9 @@
       }
     },
     "duration": "1 year, full-time (BSc (Hons) top-up degree, NFQ Level 8; application code BSCN; for already-registered nurses with NMBI or equivalent registration and 6+ months post-registration experience; does not itself confer professional nurse registration and includes no clinical placement)",
-    "source_url": "https://www.ucc.ie/en/nursingstudies/"
+    "source_url": "https://www.ucc.ie/en/nursingstudies/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Occupational Therapy",
@@ -2042,7 +2282,9 @@
       }
     },
     "duration": "4 years (BSc (Hons), NFQ Level 8; CAO code CK704)",
-    "source_url": "https://www.ucc.ie/en/ck704/"
+    "source_url": "https://www.ucc.ie/en/ck704/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Speech and Language Therapy",
@@ -2059,7 +2301,9 @@
       }
     },
     "duration": "4 years (BSc (Hons), NFQ Level 8; CAO code CK705)",
-    "source_url": "https://www.ucc.ie/en/ck705/"
+    "source_url": "https://www.ucc.ie/en/ck705/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Public Health Sciences",
@@ -2076,7 +2320,9 @@
       }
     },
     "duration": "4 years (BSc (Hons), NFQ Level 8; CAO code CK706; includes a 12-week unpaid work placement in year 3)",
-    "source_url": "https://www.ucc.ie/en/ck706/"
+    "source_url": "https://www.ucc.ie/en/ck706/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Medical and Health Sciences",
@@ -2093,7 +2339,9 @@
       }
     },
     "duration": "4 years (BSc (Hons), NFQ Level 8; CAO code CK707; flexible interdisciplinary degree with no fixed majors — students choose specialised modules and complete a research project in the final year)",
-    "source_url": "https://www.ucc.ie/en/ck707/"
+    "source_url": "https://www.ucc.ie/en/ck707/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Audiology",
@@ -2110,7 +2358,9 @@
       }
     },
     "duration": "2 years, full-time (MSc; UCC's pre-registration/entry-to-practice route in Audiology — there is no separate undergraduate Audiology degree)",
-    "source_url": "https://www.ucc.ie/en/ckx51/"
+    "source_url": "https://www.ucc.ie/en/ckx51/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Hearing, Balance and Communication",
@@ -2127,7 +2377,9 @@
       }
     },
     "duration": "2 years, part-time (MSc; post-qualification specialisation for already-registered clinicians, not an entry-to-practice route)",
-    "source_url": "https://www.ucc.ie/en/speech/postgraduatestudy/audiology/mschearingbalanceandcommunication/"
+    "source_url": "https://www.ucc.ie/en/speech/postgraduatestudy/audiology/mschearingbalanceandcommunication/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Physiotherapy",
@@ -2144,7 +2396,9 @@
       }
     },
     "duration": "2 years, full-time (MSc; accelerated pre-registration route for graduates with a primary degree in a subject other than physiotherapy — this is UCC's only Physiotherapy qualification, there is no separate undergraduate route)",
-    "source_url": "https://www.ucc.ie/en/ckx23/"
+    "source_url": "https://www.ucc.ie/en/ckx23/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Clinical Pharmacy (Online)",
@@ -2161,7 +2415,9 @@
       }
     },
     "duration": "2 years, part-time, fully online (for practising hospital/community pharmacists)",
-    "source_url": "https://www.ucc.ie/en/ckx03/"
+    "source_url": "https://www.ucc.ie/en/ckx03/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Industrial Pharmaceutical Sciences, Operations and Management",
@@ -2178,7 +2434,9 @@
       }
     },
     "duration": "1 year, full-time (4-month teaching block plus 8-month industry placement; delivered jointly with Cork University Business School)",
-    "source_url": "https://www.ucc.ie/en/mscips/"
+    "source_url": "https://www.ucc.ie/en/mscips/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Pharmaceutical Regulatory Sciences",
@@ -2195,7 +2453,9 @@
       }
     },
     "duration": "1 year, full-time (blended learning with a 6-month industry placement in semesters 2-3)",
-    "source_url": "https://www.ucc.ie/en/study/postgrad/taughtcourses/masters/pharmaceuticalregulatorysciences/"
+    "source_url": "https://www.ucc.ie/en/study/postgrad/taughtcourses/masters/pharmaceuticalregulatorysciences/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Pharmaceutical Technology and Quality Systems",
@@ -2212,7 +2472,9 @@
       }
     },
     "duration": "2 years, part-time, blended learning (for graduates already working in the pharmaceutical/biopharmaceutical sector; EU and non-EU fees are the same flat rate; HPRA-recognised for Qualified Person (QP) eligibility)",
-    "source_url": "https://www.ucc.ie/en/ckx05/"
+    "source_url": "https://www.ucc.ie/en/ckx05/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Public Health",
@@ -2229,7 +2491,9 @@
       }
     },
     "duration": "1 year, full-time (MPH)",
-    "source_url": "https://www.ucc.ie/en/ckx11/"
+    "source_url": "https://www.ucc.ie/en/ckx11/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Public Health (Online)",
@@ -2246,7 +2510,9 @@
       }
     },
     "duration": "2 years, part-time, fully online (MPH)",
-    "source_url": "https://www.ucc.ie/en/ckx49/"
+    "source_url": "https://www.ucc.ie/en/ckx49/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Occupational Health",
@@ -2262,7 +2528,9 @@
       }
     },
     "duration": "2 years, part-time, blended (approx. 70% on-campus / 30% online); IOSH-accredited; non-EU fee not published for this delivery mode on the fee schedule (see also the separate fully-online variant)",
-    "source_url": "https://www.ucc.ie/en/ckx06/"
+    "source_url": "https://www.ucc.ie/en/ckx06/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Occupational Health (Online)",
@@ -2279,7 +2547,9 @@
       }
     },
     "duration": "2 years, part-time, fully online",
-    "source_url": "https://www.ucc.ie/en/ckx50/"
+    "source_url": "https://www.ucc.ie/en/ckx50/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Infection Prevention and Control (Online)",
@@ -2296,7 +2566,9 @@
       }
     },
     "duration": "1 year, part-time, fully online (delivered in collaboration with other UCC schools including Microbiology)",
-    "source_url": "https://www.ucc.ie/en/mscipc/"
+    "source_url": "https://www.ucc.ie/en/mscipc/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Health and Wellbeing",
@@ -2311,7 +2583,9 @@
       }
     },
     "duration": "Final year of a progressive 3-year pathway (PG Cert year 1, PG Dip year 2, MSc year 3, 90 credits total); delivered jointly by UCC and Munster Technological University; MSc-year fee not separately published on the fee schedule (only the PG Cert, part-time €3,200/yr EU / €7,500/yr non-EU, and PG Dip, part-time €6,200/yr EU / €10,200/yr non-EU, exit-award fees are listed)",
-    "source_url": "https://www.ucc.ie/en/mschw/"
+    "source_url": "https://www.ucc.ie/en/mschw/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "General Nursing (Graduate Entry)",
@@ -2326,7 +2600,9 @@
       }
     },
     "duration": "2 years, full-time; fee not published on the 2026/27 fee schedule",
-    "source_url": "https://www.ucc.ie/en/nursingmidwifery/study/postgrad/"
+    "source_url": "https://www.ucc.ie/en/nursingmidwifery/study/postgrad/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Midwifery (Pathway)",
@@ -2343,7 +2619,9 @@
       }
     },
     "duration": "2 years, part-time (for registered midwives; purely academic programme, no clinical placement)",
-    "source_url": "https://www.ucc.ie/en/nursingmidwifery/study/postgrad/midwifery/"
+    "source_url": "https://www.ucc.ie/en/nursingmidwifery/study/postgrad/midwifery/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Midwifery (Direct Entry to Year 2)",
@@ -2360,7 +2638,9 @@
       }
     },
     "duration": "1 year, part-time (direct entry to year 2 for holders of a relevant Postgraduate/Higher Diploma)",
-    "source_url": "https://www.ucc.ie/en/nursingmidwifery/study/postgrad/midwifery/"
+    "source_url": "https://www.ucc.ie/en/nursingmidwifery/study/postgrad/midwifery/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing (Direct Entry to Year 2)",
@@ -2377,7 +2657,9 @@
       }
     },
     "duration": "1 year, part-time (direct entry to year 2 for holders of a Higher/Postgraduate Diploma in Nursing, Midwifery or Public Health Nursing gained within the previous 5 academic years)",
-    "source_url": "https://www.ucc.ie/en/ckx13/"
+    "source_url": "https://www.ucc.ie/en/ckx13/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing (for Non-EU Applicants only)",
@@ -2393,7 +2675,9 @@
       }
     },
     "duration": "1 year, full-time (non-clinical, theory-only Master's specifically for non-EU registered nurses; not open to EU applicants; established 2013)",
-    "source_url": "https://www.ucc.ie/en/ckx19/"
+    "source_url": "https://www.ucc.ie/en/ckx19/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing (Gerontological Nursing)",
@@ -2410,7 +2694,9 @@
       }
     },
     "duration": "1 year full-time / 2 years part-time (combined PG Dip/MSc; students register for the Postgraduate Diploma in year 1 and may progress to the MSc)",
-    "source_url": "https://www.ucc.ie/en/ckw06/"
+    "source_url": "https://www.ucc.ie/en/ckw06/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing (Intensive Care Nursing)",
@@ -2427,7 +2713,9 @@
       }
     },
     "duration": "1 year full-time / 2 years part-time (combined PG Dip/MSc; students register for the Postgraduate Diploma in year 1 and may progress to the MSc)",
-    "source_url": "https://www.ucc.ie/en/ckw05/"
+    "source_url": "https://www.ucc.ie/en/ckw05/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing (Medical Surgical Nursing)",
@@ -2444,7 +2732,9 @@
       }
     },
     "duration": "1 year full-time / 2 years part-time (combined PG Dip/MSc; students register for the Postgraduate Diploma in year 1 and may progress to the MSc)",
-    "source_url": "https://www.ucc.ie/en/ckw15/"
+    "source_url": "https://www.ucc.ie/en/ckw15/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing (Neonatology Nursing)",
@@ -2461,7 +2751,9 @@
       }
     },
     "duration": "1 year full-time / 2 years part-time (combined PG Dip/MSc; students register for the Postgraduate Diploma in year 1 and may progress to the MSc)",
-    "source_url": "https://www.ucc.ie/en/ckw09/"
+    "source_url": "https://www.ucc.ie/en/ckw09/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing (Oncology Nursing)",
@@ -2478,7 +2770,9 @@
       }
     },
     "duration": "1 year full-time / 2 years part-time (combined PG Dip/MSc; students register for the Postgraduate Diploma in year 1 and may progress to the MSc)",
-    "source_url": "https://www.ucc.ie/en/ckw18/"
+    "source_url": "https://www.ucc.ie/en/ckw18/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing (Specialist Mental Health Nursing Practice)",
@@ -2495,7 +2789,9 @@
       }
     },
     "duration": "1 year full-time / 2 years part-time (combined PG Dip/MSc; students register for the Postgraduate Diploma in year 1, 60 credits, and the MSc in year 2, 30 credits)",
-    "source_url": "https://www.ucc.ie/en/ckw08/"
+    "source_url": "https://www.ucc.ie/en/ckw08/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing (Trauma & Emergency Nursing)",
@@ -2512,7 +2808,9 @@
       }
     },
     "duration": "1 year full-time / 2 years part-time (combined PG Dip/MSc; students register for the Postgraduate Diploma in year 1 and may progress to the MSc)",
-    "source_url": "https://www.ucc.ie/en/ckw04/"
+    "source_url": "https://www.ucc.ie/en/ckw04/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing Advanced Practice (Nursing/Midwifery)",
@@ -2529,7 +2827,9 @@
       }
     },
     "duration": "2 years, part-time (NMBI-approved preparation for registration as Advanced Nurse Practitioner or Advanced Midwife Practitioner; includes preparation for Nurse/Midwife Prescriber registration and a minimum of 500 supervised practice hours)",
-    "source_url": "https://www.ucc.ie/en/ckx24/"
+    "source_url": "https://www.ucc.ie/en/ckx24/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nursing Studies (Year 1)",
@@ -2544,7 +2844,9 @@
       }
     },
     "duration": "2 years, part-time; fee not published on the 2026/27 fee schedule",
-    "source_url": "https://www.ucc.ie/en/ckx08/"
+    "source_url": "https://www.ucc.ie/en/ckx08/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Healthcare Quality Improvement (Online)",
@@ -2561,7 +2863,9 @@
       }
     },
     "duration": "2 years, part-time, fully online (admission subject to approval of the School of Nursing & Midwifery; applicants must be qualified, registered healthcare professionals holding a primary honours degree)",
-    "source_url": "https://www.ucc.ie/en/ckx22/"
+    "source_url": "https://www.ucc.ie/en/ckx22/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Clinical Measurement Physiology",
@@ -2578,7 +2882,9 @@
       }
     },
     "duration": "2 years, full-time (delivered by the Department of Physiology; entry route into clinical measurement physiology across neurophysiology, cardiac, vascular, respiratory and gastrointestinal physiology)",
-    "source_url": "https://www.ucc.ie/en/msccpy/"
+    "source_url": "https://www.ucc.ie/en/msccpy/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Clinical Trials (Online)",
@@ -2595,7 +2901,9 @@
       }
     },
     "duration": "1 year, part-time, fully online (run with the HRB Clinical Research Facility Cork; requires prior completion of the Clinical Trials Postgraduate Certificate and Postgraduate Diploma)",
-    "source_url": "https://www.ucc.ie/en/ckx28/"
+    "source_url": "https://www.ucc.ie/en/ckx28/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Dementia",
@@ -2612,7 +2920,9 @@
       }
     },
     "duration": "1 year full-time / 2 years part-time (interdisciplinary; delivered by the Centre for Gerontology and Rehabilitation)",
-    "source_url": "https://www.ucc.ie/en/ckx21/"
+    "source_url": "https://www.ucc.ie/en/ckx21/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Diagnostic Radiography",
@@ -2629,7 +2939,9 @@
       }
     },
     "duration": "2 years, full-time (pre-registration route for graduates holding a Level 8 honours degree in Science; delivered by the Department of Medical Imaging and Radiation Therapy)",
-    "source_url": "https://www.ucc.ie/en/ckx26/"
+    "source_url": "https://www.ucc.ie/en/ckx26/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Health Professions Education (Online)",
@@ -2646,7 +2958,9 @@
       }
     },
     "duration": "1 year, part-time, fully online (final year of a progressive 3-year pathway: PG Cert year 1, PG Dip year 2, MSc year 3; delivered by the Medical Education Unit)",
-    "source_url": "https://www.ucc.ie/en/meu/postgraduateprogrammes/pgprogrammes-mschpe/"
+    "source_url": "https://www.ucc.ie/en/meu/postgraduateprogrammes/pgprogrammes-mschpe/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Human Anatomy",
@@ -2663,7 +2977,9 @@
       }
     },
     "duration": "1 year full-time / 2 years part-time (delivered by the Department of Anatomy and Neuroscience; includes a cadaveric dissection component)",
-    "source_url": "https://www.ucc.ie/en/ckx52/"
+    "source_url": "https://www.ucc.ie/en/ckx52/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Medical Imaging and Radiation Sciences (Online)",
@@ -2680,7 +2996,9 @@
       }
     },
     "duration": "Fully online, part-time; January and September intakes offered; EU and non-EU fees are the same flat rate; delivered by the Department of Medical Imaging and Radiation Therapy",
-    "source_url": "https://www.ucc.ie/en/mscmir/"
+    "source_url": "https://www.ucc.ie/en/mscmir/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Older Person Rehabilitation",
@@ -2697,7 +3015,9 @@
       }
     },
     "duration": "1 year full-time / 2 years part-time (interdisciplinary; delivered by the Centre for Gerontology and Rehabilitation with staff drawn from the Schools of Medicine, Nursing & Midwifery, and Clinical Therapies; includes a clinical placement)",
-    "source_url": "https://www.ucc.ie/en/ckx14/"
+    "source_url": "https://www.ucc.ie/en/ckx14/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Palliative Care",
@@ -2713,7 +3033,9 @@
       }
     },
     "duration": "Part-time, blended learning; entry only via the Postgraduate Certificate, progressing through Postgraduate Diploma to MSc over approx. 3 years from first registration; joint programme with Marymount University Hospital & Hospice; non-EU fee not published",
-    "source_url": "https://www.ucc.ie/en/pcpc/"
+    "source_url": "https://www.ucc.ie/en/pcpc/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Radiation Therapy",
@@ -2730,7 +3052,9 @@
       }
     },
     "duration": "2 years, full-time (graduate-entry pre-registration route; the only MSc Radiation Therapy programme in Ireland; delivered by the Department of Medical Imaging and Radiation Therapy)",
-    "source_url": "https://www.ucc.ie/en/ckx29/"
+    "source_url": "https://www.ucc.ie/en/ckx29/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Specialist Paramedic Practice",
@@ -2745,7 +3069,9 @@
       }
     },
     "duration": "1 year, full-time (for existing National Ambulance Service paramedic staff holding a BSc (Hons) Paramedic Studies/Paramedicine and PHECC registration; students may exit early with a Postgraduate Certificate); fee not published on the 2026/27 fee schedule",
-    "source_url": "https://reg.ucc.ie/curriculum/archive/20202021/calendar/postgraduate/Masters/medicine/page47.html"
+    "source_url": "https://reg.ucc.ie/curriculum/archive/20202021/calendar/postgraduate/Masters/medicine/page47.html",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Sports and Exercise Medicine",
@@ -2762,7 +3088,9 @@
       }
     },
     "duration": "1 year full-time / 2 years part-time (MMedSc; open to medical graduates in good standing with their regulatory body, or Honours Physiotherapy graduates who are members of the Irish Society of Chartered Physiotherapists)",
-    "source_url": "https://www.ucc.ie/en/ckx02/"
+    "source_url": "https://www.ucc.ie/en/ckx02/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Surgical Science",
@@ -2779,7 +3107,9 @@
       }
     },
     "duration": "1 year full-time / 2 years part-time (MCh; for medical graduates registered with a Medical Council; delivered by the Medical Education Unit; part-time non-EU fee is €10,100/yr)",
-    "source_url": "https://www.ucc.ie/en/ckx20/"
+    "source_url": "https://www.ucc.ie/en/ckx20/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Dental Public Health",
@@ -2796,7 +3126,9 @@
       }
     },
     "duration": "1 year, full-time (MDPH, Master of Dental Public Health; for dental professionals)",
-    "source_url": "https://www.ucc.ie/en/ckx01/"
+    "source_url": "https://www.ucc.ie/en/ckx01/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Biological and Chemical Sciences",
@@ -2813,7 +3145,9 @@
       }
     },
     "duration": "4 years (CK402, BSc Hons); common-entry route, no single owning School - students choose one of 9 streams after Year 1: Applied Plant Biology, Biochemistry, Biotechnology, Chemistry, Chemistry of Pharmaceutical Compounds, Chemistry with Forensic Sciences, Microbiology (all delivered by SEFS Schools), plus Neuroscience and Physiology (delivered by the College of Medicine and Health's Department of Neuroscience/Department of Physiology - out of SEFS scope)",
-    "source_url": "https://www.ucc.ie/en/ck402/"
+    "source_url": "https://www.ucc.ie/en/ck402/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Biological, Environmental and Geological Sciences",
@@ -2830,7 +3164,9 @@
       }
     },
     "duration": "4 years (CK404, BSc Hons); common-entry, streams chosen after Year 1: Applied Plant Biology, Ecology and Environmental Biology, Environmental Science, Geoscience, Zoology",
-    "source_url": "https://www.ucc.ie/en/ck404/"
+    "source_url": "https://www.ucc.ie/en/ck404/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Agricultural Science",
@@ -2847,7 +3183,9 @@
       }
     },
     "duration": "4 years (CK412, BAgrSc Hons); delivered in partnership with Teagasc - Years 1-2 on UCC campus, increasingly at the Paddy O'Keeffe Innovation Centre, Teagasc Moorepark from Year 3",
-    "source_url": "https://www.ucc.ie/en/ck412/"
+    "source_url": "https://www.ucc.ie/en/ck412/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Marine Biology",
@@ -2864,7 +3202,9 @@
       }
     },
     "duration": "1 year full-time (CKR38, MSc); plus a separate €2,500 bench fee for Sea Survival/Boat Handling/Marine Radio certification and fieldwork, not included in the tuition figure above",
-    "source_url": "https://www.ucc.ie/en/ckr38/"
+    "source_url": "https://www.ucc.ie/en/ckr38/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Applied Environmental Geoscience",
@@ -2881,7 +3221,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (CKR53, MSc); plus a bench fee of €1,000 (FT) / €500 (PT), not included in the tuition figure above",
-    "source_url": "https://www.ucc.ie/en/ckr53/"
+    "source_url": "https://www.ucc.ie/en/ckr53/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Freshwater Quality Monitoring and Assessment (Online)",
@@ -2898,7 +3240,9 @@
       }
     },
     "duration": "3-4 years part-time, online (CKR17, MSc); delivered by the UNEP GEMS/Water Capacity Development Centre, hosted within BEES; fees shown are the part-time annual rate",
-    "source_url": "https://www.ucc.ie/en/ckr17/"
+    "source_url": "https://www.ucc.ie/en/ckr17/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Environmental Science (MRes)",
@@ -2913,7 +3257,9 @@
       }
     },
     "duration": "12 months full-time (PAC code CKS83, MRes - Master of Research); research thesis (70 credits) + taught modules (20 credits); page directs to a general College/Bench fee enquiry rather than publishing a figure",
-    "source_url": "https://www.ucc.ie/en/bees/courses/masters/mresenv/"
+    "source_url": "https://www.ucc.ie/en/bees/courses/masters/mresenv/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Geological Sciences (MRes)",
@@ -2928,7 +3274,9 @@
       }
     },
     "duration": "12 months full-time (PAC code CKS82, MRes - Master of Research); research thesis (70 credits) + taught modules (20 credits); no part-time option; page directs to a general College/Bench fee enquiry rather than publishing a figure",
-    "source_url": "https://www.ucc.ie/en/bees/courses/masters/mresgeo/"
+    "source_url": "https://www.ucc.ie/en/bees/courses/masters/mresgeo/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Plant Biology (MRes)",
@@ -2943,7 +3291,9 @@
       }
     },
     "duration": "12 months full-time, MRes (Master of Research); research thesis (70 credits) + taught modules (20 credits); no part-time option; page directs to a general College/Bench fee enquiry rather than publishing a figure",
-    "source_url": "https://www.ucc.ie/en/bees/courses/masters/mresplant/"
+    "source_url": "https://www.ucc.ie/en/bees/courses/masters/mresplant/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Animal Behaviour and Welfare (MRes)",
@@ -2958,7 +3308,9 @@
       }
     },
     "duration": "12 months full-time, MRes (Master of Research); research thesis (70 credits) + taught modules (20 credits); research often based at Fota Wildlife Park/Teagasc Moorepark; programme's own page (ucc.ie/en/mresabw/) returned 404 at time of research, so this record is sourced from BEES's own course-listing page instead",
-    "source_url": "https://www.ucc.ie/en/bees/"
+    "source_url": "https://www.ucc.ie/en/bees/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Genetics",
@@ -2975,7 +3327,9 @@
       }
     },
     "duration": "4 years (CK405, BSc Hons)",
-    "source_url": "https://www.ucc.ie/en/ck405/"
+    "source_url": "https://www.ucc.ie/en/ck405/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Biomedical Science",
@@ -2991,7 +3345,9 @@
       }
     },
     "duration": "4 years (MT871, BSc Hons); joint programme delivered with Munster Technological University (MTU), ~35 places/year; Non-EU fee not present in UCC's international undergraduate fee schedule",
-    "source_url": "https://www.ucc.ie/en/mt871/"
+    "source_url": "https://www.ucc.ie/en/mt871/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Biotechnology",
@@ -3008,7 +3364,9 @@
       }
     },
     "duration": "1 year full-time (MSc, code CKR01/MSCBTY); joint programme involving Chemistry, Microbiology and Plant Science staff; plus a separate €1,000 bench fee not included in the tuition figure above",
-    "source_url": "https://www.ucc.ie/en/biochemistry/postgraduatecoursesresearch-basedprogrammes/mscbiotech/"
+    "source_url": "https://www.ucc.ie/en/biochemistry/postgraduatecoursesresearch-basedprogrammes/mscbiotech/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Molecular Cell Biology with Bioinnovation",
@@ -3023,7 +3381,9 @@
       }
     },
     "duration": "1 year full-time, taught with a 6-month research project component (MSc, code MSCMCB); delivered across three UCC colleges; no fee published on the programme's own page",
-    "source_url": "https://www.ucc.ie/en/biochemistry/postgraduatecoursesresearch-basedprogrammes/mscmolcellbiol/"
+    "source_url": "https://www.ucc.ie/en/biochemistry/postgraduatecoursesresearch-basedprogrammes/mscmolcellbiol/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Advanced Cell and Gene Therapy",
@@ -3040,7 +3400,9 @@
       }
     },
     "duration": "12 months full-time (MSc, code MSCCGT), including a 6-month industry/research placement; plus a separate €1,000 bench fee not included in the tuition figure above; the programme's own page names its owner only as \"College of Science, Engineering and Food Science\" rather than a specific School, but it is administered out of Biochemistry and Cell Biology",
-    "source_url": "https://www.ucc.ie/en/msccgt/"
+    "source_url": "https://www.ucc.ie/en/msccgt/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Biochemistry and Biosciences (MRes)",
@@ -3055,7 +3417,9 @@
       }
     },
     "duration": "12 months full-time; 24 months part-time, MRes (Master of Research); page directs to the general PG fee schedule rather than publishing a figure",
-    "source_url": "https://www.ucc.ie/en/bcbmrs/"
+    "source_url": "https://www.ucc.ie/en/bcbmrs/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Chemical Sciences",
@@ -3072,7 +3436,9 @@
       }
     },
     "duration": "4 years (CK406, BSc Hons); common-entry, streams chosen after Year 1: Chemistry, Chemistry with Forensic Science, Chemical Physics",
-    "source_url": "https://www.ucc.ie/en/ck406/"
+    "source_url": "https://www.ucc.ie/en/ck406/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Analytical Chemistry",
@@ -3089,7 +3455,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (CKR03, MSc); plus a bench fee of €1,000 (FT) / €500 (PT), not included in the tuition figure above",
-    "source_url": "https://www.ucc.ie/en/ckr03/"
+    "source_url": "https://www.ucc.ie/en/ckr03/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Analysis of Pharmaceutical Compounds",
@@ -3106,7 +3474,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (CKR02, MSc); plus a bench fee of €1,000 (FT) / €500 (PT), not included in the tuition figure above",
-    "source_url": "https://www.ucc.ie/en/ckr02/"
+    "source_url": "https://www.ucc.ie/en/ckr02/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Environmental Analytical Chemistry",
@@ -3123,7 +3493,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (MSc); plus a bench fee of €1,000 (FT) / €500 (PT), not included in the tuition figure above",
-    "source_url": "https://www.ucc.ie/en/financeoffice/fees/schedules/postgraduateeuandinternationalfees202627/"
+    "source_url": "https://www.ucc.ie/en/financeoffice/fees/schedules/postgraduateeuandinternationalfees202627/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Sustainable Materials and the Environment (MRes)",
@@ -3138,7 +3510,9 @@
       }
     },
     "duration": "12 months full-time, MRes (Master of Research); run with the Environmental Research Institute and Tyndall National Institute; page directs to the general PG fee schedule rather than publishing a figure",
-    "source_url": "https://www.ucc.ie/en/mress/"
+    "source_url": "https://www.ucc.ie/en/mress/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Computer Science",
@@ -3155,7 +3529,9 @@
       }
     },
     "duration": "4 years (CK401, BSc Hons), includes a mandatory Year 3 work placement (6 or 12 months)",
-    "source_url": "https://www.ucc.ie/en/ck401/"
+    "source_url": "https://www.ucc.ie/en/ck401/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Data Science and Artificial Intelligence",
@@ -3172,7 +3548,9 @@
       }
     },
     "duration": "4 years (CK411, BSc Hons), includes a mandatory paid Year 3 work placement",
-    "source_url": "https://www.ucc.ie/en/ck411/"
+    "source_url": "https://www.ucc.ie/en/ck411/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Computing Science",
@@ -3189,7 +3567,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (MSc, code CKR40); UCC's fee schedule lists this via separate EU-only and Non-EU-only fee rows for the same programme",
-    "source_url": "https://www.ucc.ie/en/compsci/courses/tpostgraduate/msccs/"
+    "source_url": "https://www.ucc.ie/en/compsci/courses/tpostgraduate/msccs/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Cybersecurity",
@@ -3206,7 +3586,9 @@
       }
     },
     "duration": "1 year full-time (MSc)",
-    "source_url": "https://www.ucc.ie/en/msccyb/"
+    "source_url": "https://www.ucc.ie/en/msccyb/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Interactive Media",
@@ -3223,7 +3605,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (MSc); UCC's fee schedule lists this via separate EU-only and Non-EU-only fee rows for the same programme",
-    "source_url": "https://www.ucc.ie/en/compsci/courses/tpostgraduate/mscim/"
+    "source_url": "https://www.ucc.ie/en/compsci/courses/tpostgraduate/mscim/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Data Science and Artificial Intelligence",
@@ -3240,7 +3624,9 @@
       }
     },
     "duration": "1 year full-time (MSc, code CKR49); jointly offered with the School of Mathematical Sciences; also marketed on UCC's central fee schedule as \"Data Science and Analytics - MSc\"",
-    "source_url": "https://www.ucc.ie/en/ckr49/"
+    "source_url": "https://www.ucc.ie/en/ckr49/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Engineering",
@@ -3257,7 +3643,9 @@
       }
     },
     "duration": "4 years, BE Hons (CK600); common first year, then streams: Civil, Structural and Environmental Engineering; Electrical and Electronic Engineering; Energy Engineering; Process and Chemical Engineering. Civil/Structural/Environmental students may progress internally (no separate CAO/fee code) to a 5-year integrated ME (Hons)",
-    "source_url": "https://www.ucc.ie/en/ck600/"
+    "source_url": "https://www.ucc.ie/en/ck600/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Architecture",
@@ -3274,7 +3662,9 @@
       }
     },
     "duration": "4 years, BSc Hons (CK606); delivered by the Cork Centre for Architectural Education, a joint programme between UCC and Munster Technological University (MTU)",
-    "source_url": "https://www.ucc.ie/en/ck606/"
+    "source_url": "https://www.ucc.ie/en/ck606/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Engineering - Sustainable Energy",
@@ -3291,7 +3681,9 @@
       }
     },
     "duration": "1 year full-time (MEngSc, CKR26); 8-month exit route to a PGDip in Sustainable Energy",
-    "source_url": "https://www.ucc.ie/en/ckr26/"
+    "source_url": "https://www.ucc.ie/en/ckr26/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Engineering - Electrical and Electronic Engineering",
@@ -3308,7 +3700,9 @@
       }
     },
     "duration": "1 year full-time (MEngSc, CKR47)",
-    "source_url": "https://www.ucc.ie/en/ckr47/"
+    "source_url": "https://www.ucc.ie/en/ckr47/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Engineering - Mechanical Engineering (Manufacturing, Process and Automation Systems)",
@@ -3325,7 +3719,9 @@
       }
     },
     "duration": "1 year full-time (MEngSc, CKR27); no undergraduate Mechanical Engineering stream exists at UCC - this Master's is the only Mechanical Engineering programme",
-    "source_url": "https://www.ucc.ie/en/ckr27/"
+    "source_url": "https://www.ucc.ie/en/ckr27/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Industrial Biotechnology and Biomanufacturing",
@@ -3342,7 +3738,9 @@
       }
     },
     "duration": "12 months full-time (MEngSc, code MENIBB); jointly taught by the Schools of Microbiology and Engineering and Architecture",
-    "source_url": "https://www.ucc.ie/en/menibb/"
+    "source_url": "https://www.ucc.ie/en/menibb/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Engineering in Pharmaceutical and Biopharmaceutical Systems",
@@ -3359,7 +3757,9 @@
       }
     },
     "duration": "12 months full-time (MEngSc, code MENEPB); distinct from the separately-coded part-time \"Pharmaceutical and Biopharmaceutical Engineering\" (CKR35) below",
-    "source_url": "https://www.ucc.ie/en/menepb/"
+    "source_url": "https://www.ucc.ie/en/menepb/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Pharmaceutical and Biopharmaceutical Engineering (Part-Time)",
@@ -3375,7 +3775,9 @@
       }
     },
     "duration": "Part-time, minimum 24 months / maximum 60 months, blended online + in-person (MEngSc, CKR35); page states \"not all courses are open to international/non-EU applicants\" and lists no Non-EU figure",
-    "source_url": "https://www.ucc.ie/en/ckr35/"
+    "source_url": "https://www.ucc.ie/en/ckr35/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Architecture",
@@ -3392,7 +3794,9 @@
       }
     },
     "duration": "1 year full-time (MArch, CKR42)",
-    "source_url": "https://www.ucc.ie/en/sefs/postgraduate/taughtmasters/"
+    "source_url": "https://www.ucc.ie/en/sefs/postgraduate/taughtmasters/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Redesigning the Post-Industrial City (RePIC)",
@@ -3409,7 +3813,9 @@
       }
     },
     "duration": "2 years full-time, 120 credits (MSc); jointly delivered with UCC's Department of Geography and the UNIC European university alliance (8 partner universities), with mobility across partner campuses; total programme cost is EU €9,000 / Non-EU €18,000 over the 2 years",
-    "source_url": "https://www.ucc.ie/en/repic/"
+    "source_url": "https://www.ucc.ie/en/repic/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Food Science",
@@ -3426,7 +3832,9 @@
       }
     },
     "duration": "4 years, BSc Hons (CK505); accredited by the Institute of Food Science and Technology (IFST); includes a 6-month Year 3 work placement",
-    "source_url": "https://www.ucc.ie/en/ck505/"
+    "source_url": "https://www.ucc.ie/en/ck505/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Nutritional Sciences",
@@ -3443,7 +3851,9 @@
       }
     },
     "duration": "4 years, BSc Hons (CK504); accredited by the Association for Nutrition (AfN); includes a 6-month Year 3 work placement",
-    "source_url": "https://www.ucc.ie/en/ck504/"
+    "source_url": "https://www.ucc.ie/en/ck504/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Human Nutrition and Dietetics",
@@ -3460,7 +3870,9 @@
       }
     },
     "duration": "2 years full-time (MSc, CKR07); includes 1,000 hours of clinical placement; leads to CORU dietitian registration eligibility",
-    "source_url": "https://www.ucc.ie/en/ckr07/"
+    "source_url": "https://www.ucc.ie/en/ckr07/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Food Science",
@@ -3477,7 +3889,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee €4,800/yr) (MSc, CKR22); taught collaboratively with the Department of Microbiology and the Department of Food Business and Development",
-    "source_url": "https://www.ucc.ie/en/ckr22/"
+    "source_url": "https://www.ucc.ie/en/ckr22/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Mathematical Sciences",
@@ -3494,7 +3908,9 @@
       }
     },
     "duration": "4 years, BSc Hons (CK407); common-entry, streams after Year 1: Mathematical Sciences (Single Honours), Financial Mathematics and Actuarial Science (Single Honours), Mathematical Sciences and Physics (Joint Honours, with CK408)",
-    "source_url": "https://www.ucc.ie/en/ck407/"
+    "source_url": "https://www.ucc.ie/en/ck407/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Mathematical Modelling and Machine Learning",
@@ -3511,7 +3927,9 @@
       }
     },
     "duration": "1 year full-time (MSc, CKR56); formerly marketed as \"Mathematical Modelling and Self-Learning Systems\"",
-    "source_url": "https://www.ucc.ie/en/ckr56/"
+    "source_url": "https://www.ucc.ie/en/ckr56/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Microbiome Science",
@@ -3528,7 +3946,9 @@
       }
     },
     "duration": "12 months full-time (MSc, code MSCMSC); combines microbiology and computational biology, taught with APC Microbiome Ireland",
-    "source_url": "https://www.ucc.ie/en/mscmsc/"
+    "source_url": "https://www.ucc.ie/en/mscmsc/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Food Microbiology",
@@ -3545,7 +3965,9 @@
       }
     },
     "duration": "1 year full-time (MSc, CKR19); jointly associated with the School of Food and Nutritional Sciences; plus a separate €1,000 bench fee not included in the tuition figure above",
-    "source_url": "https://www.ucc.ie/en/ckr19/"
+    "source_url": "https://www.ucc.ie/en/ckr19/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Bioinformatics and Computational Biology",
@@ -3562,7 +3984,9 @@
       }
     },
     "duration": "1 year full-time; 2 years part-time (part-time EU fee €4,800/yr) (MSc, CKR33); staffed jointly with the Schools of Mathematical Sciences, Biochemistry and Cell Biology, and the Department of Computer Science",
-    "source_url": "https://www.ucc.ie/en/ckr33/"
+    "source_url": "https://www.ucc.ie/en/ckr33/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   },
   {
     "course_name": "Physics and Astrophysics",
@@ -3579,6 +4003,8 @@
       }
     },
     "duration": "4 years, BSc Hons (CK408); common-entry, streams after Year 1: Astrophysics, Chemical Physics, Physics, Mathematical Sciences and Physics (Joint Honours, with CK407)",
-    "source_url": "https://www.ucc.ie/en/ck408/"
+    "source_url": "https://www.ucc.ie/en/ck408/",
+    "last_verified": "2026-07-30",
+    "verified_by_admin": null
   }
 ]

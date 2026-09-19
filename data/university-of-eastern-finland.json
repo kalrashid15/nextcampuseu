@@ -16,7 +16,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Kuopio campus; leads to Master of Science (Economics and Business Administration); UEF Business School is AACSB-accredited",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-accounting-and-finance"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-accounting-and-finance",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Digital Marketing and Analytics",
@@ -35,7 +37,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Joensuu and Kuopio campuses; leads to Master of Science (Economics and Business Administration)",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-digital-marketing-and-analytics"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-digital-marketing-and-analytics",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "International Business and Sales Management",
@@ -54,7 +58,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Kuopio campus; leads to Master of Science in Economics and Business Administration; UEF Business School is AACSB-accredited",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-international-business-and-sales-management"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-international-business-and-sales-management",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Sustainable Business Leadership",
@@ -73,7 +79,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Kuopio campus; leads to Master of Science (Economics and Business Administration)",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-sustainable-business-leadership"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-sustainable-business-leadership",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Tourism Marketing and Management",
@@ -92,7 +100,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Joensuu campus; leads to Master of Science (Economics and Business Administration); UEF Business School is AACSB-accredited",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-tourism-marketing-and-management"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-tourism-marketing-and-management",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Environmental Policy and Law",
@@ -111,7 +121,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Joensuu campus; leads to Master of International and Comparative Law (MICL) or Master of Social Sciences (MSocSc) depending on track",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-environmental-policy-and-law"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-environmental-policy-and-law",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Joint Nordic Master Programme in Environmental Law (NOMPEL)",
@@ -130,7 +142,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; genuinely joint Nordic consortium degree administered by Uppsala University with UEF (Joensuu) and UiT The Arctic University of Norway (Tromso) as partners - one semester spent at each of the 3 institutions plus a thesis semester; non-EU fee not recorded as a single annual figure because it is set per-institution/per-semester and varies by admission cohort - UEF's own page states EUR 4,000/semester for the 2026 cohort (with a 30% tuition waiver applied) versus EUR 3,500/semester for the 2027 cohort (no waiver), Uppsala charges its own semester separately in SEK, and UiT charges only a small Norwegian semester fee (~NOK 710) - no single whole-programme or annual total is published on uef.fi itself, so the figure is left null rather than derived; this is the same NOMPEL/Joint Nordic Master Programme in Environmental Law already documented from Uppsala University's side in data/uppsala-university.json, where its non-EU fee is null for the identical reason",
-    "source_url": "https://www.uef.fi/en/degree-programme/joint-nordic-master-programme-in-environmental-law"
+    "source_url": "https://www.uef.fi/en/degree-programme/joint-nordic-master-programme-in-environmental-law",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Social Sciences",
@@ -149,7 +163,9 @@
       }
     },
     "duration": "3 years, 180 ECTS; hybrid study (on-campus study at Joensuu unlocks more minor options); leads to Bachelor of Social Sciences; UEF's own page states this is the only English-taught Bachelor's programme in Social Science in Finland; a 50% tuition waiver is available to the top 70% of admitted fee-liable students",
-    "source_url": "https://www.uef.fi/en/degree-programme/bachelors-degree-programme-in-social-sciences"
+    "source_url": "https://www.uef.fi/en/degree-programme/bachelors-degree-programme-in-social-sciences",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Urban Sustainability Studies",
@@ -168,7 +184,9 @@
       }
     },
     "duration": "3 years, 180 ECTS; joint programme of the YUFE (Young Universities for the Future of Europe) Alliance, 10 European universities; year 1 at home university (Joensuu for UEF-admitted students), years 2-3 include personalized minors taken at other YUFE partner universities via exchange; leads to Bachelor in Social Sciences; a 30% tuition waiver is available to all fee-liable accepted students",
-    "source_url": "https://www.uef.fi/en/degree-programme/bachelors-degree-programme-in-urban-sustainability-studies"
+    "source_url": "https://www.uef.fi/en/degree-programme/bachelors-degree-programme-in-urban-sustainability-studies",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Biology of Environmental Change",
@@ -187,7 +205,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Joensuu campus",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-biology-of-environmental-change"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-biology-of-environmental-change",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Computational Colour and Spectral Imaging (COSI)",
@@ -206,7 +226,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Joensuu campus; Erasmus Mundus Joint Master's degree, delivered by a multi-university consortium (UEF plus partner universities); UEF has no dedicated uef.fi programme page and fee-setting is routed entirely to the external consortium site (cosi-master.eu), which this project's sourcing rule (uef.fi only) does not permit using as a fee source, so amounts are left unconfirmed rather than taken off-domain",
-    "source_url": "https://www.uef.fi/en/international-masters-degree-programmes"
+    "source_url": "https://www.uef.fi/en/international-masters-degree-programmes",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Environmental and Ecosystem Ecology",
@@ -225,7 +247,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Kuopio campus",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-environmental-and-ecosystem-ecology"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-environmental-and-ecosystem-ecology",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Environmental Health and Technology (ENHET)",
@@ -244,7 +268,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Kuopio campus",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-environmental-health-and-technology"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-environmental-health-and-technology",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Imaging and Light in Extended Reality (IMLEX)",
@@ -263,7 +289,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Joensuu campus; Erasmus Mundus Joint Master's degree, consortium of UEF, Toyohashi University of Technology (Japan), Universite Jean Monnet Saint-Etienne (France) and KU Leuven (Belgium); UEF has no dedicated uef.fi programme page (only the consortium's own imlex.org site, which states EU/EEA/Switzerland pay no tuition and a consortium fee of EUR 9,000/year applies to non-EU students) - per this project's sourcing rule (uef.fi only, never an off-domain figure), amounts are left unconfirmed here rather than taken from imlex.org",
-    "source_url": "https://www.uef.fi/en/international-masters-degree-programmes"
+    "source_url": "https://www.uef.fi/en/international-masters-degree-programmes",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Information Technology (IMPIT)",
@@ -282,7 +310,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Joensuu campus; personalised curriculum for each student; a standalone international Master's admission open to applicants with a Bachelor's from any institution (UEF's own Bachelor's in Information Technology/Computer Science graduates get preference in one applicant group but this is not the only route in) - confirmed genuinely separate from the integrated Bachelor's and Master's Degree Programme in Information Technology's own internal Master's continuation stage, recorded separately below; tuition waivers of up to 50% available for most admitted non-EU students",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-information-technology"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-information-technology",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Medical Physics",
@@ -301,7 +331,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Kuopio campus",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-medical-physics"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-medical-physics",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Photonics",
@@ -320,7 +352,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Joensuu campus",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-photonics"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-photonics",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Intelligent Photonics for Security, Reliability, Sustainability and Safety (iPSRS)",
@@ -339,7 +373,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Joensuu campus; Erasmus Mundus Joint Master's degree (2024-2030), consortium coordinated by Universite Jean Monnet with Universite Paris-Est Creteil, Vilnius University and UEF; UEF has no dedicated uef.fi programme page (only the consortium's own master-photonics4security.eu site) and fee-setting is routed to the consortium's own 'Tuition fees and scholarships' page off uef.fi - per this project's sourcing rule, amounts are left unconfirmed rather than taken off-domain",
-    "source_url": "https://www.uef.fi/en/international-masters-degree-programmes"
+    "source_url": "https://www.uef.fi/en/international-masters-degree-programmes",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Research Chemists",
@@ -358,7 +394,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Joensuu campus; current official title is \"Master's Degree Programme for Research Chemists\" (confirmed on its own uef.fi page)",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-for-research-chemists"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-for-research-chemists",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Data Engineering",
@@ -377,7 +415,9 @@
       }
     },
     "duration": "3 years, 180 ECTS (Bachelor of Science, Technology, in Data Engineering); single integrated admission that continues directly into a 2-year, 120 ECTS Master of Science (Technology) in Data Engineering with no separate application - official title is \"Bachelor's and Master's Degree Programme in Data Engineering\"; Joensuu and Kuopio campuses",
-    "source_url": "https://www.uef.fi/en/degree-programme/bachelors-and-masters-degree-programme-in-data-engineering"
+    "source_url": "https://www.uef.fi/en/degree-programme/bachelors-and-masters-degree-programme-in-data-engineering",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Information Technology",
@@ -396,7 +436,9 @@
       }
     },
     "duration": "3 years, 180 ECTS Bachelor's stage; single integrated admission that continues directly into a 2-year, 120 ECTS Master's stage with no separate application (5 years total) - official title is \"Bachelor's and Master's Degree Programme in Information Technology\"; confirmed genuinely separate from the standalone Master's Degree Programme in Information Technology (IMPIT), which is its own, separately-admitted international Master's route recorded above; Joensuu and Kuopio campuses",
-    "source_url": "https://www.uef.fi/en/degree-programme/bachelors-and-masters-degree-programme-in-information-technology"
+    "source_url": "https://www.uef.fi/en/degree-programme/bachelors-and-masters-degree-programme-in-information-technology",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "European Forestry (Erasmus Mundus)",
@@ -415,7 +457,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Joensuu campus (UEF is the coordinating university) plus mobility across partner universities (AgroParisTech France, University of Freiburg Germany, University of Lleida Spain, BOKU Austria, Transilvania University of Brasov Romania, Wageningen University Netherlands); Erasmus Mundus Joint Master (EMJM) programme — neither uef.fi nor the programme's own sites.uef.fi site publishes a tuition-fee figure for EU or non-EU students, stating only that 'Erasmus Mundus and Joint Degree Programmes have their own tuition fee and scholarship programmes' and directing applicants to Studyinfo.fi/the consortium; per this project's sourcing rule, fees left null rather than taken off-domain",
-    "source_url": "https://sites.uef.fi/europeanforestry/"
+    "source_url": "https://sites.uef.fi/europeanforestry/",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Forestry",
@@ -434,7 +478,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Joensuu campus",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-forestry-cbu"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-forestry-cbu",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Forestry (Transatlantic Forestry)",
@@ -453,7 +499,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; also known as TRANSFOR-M; structured mobility between Joensuu (UEF) and Canadian partner institutions (University of Alberta, University of British Columbia, Lakehead University), leading to both a European and a Canadian Master's degree; confirmed a distinct programme from plain 'Forestry', not a track of it",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-forestry-transatlantic-forestry"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-forestry-transatlantic-forestry",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Early Language Education for Intercultural Communication",
@@ -472,7 +520,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Joensuu campus; non-EU fee paid in two instalments of €5,000",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-early-language-education-for-intercultural-communication"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-early-language-education-for-intercultural-communication",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Pedagogy and Teaching for Sustainability",
@@ -491,7 +541,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Joensuu campus",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-pedagogy-and-teaching-for-sustainability"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-pedagogy-and-teaching-for-sustainability",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Clinical Linguistics",
@@ -510,7 +562,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; also known as the Erasmus Mundus Joint Master's Degree in Clinical Linguistics (EMCL); 1st semester at UEF (Joensuu), remaining semesters at Ghent University and University of Groningen; the programme's own uef.fi page states no tuition-fee figure at all (checked the full page text for any mention of fees/EUR/scholarships — none found) and UEF's general tuition-fees page confirms Erasmus Mundus/Joint Degree Programmes run their own separate tuition-fee and scholarship system rather than UEF's standard rate; fees left null per this project's sourcing rule rather than taken from an off-domain EMCL consortium page",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-clinical-linguistics"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-clinical-linguistics",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "English Language and Culture",
@@ -529,7 +583,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Joensuu campus",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-english-language-and-culture"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-english-language-and-culture",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Linguistic Data Sciences",
@@ -548,7 +604,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Joensuu campus",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-linguistic-data-sciences"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-linguistic-data-sciences",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Faith, Crises and Existential Wellbeing",
@@ -567,7 +625,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Joensuu campus; confirmed Philosophical Faculty (School of Theology), not a standalone Theology faculty",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-faith-crises-and-existential-wellbeing"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-faith-crises-and-existential-wellbeing",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Biomedicine",
@@ -586,7 +646,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Kuopio campus",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-biomedicine"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-biomedicine",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Public Health (MPH)",
@@ -605,7 +667,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Kuopio campus",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-public-health"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-public-health",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Toxicology",
@@ -624,7 +688,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; Kuopio campus",
-    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-general-toxicology"
+    "source_url": "https://www.uef.fi/en/degree-programme/masters-degree-programme-in-general-toxicology",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "East Slavic Societies and Religion",
@@ -643,7 +709,9 @@
       }
     },
     "duration": "3 years, 180 ECTS; Joensuu campus",
-    "source_url": "https://www.uef.fi/en/degree-programme/bachelors-degree-programme-in-east-slavic-societies-and-religion"
+    "source_url": "https://www.uef.fi/en/degree-programme/bachelors-degree-programme-in-east-slavic-societies-and-religion",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Human and Planetary Health",
@@ -662,7 +730,9 @@
       }
     },
     "duration": "3 years, 180 ECTS; Kuopio campus",
-    "source_url": "https://www.uef.fi/en/degree-programme/bachelors-degree-programme-in-human-and-planetary-health"
+    "source_url": "https://www.uef.fi/en/degree-programme/bachelors-degree-programme-in-human-and-planetary-health",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Sustainable Forest Bioeconomy",
@@ -681,7 +751,9 @@
       }
     },
     "duration": "3 years, 180 ECTS; Joensuu campus",
-    "source_url": "https://www.uef.fi/en/degree-programme/bachelors-degree-programme-in-sustainable-forest-bioeconomy"
+    "source_url": "https://www.uef.fi/en/degree-programme/bachelors-degree-programme-in-sustainable-forest-bioeconomy",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Lifelong Learning and Sustainable Development",
@@ -700,6 +772,8 @@
       }
     },
     "duration": "3 years, 180 ECTS; Joensuu campus; Bachelor of Arts (Education); 30% early-bird discount for year 1 if paid within 3 weeks of admission, 30% scholarship in year 2 conditional on completing 55 ECTS in year 1; genuinely Philosophical Faculty-owned (Educational Sciences), tentatively assigned to a Social Sciences/Business/Law research batch which correctly flagged and excluded it as belonging elsewhere - researched and added directly after all 3 batches completed",
-    "source_url": "https://www.uef.fi/en/degree-programme/bachelors-degree-programme-in-lifelong-learning-and-sustainable-development"
+    "source_url": "https://www.uef.fi/en/degree-programme/bachelors-degree-programme-in-lifelong-learning-and-sustainable-development",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   }
 ]

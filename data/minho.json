@@ -4,87 +4,151 @@
     "degree_level": "Master's (Mestrado, 2nd cycle)",
     "faculty": "School of Economics and Management (EEG)",
     "tuition_fee": {
-      "eu_students": { "amount": 3500, "period": "total" },
-      "non_eu_students": { "amount": 9000, "period": "total" }
+      "eu_students": {
+        "amount": 3500,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 9000,
+        "period": "total"
+      }
     },
     "duration": "3 semesters (1.5 years), 90 ECTS",
-    "source_url": "https://www.eeg.uminho.pt/en/study/mestrados/Pages/finance.aspx"
+    "source_url": "https://www.eeg.uminho.pt/en/study/mestrados/Pages/finance.aspx",
+    "last_verified": "2026-07-24",
+    "verified_by_admin": null
   },
   {
     "course_name": "Economics",
     "degree_level": "Master's (Mestrado, 2nd cycle)",
     "faculty": "School of Economics and Management (EEG)",
     "tuition_fee": {
-      "eu_students": { "amount": 2500, "period": "total" },
-      "non_eu_students": { "amount": 9000, "period": "total" }
+      "eu_students": {
+        "amount": 2500,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 9000,
+        "period": "total"
+      }
     },
     "duration": "3 semesters (1.5 years), 90 ECTS",
-    "source_url": "https://www.eeg.uminho.pt/en/study/mestrados/Pages/economics.aspx"
+    "source_url": "https://www.eeg.uminho.pt/en/study/mestrados/Pages/economics.aspx",
+    "last_verified": "2026-07-24",
+    "verified_by_admin": null
   },
   {
     "course_name": "Business and Management",
     "degree_level": "Master's (Mestrado, 2nd cycle)",
     "faculty": "School of Economics and Management (EEG)",
     "tuition_fee": {
-      "eu_students": { "amount": 3500, "period": "total" },
-      "non_eu_students": { "amount": 9000, "period": "total" }
+      "eu_students": {
+        "amount": 3500,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 9000,
+        "period": "total"
+      }
     },
     "duration": "3 semesters (1.5 years), 90 ECTS",
-    "source_url": "https://www.eeg.uminho.pt/en/study/mestrados/Pages/business-and-management.aspx"
+    "source_url": "https://www.eeg.uminho.pt/en/study/mestrados/Pages/business-and-management.aspx",
+    "last_verified": "2026-07-24",
+    "verified_by_admin": null
   },
   {
     "course_name": "Mechanical Engineering",
     "degree_level": "Master's (Mestrado, 2nd cycle)",
     "faculty": "School of Engineering",
     "tuition_fee": {
-      "eu_students": { "amount": 697, "period": "year" },
-      "non_eu_students": { "amount": 6500, "period": "year" }
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 6500,
+        "period": "year"
+      }
     },
     "duration": "4 semesters (2 years), 120 ECTS",
-    "source_url": "https://www.eng.uminho.pt/en/study/_layouts/15/UMinho.PortaisUOEI.UI/Pages/CatalogoCursoDetail.aspx?itemId=6156&catId=17"
+    "source_url": "https://www.eng.uminho.pt/en/study/_layouts/15/UMinho.PortaisUOEI.UI/Pages/CatalogoCursoDetail.aspx?itemId=6156&catId=17",
+    "last_verified": "2026-07-24",
+    "verified_by_admin": null
   },
   {
     "course_name": "Sustainability of the Built Environment",
     "degree_level": "Master's (Mestrado, 2nd cycle)",
     "faculty": "School of Engineering",
     "tuition_fee": {
-      "eu_students": { "amount": 697, "period": "year" },
-      "non_eu_students": { "amount": 6500, "period": "year" }
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 6500,
+        "period": "year"
+      }
     },
     "duration": "4 semesters (2 years), 120 ECTS",
-    "source_url": "https://www.eng.uminho.pt/en/study/_layouts/15/UMinho.PortaisUOEI.UI/Pages/CatalogoCursoDetail.aspx?itemId=6089&catId=17"
+    "source_url": "https://www.eng.uminho.pt/en/study/_layouts/15/UMinho.PortaisUOEI.UI/Pages/CatalogoCursoDetail.aspx?itemId=6089&catId=17",
+    "last_verified": "2026-07-24",
+    "verified_by_admin": null
   },
   {
     "course_name": "Building Information Modelling - BIM A+",
     "degree_level": "Master's (Mestrado, 2nd cycle)",
     "faculty": "School of Engineering",
     "tuition_fee": {
-      "eu_students": { "amount": 9000, "period": "total" },
-      "non_eu_students": { "amount": 9000, "period": "total" }
+      "eu_students": {
+        "amount": 9000,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 9000,
+        "period": "total"
+      }
     },
     "duration": "2 semesters (1 year), 60 ECTS",
-    "source_url": "https://www.eng.uminho.pt/en/study/_layouts/15/UMinho.PortaisUOEI.UI/Pages/CatalogoCursoDetail.aspx?itemId=6121&catId=17"
+    "source_url": "https://www.eng.uminho.pt/en/study/_layouts/15/UMinho.PortaisUOEI.UI/Pages/CatalogoCursoDetail.aspx?itemId=6121&catId=17",
+    "last_verified": "2026-07-24",
+    "verified_by_admin": null
   },
   {
     "course_name": "Structural Analysis of Monuments and Historic Constructions",
     "degree_level": "Master's (Mestrado, 2nd cycle)",
     "faculty": "School of Engineering",
     "tuition_fee": {
-      "eu_students": { "amount": 9000, "period": "total" },
-      "non_eu_students": { "amount": 9000, "period": "total" }
+      "eu_students": {
+        "amount": 9000,
+        "period": "total"
+      },
+      "non_eu_students": {
+        "amount": 9000,
+        "period": "total"
+      }
     },
     "duration": "2 semesters (1 year), 60 ECTS",
-    "source_url": "https://www.uminho.pt/en/education/educational-offer/_layouts/15/uminho.portalum.ui/pages/catalogocursodetail.aspx?itemid=3142&catid=9"
+    "source_url": "https://www.uminho.pt/en/education/educational-offer/_layouts/15/uminho.portalum.ui/pages/catalogocursodetail.aspx?itemid=3142&catid=9",
+    "last_verified": "2026-07-24",
+    "verified_by_admin": null
   },
   {
     "course_name": "Aerospace Engineering",
     "degree_level": "Master's (Mestrado, 2nd cycle)",
     "faculty": "School of Engineering",
     "tuition_fee": {
-      "eu_students": { "amount": 697, "period": "year" },
-      "non_eu_students": { "amount": 6500, "period": "year" }
+      "eu_students": {
+        "amount": 697,
+        "period": "year"
+      },
+      "non_eu_students": {
+        "amount": 6500,
+        "period": "year"
+      }
     },
     "duration": "4 semesters (2 years), 120 ECTS",
-    "source_url": "https://www.eng.uminho.pt/en/study/_layouts/15/UMinho.PortaisUOEI.UI/Pages/CatalogoCursoDetail.aspx?itemId=6190&catId=17"
+    "source_url": "https://www.eng.uminho.pt/en/study/_layouts/15/UMinho.PortaisUOEI.UI/Pages/CatalogoCursoDetail.aspx?itemId=6190&catId=17",
+    "last_verified": "2026-07-24",
+    "verified_by_admin": null
   }
 ]

@@ -16,7 +16,9 @@
       }
     },
     "duration": "Integrated 3+2 track: 3 years Bachelor of Science (Technology), 180 ECTS, continuing automatically into 2 years Master of Science (Technology), 120 ECTS. Graduates continue into the international Master's Degree Programme in Information and Communication Technology, choosing one of its specialisation tracks - Cyber Security, Data Analytics, Robotics and Autonomous Systems, or Software Engineering (all confirmed Faculty of Technology). A 5th ICT Master's track, Cryptography, is administered by the Faculty of Science (confirmed on its own page), not the Faculty of Technology, so it is out of scope for this file - would belong in a future Faculty of Science file. Non-EU fee: EUR 10,000/year for the Bachelor's years, EUR 12,000/year for the Master's years (see the Master's ICT record).",
-    "source_url": "https://www.utu.fi/en/study-at-utu/bachelors-degree-programme-in-information-and-communication-technology"
+    "source_url": "https://www.utu.fi/en/study-at-utu/bachelors-degree-programme-in-information-and-communication-technology",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Automation Engineering",
@@ -35,7 +37,9 @@
       }
     },
     "duration": "2 years, 120 ECTS (Major/specialisation studies 40 ECTS + Master's Thesis and Project 40 ECTS + Minor/Thematic Studies 20-25 ECTS + Other Studies 15-20 ECTS). Two specialisation tracks per the department's own site (sites.utu.fi/automation): Industrial Systems Engineering and Electric Powertrain Systems - the official 2024-2027 study guide (opas.peppi.utu.fi, programme code 100082) instead names the first track \"Industrial Automation Engineering\"; this naming inconsistency between the two official sources was not further resolved. Non-EU fee genuinely unconfirmed and left null rather than assumed at the standard EUR 12,000/year Faculty of Technology Master's rate: unlike every other programme in this file, Automation Engineering has no dedicated international-admissions page on utu.fi/en/study-at-utu (no clickable link on the official \"Bachelor's and Master's Degree Programmes\" listing page - it appears there as plain, unlinked text, unlike every sibling programme), does not appear in utu.fi's own education-search results for \"automation\" (only Mechanical Engineering: Smart Systems does, via an unrelated course description), and is absent entirely from the central \"Tuition fees and scholarships\" page's programme-specific fee table, which otherwise lists every one of the other 6 Faculty of Technology programmes in this file with a real EUR 10,000 or EUR 12,000 figure. Course content is taught in English per the study guide, but the programme does not appear to currently be open via the standard international January application round the way the other 6 programmes here are - if this file is extended later, re-check whether a dedicated admissions page/fee has since been published rather than assuming this gap is permanent.",
-    "source_url": "https://sites.utu.fi/automation/teaching/master-studies/"
+    "source_url": "https://sites.utu.fi/automation/teaching/master-studies/",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Food Development",
@@ -54,7 +58,9 @@
       }
     },
     "duration": "2 years, 120 ECTS (Common Studies 10 ECTS + Food Development studies 30 ECTS + Master's Thesis 40 ECTS + Thematic Module/Minor 20-25 ECTS + Other studies incl. language requirements 15-20 ECTS). Studies begin late August 2026.",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-food-development"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-food-development",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Health Technology",
@@ -73,7 +79,9 @@
       }
     },
     "duration": "2 years, 120 ECTS (Common Studies 20 ECTS + Core module in Health Technology 20 ECTS + Language studies 0-5 ECTS + Master's Thesis & Project module 40 ECTS + Thematic module/minor 20-25 ECTS + Other studies 10-20 ECTS). Combines computer science and data analysis with a focus on biosignals; annual student quota 20; no more specific owning department than the bare Faculty stated on the programme's own page (only an affiliated \"Digital Health Technology Group\" research group is named, not the administrative home of the degree). Studies begin late August 2026.",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-health-technology"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-health-technology",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Information and Communication Technology",
@@ -92,7 +100,9 @@
       }
     },
     "duration": "2 years, 120 ECTS (Advanced-level major-subject studies 50 ECTS + Thematic module/minor subject 20-25 ECTS + Other studies 15-20 ECTS + Master's Thesis 30 ECTS). Offers 5 specialisation tracks for the 2025-2026 admissions round, but only 4 are recorded here as Faculty-of-Technology-owned (each independently confirmed on its own utu.fi page: Cyber Security, Data Analytics, Robotics and Autonomous Systems, Software Engineering - identical programme name, fee and degree structure across all 4, differing only in specialisation, so not split into separate records). The 5th track, Cryptography, is genuinely administered by the Faculty of Science (its own page states \"Faculty: Faculty of Science\", unlike the other 4 tracks' \"Faculty: Faculty of Technology\") and is therefore excluded from this file - a real cross-faculty finding, not an oversight; would belong in a future Faculty of Science file for University of Turku. International double-degree collaboration with the EIT (European Institute of Innovation and Technology) Master School.",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-information-and-communication-technology-software-engineering"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-information-and-communication-technology-software-engineering",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Materials Engineering",
@@ -111,7 +121,9 @@
       }
     },
     "duration": "2 years, 120 ECTS (Joint materials engineering studies 20 ECTS + specialisation-track studies 20 ECTS + Thesis and project 40 ECTS + Minor/Thematic Studies 20-25 ECTS + Other studies 15-20 ECTS). 3 specialisation tracks, each independently confirmed on its own utu.fi page with identical programme name/fee/structure, not split into separate records: Modern Industrial Materials, Materials of Energy Technology, Health Technology Materials.",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-materials-engineering-modern-industrial-materials"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-materials-engineering-modern-industrial-materials",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Mechanical Engineering",
@@ -130,7 +142,9 @@
       }
     },
     "duration": "2 years, 120 ECTS (Joint mechanical engineering studies 20 ECTS + specialisation-track studies 20 ECTS + Thesis and project 40 ECTS + Minor/Thematic Studies 20-25 ECTS + Other studies 15-20 ECTS). 3 specialisation tracks, each independently confirmed on its own utu.fi page with identical programme name/fee/structure, not split into separate records: Digital Design, Digital Manufacturing, Smart Systems.",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-mechanical-engineering-smart-systems"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-mechanical-engineering-smart-systems",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Biomedical Imaging",
@@ -149,7 +163,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; annual quota 15; application period January 2026 for autumn 2026 intake; advanced studies in medical imaging, microscopy and/or bioimage data analysis, jointly taught with Abo Akademi University per third-party programme descriptions (not itself stated on the utu.fi page, so not treated as confirmed) - own utu.fi page confirms only Faculty of Medicine, Institute of Biomedicine as the owning unit",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-biomedical-sciences-biomedical-imaging"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-biomedical-sciences-biomedical-imaging",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Drug Discovery and Development",
@@ -168,7 +184,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; annual quota 15; application period January 2026 for autumn 2026 intake; covers the full drug development chain - target identification, lead generation, clinical trial design, biostatistics, pharmacovigilance and regulatory science; admitted students may need 0-18 ECTS of supplementary studies in pharmacology/anatomy/physiology/histology/cell biology depending on background",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-biomedical-sciences-drug-discovery-and-development"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-biomedical-sciences-drug-discovery-and-development",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Human Neuroscience",
@@ -187,7 +205,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; annual quota 20; application period January 2026 for autumn 2026 intake; curriculum: brain imaging methods (20 ECTS), clinical neuroscience (25 ECTS), behavioural methods for cognition/perception/consciousness/performance (15 ECTS), other studies (20 ECTS), Master's thesis (40 ECTS); students work with research groups at Turku PET Centre",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-human-neuroscience"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-human-neuroscience",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Immunology",
@@ -206,7 +226,9 @@
       }
     },
     "duration": "2 years, 120 ECTS (assumed, standard UTU Master's structure - not independently confirmed since no live programme page exists). CONFIRMED REAL PROGRAMME: \"MDP in Immunology\" is explicitly named alongside Biomedical Imaging/Drug Discovery and Development/Human Neuroscience/Public Mental Health under Faculty of Medicine's \"Health and Biomedical Sciences\" group on utu.fi's own official master's-programmes listing page. However its own dedicated programme page at the expected URL (masters-degree-programme-in-immunology) returns an explicit Drupal \"Forbidden\" (403) response - consistent with the page existing in the CMS as an unpublished/not-yet-live node, not a genuine 404 - and it is absent from utu.fi's full sitemap (checked all 9 sitemap pages) and from utu.fi's own site search for \"immunology\". No fee, exact duration, or specific owning department (e.g. Institute of Biomedicine, MediCity, Turku Immunology Centre, InFLAMES) could be confirmed anywhere on utu.fi as of this research pass (2026-09-16) - non-EU fee left null rather than guessed at the ~10,000-12,000 EUR range seen on sibling Faculty of Medicine programmes. Re-check for a live page if this file is extended later; it may have gone live for the January 2027 application round.",
-    "source_url": "https://www.utu.fi/en/study-at-utu/bachelors-and-masters-degree-programmes"
+    "source_url": "https://www.utu.fi/en/study-at-utu/bachelors-and-masters-degree-programmes",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Public Mental Health",
@@ -225,7 +247,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; annual quota 15; application period January 2026 for autumn 2026 intake; Major Studies and Research Methods in Public Mental Health form 40 ECTS of the curriculum, plus epidemiology, health care systems, and research-based development of remote/digital/technology-assisted mental-health interventions",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-public-mental-health"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-public-mental-health",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Environmental and Sustainability Science",
@@ -244,7 +268,9 @@
       }
     },
     "duration": "2 years, 120 ECTS (assumed, standard UTU Master's structure - not independently confirmed). CONFIRMED REAL PROGRAMME: \"MDP in Environmental and Sustainability Science\" is explicitly named under Faculty of Science's \"Natural Sciences\" group on utu.fi's own official master's-programmes listing page, alongside the (linked) MDP in Exact Sciences and MDP in Biosciences. However, unlike those two, it has no hyperlink on that page, no page found at any guessed URL slug (all returned a genuine 404, not the 403-unpublished-node signal seen for Immunology), no entry anywhere in utu.fi's full sitemap, and no result via utu.fi's own site search - suggesting this programme may not yet have any CMS node created at all, an even earlier stage than Immunology's unpublished-draft state. No fee, exact duration, or owning department could be confirmed on utu.fi as of this research pass (2026-09-16) - non-EU fee left null rather than guessed. Re-check for a live page if this file is extended later.",
-    "source_url": "https://www.utu.fi/en/study-at-utu/bachelors-and-masters-degree-programmes"
+    "source_url": "https://www.utu.fi/en/study-at-utu/bachelors-and-masters-degree-programmes",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Exact Sciences: Astronomy and Space Physics",
@@ -263,7 +289,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; shared annual quota of 30 across the whole MDP in Exact Sciences; application period January 2026 for autumn 2026 intake; one of 6 independently-admitted specialization tracks within the Master's Degree Programme in Exact Sciences (own page, own URL, own Studyinfo.fi application code per track - not a single shared admission, so recorded as its own record rather than folded into one umbrella row), the others being Chemistry of Drug Development, Chemistry of Materials for Sustainable Development, Materials Physics, Mathematics and Statistics, and Theoretical Physics; the overall programme was previously named the Master's Degree Programme in Physical and Chemical Sciences",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-exact-sciences-astronomy-and-space-physics"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-exact-sciences-astronomy-and-space-physics",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Exact Sciences: Chemistry of Drug Development",
@@ -282,7 +310,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; shared annual quota of 30 across the whole MDP in Exact Sciences; application period January 2026 for autumn 2026 intake; one of 6 independently-admitted specialization tracks within the Master's Degree Programme in Exact Sciences (see Astronomy and Space Physics record for the full sibling list) - not to be confused with the Faculty of Medicine's separate Drug Discovery and Development programme (Institute of Biomedicine), which covers the same general subject area from the biomedical rather than chemistry side",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-exact-sciences-chemistry-of-drug-development"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-exact-sciences-chemistry-of-drug-development",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Exact Sciences: Chemistry of Materials for Sustainable Development",
@@ -301,7 +331,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; shared annual quota of 30 across the whole MDP in Exact Sciences; application period January 2026 for autumn 2026 intake; one of 6 independently-admitted specialization tracks within the Master's Degree Programme in Exact Sciences (see Astronomy and Space Physics record for the full sibling list); note the page's own URL slug is \"materials-chemistry\" though the displayed/current title is \"Chemistry of Materials for Sustainable Development\"",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-exact-sciences-materials-chemistry"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-exact-sciences-materials-chemistry",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Exact Sciences: Materials Physics",
@@ -320,7 +352,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; shared annual quota of 30 across the whole MDP in Exact Sciences; application period January 2026 for autumn 2026 intake; one of 6 independently-admitted specialization tracks within the Master's Degree Programme in Exact Sciences (see Astronomy and Space Physics record for the full sibling list)",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-exact-sciences-materials-physics"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-exact-sciences-materials-physics",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Exact Sciences: Mathematics and Statistics",
@@ -339,7 +373,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; shared annual quota of 30 across the whole MDP in Exact Sciences; application period January 2026 for autumn 2026 intake; one of 6 independently-admitted specialization tracks within the Master's Degree Programme in Exact Sciences (see Astronomy and Space Physics record for the full sibling list)",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-exact-sciences-mathematics-and-statistics"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-exact-sciences-mathematics-and-statistics",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Exact Sciences: Theoretical Physics",
@@ -358,7 +394,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; shared annual quota of 30 across the whole MDP in Exact Sciences; application period January 2026 for autumn 2026 intake; one of 6 independently-admitted specialization tracks within the Master's Degree Programme in Exact Sciences (see Astronomy and Space Physics record for the full sibling list)",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-exact-sciences-theoretical-physics"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-exact-sciences-theoretical-physics",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Biosciences: Evolutionary Biology",
@@ -377,7 +415,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; shared annual quota of 15 across the whole MDP in Biosciences; application period January 2026 for autumn 2026 intake; emphasizes bioinformatic/computational methods for analyzing evolutionary and NGS data (modern and ancient DNA); one of 2 named specialization tracks under the Master's Degree Programme in Biosciences per utu.fi's own programme listing, but see note below - the other track, Molecular Systems Biology, was found on its own page to actually be owned by a different Faculty entirely and was therefore excluded from this file (Faculty of Medicine + Faculty of Science scope only) rather than recorded here",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-biosciences-evolutionary-biology"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-biosciences-evolutionary-biology",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Space Technology and Environmental Remote Sensing",
@@ -396,7 +436,9 @@
       }
     },
     "duration": "2 years, 120 ECTS (assumed, standard UTU Master's structure - not independently confirmed). CONFIRMED REAL PROGRAMME: \"MDP in Space Technology and Environmental Remote Sensing\" is explicitly named under Faculty of Science's \"Natural Sciences\" group on utu.fi's own official master's-programmes listing page. Like Environmental and Sustainability Science, it has no hyperlink there, no page at any guessed URL slug (genuine 404s, not the 403-unpublished signal), no entry in utu.fi's full sitemap, and no utu.fi site-search result. UTU Geospatial Labs' own education page (geospatial.utu.fi/education/, a utu.fi subdomain, the natural home for this subject) also returned a 404 for its expected URL. No fee, exact duration, or owning department could be confirmed anywhere on utu.fi as of this research pass (2026-09-16) - non-EU fee left null rather than guessed. Likely owning department if/when a page appears: Department of Geography and Geology (which runs UTU's existing remote-sensing research and teaching) - flagged as a plausible but unconfirmed guess, not recorded as the faculty value. Re-check for a live page if this file is extended later.",
-    "source_url": "https://www.utu.fi/en/study-at-utu/bachelors-and-masters-degree-programmes"
+    "source_url": "https://www.utu.fi/en/study-at-utu/bachelors-and-masters-degree-programmes",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Information and Communication Technology: Cryptography",
@@ -415,7 +457,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; shared annual quota of 55 across the whole MDP in Information and Communication Technology; application period January 2026 for autumn 2026 intake. CONFIRMED via its own utu.fi page's \"Faculty\" field, which states plainly \"Faculty of Science\" - unlike its 4 sibling ICT tracks (Cyber Security, Data Analytics, Robotics and Autonomous Systems, Software Engineering), whose own pages each state \"Faculty of Technology\" instead. Recorded here as its own Faculty of Science record per this file's scope rather than grouped with the Technology-faculty ICT tracks (which are out of scope for this pass).",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-information-and-communication-technology-cryptography"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-information-and-communication-technology-cryptography",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Sustainable and Social Entrepreneurship",
@@ -434,7 +478,9 @@
       }
     },
     "duration": "3 years, 180 ECTS; standalone Bachelor's, not an integrated 3+2 track - programme's own page explicitly states \"admission to Master's degree programmes is competitive and not automatic,\" though graduates are eligible to apply to related TSE Master's programmes (e.g. Global Innovation Management, Futures Studies) or elsewhere; degree awarded is Bachelor of Science (Economics and Business Administration); fee figure corresponds to the 2026 intake (studies begin late August 2026), consistent with University of Turku's new full-cost tuition fee law taking effect 1 August 2026",
-    "source_url": "https://www.utu.fi/en/study-at-utu/bachelors-degree-programme-in-sustainable-and-social-entrepreneurship"
+    "source_url": "https://www.utu.fi/en/study-at-utu/bachelors-degree-programme-in-sustainable-and-social-entrepreneurship",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Futures Studies",
@@ -453,7 +499,9 @@
       }
     },
     "duration": "2 years, 120 ECTS",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-futures-studies"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-futures-studies",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Global Innovation Management",
@@ -472,7 +520,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; programme's own page names no more specific unit than Turku School of Economics as a whole (older archived programme materials associate it loosely with international business/entrepreneurship/innovation-management subject areas spanning more than one TSE department, so no single department was attributed)",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-global-innovation-management"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-global-innovation-management",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Education and Learning",
@@ -491,7 +541,9 @@
       }
     },
     "duration": "2 years, 120 ECTS",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-education-and-learning"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-education-and-learning",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Peace, Justice and Strong Institutions",
@@ -510,7 +562,9 @@
       }
     },
     "duration": "Not yet confirmed - genuine discrepancy found between two official utu.fi sources, flagged rather than resolved: this programme IS listed under Faculty of Law on utu.fi's official 'Bachelor's and Master's Degree Programmes' directory page (the starting-point listing for this build), but utu.fi's own EC2U alliance page (utu.fi/en/university/international-networks/EC2U) states as of this pass that 'a fourth programme is being planned and it will be based on the theme of Peace, Justice and Strong Institutions' - i.e. not yet operational, with no live admissions/fee page found at any guessed URL (the pattern used by sibling EC2U programme 'European Languages, Cultures and Societies in Contact' - .../masters-degree-programme-in-peace-justice-and-strong-institutions - 404s). It is a planned EC2U joint master's degree (Sustainable Development Goal 16: Peace, Justice and Strong Institutions), a 4th joint programme alongside Turku/Jena/Coimbra/Iasi/Pavia/Poitiers/Salamanca-network EC2U alliance partners (Pavia, Poitiers and Salamanca specifically named in EC2U's own SDG16 work-package materials). Recorded here as a real, named, currently-listed programme per this project's precedent for genuinely upcoming/paused programmes (not excluded), but with duration/ECTS and both fee sides left null since nothing beyond the name and owning faculty could be confirmed on any utu.fi page. Re-check utu.fi directly for a live programme page before trusting this record's completeness in a future session.",
-    "source_url": "https://www.utu.fi/en/study-at-utu/bachelors-and-masters-degree-programmes"
+    "source_url": "https://www.utu.fi/en/study-at-utu/bachelors-and-masters-degree-programmes",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "East Asian Studies",
@@ -529,7 +583,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; degree awarded is Master of Social Sciences; the official 'Bachelor's and Master's Degree Programmes' listing page groups this under both 'Faculty of Social Sciences/Faculty of Humanities,' but the programme's own dedicated page states only Faculty of Social Sciences, Centre for East Asian Studies, with no mention of Faculty of Humanities involvement - recorded per the programme's own, more specific page rather than the general listing page",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-east-asian-studies"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-east-asian-studies",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "European Languages, Cultures and Societies in Contact",
@@ -548,7 +604,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; an EC2U (European Civic University alliance) joint master's degree - a genuine 'everyone pays' exception to the normal Finnish EU=0 rule, but unlike similar joint-consortium exceptions elsewhere in this project, University of Turku's own page states a real confirmed figure for both sides: EUR 1,500/academic year (called the 'EC2U student fee') for every student regardless of citizenship, not a full standard non-EU rate. For EU/EEA/Swiss students the page states this fee is reimbursed (minus student health service and student union costs still payable); for non-EU/EEA students it is explicitly non-reimbursable. Recorded as 1,500 on both sides per the page's own stated figures, with the reimbursement asymmetry noted here rather than reflected in the numeric field (schema has no separate reimbursement flag)",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-european-languages-cultures-and-societies"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-european-languages-cultures-and-societies",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Inequalities, Interventions and New Welfare State",
@@ -567,7 +625,9 @@
       }
     },
     "duration": "2 years, 120 ECTS; programme's own page names no unit more specific than the bare Faculty",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-inequalities-interventions-and-new-welfare-state"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-inequalities-interventions-and-new-welfare-state",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   },
   {
     "course_name": "Biosciences: Molecular Systems Biology",
@@ -586,6 +646,8 @@
       }
     },
     "duration": "2 years, 120 ECTS; one of Biosciences' 2 named specialisation tracks - the sibling track, Evolutionary Biology, is Faculty of Science-owned (Department of Biology) and already recorded separately; this track genuinely sits under Faculty of Technology instead, confirmed via the programme's own explicit Faculty field, cross-faculty within one umbrella Master's name",
-    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-biosciences-molecular-systems-biology"
+    "source_url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-biosciences-molecular-systems-biology",
+    "last_verified": "2026-09-16",
+    "verified_by_admin": null
   }
 ]
