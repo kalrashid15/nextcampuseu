@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Your shortlist — NextCampusEU</title>
+<!-- Personal results page: keep it out of search engines. -->
+<meta name="robots" content="noindex, nofollow" />
+<meta name="theme-color" content="#112A20" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23112a20'/%3E%3Cpath d='M9 22V10l14 12V10' stroke='%23f7f3ea' stroke-width='2.4' fill='none' stroke-linecap='square'/%3E%3C/svg%3E" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..700;1,400..600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+:root{
+  --bone:#FBF8F2; --bone-2:#F3EEE3; --sand:#E9E0CE;
+  --ink:#14170F; --ink-2:#3E453A; --ink-3:#6B7367; --ink-4:#9AA096;
+  --forest:#112A20; --forest-2:#0B1D16; --forest-ink:#DCE7DF;
+  --accent:#D0562A; --accent-2:#B4441E; --accent-soft:#F6E3D8;
+  --line:rgba(20,23,15,.13); --line-soft:rgba(20,23,15,.07); --line-dark:rgba(220,231,223,.16);
+  --serif:'Playfair Display',Georgia,'Times New Roman',serif;
+  --sans:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bone);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+button{font:inherit;cursor:pointer}
+:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:2px}
+.wrap{max-width:1100px;margin:0 auto;padding:0 40px}
+h1,h2,h3{font-family:var(--serif);font-weight:500;letter-spacing:-.012em;margin:0;text-wrap:balance}
+.eyebrow{font-size:11.5px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-3)}
+
+.btn{display:inline-flex;align-items:center;gap:9px;padding:12px 20px;border-radius:2px;font-weight:600;font-size:14.5px;border:1px solid transparent;transition:.18s ease;white-space:nowrap;background:none}
+.btn-primary{background:var(--accent);color:#fff}
+.btn-primary:hover{background:var(--accent-2)}
+.btn-ghost{border-color:var(--line);color:var(--ink)}
+.btn-ghost:hover{border-color:var(--ink)}
+.btn-dark{background:var(--forest);color:var(--bone)}
+.btn-dark:hover{background:var(--forest-2)}
+.btn-ghost-dark{border-color:var(--line-dark);color:var(--forest-ink)}
+.btn-ghost-dark:hover{border-color:rgba(220,231,223,.45)}
+
+/* nav */
+.nav{position:sticky;top:0;z-index:60;background:rgba(251,248,242,.9);backdrop-filter:blur(14px);border-bottom:1px solid var(--line-soft)}
+.nav .wrap{display:flex;align-items:center;gap:24px;height:66px}
+.brand{display:flex;align-items:center;gap:11px;font-weight:700;font-size:17px;letter-spacing:-.02em}
+.brand .mark{width:30px;height:30px;border-radius:6px;background:var(--forest);display:grid;place-items:center;flex:none}
+.brand .mark svg{width:17px;height:17px}
+.brand .dot{color:var(--accent)}
+.nav-right{margin-left:auto;display:flex;gap:10px;align-items:center}
+.nav-back{font-size:14px;font-weight:500;color:var(--ink-2)}
+.nav-back:hover{color:var(--accent)}
+
+/* header */
+.head{padding:56px 0 34px;border-bottom:1px solid var(--line)}
+.head h1{font-size:clamp(30px,4vw,46px);line-height:1.08;margin-top:14px}
+.head h1 .n{color:var(--accent);font-style:italic}
+.head .sub{font-size:15.5px;color:var(--ink-2);margin:14px 0 0;max-width:640px}
+.chips{display:flex;gap:7px;flex-wrap:wrap;margin-top:20px}
+.chip{font-size:12.5px;background:var(--bone-2);border:1px solid var(--line-soft);padding:5px 11px;border-radius:2px;color:var(--ink-2);font-weight:500}
+.tools{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-top:24px}
+.tools .spacer{flex:1}
+.sort{display:flex;align-items:center;gap:9px;font-size:13px;color:var(--ink-3)}
+.sort select{font:inherit;font-size:14px;padding:9px 11px;border:1px solid var(--line);border-radius:2px;background:#fff;color:var(--ink)}
+.copied{font-size:13px;color:var(--accent-2);font-weight:600}
+
+/* list */
+.list{padding:10px 0 60px}
+.item{display:grid;grid-template-columns:minmax(0,1fr) 210px 150px;gap:28px;align-items:start;padding:24px 0;border-bottom:1px solid var(--line-soft)}
+.item .uni{font-size:11.5px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent)}
+.item h3{font-size:21px;line-height:1.22;margin:6px 0 5px}
+.item .fac{font-size:13.5px;color:var(--ink-3)}
+.item .official{display:inline-flex;align-items:center;gap:5px;margin-top:10px;font-size:13px;font-weight:600;color:var(--ink-2);border-bottom:1px solid var(--line);padding-bottom:1px}
+.item .official:hover{color:var(--accent);border-color:var(--accent)}
+.stat b{display:block;font-family:var(--serif);font-size:19px;font-weight:600;letter-spacing:-.01em;color:var(--ink)}
+.stat span{display:block;font-size:12.5px;color:var(--ink-3);margin-top:2px;line-height:1.4}
+.more{display:flex;justify-content:center;padding:26px 0 0}
+
+/* states */
+.state{padding:70px 0;text-align:center}
+.state h2{font-size:28px;margin-bottom:10px}
+.state p{color:var(--ink-3);max-width:520px;margin:0 auto 22px}
+.spin{width:28px;height:28px;border:2.5px solid var(--sand);border-top-color:var(--accent);border-radius:50%;margin:0 auto 16px;animation:sp 0.8s linear infinite}
+@keyframes sp{to{transform:rotate(360deg)}}
+
+/* closing call to action */
+.cta{background:var(--forest);color:var(--forest-ink);padding:56px 0}
+.cta .wrap{display:flex;gap:40px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+.cta h2{font-size:clamp(24px,3vw,34px);color:#F7F3EA;max-width:560px;line-height:1.15}
+.cta p{color:rgba(220,231,223,.72);margin:10px 0 0;max-width:520px;font-size:15px}
+.cta .acts{display:flex;gap:12px;flex-wrap:wrap}
+.foot{background:var(--forest-2);color:rgba(220,231,223,.5);font-size:12.5px;padding:22px 0}
+.foot .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+
+@media(max-width:820px){
+  .wrap{padding:0 20px}
+  .nav-back{display:none}
+  .item{grid-template-columns:1fr 1fr;gap:14px 20px}
+  .item .main{grid-column:1/-1}
+  .tools .spacer{display:none}
+}
+@media print{
+  .nav,.tools,.cta,.more,.wa-float{display:none !important}
+  body{background:#fff}
+  .head{padding-top:0}
+  .item{break-inside:avoid}
+  .item .official::after{content:" " attr(href);font-weight:400;color:var(--ink-3);font-size:11px;word-break:break-all}
+  .foot{background:none;color:var(--ink-3)}
+}
+@media (prefers-reduced-motion: reduce){ .spin{animation:none} }
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <span class="mark"><svg viewBox="0 0 32 32"><path d="M8 23V9l16 14V9" stroke="#F7F3EA" stroke-width="3" fill="none" stroke-linecap="square"/></svg></span>
+      NextCampus<span class="dot">EU</span>
+    </a>
+    <div class="nav-right">
+      <a class="nav-back" href="index.html#finder">← Change my answers</a>
+      <a class="btn btn-primary" href="index.html#talk">Talk to us</a>
+    </div>
+  </div>
+</nav>
+
+<main>
+  <header class="head">
+    <div class="wrap" id="head">
+      <div class="state"><div class="spin"></div><p>Loading your shortlist…</p></div>
+    </div>
+  </header>
+  <section class="list"><div class="wrap" id="list"></div></section>
+</main>
+
+<section class="cta">
+  <div class="wrap">
+    <div>
+      <h2>Want an honest read on where you'd actually get in?</h2>
+      <p>Send us this shortlist and your grades. We'll come back within one working day with the handful worth applying to — and the ones that aren't. First consultation free.</p>
+    </div>
+    <div class="acts">
+      <a class="btn btn-primary" href="index.html#talk">Talk to an advisor →</a>
+      <a class="btn btn-ghost-dark" id="waAdvisor" href="https://wa.me/351920607565" target="_blank" rel="noopener">WhatsApp us</a>
+    </div>
+  </div>
+</section>
+
+<footer class="foot">
+  <div class="wrap">
+    <span>NextCampusEU.com — every programme read off the university's own website.</span>
+    <span>Fees change between intakes; confirm on the official page before you apply.</span>
+  </div>
+</footer>
+
+<script>
+"use strict";
+/* ══════════ SHORTLIST ══════════
+   Everything that defines the shortlist lives in the URL:
+     ?c=country &l=level &d=field &p=passport &b=budget-band
+   No personal data travels in the link — it's safe to forward to a parent,
+   paste into WhatsApp, or bookmark.                                          */
+
+const DISC = {
+  business:'Business & Economics', engineering:'Engineering, Computing & Maths',
+  health:'Health & Life Sciences', arts:'Arts, Humanities & Design',
+  social:'Law, Social Sciences & Education',
+};
+const COUNTRY = { pt:'Portugal', ie:'Ireland', se:'Sweden', fi:'Finland' };
+const BAND_LABEL = ['Under €3,000','Under €6,000','Under €12,000','Under €25,000','No limit'];
+const PAGE = 40;                       // rows rendered at a time
+
+const nf = n => n.toLocaleString('en-US');
+const esc = s => String(s == null ? '' : s)
+  .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+const safeUrl = u => /^https?:\/\//i.test(u || '') ? u : '';
+
+const q = new URLSearchParams(location.search);
+const A = { c:q.get('c'), l:q.get('l'), d:q.get('d'), p:q.get('p'), b:parseInt(q.get('b'),10) };
+const valid = ['pt','ie','se','fi','any'].includes(A.c) && ['bsc','msc'].includes(A.l)
+  && DISC[A.d] && ['eu','ne'].includes(A.p) && A.b >= 0 && A.b <= 4;
+
+let DATA = null, RATE = 11.3, rows = [], shown = PAGE, sortBy = 'fee';
+
+/* ---- fees: identical rules to the homepage finder ---- */
+function feeEur(f){
+  if(!f) return null;
+  if(f.a === 0) return 0;
+  const annual = f.p === 'total' ? f.a / f.y : f.a;
+  return Math.round(annual / (f.c === 'SEK' ? RATE : 1));
+}
+function feeText(f, isEU){
+  if(!f) return {big:'Not published', sub:'fee not on the official page'};
+  if(f.a === 0) return {big:'No tuition fee', sub: isEU ? 'free for EU/EEA students' : 'no tuition fee charged'};
+  const eur = feeEur(f);
+  const big = (f.c === 'SEK' ? 'SEK ' : '€') + nf(f.a);
+  let sub;
+  if(f.p === 'total')     sub = 'whole programme · ≈ €' + nf(eur) + ' a year';
+  else if(f.c === 'SEK')  sub = 'per year · ≈ €' + nf(eur);
+  else if(f.t)            sub = 'year one · changes later';
+  else                    sub = 'per year';
+  return {big, sub};
+}
+
+/* ---- live SEK rate: reuse the homepage's cached value, else fetch, else fallback ---- */
+const FX_URL = 'https://api.freecurrencyapi.com/v1/latest?apikey=fca_live_gbz7xbLQ1S8paJTEkoecfWDgwk6Y2WxoAAErmmPl&currencies=EUR&base_currency=SEK';
+const FX_KEY = 'nc_sek_rate_v1', FX_MAXAGE = 12 * 60 * 60 * 1000;
+function useRate(r){ if(r > 6 && r < 20){ RATE = r; if(DATA) build(); return true; } return false; }
+function liveRate(){
+  let cached = null;
+  try { cached = JSON.parse(localStorage.getItem(FX_KEY) || 'null'); } catch(e){}
+  if(cached && cached.r && Date.now() - cached.t < FX_MAXAGE){ useRate(cached.r); return; }
+  const ctl = typeof AbortController !== 'undefined' ? new AbortController() : null;
+  const bail = setTimeout(() => { if(ctl) ctl.abort(); }, 6000);
+  fetch(FX_URL, ctl ? {signal: ctl.signal} : undefined)
+    .then(r => r.ok ? r.json() : Promise.reject(r.status))
+    .then(j => {
+      const per = j && j.data && j.data.EUR;
+      if(typeof per !== 'number' || !per) throw 'shape';
+      if(useRate(1 / per)){ try { localStorage.setItem(FX_KEY, JSON.stringify({r: 1 / per, t: Date.now()})); } catch(e){} }
+    })
+    .catch(() => {})
+    .finally(() => clearTimeout(bail));
+}
+
+/* ---- build + render ---- */
+function build(){
+  const cap = DATA.bands[A.b];
+  rows = DATA.rows.filter(r => {
+    if(A.c !== 'any' && DATA.unis[r.u][2] !== A.c) return false;
+    if(r.l !== A.l || r.d !== A.d) return false;
+    const e = feeEur(r[A.p]);
+    return e !== null && (cap === null || e <= cap);
+  });
+  sortRows();
+  renderHead(); renderList();
+}
+function sortRows(){
+  const U = DATA.unis;
+  if(sortBy === 'uni') rows.sort((a,b) => U[a.u][0].localeCompare(U[b.u][0]) || a.n.localeCompare(b.n));
+  else if(sortBy === 'country') rows.sort((a,b) => COUNTRY[U[a.u][2]].localeCompare(COUNTRY[U[b.u][2]]) || feeEur(a[A.p]) - feeEur(b[A.p]));
+  else rows.sort((a,b) => feeEur(a[A.p]) - feeEur(b[A.p]) || a.n.localeCompare(b.n));
+}
+
+function renderHead(){
+  let who = '';
+  try { who = (localStorage.getItem('nc_lead_name') || '').trim(); } catch(e){}
+  const level = A.l === 'bsc' ? "Bachelor's" : "Master's";
+  const n = rows.length;
+  const place = A.c === 'any' ? 'across all four countries' : 'in ' + COUNTRY[A.c];
+  document.getElementById('head').innerHTML =
+    '<div class="eyebrow">' + (who ? esc(who) + '’s shortlist' : 'Your shortlist') + '</div>' +
+    '<h1><span class="n">' + nf(n) + '</span> ' + level + ' programme' + (n === 1 ? '' : 's') +
+      ' in ' + esc(DISC[A.d].toLowerCase()) + ' ' + place + '</h1>' +
+    '<p class="sub">Every programme below is taught in English, with the fee and duration its university publishes. ' +
+      'Follow “Official page” to check the details at source before you apply.</p>' +
+    '<div class="chips">' +
+      '<span class="chip">' + (A.c === 'any' ? 'All four countries' : COUNTRY[A.c]) + '</span>' +
+      '<span class="chip">' + level + '</span>' +
+      '<span class="chip">' + esc(DISC[A.d]) + '</span>' +
+      '<span class="chip">' + (A.p === 'eu' ? 'EU passport' : 'Non-EU passport') + '</span>' +
+      '<span class="chip">' + BAND_LABEL[A.b] + (A.b < 4 ? '/yr' : '') + '</span>' +
+    '</div>' +
+    '<div class="tools">' +
+      '<label class="sort">Sort <select id="sortSel">' +
+        '<option value="fee"' + (sortBy==='fee'?' selected':'') + '>Lowest fee first</option>' +
+        '<option value="uni"' + (sortBy==='uni'?' selected':'') + '>University A–Z</option>' +
+        (A.c === 'any' ? '<option value="country"' + (sortBy==='country'?' selected':'') + '>Country</option>' : '') +
+      '</select></label>' +
+      '<span class="spacer"></span>' +
+      '<button class="btn btn-ghost" id="copyBtn" type="button">Copy link</button>' +
+      '<a class="btn btn-ghost" id="waShare" target="_blank" rel="noopener">Send to WhatsApp</a>' +
+      '<button class="btn btn-ghost" id="printBtn" type="button">Print</button>' +
+      '<span class="copied" id="copied" aria-live="polite"></span>' +
+    '</div>';
+
+  document.getElementById('sortSel').onchange = e => { sortBy = e.target.value; sortRows(); shown = PAGE; renderList(); };
+  document.getElementById('printBtn').onclick = () => { shown = rows.length; renderList(); window.print(); };
+  document.getElementById('waShare').href = 'https://wa.me/?text=' +
+    encodeURIComponent('My NextCampusEU shortlist — ' + n + ' programmes: ' + location.href);
+  document.getElementById('copyBtn').onclick = copyLink;
+}
+
+function copyLink(){
+  const done = () => { const c = document.getElementById('copied'); c.textContent = 'Link copied'; setTimeout(() => c.textContent = '', 2400); };
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(location.href).then(done, fallback);
+  } else fallback();
+  function fallback(){
+    const t = document.createElement('textarea'); t.value = location.href; document.body.appendChild(t);
+    t.select(); try { document.execCommand('copy'); done(); } catch(e){} t.remove();
+  }
+}
+
+function renderList(){
+  const el = document.getElementById('list');
+  if(!rows.length){
+    el.innerHTML = '<div class="state"><h2>Nothing matches these answers.</h2>' +
+      '<p>No programme in our database fits every one of those criteria. Widening the budget usually opens things up — or talk to us about scholarships.</p>' +
+      '<a class="btn btn-primary" href="index.html#finder">Change my answers →</a></div>';
+    return;
+  }
+  const U = DATA.unis;
+  el.innerHTML = rows.slice(0, shown).map(r => {
+    const u = U[r.u], f = feeText(r[A.p], A.p === 'eu'), url = safeUrl(r.url);
+    return '<article class="item">' +
+      '<div class="main">' +
+        '<div class="uni">' + esc(u[0]) + ' · ' + esc(u[1]) + (A.c === 'any' ? ' · ' + COUNTRY[u[2]] : '') + '</div>' +
+        '<h3>' + esc(r.n) + '</h3>' +
+        (r.f ? '<div class="fac">' + esc(r.f) + '</div>' : '') +
+        (url ? '<a class="official" href="' + esc(url) + '" target="_blank" rel="noopener">Official page ↗</a>' : '') +
+      '</div>' +
+      '<div class="stat"><b>' + esc(f.big) + '</b><span>' + esc(f.sub) + '</span></div>' +
+      '<div class="stat"><b>' + esc(r.du || '—') + '</b><span>Duration</span></div>' +
+    '</article>';
+  }).join('') +
+  (rows.length > shown
+    ? '<div class="more"><button class="btn btn-ghost" id="moreBtn" type="button">Show ' +
+        Math.min(PAGE, rows.length - shown) + ' more of ' + nf(rows.length - shown) + ' remaining</button></div>'
+    : '');
+  const more = document.getElementById('moreBtn');
+  if(more) more.onclick = () => { shown += PAGE; renderList(); };
+}
+
+function fail(title, msg){
+  document.getElementById('head').innerHTML =
+    '<div class="state"><h2>' + title + '</h2><p>' + msg + '</p>' +
+    '<a class="btn btn-primary" href="index.html#finder">Go to the programme finder →</a></div>';
+}
+
+/* ---- go ---- */
+if(!valid){
+  fail('This shortlist link isn’t complete.',
+       'Part of the address seems to be missing. Answer the five questions again and we’ll build it fresh — it takes about thirty seconds.');
+} else {
+  fetch('data/shortlist.json')
+    .then(r => r.ok ? r.json() : Promise.reject(r.status))
+    .then(d => { DATA = d; RATE = d.sek; liveRate(); build(); })
+    .catch(() => fail('We couldn’t load the programme data.',
+       'Please refresh the page. If this keeps happening, message us on WhatsApp and we’ll send your shortlist directly.'));
+}
+</script>
+</body>
+</html>

@@ -559,6 +559,23 @@
       margin-top: 6px;
     }
   }
+/* ---------- floating WhatsApp button ---------- */
+.wa-float{position:fixed;right:24px;bottom:24px;z-index:80;display:flex;align-items:center;gap:0;
+  width:58px;height:58px;border-radius:999px;background:#25D366;color:#fff;
+  box-shadow:0 6px 22px rgba(20,23,15,.28);transition:width .26s cubic-bezier(.4,0,.2,1),box-shadow .2s ease,transform .2s ease;
+  overflow:hidden;white-space:nowrap;padding-left:0}
+.wa-float svg{width:30px;height:30px;flex:none;margin:14px}
+.wa-float .wa-label{font-size:15px;font-weight:600;opacity:0;transition:opacity .18s ease;padding-right:22px;color:#fff}
+.wa-float:hover,.wa-float:focus-visible{width:196px;box-shadow:0 10px 30px rgba(20,23,15,.36);transform:translateY(-2px);color:#fff}
+.wa-float:hover .wa-label,.wa-float:focus-visible .wa-label{opacity:1}
+@media(max-width:820px){
+  .wa-float{right:16px;bottom:16px;width:54px;height:54px}
+  .wa-float svg{width:28px;height:28px;margin:13px}
+  .wa-float:hover,.wa-float:focus-visible{width:54px}   /* no room to expand on a phone */
+  .wa-float .wa-label{display:none}
+}
+@media (prefers-reduced-motion: reduce){ .wa-float{transition:none} }
+
 </style>
 
 <header class="site-nav">
