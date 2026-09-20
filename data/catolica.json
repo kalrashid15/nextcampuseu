@@ -14,6 +14,7 @@
       }
     },
     "duration": "6 semesters (3 years), 180 ECTS (Bologna default; page confirms ~60 ECTS/year pace)",
+    "language": "Portuguese and English",
     "source_url": "https://www.clsbe.lisboa.ucp.pt/bachelors-degrees-economics/economics",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -33,6 +34,7 @@
       }
     },
     "duration": "6 semesters (3 years), 180 ECTS (Bologna default)",
+    "language": "Portuguese and English",
     "source_url": "https://www.clsbe.lisboa.ucp.pt/bachelorsdegrees-management/fees-scholarships",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -52,6 +54,7 @@
       }
     },
     "duration": "6 semesters (3 years), 180 ECTS (Bologna default; fully taught in English)",
+    "language": "English",
     "source_url": "https://www.clsbe.lisboa.ucp.pt/international-bachelors-degrees-business-administration/fees-and-scholarships",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -71,6 +74,7 @@
       }
     },
     "duration": "6 semesters (3 years), 180 ECTS (Bologna default; fully taught in English)",
+    "language": "English",
     "source_url": "https://clsbe.lisboa.ucp.pt/iups-economics-finance/propinas-e-bolsas",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -90,6 +94,7 @@
       }
     },
     "duration": "6 semesters (3 years), 180 ECTS (Bologna default; fully taught in English)",
+    "language": "English",
     "source_url": "https://clsbe.lisboa.ucp.pt/international-undergraduate-program-management-data-analytics/fees-scholarships",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -109,6 +114,7 @@
       }
     },
     "duration": "3 or 4 semesters (1.5-2 years); ~90-120 ECTS",
+    "language": "English",
     "source_url": "https://www.clsbe.lisboa.ucp.pt/msc-economics/program-structure",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -128,6 +134,7 @@
       }
     },
     "duration": "3 or 4 semesters (1.5-2 years); ~90-120 ECTS",
+    "language": "English",
     "source_url": "https://www.clsbe.lisboa.ucp.pt/master-science-finance/fees-scholarships",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -147,6 +154,7 @@
       }
     },
     "duration": "3 or 4 semesters (1.5-2 years); ~90-120 ECTS",
+    "language": "English",
     "source_url": "https://clsbe.lisboa.ucp.pt/master-science-business-analytics/fees-scholarships",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -166,6 +174,7 @@
       }
     },
     "duration": "3 or 4 semesters (1.5-2 years); ~90-120 ECTS",
+    "language": "English",
     "source_url": "https://clsbe.lisboa.ucp.pt/master-science-business/fees-scholarships",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -185,6 +194,7 @@
       }
     },
     "duration": "3 or 4 semesters (1.5-2 years); ~90-120 ECTS",
+    "language": "English",
     "source_url": "https://www.clsbe.lisboa.ucp.pt/msc-management-specialization-strategic-marketing/fees-scholarships",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -204,6 +214,7 @@
       }
     },
     "duration": "3 or 4 semesters (1.5-2 years); ~90-120 ECTS",
+    "language": "English",
     "source_url": "https://clsbe.lisboa.ucp.pt/msc-management-specialization-strategy-entrepreneurship-impact/fees-scholarships",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -223,6 +234,7 @@
       }
     },
     "duration": "3 or 4 semesters (1.5-2 years); ~90-120 ECTS",
+    "language": "English",
     "source_url": "https://www.clsbe.lisboa.ucp.pt/international-msc-management/fees-scholarships",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -242,6 +254,7 @@
       }
     },
     "duration": "3 or 4 semesters (1.5-2 years); ~90-120 ECTS",
+    "language": "English",
     "source_url": "https://clsbe.lisboa.ucp.pt/international-msc-finance/overview",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -261,6 +274,7 @@
       }
     },
     "duration": "14 months (12 months coursework across 2 semesters + 2-month dissertation defense); accelerated post-experience format, ~90 ECTS assumed",
+    "language": "English",
     "source_url": "https://clsbe.lisboa.ucp.pt/msc-finance-post-experience/fees-scholarships",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -278,6 +292,7 @@
       }
     },
     "duration": "8 semesters (4 years), 240 ECTS (Bologna default; total ECTS not explicitly stated on page)",
+    "language": "Portuguese and English",
     "source_url": "https://fd.lisboa.ucp.pt/undergraduate/undergraduate-degree-law",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -297,6 +312,7 @@
       }
     },
     "duration": "3 semesters (1.5 years), 95 ECTS (30+30+35 per program page)",
+    "language": "Portuguese",
     "source_url": "https://fd.lisboa.ucp.pt/masters-degree/master-laws-administrative-law",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -314,6 +330,7 @@
       }
     },
     "duration": "3 semesters (1.5 years), ~90-95 ECTS (assumed, matching other Master of Laws tracks)",
+    "language": "Portuguese",
     "source_url": "https://fd.lisboa.ucp.pt/masters-degree/master-law-business",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -331,6 +348,7 @@
       }
     },
     "duration": "3 semesters (1.5 years), ~90-95 ECTS (assumed, matching other Master of Laws tracks)",
+    "language": "Portuguese",
     "source_url": "https://fd.lisboa.ucp.pt/masters-degree/master-laws-corporate-law",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -350,6 +368,7 @@
       }
     },
     "duration": "3 semesters (1.5 years), ~90-95 ECTS (assumed, matching other Master of Laws tracks); partly taught in Portuguese, partly in English",
+    "language": "Portuguese",
     "source_url": "https://fd.lisboa.ucp.pt/masters-degree/master-laws-taxation",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -367,6 +386,7 @@
       }
     },
     "duration": "3 semesters (1.5 years), ~90-95 ECTS (assumed, matching other Master of Laws tracks)",
+    "language": "Portuguese",
     "source_url": "https://fd.lisboa.ucp.pt/masters-degree/master-laws-litigation",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -386,6 +406,7 @@
       }
     },
     "duration": "2 semesters (1 year) full-time, or 4 semesters (2 years) part-time; Bologna 60 ECTS default assumed for 1-year LLM",
+    "language": "English",
     "source_url": "https://catolicalaw.fd.lisboa.ucp.pt/llm-law-european-and-global-context",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -405,6 +426,7 @@
       }
     },
     "duration": "2 semesters (1 year) full-time, or 4 semesters (2 years) part-time; Bologna 60 ECTS default assumed",
+    "language": "English",
     "source_url": "https://catolicalaw.fd.lisboa.ucp.pt/llm-international-business-law",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -424,6 +446,7 @@
       }
     },
     "duration": "2 semesters (1 year) full-time, or 4 semesters (2 years) part-time; Bologna 60 ECTS default assumed",
+    "language": "English",
     "source_url": "https://catolicalaw.fd.lisboa.ucp.pt/llm-law-digital-economy",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -443,6 +466,7 @@
       }
     },
     "duration": "1 year (part-time, September to July); ECTS not stated on page",
+    "language": "English",
     "source_url": "https://catolicalaw.fd.lisboa.ucp.pt/executive-llm-regulation-and-compliance",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -460,9 +484,10 @@
       }
     },
     "duration": "3 semesters total (1.5 years): 2 semesters of LLM coursework (~60 ECTS) + 1 thesis semester (30 ECTS)",
+    "language": "English",
     "source_url": "https://catolicalaw.fd.lisboa.ucp.pt/master-transnational-law",
-    "last_verified": "2026-07-23",
-    "verified_by_admin": null
+    "last_verified": "2026-09-20",
+    "verified_by_admin": "Rashid"
   },
   {
     "course_name": "Law",
@@ -477,6 +502,7 @@
       }
     },
     "duration": "8 semesters (4 years), 240 ECTS",
+    "language": "Portuguese and English",
     "source_url": "https://fd.porto.ucp.pt/en/licenciaturas/licenciatura-em-direito",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -494,9 +520,10 @@
       }
     },
     "duration": "10 semesters (5 years), joint degree with Católica Porto Business School; ~330 ECTS",
+    "language": "Portuguese",
     "source_url": "https://fd.porto.ucp.pt/pt-pt/licenciaturas/dupla-licenciatura-em-direito-e-em-gestao",
-    "last_verified": "2026-07-23",
-    "verified_by_admin": null
+    "last_verified": "2026-09-20",
+    "verified_by_admin": "Rashid"
   },
   {
     "course_name": "Law - International and European Law",
@@ -513,9 +540,10 @@
       }
     },
     "duration": "3 semesters (1.5 years), 90 ECTS (60 taught + 30 dissertation)",
+    "language": "Portuguese",
     "source_url": "https://fd.porto.ucp.pt/pt-pt/mestrado-em-direito-internacional-e-europeu",
-    "last_verified": "2026-07-23",
-    "verified_by_admin": null
+    "last_verified": "2026-09-20",
+    "verified_by_admin": "Rashid"
   },
   {
     "course_name": "Law - International Studies Programme",
@@ -532,6 +560,7 @@
       }
     },
     "duration": "3 semesters (1.5 years): first two semesters academic (taught in English), third semester dissertation; 90 ECTS Bologna default assumed",
+    "language": "English",
     "source_url": "https://fd.porto.ucp.pt/en/international-studies-programme",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -551,9 +580,10 @@
       }
     },
     "duration": "6 semesters (3 years), 180 ECTS",
+    "language": "Portuguese",
     "source_url": "https://fch.lisboa.ucp.pt/undergraduate/programs/undergraduate-program-communication-and-cultural-sciences",
-    "last_verified": "2026-09-19",
-    "verified_by_admin": null
+    "last_verified": "2026-09-20",
+    "verified_by_admin": "Rashid"
   },
   {
     "course_name": "Applied Foreign Languages",
@@ -570,9 +600,10 @@
       }
     },
     "duration": "6 semesters (3 years), 180 ECTS",
+    "language": "Portuguese",
     "source_url": "https://fch.lisboa.ucp.pt/undergraduate/programs/undergraduate-program-applied-foreign-languages",
-    "last_verified": "2026-07-23",
-    "verified_by_admin": null
+    "last_verified": "2026-09-20",
+    "verified_by_admin": "Rashid"
   },
   {
     "course_name": "Social Work",
@@ -589,9 +620,10 @@
       }
     },
     "duration": "6 semesters (3 years), 180 ECTS",
-    "source_url": "https://fch.lisboa.ucp.pt/undergraduate/programs/undergraduate-program-social-work",
-    "last_verified": "2026-07-23",
-    "verified_by_admin": null
+    "language": "Portuguese",
+    "source_url": "https://www.ucp.pt/fch-undergraduate-social-work",
+    "last_verified": "2026-09-20",
+    "verified_by_admin": "Rashid"
   },
   {
     "course_name": "Psychology",
@@ -608,9 +640,10 @@
       }
     },
     "duration": "6 semesters (3 years), 180 ECTS",
+    "language": "Portuguese",
     "source_url": "https://fch.lisboa.ucp.pt/undergraduate/programs/undergraduate-program-psychology",
-    "last_verified": "2026-07-23",
-    "verified_by_admin": null
+    "last_verified": "2026-09-20",
+    "verified_by_admin": "Rashid"
   },
   {
     "course_name": "Philosophy, Politics and Economics (PPE)",
@@ -627,9 +660,10 @@
       }
     },
     "duration": "6 semesters (3 years), 180 ECTS",
+    "language": "Portuguese",
     "source_url": "https://fch.lisboa.ucp.pt/undergraduate/programs/undergraduate-program-philosophy-politics-and-economics-ppe",
-    "last_verified": "2026-09-19",
-    "verified_by_admin": null
+    "last_verified": "2026-09-20",
+    "verified_by_admin": "Rashid"
   },
   {
     "course_name": "Communication Studies",
@@ -646,9 +680,10 @@
       }
     },
     "duration": "4 semesters (2 years), 120 ECTS (Bologna default)",
+    "language": "English",
     "source_url": "https://fch.lisboa.ucp.pt/master-communication-studies",
-    "last_verified": "2026-07-23",
-    "verified_by_admin": null
+    "last_verified": "2026-09-20",
+    "verified_by_admin": "Rashid"
   },
   {
     "course_name": "Culture Studies",
@@ -663,9 +698,10 @@
       }
     },
     "duration": "4 semesters (2 years), 120 ECTS (Bologna default)",
+    "language": "English",
     "source_url": "https://fch.lisboa.ucp.pt/master-culture-studies",
-    "last_verified": "2026-07-23",
-    "verified_by_admin": null
+    "last_verified": "2026-09-20",
+    "verified_by_admin": "Rashid"
   },
   {
     "course_name": "Psychology and Environmental Sustainability",
@@ -682,6 +718,7 @@
       }
     },
     "duration": "4 semesters (2 years), 120 ECTS (Bologna default)",
+    "language": "English",
     "source_url": "https://fch.lisboa.ucp.pt/master-psychology-environmental-sustainability",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -701,6 +738,7 @@
       }
     },
     "duration": "4 semesters (2 years), 120 ECTS (Bologna default)",
+    "language": "English",
     "source_url": "https://fch.lisboa.ucp.pt/mestrados/programas/master-psychology-business-and-economics",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -720,6 +758,7 @@
       }
     },
     "duration": "4 semesters (2 years), 120 ECTS (Bologna default)",
+    "language": "English",
     "source_url": "https://fch.lisboa.ucp.pt/master-asian-studies",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -739,6 +778,7 @@
       }
     },
     "duration": "4 semesters (2 years), 120 ECTS (Bologna default)",
+    "language": "Portuguese",
     "source_url": "https://fch.lisboa.ucp.pt/masters-degree/programs/master-translation",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -758,9 +798,10 @@
       }
     },
     "duration": "4 semesters (2 years), 120 ECTS (Bologna default)",
+    "language": "Portuguese",
     "source_url": "https://fch.lisboa.ucp.pt/pt-pt/masters-degree/programs/mestrado-em-servico-social",
-    "last_verified": "2026-07-23",
-    "verified_by_admin": null
+    "last_verified": "2026-09-20",
+    "verified_by_admin": "Rashid"
   },
   {
     "course_name": "Systems and Cognitive Neuroscience",
@@ -777,6 +818,7 @@
       }
     },
     "duration": "6 semesters (3 years), 180 ECTS",
+    "language": "English",
     "source_url": "https://fcse.lisboa.ucp.pt/programa-de-licenciatura/bsc-systems-and-cognitive-neuroscience",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -796,6 +838,7 @@
       }
     },
     "duration": "6 semesters (3 years), 180 ECTS",
+    "language": "English",
     "source_url": "https://catolicabs.porto.ucp.pt/pt-pt/licenciaturas/licenciatura-em-economia",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -815,6 +858,7 @@
       }
     },
     "duration": "6 semesters (3 years), 180 ECTS",
+    "language": "English",
     "source_url": "https://catolicabs.porto.ucp.pt/pt-pt/licenciaturas/licenciatura-em-gestao",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -834,6 +878,7 @@
       }
     },
     "duration": "3 semesters (1.5 years), 90 ECTS minimum full-time; extendable up to 5 semesters (2.5 years) for part-time",
+    "language": "English",
     "source_url": "https://catolicabs.porto.ucp.pt/mestrados/business-economics",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -853,9 +898,10 @@
       }
     },
     "duration": "3 semesters (1.5 years), 90 ECTS minimum full-time; extendable up to 5 semesters (2.5 years) for part-time",
+    "language": "English",
     "source_url": "https://catolicabs.porto.ucp.pt/masters-msc/master-finance",
-    "last_verified": "2026-07-23",
-    "verified_by_admin": null
+    "last_verified": "2026-09-20",
+    "verified_by_admin": "Rashid"
   },
   {
     "course_name": "Management",
@@ -872,9 +918,10 @@
       }
     },
     "duration": "3 semesters (1.5 years), 90 ECTS minimum full-time; extendable up to 5 semesters (2.5 years) for part-time. Offers 5 specialization tracks after a common core semester: Business Analytics, International Management, Human Resources Management, Management Control, Service Management",
+    "language": "English",
     "source_url": "https://catolicabs.porto.ucp.pt/masters-msc/management",
-    "last_verified": "2026-07-23",
-    "verified_by_admin": null
+    "last_verified": "2026-09-20",
+    "verified_by_admin": "Rashid"
   },
   {
     "course_name": "Marketing",
@@ -891,6 +938,7 @@
       }
     },
     "duration": "3 semesters (1.5 years), 90 ECTS minimum full-time; extendable up to 5 semesters (2.5 years) for part-time",
+    "language": "English",
     "source_url": "https://catolicabs.porto.ucp.pt/mestrados/marketing",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -910,6 +958,7 @@
       }
     },
     "duration": "6 semesters (3 years), 180 ECTS (Bologna default)",
+    "language": "Portuguese",
     "source_url": "https://ffcs.braga.ucp.pt/pt-pt/undergraduate-courses/programs/degree-applied-data-science/propinas",
     "last_verified": "2026-09-19",
     "verified_by_admin": null
@@ -929,9 +978,10 @@
       }
     },
     "duration": "6 semesters (3 years), 180 ECTS (Bologna default); fully online, taught in English",
+    "language": "English",
     "source_url": "https://ffcs.braga.ucp.pt/pt-pt/undergraduate-courses/programs/degree-data-science-and-technology-ead/propinas",
-    "last_verified": "2026-07-23",
-    "verified_by_admin": null
+    "last_verified": "2026-09-20",
+    "verified_by_admin": "Rashid"
   },
   {
     "course_name": "Applied Management",
@@ -948,9 +998,10 @@
       }
     },
     "duration": "6 semesters (3 years), 180 ECTS (Bologna default)",
+    "language": "Portuguese",
     "source_url": "https://ffcs.braga.ucp.pt/pt-pt/undergraduate-courses/programs/degree-applied-management/propinas",
-    "last_verified": "2026-07-23",
-    "verified_by_admin": null
+    "last_verified": "2026-09-20",
+    "verified_by_admin": "Rashid"
   },
   {
     "course_name": "Educational Sciences",
@@ -967,9 +1018,10 @@
       }
     },
     "duration": "4 semesters (2 years), 120 ECTS (Bologna default)",
+    "language": "English",
     "source_url": "https://ffcs.braga.ucp.pt/en/masters/programas/masters-educational-sciences",
-    "last_verified": "2026-07-23",
-    "verified_by_admin": null
+    "last_verified": "2026-09-20",
+    "verified_by_admin": "Rashid"
   },
   {
     "course_name": "Applied Social Gerontology",
@@ -986,9 +1038,10 @@
       }
     },
     "duration": "4 semesters (2 years), 120 ECTS (Bologna default); evening classes",
+    "language": "Portuguese",
     "source_url": "https://ffcs.braga.ucp.pt/pt-pt/masters/programas/master-applied-social-gerontology/propinas",
-    "last_verified": "2026-07-23",
-    "verified_by_admin": null
+    "last_verified": "2026-09-20",
+    "verified_by_admin": "Rashid"
   },
   {
     "course_name": "Educational Psychology",
@@ -1005,9 +1058,10 @@
       }
     },
     "duration": "4 semesters (2 years), 120 ECTS (Bologna default)",
+    "language": "English",
     "source_url": "https://ffcs.braga.ucp.pt/en/masters/programas/masters-degree-educational-psychology",
-    "last_verified": "2026-07-23",
-    "verified_by_admin": null
+    "last_verified": "2026-09-20",
+    "verified_by_admin": "Rashid"
   },
   {
     "course_name": "Tourism (Administration and Management / Cultural and Religious Tourism)",
@@ -1024,9 +1078,10 @@
       }
     },
     "duration": "4 semesters (2 years), 120 ECTS (Bologna default)",
+    "language": "English",
     "source_url": "https://ffcs.braga.ucp.pt/pt-pt/mestrados/programas/mestrado-em-turismo/mestrado-turismo-administracao-e-gestao-do-turismo",
-    "last_verified": "2026-07-23",
-    "verified_by_admin": null
+    "last_verified": "2026-09-20",
+    "verified_by_admin": "Rashid"
   },
   {
     "course_name": "Psychology",
@@ -1043,6 +1098,7 @@
       }
     },
     "duration": "6 semesters (3 years), 180 ECTS",
+    "language": "Portuguese",
     "source_url": "https://fep.porto.ucp.pt/en/bachelors-degree-psychology-catolica-porto",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -1062,6 +1118,7 @@
       }
     },
     "duration": "6 semesters (3 years), 180 ECTS; specializations in Food, Environmental, or Biomedical Engineering",
+    "language": "English",
     "source_url": "https://fd.porto.ucp.pt/pt-pt/system/files/assets/files/propinas-1ciclo-2026-27.pdf",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -1081,6 +1138,7 @@
       }
     },
     "duration": "6 semesters (3 years), 180 ECTS; taught fully in English or fully in Portuguese",
+    "language": "English",
     "source_url": "https://esb.ucp.pt/pt-pt/licenciaturas/licenciatura-em-ciencias-e-sociedade-liberal-sciences",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -1100,6 +1158,7 @@
       }
     },
     "duration": "6 semesters (3 years), 180 ECTS",
+    "language": "English",
     "source_url": "https://esb.ucp.pt/pt-pt/licenciaturas/licenciatura-em-microbiologia",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -1119,6 +1178,7 @@
       }
     },
     "duration": "4 semesters (2 years), 120 ECTS; 100% taught in English",
+    "language": "English",
     "source_url": "https://admissions.porto.ucp.pt/sites/default/files/2026-05/Extrato_TabelaPropinas_2Ciclo_2026_27_ESB.pdf",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -1138,6 +1198,7 @@
       }
     },
     "duration": "4 semesters (2 years), 120 ECTS",
+    "language": "English",
     "source_url": "https://admissions.porto.ucp.pt/sites/default/files/2026-05/Extrato_TabelaPropinas_2Ciclo_2026_27_ESB.pdf",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -1157,6 +1218,7 @@
       }
     },
     "duration": "4 semesters (2 years), 120 ECTS; 100% taught in English",
+    "language": "English",
     "source_url": "https://esb.ucp.pt/en/masters/masters-food-engineering",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -1176,6 +1238,7 @@
       }
     },
     "duration": "4 semesters (2 years), 120 ECTS",
+    "language": "English",
     "source_url": "https://admissions.porto.ucp.pt/sites/default/files/2026-05/Extrato_TabelaPropinas_2Ciclo_2026_27_ESB.pdf",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
@@ -1195,6 +1258,7 @@
       }
     },
     "duration": "3 semesters (18 months), 90 ECTS; evening/weekend format",
+    "language": "Portuguese",
     "source_url": "https://admissions.porto.ucp.pt/sites/default/files/2026-05/Extrato_TabelaPropinas_2Ciclo_2026_27_ESB.pdf",
     "last_verified": "2026-07-23",
     "verified_by_admin": null
