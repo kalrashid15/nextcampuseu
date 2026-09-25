@@ -593,7 +593,7 @@ input.fx-bad{border-color:#B4441E !important}
       <div id="formInner">
         <h3>Free first consultation</h3>
         <div class="fs">No cost, no obligation, no card details.</div>
-        <form class="fgrid" id="mainForm" novalidate>
+        <form class="fgrid" id="mainForm" novalidate action="https://formspree.io/f/xrpbljqq" method="POST">
           <label class="full">Full name<input type="text" name="name" required placeholder="Your name" /></label>
           <label>Email<input type="email" name="email" required placeholder="you@email.com" autocomplete="email" /><div class="fx-msg" id="mainMsg" aria-live="polite"></div></label>
           <label>WhatsApp<input type="tel" name="phone" placeholder="+880 …" /></label>
@@ -1146,7 +1146,7 @@ document.getElementById('askBtn').onclick = ()=>{
   setTimeout(()=>{ const n=document.querySelector('#mainForm [name=name]'); if(n) n.focus({preventScroll:true}); }, 650);
 };
 
-/* ---- main inquiry form (cosmetic prototype: nothing is sent anywhere) ---- */
+/* ---- main inquiry form: submits to Formspree ---- */
 const mainForm = document.getElementById('mainForm');
 const mainName = mainForm.querySelector('[name=name]');   // NB: form.name is the form's attribute
 const validateMain = wireEmail(mainForm.querySelector('[name=email]'), document.getElementById('mainMsg'));
@@ -1156,6 +1156,9 @@ mainForm.addEventListener('submit', e=>{
   if(!mainName.value.trim()){ mainName.focus(); return; }
   if(!validateMain()) return;
   const sel = chosen();
+  document.getElementById('svcHidden').value = sel.map(s=>s.short).join(', ');
+  fetch(f.action, { method:'POST', body:new FormData(f), headers:{Accept:'application/json'} })
+    .catch(()=>{});
   document.getElementById('thanksSvc').textContent = sel.length
     ? 'Noted: ' + sel.map(s=>s.short).join(', ') + '.'
     : '';
